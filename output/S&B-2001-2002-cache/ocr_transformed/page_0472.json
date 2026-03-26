@@ -1,0 +1,2268 @@
+[
+  {
+    "bbox": [
+      [
+        282.0,
+        0
+      ],
+      [
+        522.0,
+        0
+      ],
+      [
+        522.0,
+        18.0
+      ],
+      [
+        282.0,
+        18.0
+      ]
+    ],
+    "text": "BERUFSAKADEMIEN",
+    "confidence": 0.9174425280706264
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        34.0
+      ],
+      [
+        790.0,
+        34.0
+      ],
+      [
+        790.0,
+        66.0
+      ],
+      [
+        412.0,
+        66.0
+      ]
+    ],
+    "text": "gogen (BA) im Studienbereich Sozialwesen",
+    "confidence": 0.8151845395359208
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        36.0
+      ],
+      [
+        388.0,
+        36.0
+      ],
+      [
+        388.0,
+        64.0
+      ],
+      [
+        6.0,
+        64.0
+      ]
+    ],
+    "text": "Das Studium an diesen Berufsakademien ist",
+    "confidence": 0.6874980533558875
+  },
+  {
+    "bbox": [
+      [
+        148.0,
+        62.0
+      ],
+      [
+        386.0,
+        62.0
+      ],
+      [
+        386.0,
+        94.0
+      ],
+      [
+        148.0,
+        94.0
+      ]
+    ],
+    "text": "BAföG förderungsfähig und",
+    "confidence": 0.8301506700631327
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        62.0
+      ],
+      [
+        790.0,
+        62.0
+      ],
+      [
+        790.0,
+        90.0
+      ],
+      [
+        410.0,
+        90.0
+      ]
+    ],
+    "text": "und zum Diplom-Sozialwirt im Studienbereich",
+    "confidence": 0.689592656530232
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        64.0
+      ],
+      [
+        126.0,
+        64.0
+      ],
+      [
+        126.0,
+        90.0
+      ],
+      [
+        6.0,
+        90.0
+      ]
+    ],
+    "text": "nach $ 2 Abs.",
+    "confidence": 0.9910218608150283
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        85.0
+      ],
+      [
+        387.0,
+        85.0
+      ],
+      [
+        387.0,
+        121.0
+      ],
+      [
+        5.0,
+        121.0
+      ]
+    ],
+    "text": "daher eine förderfähige Erstausbildung im",
+    "confidence": 0.9910722077014803
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        90.0
+      ],
+      [
+        558.0,
+        90.0
+      ],
+      [
+        558.0,
+        116.0
+      ],
+      [
+        412.0,
+        116.0
+      ]
+    ],
+    "text": "Sozialwirtschaft.",
+    "confidence": 0.5963296790296132
+  },
+  {
+    "bbox": [
+      [
+        187.0,
+        111.0
+      ],
+      [
+        387.0,
+        111.0
+      ],
+      [
+        387.0,
+        149.0
+      ],
+      [
+        187.0,
+        149.0
+      ]
+    ],
+    "text": "Thüringen ist die Zah-",
+    "confidence": 0.7182312142869396
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        116.0
+      ],
+      [
+        188.0,
+        116.0
+      ],
+      [
+        188.0,
+        142.0
+      ],
+      [
+        6.0,
+        142.0
+      ]
+    ],
+    "text": "Sinne des BAföG. In",
+    "confidence": 0.8130281261831322
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        120.0
+      ],
+      [
+        792.0,
+        120.0
+      ],
+      [
+        792.0,
+        150.0
+      ],
+      [
+        412.0,
+        150.0
+      ]
+    ],
+    "text": "In Baden-Württemberg steht die nach drei",
+    "confidence": 0.869879153819898
+  },
+  {
+    "bbox": [
+      [
+        1.0,
+        139.0
+      ],
+      [
+        389.0,
+        139.0
+      ],
+      [
+        389.0,
+        175.0
+      ],
+      [
+        1.0,
+        175.0
+      ]
+    ],
+    "text": "Iung einer Ausbildungsvergütung durch die",
+    "confidence": 0.8735814254818883
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        148.0
+      ],
+      [
+        790.0,
+        148.0
+      ],
+      [
+        790.0,
+        178.0
+      ],
+      [
+        412.0,
+        178.0
+      ]
+    ],
+    "text": "Jahren erfolgreich abgeschlossene Ausbil-",
+    "confidence": 0.838823452982838
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        167.0
+      ],
+      [
+        386.0,
+        167.0
+      ],
+      [
+        386.0,
+        200.0
+      ],
+      [
+        5.0,
+        200.0
+      ]
+    ],
+    "text": "Bildungsstätten der Praxispartner im Thür-",
+    "confidence": 0.6580802333965947
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        174.0
+      ],
+      [
+        792.0,
+        174.0
+      ],
+      [
+        792.0,
+        204.0
+      ],
+      [
+        410.0,
+        204.0
+      ]
+    ],
+    "text": "dung an der Berufsakademie den vergleich-",
+    "confidence": 0.9583957846536088
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        194.0
+      ],
+      [
+        128.0,
+        194.0
+      ],
+      [
+        128.0,
+        225.0
+      ],
+      [
+        6.0,
+        225.0
+      ]
+    ],
+    "text": "BAG geregelt.",
+    "confidence": 0.792956720490242
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        200.0
+      ],
+      [
+        790.0,
+        200.0
+      ],
+      [
+        790.0,
+        230.0
+      ],
+      [
+        412.0,
+        230.0
+      ]
+    ],
+    "text": "baren berufsbefähigenden Abschlüssen an",
+    "confidence": 0.7396408550865273
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        226.0
+      ],
+      [
+        790.0,
+        226.0
+      ],
+      [
+        790.0,
+        256.0
+      ],
+      [
+        412.0,
+        256.0
+      ]
+    ],
+    "text": "staatlichen Hochschulen gleich: Nach zwei",
+    "confidence": 0.6066413786634713
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        234.0
+      ],
+      [
+        164.0,
+        234.0
+      ],
+      [
+        164.0,
+        260.0
+      ],
+      [
+        6.0,
+        260.0
+      ]
+    ],
+    "text": "Duales Studium",
+    "confidence": 0.9984259280552996
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        252.0
+      ],
+      [
+        792.0,
+        252.0
+      ],
+      [
+        792.0,
+        282.0
+      ],
+      [
+        412.0,
+        282.0
+      ]
+    ],
+    "text": "Jahren besteht die Möglichkeit, durch eine",
+    "confidence": 0.5398274538244721
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        264.0
+      ],
+      [
+        388.0,
+        264.0
+      ],
+      [
+        388.0,
+        292.0
+      ],
+      [
+        6.0,
+        292.0
+      ]
+    ],
+    "text": "Wesentliches Merkmal der Berufsakademie",
+    "confidence": 0.7902966832320579
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        276.0
+      ],
+      [
+        790.0,
+        276.0
+      ],
+      [
+        790.0,
+        308.0
+      ],
+      [
+        412.0,
+        308.0
+      ]
+    ],
+    "text": "staatliche Prüfung den berufsqualifizierenden",
+    "confidence": 0.9828252537549026
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        291.0
+      ],
+      [
+        388.0,
+        291.0
+      ],
+      [
+        388.0,
+        322.0
+      ],
+      [
+        6.0,
+        322.0
+      ]
+    ],
+    "text": "nach dem Modell Baden-Württemberg ist das",
+    "confidence": 0.926956874089921
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        306.0
+      ],
+      [
+        734.0,
+        306.0
+      ],
+      [
+        734.0,
+        334.0
+      ],
+      [
+        414.0,
+        334.0
+      ]
+    ],
+    "text": "Abschluss Ingenieur-Assistent (BA)",
+    "confidence": 0.7118480819168738
+  },
+  {
+    "bbox": [
+      [
+        740.0,
+        306.0
+      ],
+      [
+        792.0,
+        306.0
+      ],
+      [
+        792.0,
+        330.0
+      ],
+      [
+        740.0,
+        330.0
+      ]
+    ],
+    "text": "Wirt-",
+    "confidence": 0.8530435997143213
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        318.0
+      ],
+      [
+        388.0,
+        318.0
+      ],
+      [
+        388.0,
+        348.0
+      ],
+      [
+        6.0,
+        348.0
+      ]
+    ],
+    "text": "dual organisierte Studium, für das Staat und",
+    "confidence": 0.9663373895414124
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        332.0
+      ],
+      [
+        790.0,
+        332.0
+      ],
+      [
+        790.0,
+        362.0
+      ],
+      [
+        412.0,
+        362.0
+      ]
+    ],
+    "text": "schaftsassistent (BA) oder Erzieher (BA) zu",
+    "confidence": 0.8853187670689253
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        341.0
+      ],
+      [
+        389.0,
+        341.0
+      ],
+      [
+        389.0,
+        377.0
+      ],
+      [
+        5.0,
+        377.0
+      ]
+    ],
+    "text": "Wirtschaft gleichermaßen Verantwortung tra-",
+    "confidence": 0.9717634047836289
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        358.0
+      ],
+      [
+        504.0,
+        358.0
+      ],
+      [
+        504.0,
+        387.0
+      ],
+      [
+        411.0,
+        387.0
+      ]
+    ],
+    "text": "erwerben:",
+    "confidence": 0.765488028076615
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        372.0
+      ],
+      [
+        388.0,
+        372.0
+      ],
+      [
+        388.0,
+        402.0
+      ],
+      [
+        6.0,
+        402.0
+      ]
+    ],
+    "text": "gen. Das Studium dauert drei Jahre. Die Stu-",
+    "confidence": 0.7189936181796245
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        390.0
+      ],
+      [
+        792.0,
+        390.0
+      ],
+      [
+        792.0,
+        418.0
+      ],
+      [
+        412.0,
+        418.0
+      ]
+    ],
+    "text": "In Berlin lehnt sich die Berufsakademie im",
+    "confidence": 0.7993337854372349
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        397.0
+      ],
+      [
+        388.0,
+        397.0
+      ],
+      [
+        388.0,
+        426.0
+      ],
+      [
+        6.0,
+        426.0
+      ]
+    ],
+    "text": "dierenden wechseln im Turnus von jeweils 12",
+    "confidence": 0.9184428377750167
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        418.0
+      ],
+      [
+        792.0,
+        418.0
+      ],
+      [
+        792.0,
+        444.0
+      ],
+      [
+        412.0,
+        444.0
+      ]
+    ],
+    "text": "strukturellen Aufbau und in den Grundsätzen",
+    "confidence": 0.9944103408260397
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        424.0
+      ],
+      [
+        388.0,
+        424.0
+      ],
+      [
+        388.0,
+        452.0
+      ],
+      [
+        8.0,
+        452.0
+      ]
+    ],
+    "text": "Wochen zwischen \"Staatlicher Studienaka-",
+    "confidence": 0.9546634472953972
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        444.0
+      ],
+      [
+        792.0,
+        444.0
+      ],
+      [
+        792.0,
+        474.0
+      ],
+      [
+        412.0,
+        474.0
+      ]
+    ],
+    "text": "der Betriebsabläufe eng an das baden-",
+    "confidence": 0.95671232019222
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        449.0
+      ],
+      [
+        388.0,
+        449.0
+      ],
+      [
+        388.0,
+        481.0
+      ],
+      [
+        6.0,
+        481.0
+      ]
+    ],
+    "text": "demiec und der \"Bildungsstätte der Praxis-",
+    "confidence": 0.45468691627492264
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        470.0
+      ],
+      [
+        792.0,
+        470.0
+      ],
+      [
+        792.0,
+        500.0
+      ],
+      [
+        412.0,
+        500.0
+      ]
+    ],
+    "text": "württembergische Vorbild an. Nach zwei Jah-",
+    "confidence": 0.9898516206256502
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        475.0
+      ],
+      [
+        388.0,
+        475.0
+      ],
+      [
+        388.0,
+        506.0
+      ],
+      [
+        5.0,
+        506.0
+      ]
+    ],
+    "text": "partnera, Jedes Studienhalbjahr umfasst ei-",
+    "confidence": 0.3578940009941615
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        494.0
+      ],
+      [
+        793.0,
+        494.0
+      ],
+      [
+        793.0,
+        530.0
+      ],
+      [
+        411.0,
+        530.0
+      ]
+    ],
+    "text": "ren kann jedoch im Gegensatz zu Baden-",
+    "confidence": 0.9037307886452824
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        502.0
+      ],
+      [
+        388.0,
+        502.0
+      ],
+      [
+        388.0,
+        532.0
+      ],
+      [
+        6.0,
+        532.0
+      ]
+    ],
+    "text": "nen wissenschaftsbezogenen und einen pra-",
+    "confidence": 0.9103845192645844
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        520.0
+      ],
+      [
+        792.0,
+        520.0
+      ],
+      [
+        792.0,
+        552.0
+      ],
+      [
+        413.0,
+        552.0
+      ]
+    ],
+    "text": "Württemberg kein berufsqualifizierender Ab -",
+    "confidence": 0.839294028201531
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        528.0
+      ],
+      [
+        388.0,
+        528.0
+      ],
+      [
+        388.0,
+        561.0
+      ],
+      [
+        5.0,
+        561.0
+      ]
+    ],
+    "text": "xisintegrierten Studienabschnitt, die inhalt-",
+    "confidence": 0.8970562297619289
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        543.0
+      ],
+      [
+        795.0,
+        543.0
+      ],
+      [
+        795.0,
+        579.0
+      ],
+      [
+        411.0,
+        579.0
+      ]
+    ],
+    "text": "schluss erworben werden. Die Ausbildung ist",
+    "confidence": 0.6276455907854736
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        554.0
+      ],
+      [
+        388.0,
+        554.0
+      ],
+      [
+        388.0,
+        584.0
+      ],
+      [
+        6.0,
+        584.0
+      ]
+    ],
+    "text": "lich und organisatorisch aufeinander abge-",
+    "confidence": 0.8847567213659256
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        574.0
+      ],
+      [
+        792.0,
+        574.0
+      ],
+      [
+        792.0,
+        604.0
+      ],
+      [
+        412.0,
+        604.0
+      ]
+    ],
+    "text": "der an einer Fachhochschule Berlins gleich-",
+    "confidence": 0.6397614351834954
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        582.0
+      ],
+      [
+        388.0,
+        582.0
+      ],
+      [
+        388.0,
+        610.0
+      ],
+      [
+        6.0,
+        610.0
+      ]
+    ],
+    "text": "stimmt sind. Während dieser Zeit ist man",
+    "confidence": 0.7140215237519872
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        602.0
+      ],
+      [
+        476.0,
+        602.0
+      ],
+      [
+        476.0,
+        632.0
+      ],
+      [
+        414.0,
+        632.0
+      ]
+    ],
+    "text": "wertig.",
+    "confidence": 0.9215764867099924
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        608.0
+      ],
+      [
+        388.0,
+        608.0
+      ],
+      [
+        388.0,
+        636.0
+      ],
+      [
+        6.0,
+        636.0
+      ]
+    ],
+    "text": "Studierender an der Studienakademie und",
+    "confidence": 0.7487932615961066
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        634.0
+      ],
+      [
+        388.0,
+        634.0
+      ],
+      [
+        388.0,
+        666.0
+      ],
+      [
+        6.0,
+        666.0
+      ]
+    ],
+    "text": "steht gleichzeitig in einem Ausbildungsver-",
+    "confidence": 0.8482722387808045
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        634.0
+      ],
+      [
+        792.0,
+        634.0
+      ],
+      [
+        792.0,
+        660.0
+      ],
+      [
+        414.0,
+        660.0
+      ]
+    ],
+    "text": "Auch in Sachsen orientiert sich die Berufs-",
+    "confidence": 0.851673642557366
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        660.0
+      ],
+      [
+        788.0,
+        660.0
+      ],
+      [
+        788.0,
+        690.0
+      ],
+      [
+        411.0,
+        690.0
+      ]
+    ],
+    "text": "akademie am Vorbild Baden-Württembergs .",
+    "confidence": 0.8523994596983427
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        662.0
+      ],
+      [
+        388.0,
+        662.0
+      ],
+      [
+        388.0,
+        692.0
+      ],
+      [
+        6.0,
+        692.0
+      ]
+    ],
+    "text": "hältnis zur Bildungsstätte des Praxispartners;",
+    "confidence": 0.8387331677550102
+  },
+  {
+    "bbox": [
+      [
+        3.0,
+        684.0
+      ],
+      [
+        389.0,
+        684.0
+      ],
+      [
+        389.0,
+        721.0
+      ],
+      [
+        3.0,
+        721.0
+      ]
+    ],
+    "text": "grundsätzlich ist man durch eine Ausbildungs-",
+    "confidence": 0.6790471608214982
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        687.0
+      ],
+      [
+        792.0,
+        687.0
+      ],
+      [
+        792.0,
+        716.0
+      ],
+      [
+        412.0,
+        716.0
+      ]
+    ],
+    "text": "Sie führt an sieben Standorten in drei Jahren",
+    "confidence": 0.5904089280514565
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        714.0
+      ],
+      [
+        388.0,
+        714.0
+      ],
+      [
+        388.0,
+        746.0
+      ],
+      [
+        6.0,
+        746.0
+      ]
+    ],
+    "text": "vergütung finanziell abgesichert. Die enge",
+    "confidence": 0.7182786871695541
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        714.0
+      ],
+      [
+        792.0,
+        714.0
+      ],
+      [
+        792.0,
+        742.0
+      ],
+      [
+        412.0,
+        742.0
+      ]
+    ],
+    "text": "die Studierenden in drei Studienbereichen zu",
+    "confidence": 0.9499142857483276
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        737.0
+      ],
+      [
+        390.0,
+        737.0
+      ],
+      [
+        390.0,
+        775.0
+      ],
+      [
+        4.0,
+        775.0
+      ]
+    ],
+    "text": "Verbindung der beiden Studienorte gewähr-",
+    "confidence": 0.9631943204498127
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        740.0
+      ],
+      [
+        793.0,
+        740.0
+      ],
+      [
+        793.0,
+        770.0
+      ],
+      [
+        412.0,
+        770.0
+      ]
+    ],
+    "text": "den 0.g. Abschlüssen. Ein Abschluss nach",
+    "confidence": 0.7319949812286147
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        766.0
+      ],
+      [
+        794.0,
+        766.0
+      ],
+      [
+        794.0,
+        798.0
+      ],
+      [
+        412.0,
+        798.0
+      ]
+    ],
+    "text": "zwei Jahren ist nicht möglich. Der Abschluss",
+    "confidence": 0.9334909575243509
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        768.0
+      ],
+      [
+        388.0,
+        768.0
+      ],
+      [
+        388.0,
+        796.0
+      ],
+      [
+        6.0,
+        796.0
+      ]
+    ],
+    "text": "leistet einen wissenschaftlichen Ausbil-",
+    "confidence": 0.8017379904411389
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        791.0
+      ],
+      [
+        389.0,
+        791.0
+      ],
+      [
+        389.0,
+        827.0
+      ],
+      [
+        5.0,
+        827.0
+      ]
+    ],
+    "text": "dungsgrad in Verbindung mit fachlichen und",
+    "confidence": 0.834124735095955
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        792.0
+      ],
+      [
+        792.0,
+        792.0
+      ],
+      [
+        792.0,
+        823.0
+      ],
+      [
+        412.0,
+        823.0
+      ]
+    ],
+    "text": "steht den entsprechenden Abschlüssen an",
+    "confidence": 0.7376062338609769
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        818.0
+      ],
+      [
+        385.0,
+        818.0
+      ],
+      [
+        385.0,
+        854.0
+      ],
+      [
+        5.0,
+        854.0
+      ]
+    ],
+    "text": "sozialen Erfahrungen innerhalb des Betriebes.",
+    "confidence": 0.6816082654627614
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        818.0
+      ],
+      [
+        792.0,
+        818.0
+      ],
+      [
+        792.0,
+        850.0
+      ],
+      [
+        412.0,
+        850.0
+      ]
+    ],
+    "text": "staatlichen Fachhochschulen als berufsbefä -",
+    "confidence": 0.9883315902350518
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        846.0
+      ],
+      [
+        390.0,
+        846.0
+      ],
+      [
+        390.0,
+        878.0
+      ],
+      [
+        8.0,
+        878.0
+      ]
+    ],
+    "text": "Die Studierenden erhalten frühzeitig Kontakt",
+    "confidence": 0.9170238745134313
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        848.0
+      ],
+      [
+        646.0,
+        848.0
+      ],
+      [
+        646.0,
+        880.0
+      ],
+      [
+        412.0,
+        880.0
+      ]
+    ],
+    "text": "higender Abschluss gleich.",
+    "confidence": 0.6629860161808004
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        874.0
+      ],
+      [
+        388.0,
+        874.0
+      ],
+      [
+        388.0,
+        902.0
+      ],
+      [
+        6.0,
+        902.0
+      ]
+    ],
+    "text": "zur realen Arbeitswelt und erwerben schon",
+    "confidence": 0.6321197943721752
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        880.0
+      ],
+      [
+        792.0,
+        880.0
+      ],
+      [
+        792.0,
+        910.0
+      ],
+      [
+        414.0,
+        910.0
+      ]
+    ],
+    "text": "Schleswig-Holstein unterscheidet zwischen",
+    "confidence": 0.9258621027963045
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        898.0
+      ],
+      [
+        389.0,
+        898.0
+      ],
+      [
+        389.0,
+        934.0
+      ],
+      [
+        7.0,
+        934.0
+      ]
+    ],
+    "text": "mit Studienbeginn soziale Kompetenz und",
+    "confidence": 0.7080188886916206
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        906.0
+      ],
+      [
+        646.0,
+        906.0
+      ],
+      [
+        646.0,
+        936.0
+      ],
+      [
+        414.0,
+        936.0
+      ]
+    ],
+    "text": "Berufsakademien des Typs",
+    "confidence": 0.9433805406113467
+  },
+  {
+    "bbox": [
+      [
+        656.0,
+        906.0
+      ],
+      [
+        790.0,
+        906.0
+      ],
+      [
+        790.0,
+        936.0
+      ],
+      [
+        656.0,
+        936.0
+      ]
+    ],
+    "text": "und des Typs II,",
+    "confidence": 0.8854826583317988
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        926.0
+      ],
+      [
+        388.0,
+        926.0
+      ],
+      [
+        388.0,
+        956.0
+      ],
+      [
+        7.0,
+        956.0
+      ]
+    ],
+    "text": "praktisches Wissen, wie es im späteren Be-",
+    "confidence": 0.8970954888060831
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        932.0
+      ],
+      [
+        794.0,
+        932.0
+      ],
+      [
+        794.0,
+        960.0
+      ],
+      [
+        414.0,
+        960.0
+      ]
+    ],
+    "text": "wobei letztere zu Abschlüssen führen , die",
+    "confidence": 0.5613655802934273
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        953.0
+      ],
+      [
+        216.0,
+        953.0
+      ],
+      [
+        216.0,
+        984.0
+      ],
+      [
+        6.0,
+        984.0
+      ]
+    ],
+    "text": "rufsleben benötigt wird.",
+    "confidence": 0.9790744715532597
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        958.0
+      ],
+      [
+        794.0,
+        958.0
+      ],
+      [
+        794.0,
+        989.0
+      ],
+      [
+        413.0,
+        989.0
+      ]
+    ],
+    "text": "entsprechenden Fachhochschulabschlüssen",
+    "confidence": 0.9909728294268767
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        985.0
+      ],
+      [
+        794.0,
+        985.0
+      ],
+      [
+        794.0,
+        1016.0
+      ],
+      [
+        412.0,
+        1016.0
+      ]
+    ],
+    "text": "in Schleswig-Holstein gleichgestellt sind. An",
+    "confidence": 0.7225032395079122
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        994.0
+      ],
+      [
+        126.0,
+        994.0
+      ],
+      [
+        126.0,
+        1020.0
+      ],
+      [
+        8.0,
+        1020.0
+      ]
+    ],
+    "text": "Abschlüsse",
+    "confidence": 0.9999589094662084
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1012.0
+      ],
+      [
+        794.0,
+        1012.0
+      ],
+      [
+        794.0,
+        1042.0
+      ],
+      [
+        414.0,
+        1042.0
+      ]
+    ],
+    "text": "der Berufsakademie (BA) in Trägerschaft der",
+    "confidence": 0.9283595612326219
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1025.0
+      ],
+      [
+        388.0,
+        1025.0
+      ],
+      [
+        388.0,
+        1056.0
+      ],
+      [
+        8.0,
+        1056.0
+      ]
+    ],
+    "text": "Nach erfolgreich abgelegter staatlicher Prü -",
+    "confidence": 0.8584161503458992
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1040.0
+      ],
+      [
+        794.0,
+        1040.0
+      ],
+      [
+        794.0,
+        1068.0
+      ],
+      [
+        414.0,
+        1068.0
+      ]
+    ],
+    "text": "Wirtschaftsakademie werden die Fachrich-",
+    "confidence": 0.7458454708219674
+  },
+  {
+    "bbox": [
+      [
+        7.022027950041789,
+        1051.1638810551212
+      ],
+      [
+        54.82112867725152,
+        1058.9795917550366
+      ],
+      [
+        49.977972049958225,
+        1085.8361189448788
+      ],
+      [
+        2.1788713227484777,
+        1078.0204082449634
+      ]
+    ],
+    "text": "fung",
+    "confidence": 0.9999940395355225
+  },
+  {
+    "bbox": [
+      [
+        52.0,
+        1054.0
+      ],
+      [
+        388.0,
+        1054.0
+      ],
+      [
+        388.0,
+        1086.0
+      ],
+      [
+        52.0,
+        1086.0
+      ]
+    ],
+    "text": "wird ein Diplom mit Angabe der Fach-",
+    "confidence": 0.8147264376251683
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        1061.0
+      ],
+      [
+        797.0,
+        1061.0
+      ],
+      [
+        797.0,
+        1126.0
+      ],
+      [
+        411.0,
+        1126.0
+      ]
+    ],
+    "text": "Wungschafirssngenieuiwtsseafsinfototenk und",
+    "confidence": 0.14489853345560796
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        1079.0
+      ],
+      [
+        390.0,
+        1079.0
+      ],
+      [
+        390.0,
+        1110.0
+      ],
+      [
+        4.0,
+        1110.0
+      ]
+    ],
+    "text": "richtung und dem Zusatz \"Berufsakademiec",
+    "confidence": 0.7314312311273042
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1106.0
+      ],
+      [
+        388.0,
+        1106.0
+      ],
+      [
+        388.0,
+        1136.0
+      ],
+      [
+        6.0,
+        1136.0
+      ]
+    ],
+    "text": "(BA) verliehen. Das dreijährige Studium en-",
+    "confidence": 0.5338241216127734
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1115.0
+      ],
+      [
+        795.0,
+        1115.0
+      ],
+      [
+        795.0,
+        1151.0
+      ],
+      [
+        412.0,
+        1151.0
+      ]
+    ],
+    "text": "Ausbildung wird in der Fachrichtung Wirt-",
+    "confidence": 0.7657126478770332
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1131.0
+      ],
+      [
+        388.0,
+        1131.0
+      ],
+      [
+        388.0,
+        1164.0
+      ],
+      [
+        6.0,
+        1164.0
+      ]
+    ],
+    "text": "det mit der staatlichen Prüfung zum Diplom -",
+    "confidence": 0.6827079076197082
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        1146.0
+      ],
+      [
+        794.0,
+        1146.0
+      ],
+      [
+        794.0,
+        1177.0
+      ],
+      [
+        413.0,
+        1177.0
+      ]
+    ],
+    "text": "schaft nach insgesamt drei Jahren mit dem",
+    "confidence": 0.9775746726747846
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        1158.0
+      ],
+      [
+        388.0,
+        1158.0
+      ],
+      [
+        388.0,
+        1188.0
+      ],
+      [
+        7.0,
+        1188.0
+      ]
+    ],
+    "text": "Betriebswirt (BA) im Studienbereich Wirt-",
+    "confidence": 0.6662870268497082
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1172.0
+      ],
+      [
+        794.0,
+        1172.0
+      ],
+      [
+        794.0,
+        1202.0
+      ],
+      [
+        414.0,
+        1202.0
+      ]
+    ],
+    "text": "Titel vDiplom-Betriebswirt (BAJ , in der Fach-",
+    "confidence": 0.5364366458105563
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1186.0
+      ],
+      [
+        388.0,
+        1186.0
+      ],
+      [
+        388.0,
+        1216.0
+      ],
+      [
+        6.0,
+        1216.0
+      ]
+    ],
+    "text": "schaft und je nach Land in weiteren Studien-",
+    "confidence": 0.8054918064414718
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1197.0
+      ],
+      [
+        732.0,
+        1197.0
+      ],
+      [
+        732.0,
+        1230.0
+      ],
+      [
+        412.0,
+        1230.0
+      ]
+    ],
+    "text": "richtung Wirtschaftsinformatik nach",
+    "confidence": 0.7025519549835145
+  },
+  {
+    "bbox": [
+      [
+        735.0220279500418,
+        1198.1638810551212
+      ],
+      [
+        795.8734788556635,
+        1205.1379563433009
+      ],
+      [
+        790.9779720499582,
+        1232.8361189448788
+      ],
+      [
+        730.1265211443365,
+        1224.8620436566991
+      ]
+    ],
+    "text": "insge-",
+    "confidence": 0.9992094805318295
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        1212.0
+      ],
+      [
+        388.0,
+        1212.0
+      ],
+      [
+        388.0,
+        1242.0
+      ],
+      [
+        7.0,
+        1242.0
+      ]
+    ],
+    "text": "bereichen , zum Diplom-Wirtschaftsinforma -",
+    "confidence": 0.6917483362581508
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1225.0
+      ],
+      [
+        794.0,
+        1225.0
+      ],
+      [
+        794.0,
+        1253.0
+      ],
+      [
+        414.0,
+        1253.0
+      ]
+    ],
+    "text": "samt drei Jahren mit dem Titel vDiplom-Wirt-",
+    "confidence": 0.6722235580755709
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1239.0
+      ],
+      [
+        390.0,
+        1239.0
+      ],
+      [
+        390.0,
+        1268.0
+      ],
+      [
+        6.0,
+        1268.0
+      ]
+    ],
+    "text": "tiker (BA) im Studienbereich Wirtschaftsin -",
+    "confidence": 0.666978071214335
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1252.0
+      ],
+      [
+        794.0,
+        1252.0
+      ],
+      [
+        794.0,
+        1280.0
+      ],
+      [
+        414.0,
+        1280.0
+      ]
+    ],
+    "text": "schaftsinformatiker (BAJ< und in der Fachrich-",
+    "confidence": 0.4930053002354792
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1266.0
+      ],
+      [
+        388.0,
+        1266.0
+      ],
+      [
+        388.0,
+        1296.0
+      ],
+      [
+        6.0,
+        1296.0
+      ]
+    ],
+    "text": "formatik, zum Diplom-Ingenieur (BA) und zum",
+    "confidence": 0.6310065782715581
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1280.0
+      ],
+      [
+        794.0,
+        1280.0
+      ],
+      [
+        794.0,
+        1310.0
+      ],
+      [
+        412.0,
+        1310.0
+      ]
+    ],
+    "text": "tung Technik nach drei Jahren mit dem Titel",
+    "confidence": 0.7088373000576087
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1292.0
+      ],
+      [
+        390.0,
+        1292.0
+      ],
+      [
+        390.0,
+        1324.0
+      ],
+      [
+        8.0,
+        1324.0
+      ]
+    ],
+    "text": "Diplom-Wirtschaftsingenieur (BA) im Studi -",
+    "confidence": 0.9166813888336764
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1306.0
+      ],
+      [
+        792.0,
+        1306.0
+      ],
+      [
+        792.0,
+        1336.0
+      ],
+      [
+        412.0,
+        1336.0
+      ]
+    ],
+    "text": "\"Diplom-Wirtschaftsingenieur (BAJ  abge-",
+    "confidence": 0.6617704799780217
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        1318.0
+      ],
+      [
+        390.0,
+        1318.0
+      ],
+      [
+        390.0,
+        1350.0
+      ],
+      [
+        7.0,
+        1350.0
+      ]
+    ],
+    "text": "enbereich  Technik, zum Diplom-Sozialpäda-",
+    "confidence": 0.7415057237932364
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1327.0
+      ],
+      [
+        796.0,
+        1327.0
+      ],
+      [
+        796.0,
+        1367.0
+      ],
+      [
+        412.0,
+        1367.0
+      ]
+    ],
+    "text": "schlossen .  Nach zweijähriger Ausbildung",
+    "confidence": 0.5484980650242376
+  }
+]

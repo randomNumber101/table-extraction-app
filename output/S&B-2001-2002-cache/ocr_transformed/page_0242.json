@@ -1,0 +1,2092 @@
+[
+  {
+    "bbox": [
+      [
+        262.0,
+        16.0
+      ],
+      [
+        464.0,
+        16.0
+      ],
+      [
+        464.0,
+        40.0
+      ],
+      [
+        262.0,
+        40.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre; Diplom",
+    "confidence": 0.5642778612229831
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        36.0
+      ],
+      [
+        468.0,
+        36.0
+      ],
+      [
+        468.0,
+        60.0
+      ],
+      [
+        264.0,
+        60.0
+      ]
+    ],
+    "text": "Wirtschaftspädagogik , Diplom",
+    "confidence": 0.5808728550734938
+  },
+  {
+    "bbox": [
+      [
+        263.0,
+        53.0
+      ],
+      [
+        632.0,
+        53.0
+      ],
+      [
+        632.0,
+        80.0
+      ],
+      [
+        263.0,
+        80.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaften, Magister; nur 2 Hauptfach",
+    "confidence": 0.8248165184361943
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        75.0
+      ],
+      [
+        115.0,
+        75.0
+      ],
+      [
+        115.0,
+        95.0
+      ],
+      [
+        19.0,
+        95.0
+      ]
+    ],
+    "text": "Darmstadt TU",
+    "confidence": 0.9116290254900681
+  },
+  {
+    "bbox": [
+      [
+        267.0,
+        77.0
+      ],
+      [
+        619.0,
+        77.0
+      ],
+      [
+        619.0,
+        97.0
+      ],
+      [
+        267.0,
+        97.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaften, Magister; nur Nebenfach",
+    "confidence": 0.7140041155378883
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        93.0
+      ],
+      [
+        666.0,
+        93.0
+      ],
+      [
+        666.0,
+        118.0
+      ],
+      [
+        264.0,
+        118.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaften , Diplom, WS; Studienrichtungen:",
+    "confidence": 0.6114998252365951
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        97.0
+      ],
+      [
+        103.0,
+        97.0
+      ],
+      [
+        103.0,
+        115.0
+      ],
+      [
+        21.0,
+        115.0
+      ]
+    ],
+    "text": "Dortmund U",
+    "confidence": 0.9807902243577516
+  },
+  {
+    "bbox": [
+      [
+        439.0,
+        114.0
+      ],
+      [
+        714.0,
+        114.0
+      ],
+      [
+        714.0,
+        135.0
+      ],
+      [
+        439.0,
+        135.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre ; Sozialwissenschaft",
+    "confidence": 0.6408328786529209
+  },
+  {
+    "bbox": [
+      [
+        271.0,
+        117.0
+      ],
+      [
+        433.0,
+        117.0
+      ],
+      [
+        433.0,
+        135.0
+      ],
+      [
+        271.0,
+        135.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre",
+    "confidence": 0.9996633871992328
+  },
+  {
+    "bbox": [
+      [
+        263.0,
+        131.0
+      ],
+      [
+        764.0,
+        131.0
+      ],
+      [
+        764.0,
+        157.0
+      ],
+      [
+        263.0,
+        157.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre , Diplom, WS; auch deutsch-französischer; deutsch-",
+    "confidence": 0.7121989891709826
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        133.0
+      ],
+      [
+        101.0,
+        133.0
+      ],
+      [
+        101.0,
+        153.0
+      ],
+      [
+        19.0,
+        153.0
+      ]
+    ],
+    "text": "Dresden TU",
+    "confidence": 0.9712575167772872
+  },
+  {
+    "bbox": [
+      [
+        268.0,
+        150.0
+      ],
+      [
+        560.0,
+        150.0
+      ],
+      [
+        560.0,
+        177.0
+      ],
+      [
+        268.0,
+        177.0
+      ]
+    ],
+    "text": "italienischer Studiengang mit Doppeldiplom",
+    "confidence": 0.755842989820215
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        170.0
+      ],
+      [
+        770.0,
+        170.0
+      ],
+      [
+        770.0,
+        197.0
+      ],
+      [
+        262.0,
+        197.0
+      ]
+    ],
+    "text": "Verkehrswirtschaft , Diplom, WS; auch deutsch-italienischer Studiengang mit",
+    "confidence": 0.6720018200387244
+  },
+  {
+    "bbox": [
+      [
+        269.0,
+        193.0
+      ],
+      [
+        363.0,
+        193.0
+      ],
+      [
+        363.0,
+        213.0
+      ],
+      [
+        269.0,
+        213.0
+      ]
+    ],
+    "text": "Doppeldiplom",
+    "confidence": 0.9998846091497156
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        209.0
+      ],
+      [
+        788.0,
+        209.0
+      ],
+      [
+        788.0,
+        237.0
+      ],
+      [
+        262.0,
+        237.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre, Diplom, WS; auch deutsch-italienischer Studiengang mit",
+    "confidence": 0.6411732024023638
+  },
+  {
+    "bbox": [
+      [
+        268.0,
+        230.0
+      ],
+      [
+        366.0,
+        230.0
+      ],
+      [
+        366.0,
+        254.0
+      ],
+      [
+        268.0,
+        254.0
+      ]
+    ],
+    "text": "Doppeldiplom",
+    "confidence": 0.8019439417962736
+  },
+  {
+    "bbox": [
+      [
+        263.0,
+        247.0
+      ],
+      [
+        792.0,
+        247.0
+      ],
+      [
+        792.0,
+        275.0
+      ],
+      [
+        263.0,
+        275.0
+      ]
+    ],
+    "text": "Wirtschaftspädagogik, Diplom, WS; auch deutsch-italienischer Studiengang mit",
+    "confidence": 0.7207516303623324
+  },
+  {
+    "bbox": [
+      [
+        268.0,
+        268.0
+      ],
+      [
+        364.0,
+        268.0
+      ],
+      [
+        364.0,
+        292.0
+      ],
+      [
+        268.0,
+        292.0
+      ]
+    ],
+    "text": "Doppeldiplom",
+    "confidence": 0.99991176283942
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        288.0
+      ],
+      [
+        604.0,
+        288.0
+      ],
+      [
+        604.0,
+        312.0
+      ],
+      [
+        264.0,
+        312.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaft , Magister; nur Nebenfach",
+    "confidence": 0.7859814102100539
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        304.0
+      ],
+      [
+        98.0,
+        304.0
+      ],
+      [
+        98.0,
+        332.0
+      ],
+      [
+        16.0,
+        332.0
+      ]
+    ],
+    "text": "Duisburg U",
+    "confidence": 0.9738131567707481
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        306.0
+      ],
+      [
+        634.0,
+        306.0
+      ],
+      [
+        634.0,
+        333.0
+      ],
+      [
+        264.0,
+        333.0
+      ]
+    ],
+    "text": "Wirtschaftspädagogik, Diplom, integrierter Studiengang",
+    "confidence": 0.7307801292004913
+  },
+  {
+    "bbox": [
+      [
+        265.0,
+        325.0
+      ],
+      [
+        518.0,
+        325.0
+      ],
+      [
+        518.0,
+        352.0
+      ],
+      [
+        265.0,
+        352.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaft , Diplom , WS",
+    "confidence": 0.5854613884217785
+  },
+  {
+    "bbox": [
+      [
+        266.0,
+        344.0
+      ],
+      [
+        702.0,
+        344.0
+      ],
+      [
+        702.0,
+        372.0
+      ],
+      [
+        266.0,
+        372.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaften , Diplom; integrierter Studiengang; WS",
+    "confidence": 0.5689047108851486
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        364.0
+      ],
+      [
+        110.0,
+        364.0
+      ],
+      [
+        110.0,
+        388.0
+      ],
+      [
+        18.0,
+        388.0
+      ]
+    ],
+    "text": "Düsseldorf U",
+    "confidence": 0.99672702073361
+  },
+  {
+    "bbox": [
+      [
+        263.0,
+        367.0
+      ],
+      [
+        515.0,
+        367.0
+      ],
+      [
+        515.0,
+        387.0
+      ],
+      [
+        263.0,
+        387.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre , Diplom , WS",
+    "confidence": 0.6966328819889052
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        385.0
+      ],
+      [
+        95.0,
+        385.0
+      ],
+      [
+        95.0,
+        405.0
+      ],
+      [
+        19.0,
+        405.0
+      ]
+    ],
+    "text": "Eichstätt U",
+    "confidence": 0.9704981451006277
+  },
+  {
+    "bbox": [
+      [
+        265.0,
+        385.0
+      ],
+      [
+        472.0,
+        385.0
+      ],
+      [
+        472.0,
+        412.0
+      ],
+      [
+        265.0,
+        412.0
+      ]
+    ],
+    "text": "Arbeitswissenschaft , Magister",
+    "confidence": 0.7723636866565365
+  },
+  {
+    "bbox": [
+      [
+        263.0,
+        405.0
+      ],
+      [
+        515.0,
+        405.0
+      ],
+      [
+        515.0,
+        425.0
+      ],
+      [
+        263.0,
+        425.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre,Diplom , WS",
+    "confidence": 0.7309066498240423
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        422.0
+      ],
+      [
+        604.0,
+        422.0
+      ],
+      [
+        604.0,
+        471.0
+      ],
+      [
+        260.0,
+        471.0
+      ]
+    ],
+    "text": "Botrisbsssicnschafislehreaplsoistenr webeebenfach",
+    "confidence": 0.06145252473165889
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        462.0
+      ],
+      [
+        657.0,
+        462.0
+      ],
+      [
+        657.0,
+        488.0
+      ],
+      [
+        264.0,
+        488.0
+      ]
+    ],
+    "text": "Staatswissenschaft wirtschaftswissenschaftlicher Richtung",
+    "confidence": 0.9976863938224145
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        463.0
+      ],
+      [
+        73.0,
+        463.0
+      ],
+      [
+        73.0,
+        483.0
+      ],
+      [
+        19.0,
+        483.0
+      ]
+    ],
+    "text": "Erfurt U",
+    "confidence": 0.9827518416511977
+  },
+  {
+    "bbox": [
+      [
+        667.0,
+        467.0
+      ],
+      [
+        757.0,
+        467.0
+      ],
+      [
+        757.0,
+        485.0
+      ],
+      [
+        667.0,
+        485.0
+      ]
+    ],
+    "text": "Baccalaureus",
+    "confidence": 0.9999905708718457
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        479.0
+      ],
+      [
+        232.0,
+        479.0
+      ],
+      [
+        232.0,
+        507.0
+      ],
+      [
+        17.0,
+        507.0
+      ]
+    ],
+    "text": "Erlangen-Nürnberg U (Erlangen)",
+    "confidence": 0.9907256137024174
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        481.0
+      ],
+      [
+        604.0,
+        481.0
+      ],
+      [
+        604.0,
+        506.0
+      ],
+      [
+        262.0,
+        506.0
+      ]
+    ],
+    "text": "Didaktik der Arbeitslehre, Magister; nur Nebenfach",
+    "confidence": 0.9119483795936215
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        501.0
+      ],
+      [
+        516.0,
+        501.0
+      ],
+      [
+        516.0,
+        527.0
+      ],
+      [
+        262.0,
+        527.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaften, Magister",
+    "confidence": 0.6632554921031805
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        516.0
+      ],
+      [
+        236.0,
+        516.0
+      ],
+      [
+        236.0,
+        546.0
+      ],
+      [
+        17.0,
+        546.0
+      ]
+    ],
+    "text": "Erlangen-Nürnberg U (Nürnberg)",
+    "confidence": 0.9927254549453298
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        520.0
+      ],
+      [
+        484.0,
+        520.0
+      ],
+      [
+        484.0,
+        544.0
+      ],
+      [
+        262.0,
+        544.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre , Diplom",
+    "confidence": 0.83602134630127
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        539.0
+      ],
+      [
+        579.0,
+        539.0
+      ],
+      [
+        579.0,
+        566.0
+      ],
+      [
+        262.0,
+        566.0
+      ]
+    ],
+    "text": "Internationale Betriebswirtschaftslehre, Diplom",
+    "confidence": 0.9047985084419448
+  },
+  {
+    "bbox": [
+      [
+        587.0,
+        540.0
+      ],
+      [
+        776.0,
+        540.0
+      ],
+      [
+        776.0,
+        564.0
+      ],
+      [
+        587.0,
+        564.0
+      ]
+    ],
+    "text": "Master; WS; internationaler",
+    "confidence": 0.7297353059267805
+  },
+  {
+    "bbox": [
+      [
+        267.0,
+        557.0
+      ],
+      [
+        356.0,
+        557.0
+      ],
+      [
+        356.0,
+        585.0
+      ],
+      [
+        267.0,
+        585.0
+      ]
+    ],
+    "text": "Studiengang",
+    "confidence": 0.9999527342812153
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        577.0
+      ],
+      [
+        782.0,
+        577.0
+      ],
+      [
+        782.0,
+        605.0
+      ],
+      [
+        262.0,
+        605.0
+      ]
+    ],
+    "text": "Internationale Volkswirtschaftslehre, Diplom, WS; internationaler Studiengang",
+    "confidence": 0.7970752921905315
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        598.0
+      ],
+      [
+        464.0,
+        598.0
+      ],
+      [
+        464.0,
+        622.0
+      ],
+      [
+        262.0,
+        622.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre , Diplom",
+    "confidence": 0.8549966979360692
+  },
+  {
+    "bbox": [
+      [
+        261.0,
+        616.0
+      ],
+      [
+        468.0,
+        616.0
+      ],
+      [
+        468.0,
+        642.0
+      ],
+      [
+        261.0,
+        642.0
+      ]
+    ],
+    "text": "Wirtschaftspädagogik , Diplom",
+    "confidence": 0.6423522549278196
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        636.0
+      ],
+      [
+        102.0,
+        636.0
+      ],
+      [
+        102.0,
+        660.0
+      ],
+      [
+        18.0,
+        660.0
+      ]
+    ],
+    "text": "Essen U/GH",
+    "confidence": 0.9972428650475402
+  },
+  {
+    "bbox": [
+      [
+        263.0,
+        639.0
+      ],
+      [
+        475.0,
+        639.0
+      ],
+      [
+        475.0,
+        659.0
+      ],
+      [
+        263.0,
+        659.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre , Bachelor",
+    "confidence": 0.8292356539939112
+  },
+  {
+    "bbox": [
+      [
+        454.0,
+        656.0
+      ],
+      [
+        756.0,
+        656.0
+      ],
+      [
+        756.0,
+        683.0
+      ],
+      [
+        454.0,
+        683.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre, Diplom, integrierter",
+    "confidence": 0.771225968310873
+  },
+  {
+    "bbox": [
+      [
+        263.0,
+        657.0
+      ],
+      [
+        446.0,
+        657.0
+      ],
+      [
+        446.0,
+        681.0
+      ],
+      [
+        263.0,
+        681.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaften",
+    "confidence": 0.9999134722824405
+  },
+  {
+    "bbox": [
+      [
+        265.0,
+        674.0
+      ],
+      [
+        388.0,
+        674.0
+      ],
+      [
+        388.0,
+        701.0
+      ],
+      [
+        265.0,
+        701.0
+      ]
+    ],
+    "text": "Studiengang; WS",
+    "confidence": 0.8494010231348733
+  },
+  {
+    "bbox": [
+      [
+        454.0,
+        696.0
+      ],
+      [
+        738.0,
+        696.0
+      ],
+      [
+        738.0,
+        720.0
+      ],
+      [
+        454.0,
+        720.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre , Diplom, integrierter",
+    "confidence": 0.6269544022484699
+  },
+  {
+    "bbox": [
+      [
+        263.0,
+        697.0
+      ],
+      [
+        445.0,
+        697.0
+      ],
+      [
+        445.0,
+        717.0
+      ],
+      [
+        263.0,
+        717.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaften",
+    "confidence": 0.9197892462998541
+  },
+  {
+    "bbox": [
+      [
+        265.0,
+        714.0
+      ],
+      [
+        388.0,
+        714.0
+      ],
+      [
+        388.0,
+        741.0
+      ],
+      [
+        265.0,
+        741.0
+      ]
+    ],
+    "text": "Studiengang; WS",
+    "confidence": 0.9002120364277115
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        733.0
+      ],
+      [
+        102.0,
+        733.0
+      ],
+      [
+        102.0,
+        758.0
+      ],
+      [
+        15.0,
+        758.0
+      ]
+    ],
+    "text": "Flensburg U",
+    "confidence": 0.7860134965071242
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        733.0
+      ],
+      [
+        508.0,
+        733.0
+      ],
+      [
+        508.0,
+        762.0
+      ],
+      [
+        262.0,
+        762.0
+      ]
+    ],
+    "text": "International Management , Bachelor",
+    "confidence": 0.7513343519853638
+  },
+  {
+    "bbox": [
+      [
+        517.0,
+        737.0
+      ],
+      [
+        699.0,
+        737.0
+      ],
+      [
+        699.0,
+        757.0
+      ],
+      [
+        517.0,
+        757.0
+      ]
+    ],
+    "text": "Master; Master konsekutiv",
+    "confidence": 0.9051518556768982
+  },
+  {
+    "bbox": [
+      [
+        261.0,
+        753.0
+      ],
+      [
+        754.0,
+        753.0
+      ],
+      [
+        754.0,
+        780.0
+      ],
+      [
+        261.0,
+        780.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre , Diplom, WS; mit Ausprägung der europäisch und",
+    "confidence": 0.7936632741930212
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        755.0
+      ],
+      [
+        137.0,
+        755.0
+      ],
+      [
+        137.0,
+        775.0
+      ],
+      [
+        17.0,
+        775.0
+      ]
+    ],
+    "text": "Frankfurt (Oder) U",
+    "confidence": 0.9667928854881652
+  },
+  {
+    "bbox": [
+      [
+        433.0,
+        773.0
+      ],
+      [
+        626.0,
+        773.0
+      ],
+      [
+        626.0,
+        801.0
+      ],
+      [
+        433.0,
+        801.0
+      ]
+    ],
+    "text": "Fachgebiete und integrierter",
+    "confidence": 0.99488625376969
+  },
+  {
+    "bbox": [
+      [
+        269.0,
+        775.0
+      ],
+      [
+        435.0,
+        775.0
+      ],
+      [
+        435.0,
+        795.0
+      ],
+      [
+        269.0,
+        795.0
+      ]
+    ],
+    "text": "international orientierten",
+    "confidence": 0.9992109953994868
+  },
+  {
+    "bbox": [
+      [
+        267.0,
+        791.0
+      ],
+      [
+        444.0,
+        791.0
+      ],
+      [
+        444.0,
+        820.0
+      ],
+      [
+        267.0,
+        820.0
+      ]
+    ],
+    "text": "Fremdsprachenausbildung",
+    "confidence": 0.9984279689840209
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        812.0
+      ],
+      [
+        578.0,
+        812.0
+      ],
+      [
+        578.0,
+        836.0
+      ],
+      [
+        264.0,
+        836.0
+      ]
+    ],
+    "text": "International Business Administration , Bachelor",
+    "confidence": 0.5863748892340159
+  },
+  {
+    "bbox": [
+      [
+        585.0,
+        813.0
+      ],
+      [
+        672.0,
+        813.0
+      ],
+      [
+        672.0,
+        838.0
+      ],
+      [
+        585.0,
+        838.0
+      ]
+    ],
+    "text": "Master; WS",
+    "confidence": 0.9697111099101975
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        834.0
+      ],
+      [
+        748.0,
+        834.0
+      ],
+      [
+        748.0,
+        858.0
+      ],
+      [
+        264.0,
+        858.0
+      ]
+    ],
+    "text": "Internationale Betriebswirtschaftslehre, Diplom; WS; mit Ausprägung der",
+    "confidence": 0.7080849651474311
+  },
+  {
+    "bbox": [
+      [
+        268.0,
+        850.0
+      ],
+      [
+        786.0,
+        850.0
+      ],
+      [
+        786.0,
+        878.0
+      ],
+      [
+        268.0,
+        878.0
+      ]
+    ],
+    "text": "europ. und int .  orientierten Fachgebiete; integrierte Fremdsprachenausbildung;",
+    "confidence": 0.5070717205742725
+  },
+  {
+    "bbox": [
+      [
+        270.0,
+        871.0
+      ],
+      [
+        652.0,
+        871.0
+      ],
+      [
+        652.0,
+        898.0
+      ],
+      [
+        270.0,
+        898.0
+      ]
+    ],
+    "text": "Auslandssemester; Doppeldiplom möglich (franz . Diplome)",
+    "confidence": 0.6585296302068142
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        891.0
+      ],
+      [
+        736.0,
+        891.0
+      ],
+      [
+        736.0,
+        918.0
+      ],
+      [
+        262.0,
+        918.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre, Diplom; WS; mit Ausprägung der europäisch und",
+    "confidence": 0.6168291978283877
+  },
+  {
+    "bbox": [
+      [
+        268.0,
+        912.0
+      ],
+      [
+        626.0,
+        912.0
+      ],
+      [
+        626.0,
+        936.0
+      ],
+      [
+        268.0,
+        936.0
+      ]
+    ],
+    "text": "international orientierten Fachgebiete und integrierter",
+    "confidence": 0.9477623281311645
+  },
+  {
+    "bbox": [
+      [
+        265.0,
+        929.0
+      ],
+      [
+        444.0,
+        929.0
+      ],
+      [
+        444.0,
+        956.0
+      ],
+      [
+        265.0,
+        956.0
+      ]
+    ],
+    "text": "Fremdsprachenausbildung",
+    "confidence": 0.9993409649314875
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        951.0
+      ],
+      [
+        157.0,
+        951.0
+      ],
+      [
+        157.0,
+        971.0
+      ],
+      [
+        17.0,
+        971.0
+      ]
+    ],
+    "text": "Frankfurt am Main U",
+    "confidence": 0.7868818488200763
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        952.0
+      ],
+      [
+        520.0,
+        952.0
+      ],
+      [
+        520.0,
+        976.0
+      ],
+      [
+        262.0,
+        976.0
+      ]
+    ],
+    "text": "Arbeitslehre, Magister; nur Nebenfach",
+    "confidence": 0.7563875390287526
+  },
+  {
+    "bbox": [
+      [
+        261.0,
+        969.0
+      ],
+      [
+        708.0,
+        969.0
+      ],
+      [
+        708.0,
+        997.0
+      ],
+      [
+        261.0,
+        997.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre , Diplom; auch internationaler Studiengang",
+    "confidence": 0.840224704039057
+  },
+  {
+    "bbox": [
+      [
+        262.0,
+        989.0
+      ],
+      [
+        682.0,
+        989.0
+      ],
+      [
+        682.0,
+        1016.0
+      ],
+      [
+        262.0,
+        1016.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre, Magister; nur Nebenfach (auf Antrag)",
+    "confidence": 0.8615504403002145
+  },
+  {
+    "bbox": [
+      [
+        598.0,
+        1007.0
+      ],
+      [
+        689.0,
+        1007.0
+      ],
+      [
+        689.0,
+        1038.0
+      ],
+      [
+        598.0,
+        1038.0
+      ]
+    ],
+    "text": "Studiengang",
+    "confidence": 0.9999681182659602
+  },
+  {
+    "bbox": [
+      [
+        263.0,
+        1011.0
+      ],
+      [
+        603.0,
+        1011.0
+      ],
+      [
+        603.0,
+        1031.0
+      ],
+      [
+        263.0,
+        1031.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre , Diplom; auch internationaler",
+    "confidence": 0.7693154176731437
+  },
+  {
+    "bbox": [
+      [
+        261.0,
+        1027.0
+      ],
+      [
+        662.0,
+        1027.0
+      ],
+      [
+        662.0,
+        1057.0
+      ],
+      [
+        261.0,
+        1057.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre; Magister; nur Nebenfach (auf Antrag)",
+    "confidence": 0.6686605655401047
+  },
+  {
+    "bbox": [
+      [
+        261.0,
+        1047.0
+      ],
+      [
+        662.0,
+        1047.0
+      ],
+      [
+        662.0,
+        1074.0
+      ],
+      [
+        261.0,
+        1074.0
+      ]
+    ],
+    "text": "Wirtschaftspädagogik, Diplom; berechtigt zum Eintritt in den",
+    "confidence": 0.6882519562938159
+  },
+  {
+    "bbox": [
+      [
+        266.0,
+        1068.0
+      ],
+      [
+        662.0,
+        1068.0
+      ],
+      [
+        662.0,
+        1092.0
+      ],
+      [
+        266.0,
+        1092.0
+      ]
+    ],
+    "text": "Vorbereitungsdienst für das Lehramt an beruflichen Schulen",
+    "confidence": 0.797959092425474
+  },
+  {
+    "bbox": [
+      [
+        16.958056932529217,
+        1081.1867537178289
+      ],
+      [
+        77.90750559328086,
+        1089.2608036627253
+      ],
+      [
+        74.04194306747078,
+        1113.8132462821711
+      ],
+      [
+        13.09249440671914,
+        1105.7391963372747
+      ]
+    ],
+    "text": "Freiberg",
+    "confidence": 0.9955191845693918
+  },
+  {
+    "bbox": [
+      [
+        73.0,
+        1084.0
+      ],
+      [
+        146.0,
+        1084.0
+      ],
+      [
+        146.0,
+        1113.0
+      ],
+      [
+        73.0,
+        1113.0
+      ]
+    ],
+    "text": "TUBergAk",
+    "confidence": 0.9972554801062083
+  },
+  {
+    "bbox": [
+      [
+        617.0,
+        1085.0
+      ],
+      [
+        707.0,
+        1085.0
+      ],
+      [
+        707.0,
+        1116.0
+      ],
+      [
+        617.0,
+        1116.0
+      ]
+    ],
+    "text": "Studiengang",
+    "confidence": 0.9996216137338946
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1088.0
+      ],
+      [
+        621.0,
+        1088.0
+      ],
+      [
+        621.0,
+        1112.0
+      ],
+      [
+        260.0,
+        1112.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre , Diplom; auch internationaler",
+    "confidence": 0.7764325521049456
+  },
+  {
+    "bbox": [
+      [
+        709.0,
+        1095.0
+      ],
+      [
+        733.0,
+        1095.0
+      ],
+      [
+        733.0,
+        1109.0
+      ],
+      [
+        709.0,
+        1109.0
+      ]
+    ],
+    "text": "mit",
+    "confidence": 0.7058305044935677
+  },
+  {
+    "bbox": [
+      [
+        266.0,
+        1108.0
+      ],
+      [
+        362.0,
+        1108.0
+      ],
+      [
+        362.0,
+        1132.0
+      ],
+      [
+        266.0,
+        1132.0
+      ]
+    ],
+    "text": "Doppeldiplom",
+    "confidence": 0.9996290489289607
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1125.0
+      ],
+      [
+        734.0,
+        1125.0
+      ],
+      [
+        734.0,
+        1153.0
+      ],
+      [
+        260.0,
+        1153.0
+      ]
+    ],
+    "text": "International Management of Resources and Environment, Master; WS;",
+    "confidence": 0.7234288518439882
+  },
+  {
+    "bbox": [
+      [
+        266.0,
+        1148.0
+      ],
+      [
+        382.0,
+        1148.0
+      ],
+      [
+        382.0,
+        1172.0
+      ],
+      [
+        266.0,
+        1172.0
+      ]
+    ],
+    "text": "englischsprachig",
+    "confidence": 0.9999710615262439
+  },
+  {
+    "bbox": [
+      [
+        17.25721864729178,
+        1162.1430466182294
+      ],
+      [
+        76.95314989710158,
+        1169.5696449379268
+      ],
+      [
+        73.74278135270822,
+        1190.8569533817706
+      ],
+      [
+        14.046850102898418,
+        1183.4303550620732
+      ]
+    ],
+    "text": "Freiburg",
+    "confidence": 0.999957431307704
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1166.0
+      ],
+      [
+        462.0,
+        1166.0
+      ],
+      [
+        462.0,
+        1190.0
+      ],
+      [
+        260.0,
+        1190.0
+      ]
+    ],
+    "text": "Volkswirtschaftslehre, Diplom",
+    "confidence": 0.7492441722534378
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        1185.0
+      ],
+      [
+        772.0,
+        1185.0
+      ],
+      [
+        772.0,
+        1212.0
+      ],
+      [
+        264.0,
+        1212.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaft: Betriebswirtschaftslehre, Magister; nur Nebenfach;",
+    "confidence": 0.9055846465727175
+  },
+  {
+    "bbox": [
+      [
+        266.0,
+        1206.0
+      ],
+      [
+        618.0,
+        1206.0
+      ],
+      [
+        618.0,
+        1234.0
+      ],
+      [
+        266.0,
+        1234.0
+      ]
+    ],
+    "text": "auch Teilzeitstudium für bestimmte Personengruppen",
+    "confidence": 0.9779843701383539
+  },
+  {
+    "bbox": [
+      [
+        259.0,
+        1223.0
+      ],
+      [
+        774.0,
+        1223.0
+      ],
+      [
+        774.0,
+        1251.0
+      ],
+      [
+        259.0,
+        1251.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaft: Finanzwissenschaft, Magister; nur Nebenfach; auch",
+    "confidence": 0.7049736885817958
+  },
+  {
+    "bbox": [
+      [
+        266.0,
+        1244.0
+      ],
+      [
+        582.0,
+        1244.0
+      ],
+      [
+        582.0,
+        1271.0
+      ],
+      [
+        266.0,
+        1271.0
+      ]
+    ],
+    "text": "Teilzeitstudium für bestimmte Personengruppen",
+    "confidence": 0.8444387154678467
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1263.0
+      ],
+      [
+        764.0,
+        1263.0
+      ],
+      [
+        764.0,
+        1290.0
+      ],
+      [
+        260.0,
+        1290.0
+      ]
+    ],
+    "text": "Wirtschaftswissenschaft: Wirtschaftspolitik, Magister; nur Nebenfach; auch",
+    "confidence": 0.7182867562740691
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        1283.0
+      ],
+      [
+        582.0,
+        1283.0
+      ],
+      [
+        582.0,
+        1312.0
+      ],
+      [
+        264.0,
+        1312.0
+      ]
+    ],
+    "text": "Teilzeitstudium für bestimmte Personengruppen",
+    "confidence": 0.6517955379828935
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1303.0
+      ],
+      [
+        83.0,
+        1303.0
+      ],
+      [
+        83.0,
+        1323.0
+      ],
+      [
+        17.0,
+        1323.0
+      ]
+    ],
+    "text": "Gießen U",
+    "confidence": 0.6371823845148077
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1304.0
+      ],
+      [
+        554.0,
+        1304.0
+      ],
+      [
+        554.0,
+        1328.0
+      ],
+      [
+        260.0,
+        1328.0
+      ]
+    ],
+    "text": "Agrarökonomie, Magister; nur 2 Nebenfach",
+    "confidence": 0.5838877111908363
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1324.0
+      ],
+      [
+        512.0,
+        1324.0
+      ],
+      [
+        512.0,
+        1348.0
+      ],
+      [
+        260.0,
+        1348.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre, Diplom, WS",
+    "confidence": 0.8751163091143935
+  }
+]

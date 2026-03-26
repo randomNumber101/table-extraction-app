@@ -1,0 +1,1872 @@
+[
+  {
+    "bbox": [
+      [
+        186.0,
+        28.0
+      ],
+      [
+        616.0,
+        28.0
+      ],
+      [
+        616.0,
+        76.0
+      ],
+      [
+        186.0,
+        76.0
+      ]
+    ],
+    "text": "8.14.1 Berufsfachschulberufe",
+    "confidence": 0.9972084912345249
+  },
+  {
+    "bbox": [
+      [
+        74.0,
+        102.0
+      ],
+      [
+        728.0,
+        102.0
+      ],
+      [
+        728.0,
+        154.0
+      ],
+      [
+        74.0,
+        154.0
+      ]
+    ],
+    "text": "8.14.1.1 Musikschullehrer /in, Selbständige(r)",
+    "confidence": 0.6066470158729332
+  },
+  {
+    "bbox": [
+      [
+        291.0,
+        145.0
+      ],
+      [
+        513.0,
+        145.0
+      ],
+      [
+        513.0,
+        189.0
+      ],
+      [
+        291.0,
+        189.0
+      ]
+    ],
+    "text": "Musiklehrer /in",
+    "confidence": 0.6992059205652403
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        197.0
+      ],
+      [
+        128.0,
+        197.0
+      ],
+      [
+        128.0,
+        235.0
+      ],
+      [
+        6.0,
+        235.0
+      ]
+    ],
+    "text": "Ausbildung",
+    "confidence": 0.9999133694530248
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        198.0
+      ],
+      [
+        793.0,
+        198.0
+      ],
+      [
+        793.0,
+        234.0
+      ],
+      [
+        410.0,
+        234.0
+      ]
+    ],
+    "text": "tegriert in besonderem Maße das Element wBe-",
+    "confidence": 0.7783969899359626
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        225.0
+      ],
+      [
+        795.0,
+        225.0
+      ],
+      [
+        795.0,
+        261.0
+      ],
+      [
+        413.0,
+        261.0
+      ]
+    ],
+    "text": "wegung\"; die Aufgabengebiete und Studienin -",
+    "confidence": 0.6040709476637885
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        234.0
+      ],
+      [
+        388.0,
+        234.0
+      ],
+      [
+        388.0,
+        266.0
+      ],
+      [
+        7.0,
+        266.0
+      ]
+    ],
+    "text": "Voraussetzung: Mindestens mittlerer Bil-",
+    "confidence": 0.8022749081930285
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        254.0
+      ],
+      [
+        794.0,
+        254.0
+      ],
+      [
+        794.0,
+        280.0
+      ],
+      [
+        414.0,
+        280.0
+      ]
+    ],
+    "text": "halte überschneiden sich teilweise mit denen",
+    "confidence": 0.7877154237611217
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        260.0
+      ],
+      [
+        387.0,
+        260.0
+      ],
+      [
+        387.0,
+        292.0
+      ],
+      [
+        8.0,
+        292.0
+      ]
+    ],
+    "text": "dungsabschluss; gründliche allgemeinmusika -",
+    "confidence": 0.9294519973353573
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        277.0
+      ],
+      [
+        794.0,
+        277.0
+      ],
+      [
+        794.0,
+        310.0
+      ],
+      [
+        414.0,
+        310.0
+      ]
+    ],
+    "text": "der Allgemeinen Musikerziehung und der Mu-",
+    "confidence": 0.8583948896412483
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        288.0
+      ],
+      [
+        390.0,
+        288.0
+      ],
+      [
+        390.0,
+        318.0
+      ],
+      [
+        6.0,
+        318.0
+      ]
+    ],
+    "text": "lische Kenntnisse und gute instrumentale oder",
+    "confidence": 0.9598664597208381
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        308.0
+      ],
+      [
+        514.0,
+        308.0
+      ],
+      [
+        514.0,
+        336.0
+      ],
+      [
+        414.0,
+        336.0
+      ]
+    ],
+    "text": "siktherapie.",
+    "confidence": 0.8596829173161663
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        316.0
+      ],
+      [
+        388.0,
+        316.0
+      ],
+      [
+        388.0,
+        344.0
+      ],
+      [
+        8.0,
+        344.0
+      ]
+    ],
+    "text": "vokale Kenntnisse und Fertigkeiten müssen in",
+    "confidence": 0.9686019548687476
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        335.0
+      ],
+      [
+        795.0,
+        335.0
+      ],
+      [
+        795.0,
+        371.0
+      ],
+      [
+        413.0,
+        371.0
+      ]
+    ],
+    "text": "Abschluss: Staatliche Musiklehrerprüfung",
+    "confidence": 0.9395266637359597
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        342.0
+      ],
+      [
+        386.0,
+        342.0
+      ],
+      [
+        386.0,
+        372.0
+      ],
+      [
+        8.0,
+        372.0
+      ]
+    ],
+    "text": "einer Eignungsprüfung nachgewiesen werden.",
+    "confidence": 0.9255585143212557
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        364.0
+      ],
+      [
+        642.0,
+        364.0
+      ],
+      [
+        642.0,
+        396.0
+      ],
+      [
+        412.0,
+        396.0
+      ]
+    ],
+    "text": "(SMP) bzw:. Diplomprüfung:",
+    "confidence": 0.5792190893873901
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        369.0
+      ],
+      [
+        221.0,
+        369.0
+      ],
+      [
+        221.0,
+        407.0
+      ],
+      [
+        6.0,
+        407.0
+      ]
+    ],
+    "text": "Bewerbung: Frühzeitige ,",
+    "confidence": 0.7665607749124751
+  },
+  {
+    "bbox": [
+      [
+        217.07899166023174,
+        370.14487414671834
+      ],
+      [
+        289.9080022638956,
+        378.2627599894349
+      ],
+      [
+        285.92100833976826,
+        406.85512585328166
+      ],
+      [
+        213.09199773610442,
+        397.7372400105651
+      ]
+    ],
+    "text": "Anfrage",
+    "confidence": 0.9999854015376729
+  },
+  {
+    "bbox": [
+      [
+        284.0,
+        374.0
+      ],
+      [
+        386.0,
+        374.0
+      ],
+      [
+        386.0,
+        400.0
+      ],
+      [
+        284.0,
+        400.0
+      ]
+    ],
+    "text": "erforderlich,",
+    "confidence": 0.8467288450600775
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        399.0
+      ],
+      [
+        388.0,
+        399.0
+      ],
+      [
+        388.0,
+        431.0
+      ],
+      [
+        8.0,
+        431.0
+      ]
+    ],
+    "text": "da die Eignungsprüfungen bereits vor Beginn",
+    "confidence": 0.8349466704595095
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        409.0
+      ],
+      [
+        597.0,
+        409.0
+      ],
+      [
+        597.0,
+        445.0
+      ],
+      [
+        413.0,
+        445.0
+      ]
+    ],
+    "text": "Tätigkeitsbereich",
+    "confidence": 0.8033206868610755
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        425.0
+      ],
+      [
+        348.0,
+        425.0
+      ],
+      [
+        348.0,
+        456.0
+      ],
+      [
+        8.0,
+        456.0
+      ]
+    ],
+    "text": "des Studienjahres abgenommen werden.",
+    "confidence": 0.6153127461238596
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        439.0
+      ],
+      [
+        795.0,
+        439.0
+      ],
+      [
+        795.0,
+        475.0
+      ],
+      [
+        413.0,
+        475.0
+      ]
+    ],
+    "text": "Die staatliche Musiklehrerprüfung (bzw: das",
+    "confidence": 0.8108373824934213
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        456.0
+      ],
+      [
+        390.0,
+        456.0
+      ],
+      [
+        390.0,
+        489.0
+      ],
+      [
+        7.0,
+        489.0
+      ]
+    ],
+    "text": "Ausbildungsdauer: In der Regel mindestens",
+    "confidence": 0.8098677270828722
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        470.0
+      ],
+      [
+        794.0,
+        470.0
+      ],
+      [
+        794.0,
+        498.0
+      ],
+      [
+        414.0,
+        498.0
+      ]
+    ],
+    "text": "Musiklehrerdiplom) dient als Nachweis für die",
+    "confidence": 0.9454101824148509
+  },
+  {
+    "bbox": [
+      [
+        10.0,
+        486.0
+      ],
+      [
+        390.0,
+        486.0
+      ],
+      [
+        390.0,
+        514.0
+      ],
+      [
+        10.0,
+        514.0
+      ]
+    ],
+    "text": "6 Semester (staatliche Musiklehrerprüfung), bei",
+    "confidence": 0.822068085669949
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        493.0
+      ],
+      [
+        794.0,
+        493.0
+      ],
+      [
+        794.0,
+        526.0
+      ],
+      [
+        414.0,
+        526.0
+      ]
+    ],
+    "text": "Befähigung zur Erteilung von Musikunterricht",
+    "confidence": 0.9026313068395826
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        512.0
+      ],
+      [
+        388.0,
+        512.0
+      ],
+      [
+        388.0,
+        542.0
+      ],
+      [
+        8.0,
+        542.0
+      ]
+    ],
+    "text": "Diplomstudiengängen mindestens 8 Semester",
+    "confidence": 0.858252049121516
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        521.0
+      ],
+      [
+        792.0,
+        521.0
+      ],
+      [
+        792.0,
+        553.0
+      ],
+      [
+        414.0,
+        553.0
+      ]
+    ],
+    "text": "an Musikschulen. Aufgabengebiet sind vorwie-",
+    "confidence": 0.7910683960589393
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        542.0
+      ],
+      [
+        388.0,
+        542.0
+      ],
+      [
+        388.0,
+        575.0
+      ],
+      [
+        7.0,
+        575.0
+      ]
+    ],
+    "text": "Ausbildungsorte: Konservatorien, Musikaka -",
+    "confidence": 0.4878200935599046
+  },
+  {
+    "bbox": [
+      [
+        459.0,
+        547.0
+      ],
+      [
+        794.0,
+        547.0
+      ],
+      [
+        794.0,
+        577.0
+      ],
+      [
+        459.0,
+        577.0
+      ]
+    ],
+    "text": "Musikunterricht für Laien von der ersten",
+    "confidence": 0.6820534945206219
+  },
+  {
+    "bbox": [
+      [
+        411.33589941132436,
+        553.5038491169864
+      ],
+      [
+        459.5055125944597,
+        548.3500282914534
+      ],
+      [
+        461.66410058867564,
+        573.4961508830136
+      ],
+      [
+        413.4944874055403,
+        578.6499717085466
+      ]
+    ],
+    "text": "gend",
+    "confidence": 0.9999935030937195
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        568.0
+      ],
+      [
+        388.0,
+        568.0
+      ],
+      [
+        388.0,
+        598.0
+      ],
+      [
+        7.0,
+        598.0
+      ]
+    ],
+    "text": "demien, Fachakademien für Musik u.Ä- , hin-",
+    "confidence": 0.5240869011610775
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        572.0
+      ],
+      [
+        794.0,
+        572.0
+      ],
+      [
+        794.0,
+        604.0
+      ],
+      [
+        413.0,
+        604.0
+      ]
+    ],
+    "text": "Einführung (Elementarmusikpädagogik) über",
+    "confidence": 0.8760610832934478
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        596.0
+      ],
+      [
+        390.0,
+        596.0
+      ],
+      [
+        390.0,
+        626.0
+      ],
+      [
+        6.0,
+        626.0
+      ]
+    ],
+    "text": "sichtlich von Diplomabschlüssen in der Regel",
+    "confidence": 0.8193745201478327
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        601.0
+      ],
+      [
+        794.0,
+        601.0
+      ],
+      [
+        794.0,
+        628.0
+      ],
+      [
+        414.0,
+        628.0
+      ]
+    ],
+    "text": "Instrumental - bzw. Vokalunterricht bis zur stu-",
+    "confidence": 0.7345402391214965
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        623.0
+      ],
+      [
+        795.0,
+        623.0
+      ],
+      [
+        795.0,
+        659.0
+      ],
+      [
+        413.0,
+        659.0
+      ]
+    ],
+    "text": "dienvorbereitenden Fachausbildung (Vorberei-",
+    "confidence": 0.8479884737208506
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        624.0
+      ],
+      [
+        390.0,
+        624.0
+      ],
+      [
+        390.0,
+        652.0
+      ],
+      [
+        6.0,
+        652.0
+      ]
+    ],
+    "text": "in Kooperation mit staatlichen Musikhochschu-",
+    "confidence": 0.918925146461369
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        652.0
+      ],
+      [
+        42.0,
+        652.0
+      ],
+      [
+        42.0,
+        676.0
+      ],
+      [
+        6.0,
+        676.0
+      ]
+    ],
+    "text": "Ien.",
+    "confidence": 0.5283913016319275
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        654.0
+      ],
+      [
+        794.0,
+        654.0
+      ],
+      [
+        794.0,
+        686.0
+      ],
+      [
+        412.0,
+        686.0
+      ]
+    ],
+    "text": "tung auf ein Musikstudium) bzw: im Einzelfall",
+    "confidence": 0.5727717369927173
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        677.0
+      ],
+      [
+        795.0,
+        677.0
+      ],
+      [
+        795.0,
+        713.0
+      ],
+      [
+        413.0,
+        713.0
+      ]
+    ],
+    "text": "die Ausbildung von Leitern in der Laienmusik",
+    "confidence": 0.6819569993356548
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        684.0
+      ],
+      [
+        388.0,
+        684.0
+      ],
+      [
+        388.0,
+        714.0
+      ],
+      [
+        8.0,
+        714.0
+      ]
+    ],
+    "text": "Inhalt: Das Studium umfasst neben dem ge-",
+    "confidence": 0.7296847966239424
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        708.0
+      ],
+      [
+        794.0,
+        708.0
+      ],
+      [
+        794.0,
+        738.0
+      ],
+      [
+        414.0,
+        738.0
+      ]
+    ],
+    "text": "und Singschullehrern an Berufsfachschulen für",
+    "confidence": 0.8084421549098367
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        710.0
+      ],
+      [
+        390.0,
+        710.0
+      ],
+      [
+        390.0,
+        738.0
+      ],
+      [
+        8.0,
+        738.0
+      ]
+    ],
+    "text": "wählten Hauptfach (z.B. Instrumental- oder",
+    "confidence": 0.8030877831841687
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        735.0
+      ],
+      [
+        388.0,
+        735.0
+      ],
+      [
+        388.0,
+        767.0
+      ],
+      [
+        7.0,
+        767.0
+      ]
+    ],
+    "text": "Gesangspädagogik, Elementare Musikerzieh-",
+    "confidence": 0.9495897969063594
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        736.0
+      ],
+      [
+        794.0,
+        736.0
+      ],
+      [
+        794.0,
+        764.0
+      ],
+      [
+        416.0,
+        764.0
+      ]
+    ],
+    "text": "Musik. Arbeitsmöglichkeiten bestehen z.B. an",
+    "confidence": 0.6615426981541542
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        762.0
+      ],
+      [
+        388.0,
+        762.0
+      ],
+      [
+        388.0,
+        792.0
+      ],
+      [
+        8.0,
+        792.0
+      ]
+    ],
+    "text": "ung oder Tonsatz/Hörerziehung) musiktheore-",
+    "confidence": 0.9248254515289147
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        762.0
+      ],
+      [
+        794.0,
+        762.0
+      ],
+      [
+        794.0,
+        788.0
+      ],
+      [
+        413.0,
+        788.0
+      ]
+    ],
+    "text": "Musikschulen (kommunale Musikschulen; Ju-",
+    "confidence": 0.7741645743660764
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        786.0
+      ],
+      [
+        792.0,
+        786.0
+      ],
+      [
+        792.0,
+        818.0
+      ],
+      [
+        413.0,
+        818.0
+      ]
+    ],
+    "text": "gendmusikschulen, Musikschulen des Musika -",
+    "confidence": 0.9301301485713467
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        790.0
+      ],
+      [
+        388.0,
+        790.0
+      ],
+      [
+        388.0,
+        820.0
+      ],
+      [
+        6.0,
+        820.0
+      ]
+    ],
+    "text": "tische und musikpädagogische Themen und",
+    "confidence": 0.8314805508545409
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        814.0
+      ],
+      [
+        794.0,
+        814.0
+      ],
+      [
+        794.0,
+        840.0
+      ],
+      [
+        414.0,
+        840.0
+      ]
+    ],
+    "text": "lienhandels usw , Berufsfachschulen für Musik)",
+    "confidence": 0.8099301046359413
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        816.0
+      ],
+      [
+        388.0,
+        816.0
+      ],
+      [
+        388.0,
+        848.0
+      ],
+      [
+        8.0,
+        848.0
+      ]
+    ],
+    "text": "Sachgebiete (Musikgeschichte; Akustik und",
+    "confidence": 0.7418637641551842
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        837.0
+      ],
+      [
+        389.0,
+        837.0
+      ],
+      [
+        389.0,
+        873.0
+      ],
+      [
+        5.0,
+        873.0
+      ]
+    ],
+    "text": "Instrumentenkunde, Gehörbildung, Harmonie-",
+    "confidence": 0.7374297565758825
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        839.0
+      ],
+      [
+        792.0,
+        839.0
+      ],
+      [
+        792.0,
+        872.0
+      ],
+      [
+        414.0,
+        872.0
+      ]
+    ],
+    "text": "undin freiberuflicher Tätigkeit als Privatmusik -",
+    "confidence": 0.8065815975332693
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        868.0
+      ],
+      [
+        390.0,
+        868.0
+      ],
+      [
+        390.0,
+        898.0
+      ],
+      [
+        6.0,
+        898.0
+      ]
+    ],
+    "text": "lehre, Fachdidaktik usw )sowie immer (auch bei",
+    "confidence": 0.7495418163139749
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        868.0
+      ],
+      [
+        472.0,
+        868.0
+      ],
+      [
+        472.0,
+        894.0
+      ],
+      [
+        414.0,
+        894.0
+      ]
+    ],
+    "text": "lehrer.",
+    "confidence": 0.7046005755062225
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        896.0
+      ],
+      [
+        388.0,
+        896.0
+      ],
+      [
+        388.0,
+        924.0
+      ],
+      [
+        8.0,
+        924.0
+      ]
+    ],
+    "text": "anderem als instrumentalem Hauptfach) ein",
+    "confidence": 0.7324171242026664
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        912.0
+      ],
+      [
+        794.0,
+        912.0
+      ],
+      [
+        794.0,
+        936.0
+      ],
+      [
+        414.0,
+        936.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde \"Musikschul -",
+    "confidence": 0.7515690365925686
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        922.0
+      ],
+      [
+        388.0,
+        922.0
+      ],
+      [
+        388.0,
+        950.0
+      ],
+      [
+        6.0,
+        950.0
+      ]
+    ],
+    "text": "instrumentales Pflichtfach und die Teilnahme",
+    "confidence": 0.8343065188242335
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        934.0
+      ],
+      [
+        794.0,
+        934.0
+      ],
+      [
+        794.0,
+        960.0
+      ],
+      [
+        412.0,
+        960.0
+      ]
+    ],
+    "text": "lehrer /in und selbständigelr) Musiklehrer /ine, 2-IIl B 36;",
+    "confidence": 0.4191850134139278
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        945.0
+      ],
+      [
+        389.0,
+        945.0
+      ],
+      [
+        389.0,
+        982.0
+      ],
+      [
+        7.0,
+        982.0
+      ]
+    ],
+    "text": "an Orchester und/oder Chor der Ausbildungs-",
+    "confidence": 0.9323347897043955
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        958.0
+      ],
+      [
+        794.0,
+        958.0
+      ],
+      [
+        794.0,
+        982.0
+      ],
+      [
+        412.0,
+        982.0
+      ]
+    ],
+    "text": "\"Diplom-Rhythmiklehrer /ine, 2-III B 38; \"Dozent/in an",
+    "confidence": 0.3478549294173127
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        976.0
+      ],
+      [
+        388.0,
+        976.0
+      ],
+      [
+        388.0,
+        1006.0
+      ],
+      [
+        6.0,
+        1006.0
+      ]
+    ],
+    "text": "stätte. Das (relativ seltene) Fach Rhythmik in-",
+    "confidence": 0.8752108807329245
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        980.0
+      ],
+      [
+        742.0,
+        980.0
+      ],
+      [
+        742.0,
+        1006.0
+      ],
+      [
+        414.0,
+        1006.0
+      ]
+    ],
+    "text": "Ausbildungsstätten für Musikberufee, 2-XI C 06.",
+    "confidence": 0.4569946242972567
+  },
+  {
+    "bbox": [
+      [
+        28.0,
+        1022.0
+      ],
+      [
+        770.0,
+        1022.0
+      ],
+      [
+        770.0,
+        1071.0
+      ],
+      [
+        28.0,
+        1071.0
+      ]
+    ],
+    "text": "8.15 Bibliotheks- und Archivwesen, Dokumentation",
+    "confidence": 0.6880455052943767
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1081.0
+      ],
+      [
+        388.0,
+        1081.0
+      ],
+      [
+        388.0,
+        1111.0
+      ],
+      [
+        8.0,
+        1111.0
+      ]
+    ],
+    "text": "Neben den klassischen Dokumentationsmedi-",
+    "confidence": 0.9641462688450615
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1082.0
+      ],
+      [
+        794.0,
+        1082.0
+      ],
+      [
+        794.0,
+        1114.0
+      ],
+      [
+        414.0,
+        1114.0
+      ]
+    ],
+    "text": "beschaffen und die zur Befriedigung des jewei-",
+    "confidence": 0.8087887847142498
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1107.0
+      ],
+      [
+        386.0,
+        1107.0
+      ],
+      [
+        386.0,
+        1139.0
+      ],
+      [
+        8.0,
+        1139.0
+      ]
+    ],
+    "text": "en wie Printmedien (z.B. Bücher; Zeitungen,",
+    "confidence": 0.5291683577318996
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1108.0
+      ],
+      [
+        792.0,
+        1108.0
+      ],
+      [
+        792.0,
+        1138.0
+      ],
+      [
+        414.0,
+        1138.0
+      ]
+    ],
+    "text": "ligen Informationsbedarfs relevanten Informa -",
+    "confidence": 0.74158944340533
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1134.0
+      ],
+      [
+        388.0,
+        1134.0
+      ],
+      [
+        388.0,
+        1162.0
+      ],
+      [
+        8.0,
+        1162.0
+      ]
+    ],
+    "text": "Zeitschriften, Bestände aus Archiven und Bibli -",
+    "confidence": 0.6335544066023606
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1135.0
+      ],
+      [
+        790.0,
+        1135.0
+      ],
+      [
+        790.0,
+        1164.0
+      ],
+      [
+        414.0,
+        1164.0
+      ]
+    ],
+    "text": "tionen aufzubereiten (Informationsvermittlung):",
+    "confidence": 0.7205183546375263
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1159.0
+      ],
+      [
+        390.0,
+        1159.0
+      ],
+      [
+        390.0,
+        1192.0
+      ],
+      [
+        8.0,
+        1192.0
+      ]
+    ],
+    "text": "otheken) spielen durch die Entwicklung der In-",
+    "confidence": 0.8882265825066004
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1160.0
+      ],
+      [
+        792.0,
+        1160.0
+      ],
+      [
+        792.0,
+        1191.0
+      ],
+      [
+        414.0,
+        1191.0
+      ]
+    ],
+    "text": "Dazu sind entsprechende Qualifikationen im",
+    "confidence": 0.9640438694926683
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        1186.0
+      ],
+      [
+        734.0,
+        1186.0
+      ],
+      [
+        734.0,
+        1218.0
+      ],
+      [
+        413.0,
+        1218.0
+      ]
+    ],
+    "text": "Informationsmanagement erforderlich.",
+    "confidence": 0.9771317904134845
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1189.0
+      ],
+      [
+        388.0,
+        1189.0
+      ],
+      [
+        388.0,
+        1220.0
+      ],
+      [
+        6.0,
+        1220.0
+      ]
+    ],
+    "text": "formationstechnologien elektronische Medien",
+    "confidence": 0.9975230720252577
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1214.0
+      ],
+      [
+        388.0,
+        1214.0
+      ],
+      [
+        388.0,
+        1244.0
+      ],
+      [
+        6.0,
+        1244.0
+      ]
+    ],
+    "text": "(z.B. Disketten, Videos , CD' s , Online-Daten-",
+    "confidence": 0.4505066867149579
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        1217.0
+      ],
+      [
+        795.0,
+        1217.0
+      ],
+      [
+        795.0,
+        1255.0
+      ],
+      [
+        413.0,
+        1255.0
+      ]
+    ],
+    "text": "Folgende Ausbildungen sind möglich: Zum ei-",
+    "confidence": 0.9561041908365998
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1242.0
+      ],
+      [
+        388.0,
+        1242.0
+      ],
+      [
+        388.0,
+        1270.0
+      ],
+      [
+        8.0,
+        1270.0
+      ]
+    ],
+    "text": "banken; CD-Rom-Datenbanken; Internet) eine",
+    "confidence": 0.8045127470282946
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1245.0
+      ],
+      [
+        794.0,
+        1245.0
+      ],
+      [
+        794.0,
+        1278.0
+      ],
+      [
+        414.0,
+        1278.0
+      ]
+    ],
+    "text": "nen die Ausbildung zum Fachangestellten für",
+    "confidence": 0.9850768852920394
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1270.0
+      ],
+      [
+        164.0,
+        1270.0
+      ],
+      [
+        164.0,
+        1296.0
+      ],
+      [
+        8.0,
+        1296.0
+      ]
+    ],
+    "text": "bedeutende Rolle.",
+    "confidence": 0.7440964443533497
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        1274.0
+      ],
+      [
+        794.0,
+        1274.0
+      ],
+      [
+        794.0,
+        1302.0
+      ],
+      [
+        416.0,
+        1302.0
+      ]
+    ],
+    "text": "Medien-und Informationsdienste (anerkannter",
+    "confidence": 0.9126109095771062
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        1297.0
+      ],
+      [
+        795.0,
+        1297.0
+      ],
+      [
+        795.0,
+        1335.0
+      ],
+      [
+        413.0,
+        1335.0
+      ]
+    ],
+    "text": "Ausbildungsberuf) mit den vier Fachrichtungen",
+    "confidence": 0.8951768672083356
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1302.0
+      ],
+      [
+        388.0,
+        1302.0
+      ],
+      [
+        388.0,
+        1330.0
+      ],
+      [
+        8.0,
+        1330.0
+      ]
+    ],
+    "text": "Bibliotheks-und Dokumentationsfachleute ha-",
+    "confidence": 0.9466033282859656
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1328.0
+      ],
+      [
+        794.0,
+        1328.0
+      ],
+      [
+        794.0,
+        1358.0
+      ],
+      [
+        414.0,
+        1358.0
+      ]
+    ],
+    "text": "Archiv; Bibliothek (bisher Assistent an Bi-",
+    "confidence": 0.6718801729025982
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1330.0
+      ],
+      [
+        388.0,
+        1330.0
+      ],
+      [
+        388.0,
+        1360.0
+      ],
+      [
+        8.0,
+        1360.0
+      ]
+    ],
+    "text": "ben die Aufgabe, Daten problemgerecht zu",
+    "confidence": 0.7017553480819517
+  }
+]

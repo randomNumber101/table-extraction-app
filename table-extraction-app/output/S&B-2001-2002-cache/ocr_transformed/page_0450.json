@@ -1,0 +1,2004 @@
+[
+  {
+    "bbox": [
+      [
+        206.0,
+        32.0
+      ],
+      [
+        600.0,
+        32.0
+      ],
+      [
+        600.0,
+        82.0
+      ],
+      [
+        206.0,
+        82.0
+      ]
+    ],
+    "text": "5.2.8 Justizvollzugsdienst",
+    "confidence": 0.9614783842739717
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        84.0
+      ],
+      [
+        134.0,
+        84.0
+      ],
+      [
+        134.0,
+        123.0
+      ],
+      [
+        8.0,
+        123.0
+      ]
+    ],
+    "text": "Ausbildung",
+    "confidence": 0.9999439432206689
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        85.0
+      ],
+      [
+        796.0,
+        85.0
+      ],
+      [
+        796.0,
+        118.0
+      ],
+      [
+        416.0,
+        118.0
+      ]
+    ],
+    "text": "me eines resozialisierenden Strafvollzugs",
+    "confidence": 0.9476231551025114
+  },
+  {
+    "bbox": [
+      [
+        415.0,
+        114.0
+      ],
+      [
+        794.0,
+        114.0
+      ],
+      [
+        794.0,
+        143.0
+      ],
+      [
+        415.0,
+        143.0
+      ]
+    ],
+    "text": "mitarbeiten und das ihnen anvertraute Per-",
+    "confidence": 0.7432988633140774
+  },
+  {
+    "bbox": [
+      [
+        9.0,
+        119.0
+      ],
+      [
+        348.0,
+        119.0
+      ],
+      [
+        348.0,
+        152.0
+      ],
+      [
+        9.0,
+        152.0
+      ]
+    ],
+    "text": "Einstellung: 1 . April (Brandenburg); 1.",
+    "confidence": 0.559991213076734
+  },
+  {
+    "bbox": [
+      [
+        354.0,
+        124.0
+      ],
+      [
+        390.0,
+        124.0
+      ],
+      [
+        390.0,
+        148.0
+      ],
+      [
+        354.0,
+        148.0
+      ]
+    ],
+    "text": "Au-",
+    "confidence": 0.9991090380707911
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        142.0
+      ],
+      [
+        794.0,
+        142.0
+      ],
+      [
+        794.0,
+        168.0
+      ],
+      [
+        416.0,
+        168.0
+      ]
+    ],
+    "text": "sonal führen können. Fächer der fachwissen -",
+    "confidence": 0.7952916308332061
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        148.0
+      ],
+      [
+        390.0,
+        148.0
+      ],
+      [
+        390.0,
+        178.0
+      ],
+      [
+        8.0,
+        178.0
+      ]
+    ],
+    "text": "gust (Hamburg, Mecklenburg-Vorpommern,",
+    "confidence": 0.9609999488543347
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        163.0
+      ],
+      [
+        795.0,
+        163.0
+      ],
+      [
+        795.0,
+        201.0
+      ],
+      [
+        413.0,
+        201.0
+      ]
+    ],
+    "text": "schaftlichen Ausbildung (Beispiel Nordrhein -",
+    "confidence": 0.8816359719039437
+  },
+  {
+    "bbox": [
+      [
+        10.0,
+        174.0
+      ],
+      [
+        390.0,
+        174.0
+      ],
+      [
+        390.0,
+        202.0
+      ],
+      [
+        10.0,
+        202.0
+      ]
+    ],
+    "text": "Niedersachsen, Nordrhein-Westfalen, Rhein-",
+    "confidence": 0.8549399270262275
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        194.0
+      ],
+      [
+        792.0,
+        194.0
+      ],
+      [
+        792.0,
+        224.0
+      ],
+      [
+        416.0,
+        224.0
+      ]
+    ],
+    "text": "Westfalen) sind insbesondere: Vollzugsrecht,",
+    "confidence": 0.8471625319852767
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        200.0
+      ],
+      [
+        390.0,
+        200.0
+      ],
+      [
+        390.0,
+        230.0
+      ],
+      [
+        8.0,
+        230.0
+      ]
+    ],
+    "text": "land-Pfalz, Sachsen-Anhalt, Schleswig-Holst-",
+    "confidence": 0.6380545922811083
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        220.0
+      ],
+      [
+        796.0,
+        220.0
+      ],
+      [
+        796.0,
+        250.0
+      ],
+      [
+        416.0,
+        250.0
+      ]
+    ],
+    "text": "Staats- und Verwaltungsrecht, Bürgerliches",
+    "confidence": 0.903282216769662
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        228.0
+      ],
+      [
+        390.0,
+        228.0
+      ],
+      [
+        390.0,
+        256.0
+      ],
+      [
+        8.0,
+        256.0
+      ]
+    ],
+    "text": "ein); 1. September (Bayern, Sachsen); 1. Ok-",
+    "confidence": 0.7070883831434119
+  },
+  {
+    "bbox": [
+      [
+        415.0,
+        244.0
+      ],
+      [
+        795.0,
+        244.0
+      ],
+      [
+        795.0,
+        280.0
+      ],
+      [
+        415.0,
+        280.0
+      ]
+    ],
+    "text": "Recht, Zivilprozess- Straf-, Strafprozess- und",
+    "confidence": 0.6767131727272675
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        249.0
+      ],
+      [
+        391.0,
+        249.0
+      ],
+      [
+        391.0,
+        286.0
+      ],
+      [
+        7.0,
+        286.0
+      ]
+    ],
+    "text": "tober (Brandenburg, Hamburg); nach Bedarf",
+    "confidence": 0.6454257020351897
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        270.0
+      ],
+      [
+        794.0,
+        270.0
+      ],
+      [
+        794.0,
+        303.0
+      ],
+      [
+        416.0,
+        303.0
+      ]
+    ],
+    "text": "Jugendstrafrecht, Kriminologie , Sozialwis -",
+    "confidence": 0.5583080674335177
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        278.0
+      ],
+      [
+        390.0,
+        278.0
+      ],
+      [
+        390.0,
+        309.0
+      ],
+      [
+        7.0,
+        309.0
+      ]
+    ],
+    "text": "(Berlin; Bremen, Hessen, Saarland, Thürin-",
+    "confidence": 0.4929408883464361
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        294.0
+      ],
+      [
+        795.0,
+        294.0
+      ],
+      [
+        795.0,
+        334.0
+      ],
+      [
+        413.0,
+        334.0
+      ]
+    ],
+    "text": "senschaften (Pädagogik, Psychologie, Sozio -",
+    "confidence": 0.7139117514547342
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        306.0
+      ],
+      [
+        390.0,
+        306.0
+      ],
+      [
+        390.0,
+        338.0
+      ],
+      [
+        8.0,
+        338.0
+      ]
+    ],
+    "text": "gen); die Beamten des Justizvollzugsdiens-",
+    "confidence": 0.6754736501396932
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        326.0
+      ],
+      [
+        606.0,
+        326.0
+      ],
+      [
+        606.0,
+        356.0
+      ],
+      [
+        414.0,
+        356.0
+      ]
+    ],
+    "text": "logie und Sozialrecht).",
+    "confidence": 0.9086348940629086
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        332.0
+      ],
+      [
+        390.0,
+        332.0
+      ],
+      [
+        390.0,
+        362.0
+      ],
+      [
+        8.0,
+        362.0
+      ]
+    ],
+    "text": "tes in Baden-Württemberg kommen aus der",
+    "confidence": 0.7445987816518974
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        355.0
+      ],
+      [
+        391.0,
+        355.0
+      ],
+      [
+        391.0,
+        391.0
+      ],
+      [
+        7.0,
+        391.0
+      ]
+    ],
+    "text": "Rechtspflegerlaufbahn; Einstellung hier zum",
+    "confidence": 0.8720854172111047
+  },
+  {
+    "bbox": [
+      [
+        415.0,
+        369.0
+      ],
+      [
+        637.0,
+        369.0
+      ],
+      [
+        637.0,
+        405.0
+      ],
+      [
+        415.0,
+        405.0
+      ]
+    ],
+    "text": "Berufsmöglichkeiten",
+    "confidence": 0.9998957685105407
+  },
+  {
+    "bbox": [
+      [
+        10.0,
+        386.0
+      ],
+      [
+        130.0,
+        386.0
+      ],
+      [
+        130.0,
+        414.0
+      ],
+      [
+        10.0,
+        414.0
+      ]
+    ],
+    "text": "1. September",
+    "confidence": 0.9976665767038624
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        401.0
+      ],
+      [
+        794.0,
+        401.0
+      ],
+      [
+        794.0,
+        433.0
+      ],
+      [
+        413.0,
+        433.0
+      ]
+    ],
+    "text": "Tätigkeitsbereiche: Ziel und Zweck des",
+    "confidence": 0.7695107112673502
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        414.0
+      ],
+      [
+        391.0,
+        414.0
+      ],
+      [
+        391.0,
+        451.0
+      ],
+      [
+        8.0,
+        451.0
+      ]
+    ],
+    "text": "Bewerbung: Bei den Vollzugsanstalten oder",
+    "confidence": 0.8306143883074225
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        425.0
+      ],
+      [
+        585.0,
+        425.0
+      ],
+      [
+        585.0,
+        461.0
+      ],
+      [
+        412.0,
+        461.0
+      ]
+    ],
+    "text": "Strafvollzugs ist u.a.",
+    "confidence": 0.9334802601880983
+  },
+  {
+    "bbox": [
+      [
+        590.0,
+        427.0
+      ],
+      [
+        794.0,
+        427.0
+      ],
+      [
+        794.0,
+        460.0
+      ],
+      [
+        590.0,
+        460.0
+      ]
+    ],
+    "text": "Im Vollzug der Freiheits -",
+    "confidence": 0.6414745475538423
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        443.0
+      ],
+      [
+        390.0,
+        443.0
+      ],
+      [
+        390.0,
+        472.0
+      ],
+      [
+        8.0,
+        472.0
+      ]
+    ],
+    "text": "bei den Justizministerien bzw: ~senatsverwal -",
+    "confidence": 0.6323260339067338
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        452.0
+      ],
+      [
+        791.0,
+        452.0
+      ],
+      [
+        791.0,
+        489.0
+      ],
+      [
+        413.0,
+        489.0
+      ]
+    ],
+    "text": "strafe soll der Gefangene fähig werden, künf",
+    "confidence": 0.7857411554707715
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        472.0
+      ],
+      [
+        172.0,
+        472.0
+      ],
+      [
+        172.0,
+        500.0
+      ],
+      [
+        8.0,
+        500.0
+      ]
+    ],
+    "text": "tungen der Länder",
+    "confidence": 0.7387859879224218
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        481.0
+      ],
+      [
+        794.0,
+        481.0
+      ],
+      [
+        794.0,
+        514.0
+      ],
+      [
+        414.0,
+        514.0
+      ]
+    ],
+    "text": "tig in sozialer Verantwortung ein Leben ohne",
+    "confidence": 0.6353741459470407
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        497.0
+      ],
+      [
+        391.0,
+        497.0
+      ],
+      [
+        391.0,
+        537.0
+      ],
+      [
+        8.0,
+        537.0
+      ]
+    ],
+    "text": "Ausbildungsorte: Fachhochschule für",
+    "confidence": 0.8602848213326864
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        508.0
+      ],
+      [
+        794.0,
+        508.0
+      ],
+      [
+        794.0,
+        538.0
+      ],
+      [
+        414.0,
+        538.0
+      ]
+    ],
+    "text": "Straftaten zu führen. Beamte des gehobenen",
+    "confidence": 0.9425097322429219
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        530.0
+      ],
+      [
+        390.0,
+        530.0
+      ],
+      [
+        390.0,
+        558.0
+      ],
+      [
+        8.0,
+        558.0
+      ]
+    ],
+    "text": "Rechtspflege Nordrhein-Westfalen, Fachbe-",
+    "confidence": 0.6900600561450985
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        536.0
+      ],
+      [
+        794.0,
+        536.0
+      ],
+      [
+        794.0,
+        564.0
+      ],
+      [
+        414.0,
+        564.0
+      ]
+    ],
+    "text": "Justizvollzugsdienstes arbeiten als Sachbe-",
+    "confidence": 0.8470020635141087
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        551.0
+      ],
+      [
+        391.0,
+        551.0
+      ],
+      [
+        391.0,
+        587.0
+      ],
+      [
+        5.0,
+        587.0
+      ]
+    ],
+    "text": "reich Strafvollzug in Bad Münstereifel , für",
+    "confidence": 0.8102567399259656
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        560.0
+      ],
+      [
+        794.0,
+        560.0
+      ],
+      [
+        794.0,
+        590.0
+      ],
+      [
+        414.0,
+        590.0
+      ]
+    ],
+    "text": "arbeiter oder Abteilungsleiter in großen Voll-",
+    "confidence": 0.6479743380898622
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        582.0
+      ],
+      [
+        390.0,
+        582.0
+      ],
+      [
+        390.0,
+        608.0
+      ],
+      [
+        8.0,
+        608.0
+      ]
+    ],
+    "text": "Studierende aus den Ländern Bremen , Ham-",
+    "confidence": 0.796004053900547
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        587.0
+      ],
+      [
+        794.0,
+        587.0
+      ],
+      [
+        794.0,
+        619.0
+      ],
+      [
+        413.0,
+        619.0
+      ]
+    ],
+    "text": "zugsanstalten oder als Leiter kleiner Vollzugs-",
+    "confidence": 0.8226493146848829
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        608.0
+      ],
+      [
+        390.0,
+        608.0
+      ],
+      [
+        390.0,
+        639.0
+      ],
+      [
+        6.0,
+        639.0
+      ]
+    ],
+    "text": "burg , Hessen, Mecklenburg-Vorpommern,",
+    "confidence": 0.5578776571855424
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        614.0
+      ],
+      [
+        794.0,
+        614.0
+      ],
+      [
+        794.0,
+        644.0
+      ],
+      [
+        413.0,
+        644.0
+      ]
+    ],
+    "text": "anstalten. Die wichtigsten Tätigkeitsbereiche",
+    "confidence": 0.8614858511259211
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        635.0
+      ],
+      [
+        390.0,
+        635.0
+      ],
+      [
+        390.0,
+        662.0
+      ],
+      [
+        8.0,
+        662.0
+      ]
+    ],
+    "text": "Niedersachsen, Nordrhein-Westfalen, Rhein-",
+    "confidence": 0.5698440860416624
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        639.0
+      ],
+      [
+        794.0,
+        639.0
+      ],
+      [
+        794.0,
+        672.0
+      ],
+      [
+        414.0,
+        672.0
+      ]
+    ],
+    "text": "sind: Allgemeine Verwaltung der Vollzugsan-",
+    "confidence": 0.8720585020812648
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        661.0
+      ],
+      [
+        390.0,
+        661.0
+      ],
+      [
+        390.0,
+        689.0
+      ],
+      [
+        6.0,
+        689.0
+      ]
+    ],
+    "text": "land-Pfalz, Saarland, Sachsen-Anhalt, Schles-",
+    "confidence": 0.6573893952868708
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        666.0
+      ],
+      [
+        794.0,
+        666.0
+      ],
+      [
+        794.0,
+        698.0
+      ],
+      [
+        414.0,
+        698.0
+      ]
+    ],
+    "text": "stalten, Arbeits-bzw: Wirtschaftsverwaltung,",
+    "confidence": 0.8048853789668842
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        684.0
+      ],
+      [
+        391.0,
+        684.0
+      ],
+      [
+        391.0,
+        720.0
+      ],
+      [
+        6.0,
+        720.0
+      ]
+    ],
+    "text": "wig-Holstein und Thüringen bzw. Fachhoch-",
+    "confidence": 0.7653522009428597
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        693.0
+      ],
+      [
+        794.0,
+        693.0
+      ],
+      [
+        794.0,
+        724.0
+      ],
+      [
+        414.0,
+        724.0
+      ]
+    ],
+    "text": "Sicherheits- und Ordnungsdienst, Leitung ei-",
+    "confidence": 0.7555469171686173
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        716.0
+      ],
+      [
+        388.0,
+        716.0
+      ],
+      [
+        388.0,
+        742.0
+      ],
+      [
+        8.0,
+        742.0
+      ]
+    ],
+    "text": "schulen für den öffentlichen Dienst der an-",
+    "confidence": 0.7280945726853343
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        720.0
+      ],
+      [
+        604.0,
+        720.0
+      ],
+      [
+        604.0,
+        750.0
+      ],
+      [
+        414.0,
+        750.0
+      ]
+    ],
+    "text": "ner Vollzugsabteilung:",
+    "confidence": 0.7529451214178856
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        740.0
+      ],
+      [
+        388.0,
+        740.0
+      ],
+      [
+        388.0,
+        773.0
+      ],
+      [
+        8.0,
+        773.0
+      ]
+    ],
+    "text": "deren Länder und Justizvollzugsanstalten/",
+    "confidence": 0.9984689858515963
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        764.0
+      ],
+      [
+        794.0,
+        764.0
+      ],
+      [
+        794.0,
+        790.0
+      ],
+      [
+        414.0,
+        790.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde \"Beamter/",
+    "confidence": 0.8333760366759596
+  },
+  {
+    "bbox": [
+      [
+        14.0,
+        768.0
+      ],
+      [
+        72.0,
+        768.0
+      ],
+      [
+        72.0,
+        794.0
+      ],
+      [
+        14.0,
+        794.0
+      ]
+    ],
+    "text": "ämter.",
+    "confidence": 0.9701635064529753
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        788.0
+      ],
+      [
+        792.0,
+        788.0
+      ],
+      [
+        792.0,
+        814.0
+      ],
+      [
+        414.0,
+        814.0
+      ]
+    ],
+    "text": "Beamtin im Justizvollzugsdienst (gehobener Dienst) ,",
+    "confidence": 0.6667133931254698
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        797.0
+      ],
+      [
+        391.0,
+        797.0
+      ],
+      [
+        391.0,
+        833.0
+      ],
+      [
+        5.0,
+        833.0
+      ]
+    ],
+    "text": "Inhalt: Ziel der Ausbildung ist es, Beamte",
+    "confidence": 0.7319196607425098
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        810.0
+      ],
+      [
+        486.0,
+        810.0
+      ],
+      [
+        486.0,
+        834.0
+      ],
+      [
+        414.0,
+        834.0
+      ]
+    ],
+    "text": "2-VI C 33.",
+    "confidence": 0.5405631014375225
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        827.0
+      ],
+      [
+        388.0,
+        827.0
+      ],
+      [
+        388.0,
+        860.0
+      ],
+      [
+        6.0,
+        860.0
+      ]
+    ],
+    "text": "heranzubilden; die verantwortungsvolle Funk -",
+    "confidence": 0.7233237662695458
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        832.0
+      ],
+      [
+        794.0,
+        832.0
+      ],
+      [
+        794.0,
+        858.0
+      ],
+      [
+        416.0,
+        858.0
+      ]
+    ],
+    "text": "Weitere Informationen: Justizvollzugsämter (in",
+    "confidence": 0.9755334863215352
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        854.0
+      ],
+      [
+        388.0,
+        854.0
+      ],
+      [
+        388.0,
+        884.0
+      ],
+      [
+        6.0,
+        884.0
+      ]
+    ],
+    "text": "tionen in Justizvollzugsanstalten überneh-",
+    "confidence": 0.7879234380704497
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        854.0
+      ],
+      [
+        792.0,
+        854.0
+      ],
+      [
+        792.0,
+        882.0
+      ],
+      [
+        414.0,
+        882.0
+      ]
+    ],
+    "text": "Nordrhein-Westfalen) bzw. Justizvollzugsanstalten,",
+    "confidence": 0.6361024863338351
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        877.0
+      ],
+      [
+        733.0,
+        877.0
+      ],
+      [
+        733.0,
+        905.0
+      ],
+      [
+        412.0,
+        905.0
+      ]
+    ],
+    "text": "Landesjustizverwaltungen , Justizministerien.",
+    "confidence": 0.561606111386143
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        880.0
+      ],
+      [
+        388.0,
+        880.0
+      ],
+      [
+        388.0,
+        912.0
+      ],
+      [
+        8.0,
+        912.0
+      ]
+    ],
+    "text": "men, an der Lösung der vielfältigen Proble-",
+    "confidence": 0.6597701390767118
+  },
+  {
+    "bbox": [
+      [
+        255.0,
+        921.0
+      ],
+      [
+        547.0,
+        921.0
+      ],
+      [
+        547.0,
+        981.0
+      ],
+      [
+        255.0,
+        981.0
+      ]
+    ],
+    "text": "5.2.9 Rechtspflege",
+    "confidence": 0.7784461206382123
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        975.0
+      ],
+      [
+        795.0,
+        975.0
+      ],
+      [
+        795.0,
+        1015.0
+      ],
+      [
+        412.0,
+        1015.0
+      ]
+    ],
+    "text": "Ausbildungsorte: Fachhochschulen der Län-",
+    "confidence": 0.9679865810468864
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        977.0
+      ],
+      [
+        132.0,
+        977.0
+      ],
+      [
+        132.0,
+        1017.0
+      ],
+      [
+        6.0,
+        1017.0
+      ]
+    ],
+    "text": "Ausbildung",
+    "confidence": 0.9999374590637969
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        1003.0
+      ],
+      [
+        794.0,
+        1003.0
+      ],
+      [
+        794.0,
+        1060.0
+      ],
+      [
+        410.0,
+        1060.0
+      ]
+    ],
+    "text": "deuFacSbereiah Ractstsnafege, sowie Gerich-",
+    "confidence": 0.2008417536565488
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1010.0
+      ],
+      [
+        389.0,
+        1010.0
+      ],
+      [
+        389.0,
+        1046.0
+      ],
+      [
+        6.0,
+        1046.0
+      ]
+    ],
+    "text": "Einstellung: 1. August (Bremen, Mecklen-",
+    "confidence": 0.7526449027750824
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1040.0
+      ],
+      [
+        388.0,
+        1040.0
+      ],
+      [
+        388.0,
+        1070.0
+      ],
+      [
+        6.0,
+        1070.0
+      ]
+    ],
+    "text": "burg-Vorpommern , Niedersachsen , Nord -",
+    "confidence": 0.6838789014665374
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        1061.0
+      ],
+      [
+        795.0,
+        1061.0
+      ],
+      [
+        795.0,
+        1097.0
+      ],
+      [
+        411.0,
+        1097.0
+      ]
+    ],
+    "text": "Inhalt: Der dreijährige Vorbereitungsdienst",
+    "confidence": 0.9559383024654177
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1063.0
+      ],
+      [
+        388.0,
+        1063.0
+      ],
+      [
+        388.0,
+        1096.0
+      ],
+      [
+        6.0,
+        1096.0
+      ]
+    ],
+    "text": "rhein-Westfalen; Schleswig-Holstein); 1. Sep-",
+    "confidence": 0.6131796416746553
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        1084.0
+      ],
+      [
+        795.0,
+        1084.0
+      ],
+      [
+        795.0,
+        1121.0
+      ],
+      [
+        413.0,
+        1121.0
+      ]
+    ],
+    "text": "vermittelt in einem Studiengang an einer",
+    "confidence": 0.93987195270483
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1090.0
+      ],
+      [
+        388.0,
+        1090.0
+      ],
+      [
+        388.0,
+        1121.0
+      ],
+      [
+        6.0,
+        1121.0
+      ]
+    ],
+    "text": "tember (Baden-Württemberg , Bayern;, Hes-",
+    "confidence": 0.5745402526734418
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1114.0
+      ],
+      [
+        384.0,
+        1114.0
+      ],
+      [
+        384.0,
+        1144.0
+      ],
+      [
+        6.0,
+        1144.0
+      ]
+    ],
+    "text": "sen, Rheinland-Pfalz , Saarland , Sachsen); 1 .",
+    "confidence": 0.5396888168439826
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1114.0
+      ],
+      [
+        792.0,
+        1114.0
+      ],
+      [
+        792.0,
+        1140.0
+      ],
+      [
+        412.0,
+        1140.0
+      ]
+    ],
+    "text": "Fachhochschule wissenschaftliche Erkennt -",
+    "confidence": 0.8043445521849875
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        1138.0
+      ],
+      [
+        792.0,
+        1138.0
+      ],
+      [
+        792.0,
+        1167.0
+      ],
+      [
+        410.0,
+        1167.0
+      ]
+    ],
+    "text": "nisse und Methoden (mindestens 18 Mona-",
+    "confidence": 0.8526747926194552
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1140.0
+      ],
+      [
+        390.0,
+        1140.0
+      ],
+      [
+        390.0,
+        1172.0
+      ],
+      [
+        6.0,
+        1172.0
+      ]
+    ],
+    "text": "Oktober (Berlin; Brandenburg); nach Bedarf",
+    "confidence": 0.7422986358728089
+  },
+  {
+    "bbox": [
+      [
+        2.0,
+        1163.0
+      ],
+      [
+        348.0,
+        1163.0
+      ],
+      [
+        348.0,
+        1199.0
+      ],
+      [
+        2.0,
+        1199.0
+      ]
+    ],
+    "text": "(Hamburg , Sachsen-Anhalt, Thüringen) .",
+    "confidence": 0.551201308829062
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1164.0
+      ],
+      [
+        792.0,
+        1164.0
+      ],
+      [
+        792.0,
+        1192.0
+      ],
+      [
+        412.0,
+        1192.0
+      ]
+    ],
+    "text": "te) Hinzu kommen berufspraktische Studien-",
+    "confidence": 0.8748093949948302
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1189.0
+      ],
+      [
+        792.0,
+        1189.0
+      ],
+      [
+        792.0,
+        1218.0
+      ],
+      [
+        412.0,
+        1218.0
+      ]
+    ],
+    "text": "zeiten (mindestens 12 Monate) , die in den",
+    "confidence": 0.7474989778269113
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1193.0
+      ],
+      [
+        389.0,
+        1193.0
+      ],
+      [
+        389.0,
+        1229.0
+      ],
+      [
+        6.0,
+        1229.0
+      ]
+    ],
+    "text": "Bewerbung: Bei dem zuständigen Oberlan-",
+    "confidence": 0.8106450215872271
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1214.0
+      ],
+      [
+        792.0,
+        1214.0
+      ],
+      [
+        792.0,
+        1244.0
+      ],
+      [
+        412.0,
+        1244.0
+      ]
+    ],
+    "text": "Schwerpunktbereichen der Rechtspflegertä -",
+    "confidence": 0.8287790547852929
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1224.0
+      ],
+      [
+        388.0,
+        1224.0
+      ],
+      [
+        388.0,
+        1252.0
+      ],
+      [
+        6.0,
+        1252.0
+      ]
+    ],
+    "text": "desgericht oder bei der zuständigen Landes -",
+    "confidence": 0.674489688427126
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1240.0
+      ],
+      [
+        792.0,
+        1240.0
+      ],
+      [
+        792.0,
+        1272.0
+      ],
+      [
+        412.0,
+        1272.0
+      ]
+    ],
+    "text": "tigkeit die berufspraktischen Fähigkeiten und",
+    "confidence": 0.8338861677704962
+  },
+  {
+    "bbox": [
+      [
+        3.0,
+        1248.0
+      ],
+      [
+        388.0,
+        1248.0
+      ],
+      [
+        388.0,
+        1278.0
+      ],
+      [
+        3.0,
+        1278.0
+      ]
+    ],
+    "text": "justizverwaltung . Frühzeitige Bewerbung ist",
+    "confidence": 0.8331017528800069
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        1263.0
+      ],
+      [
+        792.0,
+        1263.0
+      ],
+      [
+        792.0,
+        1294.0
+      ],
+      [
+        411.0,
+        1294.0
+      ]
+    ],
+    "text": "Kenntnisse vermitteln:.  Dadurch sollen",
+    "confidence": 0.5936944787027919
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1272.0
+      ],
+      [
+        388.0,
+        1272.0
+      ],
+      [
+        388.0,
+        1305.0
+      ],
+      [
+        6.0,
+        1305.0
+      ]
+    ],
+    "text": "empfehlenswert die jeweiligen Bewerbungs -",
+    "confidence": 0.6910068546630421
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        1287.0
+      ],
+      [
+        793.0,
+        1287.0
+      ],
+      [
+        793.0,
+        1323.0
+      ],
+      [
+        410.0,
+        1323.0
+      ]
+    ],
+    "text": "Rechtspfleger befähigt werden, selbständig",
+    "confidence": 0.7081882026925183
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1300.0
+      ],
+      [
+        388.0,
+        1300.0
+      ],
+      [
+        388.0,
+        1326.0
+      ],
+      [
+        6.0,
+        1326.0
+      ]
+    ],
+    "text": "fristen können beim Justizministerium des",
+    "confidence": 0.8713153600205162
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1314.0
+      ],
+      [
+        792.0,
+        1314.0
+      ],
+      [
+        792.0,
+        1346.0
+      ],
+      [
+        412.0,
+        1346.0
+      ]
+    ],
+    "text": "auf den ihnen gesetzlich zugewiesenen Auf-",
+    "confidence": 0.7249049823577451
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1324.0
+      ],
+      [
+        308.0,
+        1324.0
+      ],
+      [
+        308.0,
+        1357.0
+      ],
+      [
+        6.0,
+        1357.0
+      ]
+    ],
+    "text": "jeweiligen Landes erfragt werden)",
+    "confidence": 0.9761442009299853
+  }
+]

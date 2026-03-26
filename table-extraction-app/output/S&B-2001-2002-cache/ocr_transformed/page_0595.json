@@ -1,0 +1,2312 @@
+[
+  {
+    "bbox": [
+      [
+        17.0,
+        34.0
+      ],
+      [
+        399.0,
+        34.0
+      ],
+      [
+        399.0,
+        60.0
+      ],
+      [
+        17.0,
+        60.0
+      ]
+    ],
+    "text": "rer Lebensabschnitt. Während des Studiums",
+    "confidence": 0.7190603183681578
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        34.0
+      ],
+      [
+        805.0,
+        34.0
+      ],
+      [
+        805.0,
+        64.0
+      ],
+      [
+        423.0,
+        64.0
+      ]
+    ],
+    "text": "den Programmbausteinen EXIST-SEED und",
+    "confidence": 0.6285783113616263
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        55.0
+      ],
+      [
+        806.0,
+        55.0
+      ],
+      [
+        806.0,
+        93.0
+      ],
+      [
+        422.0,
+        93.0
+      ]
+    ],
+    "text": "EXIST-HighTEPP (High Technology Entrepre-",
+    "confidence": 0.8208772362085882
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        60.0
+      ],
+      [
+        395.0,
+        60.0
+      ],
+      [
+        395.0,
+        86.0
+      ],
+      [
+        17.0,
+        86.0
+      ]
+    ],
+    "text": "kommt man mit vielen Menschen zusammen ,",
+    "confidence": 0.868978781943691
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        85.0
+      ],
+      [
+        805.0,
+        85.0
+      ],
+      [
+        805.0,
+        117.0
+      ],
+      [
+        423.0,
+        117.0
+      ]
+    ],
+    "text": "neurship Postgraduate Program) sowie zu den",
+    "confidence": 0.994575088548178
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        86.0
+      ],
+      [
+        399.0,
+        86.0
+      ],
+      [
+        399.0,
+        116.0
+      ],
+      [
+        17.0,
+        116.0
+      ]
+    ],
+    "text": "die Ideen haben oder die einem zeigen kön-",
+    "confidence": 0.9810975441655544
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        112.0
+      ],
+      [
+        399.0,
+        112.0
+      ],
+      [
+        399.0,
+        142.0
+      ],
+      [
+        17.0,
+        142.0
+      ]
+    ],
+    "text": "nen, wo es noch Marktlücken gibt, und hat",
+    "confidence": 0.8217360439461636
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        112.0
+      ],
+      [
+        805.0,
+        112.0
+      ],
+      [
+        805.0,
+        140.0
+      ],
+      [
+        423.0,
+        140.0
+      ]
+    ],
+    "text": "aktuellen Wettbewerben finden Sie im Inter-",
+    "confidence": 0.9080162930815624
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        138.0
+      ],
+      [
+        399.0,
+        138.0
+      ],
+      [
+        399.0,
+        168.0
+      ],
+      [
+        17.0,
+        168.0
+      ]
+    ],
+    "text": "engen Kontakt zur aktuellen Forschung. In",
+    "confidence": 0.6548096052558773
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        140.0
+      ],
+      [
+        805.0,
+        140.0
+      ],
+      [
+        805.0,
+        168.0
+      ],
+      [
+        423.0,
+        168.0
+      ]
+    ],
+    "text": "net unter http:/wwwexist.de/ . Aktuelle In-",
+    "confidence": 0.6188955803152996
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        164.0
+      ],
+      [
+        399.0,
+        164.0
+      ],
+      [
+        399.0,
+        194.0
+      ],
+      [
+        17.0,
+        194.0
+      ]
+    ],
+    "text": "späteren Phasen Ihres Lebens werden Sie",
+    "confidence": 0.7605918578791281
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        164.0
+      ],
+      [
+        805.0,
+        164.0
+      ],
+      [
+        805.0,
+        194.0
+      ],
+      [
+        423.0,
+        194.0
+      ]
+    ],
+    "text": "formationen zu Projekten , Veranstaltungen",
+    "confidence": 0.6451216192540103
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        191.0
+      ],
+      [
+        804.0,
+        191.0
+      ],
+      [
+        804.0,
+        221.0
+      ],
+      [
+        423.0,
+        221.0
+      ]
+    ],
+    "text": "und Initiativen in den fünf EXIST-Regionen",
+    "confidence": 0.9785216910266458
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        192.0
+      ],
+      [
+        399.0,
+        192.0
+      ],
+      [
+        399.0,
+        222.0
+      ],
+      [
+        17.0,
+        222.0
+      ]
+    ],
+    "text": "kaum noch einmal so unabhängig, flexibel und",
+    "confidence": 0.9114639404033462
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        218.0
+      ],
+      [
+        399.0,
+        218.0
+      ],
+      [
+        399.0,
+        248.0
+      ],
+      [
+        17.0,
+        248.0
+      ]
+    ],
+    "text": "zeitlich \"verfügbar< sein wie zu diesem Zeit-",
+    "confidence": 0.4490105302309686
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        218.0
+      ],
+      [
+        805.0,
+        218.0
+      ],
+      [
+        805.0,
+        246.0
+      ],
+      [
+        423.0,
+        246.0
+      ]
+    ],
+    "text": "entnehmen Sie der EXIST-Projektdatenbank",
+    "confidence": 0.9632351068536495
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        242.0
+      ],
+      [
+        397.0,
+        242.0
+      ],
+      [
+        397.0,
+        275.0
+      ],
+      [
+        17.0,
+        275.0
+      ]
+    ],
+    "text": "punkt.  In der Regel ist während des Studi-",
+    "confidence": 0.846147846318525
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        246.0
+      ],
+      [
+        525.0,
+        246.0
+      ],
+      [
+        525.0,
+        270.0
+      ],
+      [
+        423.0,
+        270.0
+      ]
+    ],
+    "text": "im Internet:",
+    "confidence": 0.9392526112241668
+  },
+  {
+    "bbox": [
+      [
+        529.0,
+        246.0
+      ],
+      [
+        729.0,
+        246.0
+      ],
+      [
+        729.0,
+        274.0
+      ],
+      [
+        529.0,
+        274.0
+      ]
+    ],
+    "text": "wwwexist.de/projekte",
+    "confidence": 0.4849387266857275
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        270.0
+      ],
+      [
+        399.0,
+        270.0
+      ],
+      [
+        399.0,
+        300.0
+      ],
+      [
+        17.0,
+        300.0
+      ]
+    ],
+    "text": "ums weder eine Familie zu versorgen noch",
+    "confidence": 0.6359148827274601
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        273.0
+      ],
+      [
+        806.0,
+        273.0
+      ],
+      [
+        806.0,
+        310.0
+      ],
+      [
+        421.0,
+        310.0
+      ]
+    ],
+    "text": "Gründungsbezogene Veranstaltungen in den",
+    "confidence": 0.8930391582722381
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        296.0
+      ],
+      [
+        307.0,
+        296.0
+      ],
+      [
+        307.0,
+        324.0
+      ],
+      [
+        17.0,
+        324.0
+      ]
+    ],
+    "text": "muss ein Haus abbezahlt werden.",
+    "confidence": 0.8465691625192356
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        304.0
+      ],
+      [
+        805.0,
+        304.0
+      ],
+      [
+        805.0,
+        332.0
+      ],
+      [
+        423.0,
+        332.0
+      ]
+    ],
+    "text": "Lehrplänen, z.B. Rechtsformwahl, Konkurrenz -",
+    "confidence": 0.7355359056674501
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        327.0
+      ],
+      [
+        805.0,
+        327.0
+      ],
+      [
+        805.0,
+        360.0
+      ],
+      [
+        423.0,
+        360.0
+      ]
+    ],
+    "text": "analyse, Entwicklung von Geschäfts- und Fi-",
+    "confidence": 0.9634987527501911
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        328.0
+      ],
+      [
+        399.0,
+        328.0
+      ],
+      [
+        399.0,
+        357.0
+      ],
+      [
+        19.0,
+        357.0
+      ]
+    ],
+    "text": "Bereits während Ihres Studiums sollten Sie",
+    "confidence": 0.8047349237021418
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        353.0
+      ],
+      [
+        399.0,
+        353.0
+      ],
+      [
+        399.0,
+        386.0
+      ],
+      [
+        17.0,
+        386.0
+      ]
+    ],
+    "text": "die Realisierung Ihrer \"Geschäftsideec kon-",
+    "confidence": 0.6630276795479874
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        356.0
+      ],
+      [
+        805.0,
+        356.0
+      ],
+      [
+        805.0,
+        384.0
+      ],
+      [
+        423.0,
+        384.0
+      ]
+    ],
+    "text": "nanzplänen finden sich bereits in vielen Vor-",
+    "confidence": 0.8952253465642828
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        379.0
+      ],
+      [
+        806.0,
+        379.0
+      ],
+      [
+        806.0,
+        415.0
+      ],
+      [
+        421.0,
+        415.0
+      ]
+    ],
+    "text": "lesungsverzeichnissen.  Eine umfangreiche",
+    "confidence": 0.6860671931001057
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        382.0
+      ],
+      [
+        399.0,
+        382.0
+      ],
+      [
+        399.0,
+        410.0
+      ],
+      [
+        16.0,
+        410.0
+      ]
+    ],
+    "text": "sequent und beharrlich vorbereiten: entwe-",
+    "confidence": 0.8490400016070476
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        406.0
+      ],
+      [
+        805.0,
+        406.0
+      ],
+      [
+        805.0,
+        439.0
+      ],
+      [
+        423.0,
+        439.0
+      ]
+    ],
+    "text": "Übersicht der Veranstaltungen zum Thema",
+    "confidence": 0.5443900495096852
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        408.0
+      ],
+      [
+        399.0,
+        408.0
+      ],
+      [
+        399.0,
+        438.0
+      ],
+      [
+        17.0,
+        438.0
+      ]
+    ],
+    "text": "der durch geeignete Praktika oder Jobs oder",
+    "confidence": 0.7564821799341042
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        431.0
+      ],
+      [
+        399.0,
+        431.0
+      ],
+      [
+        399.0,
+        464.0
+      ],
+      [
+        17.0,
+        464.0
+      ]
+    ],
+    "text": "durch geschickte Konstruktion Ihres Studien-",
+    "confidence": 0.9266947463016963
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        433.0
+      ],
+      [
+        805.0,
+        433.0
+      ],
+      [
+        805.0,
+        465.0
+      ],
+      [
+        422.0,
+        465.0
+      ]
+    ],
+    "text": "Existenzgründung an den Hochschulen finden",
+    "confidence": 0.903337530723548
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        457.0
+      ],
+      [
+        262.0,
+        457.0
+      ],
+      [
+        262.0,
+        493.0
+      ],
+      [
+        15.0,
+        493.0
+      ]
+    ],
+    "text": "profils (vgl. Abschnitt 3.1.3).",
+    "confidence": 0.915450630914805
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        459.0
+      ],
+      [
+        803.0,
+        459.0
+      ],
+      [
+        803.0,
+        488.0
+      ],
+      [
+        423.0,
+        488.0
+      ]
+    ],
+    "text": "Sie auf den Internet-Seiten des Förderkrei -",
+    "confidence": 0.7997722996629992
+  },
+  {
+    "bbox": [
+      [
+        465.0,
+        483.0
+      ],
+      [
+        804.0,
+        483.0
+      ],
+      [
+        804.0,
+        519.0
+      ],
+      [
+        465.0,
+        519.0
+      ]
+    ],
+    "text": "Gründungsforschung e.V., wWW.9-",
+    "confidence": 0.40322857652734345
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        492.0
+      ],
+      [
+        401.0,
+        492.0
+      ],
+      [
+        401.0,
+        524.0
+      ],
+      [
+        19.0,
+        524.0
+      ]
+    ],
+    "text": "Kaufmännische Fachkenntnisse, die jedelr)",
+    "confidence": 0.6602389992396438
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        493.0
+      ],
+      [
+        462.0,
+        493.0
+      ],
+      [
+        462.0,
+        513.0
+      ],
+      [
+        424.0,
+        513.0
+      ]
+    ],
+    "text": "ses",
+    "confidence": 0.9821142088862039
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        514.0
+      ],
+      [
+        507.0,
+        514.0
+      ],
+      [
+        507.0,
+        540.0
+      ],
+      [
+        423.0,
+        540.0
+      ]
+    ],
+    "text": "forum de",
+    "confidence": 0.49345379539287143
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        520.0
+      ],
+      [
+        399.0,
+        520.0
+      ],
+      [
+        399.0,
+        550.0
+      ],
+      [
+        19.0,
+        550.0
+      ]
+    ],
+    "text": "Existenzgründer /in unabdingbar braucht, kann",
+    "confidence": 0.7877645818414769
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        546.0
+      ],
+      [
+        399.0,
+        546.0
+      ],
+      [
+        399.0,
+        574.0
+      ],
+      [
+        19.0,
+        574.0
+      ]
+    ],
+    "text": "man beizeiten an der Hochschule oder auch",
+    "confidence": 0.823360533958
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        556.0
+      ],
+      [
+        740.0,
+        556.0
+      ],
+      [
+        740.0,
+        592.0
+      ],
+      [
+        424.0,
+        592.0
+      ]
+    ],
+    "text": "Existenzgründungs-Lehrstühle",
+    "confidence": 0.9996409032360435
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        572.0
+      ],
+      [
+        397.0,
+        572.0
+      ],
+      [
+        397.0,
+        600.0
+      ],
+      [
+        17.0,
+        600.0
+      ]
+    ],
+    "text": "außerhalb bei IHKs und Fachverbänden erwer-",
+    "confidence": 0.8896952329514923
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        592.0
+      ],
+      [
+        805.0,
+        592.0
+      ],
+      [
+        805.0,
+        622.0
+      ],
+      [
+        423.0,
+        622.0
+      ]
+    ],
+    "text": "Die deutsche Ausgleichsbank hat den ersten",
+    "confidence": 0.9717157911912606
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        598.0
+      ],
+      [
+        399.0,
+        598.0
+      ],
+      [
+        399.0,
+        629.0
+      ],
+      [
+        19.0,
+        629.0
+      ]
+    ],
+    "text": "ben. Die Mitarbeit in entsprechenden studen -",
+    "confidence": 0.8344070081887849
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        617.0
+      ],
+      [
+        805.0,
+        617.0
+      ],
+      [
+        805.0,
+        649.0
+      ],
+      [
+        422.0,
+        649.0
+      ]
+    ],
+    "text": "Stiftungslehrstuhl für Unternehmensgründun -",
+    "confidence": 0.7683714188571015
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        622.0
+      ],
+      [
+        400.0,
+        622.0
+      ],
+      [
+        400.0,
+        660.0
+      ],
+      [
+        16.0,
+        660.0
+      ]
+    ],
+    "text": "tischen Arbeitsgruppen bietet die einmalige",
+    "confidence": 0.9550010060755931
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        644.0
+      ],
+      [
+        789.0,
+        644.0
+      ],
+      [
+        789.0,
+        676.0
+      ],
+      [
+        423.0,
+        676.0
+      ]
+    ],
+    "text": "gen an der European Business School (ebs)",
+    "confidence": 0.78533436684815
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        651.0
+      ],
+      [
+        399.0,
+        651.0
+      ],
+      [
+        399.0,
+        683.0
+      ],
+      [
+        18.0,
+        683.0
+      ]
+    ],
+    "text": "Gelegenheit, sich schon früh in ein Netzwerk",
+    "confidence": 0.8150401490267101
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        672.0
+      ],
+      [
+        803.0,
+        672.0
+      ],
+      [
+        803.0,
+        700.0
+      ],
+      [
+        423.0,
+        700.0
+      ]
+    ],
+    "text": "staatlich anerkannte private Wissenschaftli -",
+    "confidence": 0.764883752310555
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        679.0
+      ],
+      [
+        298.0,
+        679.0
+      ],
+      [
+        298.0,
+        708.0
+      ],
+      [
+        17.0,
+        708.0
+      ]
+    ],
+    "text": "von Beratern ,Gleichgesinnten,",
+    "confidence": 0.7594729876461216
+  },
+  {
+    "bbox": [
+      [
+        305.0,
+        680.0
+      ],
+      [
+        399.0,
+        680.0
+      ],
+      [
+        399.0,
+        706.0
+      ],
+      [
+        305.0,
+        706.0
+      ]
+    ],
+    "text": "Geld- und",
+    "confidence": 0.981131835774488
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        700.0
+      ],
+      [
+        805.0,
+        700.0
+      ],
+      [
+        805.0,
+        726.0
+      ],
+      [
+        423.0,
+        726.0
+      ]
+    ],
+    "text": "che Hochschule für Betriebswirtschaftslehre",
+    "confidence": 0.856122763951347
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        702.0
+      ],
+      [
+        400.0,
+        702.0
+      ],
+      [
+        400.0,
+        738.0
+      ],
+      [
+        18.0,
+        738.0
+      ]
+    ],
+    "text": "Auftraggebern einzufädeln und Erfahrungen",
+    "confidence": 0.9287698058273801
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        726.0
+      ],
+      [
+        803.0,
+        726.0
+      ],
+      [
+        803.0,
+        752.0
+      ],
+      [
+        423.0,
+        752.0
+      ]
+    ],
+    "text": "in Oestrich-Winkel finanziert. Das Bundesmi -",
+    "confidence": 0.5390176623668984
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        731.0
+      ],
+      [
+        399.0,
+        731.0
+      ],
+      [
+        399.0,
+        762.0
+      ],
+      [
+        19.0,
+        762.0
+      ]
+    ],
+    "text": "sowie Kontakte für eine spätere Berufstätig -",
+    "confidence": 0.9044862291947637
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        752.0
+      ],
+      [
+        805.0,
+        752.0
+      ],
+      [
+        805.0,
+        784.0
+      ],
+      [
+        423.0,
+        784.0
+      ]
+    ],
+    "text": "nisterium für Wirtschaft und Technologie hat",
+    "confidence": 0.9956363896276245
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        760.0
+      ],
+      [
+        165.0,
+        760.0
+      ],
+      [
+        165.0,
+        786.0
+      ],
+      [
+        17.0,
+        786.0
+      ]
+    ],
+    "text": "keit zu sammeln:",
+    "confidence": 0.5179367077108049
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        780.0
+      ],
+      [
+        805.0,
+        780.0
+      ],
+      [
+        805.0,
+        806.0
+      ],
+      [
+        423.0,
+        806.0
+      ]
+    ],
+    "text": "in Zusammenarbeit mit der Deutschen Aus-",
+    "confidence": 0.8042214413132278
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        802.0
+      ],
+      [
+        394.0,
+        802.0
+      ],
+      [
+        394.0,
+        838.0
+      ],
+      [
+        18.0,
+        838.0
+      ]
+    ],
+    "text": "Studienfach Gründungsmanagement",
+    "confidence": 0.8439208061414676
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        803.0
+      ],
+      [
+        805.0,
+        803.0
+      ],
+      [
+        805.0,
+        836.0
+      ],
+      [
+        423.0,
+        836.0
+      ]
+    ],
+    "text": "gleichsbank eine Initiative zur Errichtung von",
+    "confidence": 0.8742804419528426
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        832.0
+      ],
+      [
+        805.0,
+        832.0
+      ],
+      [
+        805.0,
+        862.0
+      ],
+      [
+        425.0,
+        862.0
+      ]
+    ],
+    "text": "Existenzgründungslehrstühlen gestartet; um",
+    "confidence": 0.7604944214691947
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        838.0
+      ],
+      [
+        399.0,
+        838.0
+      ],
+      [
+        399.0,
+        868.0
+      ],
+      [
+        19.0,
+        868.0
+      ]
+    ],
+    "text": "Auch die Hochschulen selbst reagieren auf",
+    "confidence": 0.6897389431008849
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        858.0
+      ],
+      [
+        805.0,
+        858.0
+      ],
+      [
+        805.0,
+        888.0
+      ],
+      [
+        423.0,
+        888.0
+      ]
+    ],
+    "text": "ein mflächendeckendes Lehrangebota zu",
+    "confidence": 0.43938799044670696
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        863.0
+      ],
+      [
+        397.0,
+        863.0
+      ],
+      [
+        397.0,
+        895.0
+      ],
+      [
+        19.0,
+        895.0
+      ]
+    ],
+    "text": "das \"Gründerfieberw in der Bundesrepublik.",
+    "confidence": 0.48929384296506645
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        884.0
+      ],
+      [
+        805.0,
+        884.0
+      ],
+      [
+        805.0,
+        914.0
+      ],
+      [
+        423.0,
+        914.0
+      ]
+    ],
+    "text": "schaffen: So sind zum Ende der 9Oer Jahre",
+    "confidence": 0.4765162035680651
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        892.0
+      ],
+      [
+        398.0,
+        892.0
+      ],
+      [
+        398.0,
+        918.0
+      ],
+      [
+        19.0,
+        918.0
+      ]
+    ],
+    "text": "In ihnen schlummere, so das Bundesministe-",
+    "confidence": 0.8908427459715118
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        912.0
+      ],
+      [
+        805.0,
+        912.0
+      ],
+      [
+        805.0,
+        942.0
+      ],
+      [
+        423.0,
+        942.0
+      ]
+    ],
+    "text": "fast 25 Existenzgründungsprofessuren   im",
+    "confidence": 0.7990613564151555
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        915.0
+      ],
+      [
+        399.0,
+        915.0
+      ],
+      [
+        399.0,
+        948.0
+      ],
+      [
+        17.0,
+        948.0
+      ]
+    ],
+    "text": "rium für Bildung und Forschung , ein venor-",
+    "confidence": 0.8104861854740372
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        936.0
+      ],
+      [
+        803.0,
+        936.0
+      ],
+      [
+        803.0,
+        966.0
+      ],
+      [
+        425.0,
+        966.0
+      ]
+    ],
+    "text": "Aufbau. Einen Überblick über die Gründerlehr-",
+    "confidence": 0.6624568348937544
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        944.0
+      ],
+      [
+        399.0,
+        944.0
+      ],
+      [
+        399.0,
+        972.0
+      ],
+      [
+        19.0,
+        972.0
+      ]
+    ],
+    "text": "mes Potential an Geschäftsideen und unter-",
+    "confidence": 0.7919500251002924
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        964.0
+      ],
+      [
+        805.0,
+        964.0
+      ],
+      [
+        805.0,
+        994.0
+      ],
+      [
+        423.0,
+        994.0
+      ]
+    ],
+    "text": "stühle an den Hochschulen in den fünf EXIST-",
+    "confidence": 0.965767598650399
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        972.0
+      ],
+      [
+        399.0,
+        972.0
+      ],
+      [
+        399.0,
+        998.0
+      ],
+      [
+        19.0,
+        998.0
+      ]
+    ],
+    "text": "nehmerischen Persönlichkeitena , das sich in",
+    "confidence": 0.6223037501071097
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        990.0
+      ],
+      [
+        805.0,
+        990.0
+      ],
+      [
+        805.0,
+        1023.0
+      ],
+      [
+        425.0,
+        1023.0
+      ]
+    ],
+    "text": "Regionen (Wuppertal , Dresden, Karlsruhe,",
+    "confidence": 0.7715215162293886
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        998.0
+      ],
+      [
+        399.0,
+        998.0
+      ],
+      [
+        399.0,
+        1028.0
+      ],
+      [
+        19.0,
+        1028.0
+      ]
+    ],
+    "text": "immer zahlreicheren Ausgründungen techno-",
+    "confidence": 0.9896576592928765
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1016.0
+      ],
+      [
+        805.0,
+        1016.0
+      ],
+      [
+        805.0,
+        1046.0
+      ],
+      [
+        425.0,
+        1046.0
+      ]
+    ],
+    "text": "Schmalkalden; Ilmenau, Hohenheim) erhalten",
+    "confidence": 0.8123945055857549
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1022.0
+      ],
+      [
+        399.0,
+        1022.0
+      ],
+      [
+        399.0,
+        1054.0
+      ],
+      [
+        16.0,
+        1054.0
+      ]
+    ],
+    "text": "logieorientierter Unternehmen aus Hochschu -",
+    "confidence": 0.8351583710720614
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1044.0
+      ],
+      [
+        757.0,
+        1044.0
+      ],
+      [
+        757.0,
+        1074.0
+      ],
+      [
+        423.0,
+        1074.0
+      ]
+    ],
+    "text": "Sie im Internet: wwwexist de/regionen",
+    "confidence": 0.5514746525608958
+  },
+  {
+    "bbox": [
+      [
+        765.0,
+        1044.0
+      ],
+      [
+        807.0,
+        1044.0
+      ],
+      [
+        807.0,
+        1072.0
+      ],
+      [
+        765.0,
+        1072.0
+      ]
+    ],
+    "text": "Seit",
+    "confidence": 0.9469718640418692
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1051.0
+      ],
+      [
+        399.0,
+        1051.0
+      ],
+      [
+        399.0,
+        1082.0
+      ],
+      [
+        17.0,
+        1082.0
+      ]
+    ],
+    "text": "Ien und außeruniversitären Forschungsein-",
+    "confidence": 0.7438826614357862
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1072.0
+      ],
+      [
+        805.0,
+        1072.0
+      ],
+      [
+        805.0,
+        1100.0
+      ],
+      [
+        423.0,
+        1100.0
+      ]
+    ],
+    "text": "dem Sommersemester 2000 wird an der Fern -",
+    "confidence": 0.7134304787590713
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        1074.0
+      ],
+      [
+        188.0,
+        1074.0
+      ],
+      [
+        188.0,
+        1111.0
+      ],
+      [
+        15.0,
+        1111.0
+      ]
+    ],
+    "text": "richtungen äußere",
+    "confidence": 0.7810288874639211
+  },
+  {
+    "bbox": [
+      [
+        195.0,
+        1077.0
+      ],
+      [
+        399.0,
+        1077.0
+      ],
+      [
+        399.0,
+        1105.0
+      ],
+      [
+        195.0,
+        1105.0
+      ]
+    ],
+    "text": "Beispielsweise ist das",
+    "confidence": 0.8762010814738368
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1096.0
+      ],
+      [
+        805.0,
+        1096.0
+      ],
+      [
+        805.0,
+        1129.0
+      ],
+      [
+        424.0,
+        1129.0
+      ]
+    ],
+    "text": "Universität Hagen das \"Orientierungsstudium",
+    "confidence": 0.7683653628541349
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1104.0
+      ],
+      [
+        187.0,
+        1104.0
+      ],
+      [
+        187.0,
+        1135.0
+      ],
+      [
+        18.0,
+        1135.0
+      ]
+    ],
+    "text": "Programm vEXIST",
+    "confidence": 0.8541684654651093
+  },
+  {
+    "bbox": [
+      [
+        211.0,
+        1104.0
+      ],
+      [
+        399.0,
+        1104.0
+      ],
+      [
+        399.0,
+        1134.0
+      ],
+      [
+        211.0,
+        1134.0
+      ]
+    ],
+    "text": "Existenzgründer aus",
+    "confidence": 0.9807875206815269
+  },
+  {
+    "bbox": [
+      [
+        441.0,
+        1124.0
+      ],
+      [
+        805.0,
+        1124.0
+      ],
+      [
+        805.0,
+        1152.0
+      ],
+      [
+        441.0,
+        1152.0
+      ]
+    ],
+    "text": "Gründer werden?a als erste Stufe des Pro-",
+    "confidence": 0.5074366869747966
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1131.0
+      ],
+      [
+        399.0,
+        1131.0
+      ],
+      [
+        399.0,
+        1162.0
+      ],
+      [
+        19.0,
+        1162.0
+      ]
+    ],
+    "text": "Hochschulen< ein wichtiger Baustein im",
+    "confidence": 0.6185869447656954
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1147.0
+      ],
+      [
+        803.0,
+        1147.0
+      ],
+      [
+        803.0,
+        1184.0
+      ],
+      [
+        424.0,
+        1184.0
+      ]
+    ],
+    "text": "gramms \"Gründer-Fernstudiume angeboten:",
+    "confidence": 0.5224285770248402
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        1157.0
+      ],
+      [
+        399.0,
+        1157.0
+      ],
+      [
+        399.0,
+        1188.0
+      ],
+      [
+        21.0,
+        1188.0
+      ]
+    ],
+    "text": "Maßnahmenbündel der Bundesregierung zur",
+    "confidence": 0.9346468239995508
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1178.0
+      ],
+      [
+        805.0,
+        1178.0
+      ],
+      [
+        805.0,
+        1204.0
+      ],
+      [
+        423.0,
+        1204.0
+      ]
+    ],
+    "text": "Im Rahmen des Bundeswettbewerbs \"EXIST(",
+    "confidence": 0.5305575793435204
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1180.0
+      ],
+      [
+        400.0,
+        1180.0
+      ],
+      [
+        400.0,
+        1217.0
+      ],
+      [
+        16.0,
+        1217.0
+      ]
+    ],
+    "text": "Förderung des Innovations- und Technologie-",
+    "confidence": 0.8489176726999613
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1204.0
+      ],
+      [
+        805.0,
+        1204.0
+      ],
+      [
+        805.0,
+        1234.0
+      ],
+      [
+        425.0,
+        1234.0
+      ]
+    ],
+    "text": "wurde dieses Angebot prämiert. Informatio-",
+    "confidence": 0.6780850776383712
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1212.0
+      ],
+      [
+        399.0,
+        1212.0
+      ],
+      [
+        399.0,
+        1242.0
+      ],
+      [
+        19.0,
+        1242.0
+      ]
+    ],
+    "text": "transfers und innovativer Unternehmensgrün-",
+    "confidence": 0.9947578678423457
+  },
+  {
+    "bbox": [
+      [
+        497.0,
+        1227.0
+      ],
+      [
+        806.0,
+        1227.0
+      ],
+      [
+        806.0,
+        1263.0
+      ],
+      [
+        497.0,
+        1263.0
+      ]
+    ],
+    "text": "Anmeldeunterlagen sind beim dorti -",
+    "confidence": 0.8152737520501925
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1232.0
+      ],
+      [
+        499.0,
+        1232.0
+      ],
+      [
+        499.0,
+        1258.0
+      ],
+      [
+        425.0,
+        1258.0
+      ]
+    ],
+    "text": "nen und",
+    "confidence": 0.9999037119585557
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1238.0
+      ],
+      [
+        399.0,
+        1238.0
+      ],
+      [
+        399.0,
+        1269.0
+      ],
+      [
+        18.0,
+        1269.0
+      ]
+    ],
+    "text": "dungen.  Informationen zu EXIST, zu seinen",
+    "confidence": 0.652300347776584
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1258.0
+      ],
+      [
+        805.0,
+        1258.0
+      ],
+      [
+        805.0,
+        1290.0
+      ],
+      [
+        425.0,
+        1290.0
+      ]
+    ],
+    "text": "gen Lehrstuhl für Didaktik der Wirtschaftswis-",
+    "confidence": 0.8477854595978395
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1265.0
+      ],
+      [
+        399.0,
+        1265.0
+      ],
+      [
+        399.0,
+        1296.0
+      ],
+      [
+        17.0,
+        1296.0
+      ]
+    ],
+    "text": "regionalen Netzwerken bizeps (Wuppertal-",
+    "confidence": 0.9598282691094167
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1285.0
+      ],
+      [
+        805.0,
+        1285.0
+      ],
+      [
+        805.0,
+        1314.0
+      ],
+      [
+        424.0,
+        1314.0
+      ]
+    ],
+    "text": "senschaft erhältlich. Sollte sich an Ihrer Hoch-",
+    "confidence": 0.8587076838843246
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1290.0
+      ],
+      [
+        400.0,
+        1290.0
+      ],
+      [
+        400.0,
+        1326.0
+      ],
+      [
+        17.0,
+        1326.0
+      ]
+    ],
+    "text": "Hagen) , Dresden exists, GET-UP (Ilmenau-",
+    "confidence": 0.7451980915583837
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1310.0
+      ],
+      [
+        806.0,
+        1310.0
+      ],
+      [
+        806.0,
+        1347.0
+      ],
+      [
+        424.0,
+        1347.0
+      ]
+    ],
+    "text": "schule eine dieser Möglichkeiten bieten; so",
+    "confidence": 0.8529441423568884
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1320.0
+      ],
+      [
+        399.0,
+        1320.0
+      ],
+      [
+        399.0,
+        1348.0
+      ],
+      [
+        19.0,
+        1348.0
+      ]
+    ],
+    "text": "Schmalkalden-Jena-Weimar), KEIM (Karlsru-",
+    "confidence": 0.8907062292874555
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1335.0
+      ],
+      [
+        760.0,
+        1335.0
+      ],
+      [
+        760.0,
+        1372.0
+      ],
+      [
+        424.0,
+        1372.0
+      ]
+    ],
+    "text": "nutzen Sie unbedingt diese Gelegenheit.",
+    "confidence": 0.739333861000322
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1344.0
+      ],
+      [
+        402.0,
+        1344.0
+      ],
+      [
+        402.0,
+        1380.0
+      ],
+      [
+        18.0,
+        1380.0
+      ]
+    ],
+    "text": "he-Pforzheim) und PUSH (Stuttgart) und zu",
+    "confidence": 0.7490395451201283
+  }
+]

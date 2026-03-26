@@ -1,0 +1,2026 @@
+[
+  {
+    "bbox": [
+      [
+        412.0,
+        28.0
+      ],
+      [
+        792.0,
+        28.0
+      ],
+      [
+        792.0,
+        56.0
+      ],
+      [
+        412.0,
+        56.0
+      ]
+    ],
+    "text": "schiedlich. Überall vorhanden sind normaler-",
+    "confidence": 0.7525179156191062
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        29.0
+      ],
+      [
+        386.0,
+        29.0
+      ],
+      [
+        386.0,
+        60.0
+      ],
+      [
+        4.0,
+        60.0
+      ]
+    ],
+    "text": "nikgeschichte. Aus der Untersuchung einzel -",
+    "confidence": 0.819054771596745
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        54.0
+      ],
+      [
+        792.0,
+        54.0
+      ],
+      [
+        792.0,
+        84.0
+      ],
+      [
+        412.0,
+        84.0
+      ]
+    ],
+    "text": "weise die Kernfächer Alte Geschichte, Mit-",
+    "confidence": 0.6324203351542895
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        56.0
+      ],
+      [
+        386.0,
+        56.0
+      ],
+      [
+        386.0,
+        86.0
+      ],
+      [
+        6.0,
+        86.0
+      ]
+    ],
+    "text": "ner Räume entwickelten sich Regional-, Lan-",
+    "confidence": 0.7895913116956077
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        80.0
+      ],
+      [
+        792.0,
+        80.0
+      ],
+      [
+        792.0,
+        110.0
+      ],
+      [
+        411.0,
+        110.0
+      ]
+    ],
+    "text": "telalterliche Geschichte und Neuere Ge-",
+    "confidence": 0.6943878286590204
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        82.0
+      ],
+      [
+        386.0,
+        82.0
+      ],
+      [
+        386.0,
+        113.0
+      ],
+      [
+        6.0,
+        113.0
+      ]
+    ],
+    "text": "des-, Stadtgeschichte sowie Bevölkerungsge-",
+    "confidence": 0.9746304113143244
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        108.0
+      ],
+      [
+        84.0,
+        108.0
+      ],
+      [
+        84.0,
+        136.0
+      ],
+      [
+        6.0,
+        136.0
+      ]
+    ],
+    "text": "schichte.",
+    "confidence": 0.9766503731117363
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        108.0
+      ],
+      [
+        490.0,
+        108.0
+      ],
+      [
+        490.0,
+        136.0
+      ],
+      [
+        412.0,
+        136.0
+      ]
+    ],
+    "text": "schichte",
+    "confidence": 0.8153124280241522
+  },
+  {
+    "bbox": [
+      [
+        498.0,
+        108.0
+      ],
+      [
+        792.0,
+        108.0
+      ],
+      [
+        792.0,
+        136.0
+      ],
+      [
+        498.0,
+        136.0
+      ]
+    ],
+    "text": "Auch die politischen, kulturellen,",
+    "confidence": 0.7308117362240764
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        134.0
+      ],
+      [
+        792.0,
+        134.0
+      ],
+      [
+        792.0,
+        164.0
+      ],
+      [
+        412.0,
+        164.0
+      ]
+    ],
+    "text": "soziologischen , psychologischen und ökono-",
+    "confidence": 0.8532097863453878
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        142.0
+      ],
+      [
+        388.0,
+        142.0
+      ],
+      [
+        388.0,
+        172.0
+      ],
+      [
+        6.0,
+        172.0
+      ]
+    ],
+    "text": "Zusätzlich bildeten sich eigenständige Fächer",
+    "confidence": 0.9102898188797137
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        157.0
+      ],
+      [
+        793.0,
+        157.0
+      ],
+      [
+        793.0,
+        193.0
+      ],
+      [
+        411.0,
+        193.0
+      ]
+    ],
+    "text": "mischen Zusammenhänge werden berück-",
+    "confidence": 0.7494998651903613
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        167.0
+      ],
+      [
+        388.0,
+        167.0
+      ],
+      [
+        388.0,
+        196.0
+      ],
+      [
+        5.0,
+        196.0
+      ]
+    ],
+    "text": "heraus , wie etwa die Völkerkunde oder Eth-",
+    "confidence": 0.6260547521816446
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        188.0
+      ],
+      [
+        792.0,
+        188.0
+      ],
+      [
+        792.0,
+        218.0
+      ],
+      [
+        412.0,
+        218.0
+      ]
+    ],
+    "text": "sichtigt.  Die Vielfalt historischer Betrach-",
+    "confidence": 0.8005090669465992
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        194.0
+      ],
+      [
+        388.0,
+        194.0
+      ],
+      [
+        388.0,
+        224.0
+      ],
+      [
+        6.0,
+        224.0
+      ]
+    ],
+    "text": "nologie, die sich mit Kultur und Sozialstruk-",
+    "confidence": 0.7867761456304967
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        210.0
+      ],
+      [
+        795.0,
+        210.0
+      ],
+      [
+        795.0,
+        247.0
+      ],
+      [
+        410.0,
+        247.0
+      ]
+    ],
+    "text": "tungsweisen und die Standortgebundenheit",
+    "confidence": 0.9897090137422243
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        219.0
+      ],
+      [
+        386.0,
+        219.0
+      ],
+      [
+        386.0,
+        250.0
+      ],
+      [
+        4.0,
+        250.0
+      ]
+    ],
+    "text": "tur der so genannten Naturvölker beschäftigt.",
+    "confidence": 0.9836489769332617
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        238.0
+      ],
+      [
+        792.0,
+        238.0
+      ],
+      [
+        792.0,
+        271.0
+      ],
+      [
+        412.0,
+        271.0
+      ]
+    ],
+    "text": "historischer Aussagen verlangen vom Histo-",
+    "confidence": 0.9539794485634551
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        244.0
+      ],
+      [
+        389.0,
+        244.0
+      ],
+      [
+        389.0,
+        281.0
+      ],
+      [
+        5.0,
+        281.0
+      ]
+    ],
+    "text": "Ein Teilgebiet der Ethnologie ist die Alt-Ame-",
+    "confidence": 0.9392749462778659
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        264.0
+      ],
+      [
+        793.0,
+        264.0
+      ],
+      [
+        793.0,
+        300.0
+      ],
+      [
+        411.0,
+        300.0
+      ]
+    ],
+    "text": "riker die Fähigkeit der Analyse unterschiedli -",
+    "confidence": 0.8390396560277719
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        272.0
+      ],
+      [
+        388.0,
+        272.0
+      ],
+      [
+        388.0,
+        300.0
+      ],
+      [
+        4.0,
+        300.0
+      ]
+    ],
+    "text": "rikanistik, deren Thema die indianischen",
+    "confidence": 0.8964573482118762
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        290.0
+      ],
+      [
+        793.0,
+        290.0
+      ],
+      [
+        793.0,
+        327.0
+      ],
+      [
+        411.0,
+        327.0
+      ]
+    ],
+    "text": "cher Fragestellungen und verschiedener Deu-",
+    "confidence": 0.7173580160932949
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        298.0
+      ],
+      [
+        388.0,
+        298.0
+      ],
+      [
+        388.0,
+        328.0
+      ],
+      [
+        6.0,
+        328.0
+      ]
+    ],
+    "text": "Hochkulturen Amerikas der präkolumbischen",
+    "confidence": 0.9735880013108108
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        321.0
+      ],
+      [
+        482.0,
+        321.0
+      ],
+      [
+        482.0,
+        351.0
+      ],
+      [
+        411.0,
+        351.0
+      ]
+    ],
+    "text": "tungen.",
+    "confidence": 0.7861962861617847
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        326.0
+      ],
+      [
+        388.0,
+        326.0
+      ],
+      [
+        388.0,
+        352.0
+      ],
+      [
+        6.0,
+        352.0
+      ]
+    ],
+    "text": "Zeit und deren Nachkommen darstellt .  Die",
+    "confidence": 0.549673938522825
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        349.0
+      ],
+      [
+        793.0,
+        349.0
+      ],
+      [
+        793.0,
+        385.0
+      ],
+      [
+        410.0,
+        385.0
+      ]
+    ],
+    "text": "Voraussetzung für ein erfolgreiches Ge-",
+    "confidence": 0.8057086643502209
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        352.0
+      ],
+      [
+        388.0,
+        352.0
+      ],
+      [
+        388.0,
+        382.0
+      ],
+      [
+        8.0,
+        382.0
+      ]
+    ],
+    "text": "Ur-, Vor- und Frühgeschichte wertet die Bo-",
+    "confidence": 0.8976178904681177
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        376.0
+      ],
+      [
+        794.0,
+        376.0
+      ],
+      [
+        794.0,
+        406.0
+      ],
+      [
+        411.0,
+        406.0
+      ]
+    ],
+    "text": "schichtsstudium sind Grundkenntnisse der",
+    "confidence": 0.7419981311809981
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        378.0
+      ],
+      [
+        388.0,
+        378.0
+      ],
+      [
+        388.0,
+        406.0
+      ],
+      [
+        6.0,
+        406.0
+      ]
+    ],
+    "text": "denfunde jener Kulturen aus, über die wir",
+    "confidence": 0.8200451578767738
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        404.0
+      ],
+      [
+        388.0,
+        404.0
+      ],
+      [
+        388.0,
+        434.0
+      ],
+      [
+        6.0,
+        434.0
+      ]
+    ],
+    "text": "keine schriftlichen Quellen besitzen. Sie be-",
+    "confidence": 0.8472841800812616
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        404.0
+      ],
+      [
+        794.0,
+        404.0
+      ],
+      [
+        794.0,
+        432.0
+      ],
+      [
+        412.0,
+        432.0
+      ]
+    ],
+    "text": "historischen Epochen und ein ausreichendes",
+    "confidence": 0.8196913712209339
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        426.0
+      ],
+      [
+        793.0,
+        426.0
+      ],
+      [
+        793.0,
+        463.0
+      ],
+      [
+        412.0,
+        463.0
+      ]
+    ],
+    "text": "Datengerüst wichtiger Ereignisse. An Fremd-",
+    "confidence": 0.7223842685085954
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        430.0
+      ],
+      [
+        388.0,
+        430.0
+      ],
+      [
+        388.0,
+        458.0
+      ],
+      [
+        6.0,
+        458.0
+      ]
+    ],
+    "text": "dient sich vor allem der Methoden und Ver-",
+    "confidence": 0.9276109379185222
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        456.0
+      ],
+      [
+        794.0,
+        456.0
+      ],
+      [
+        794.0,
+        486.0
+      ],
+      [
+        411.0,
+        486.0
+      ]
+    ],
+    "text": "sprachen werden Latein, Französisch und",
+    "confidence": 0.6696417232273287
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        457.0
+      ],
+      [
+        390.0,
+        457.0
+      ],
+      [
+        390.0,
+        487.0
+      ],
+      [
+        6.0,
+        487.0
+      ]
+    ],
+    "text": "fahren der Archäologie (Altertumswissen-",
+    "confidence": 0.8158393239047494
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        483.0
+      ],
+      [
+        388.0,
+        483.0
+      ],
+      [
+        388.0,
+        512.0
+      ],
+      [
+        6.0,
+        512.0
+      ]
+    ],
+    "text": "schaft), die sich mit den materiellen Hinter-",
+    "confidence": 0.6291529467064916
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        484.0
+      ],
+      [
+        794.0,
+        484.0
+      ],
+      [
+        794.0,
+        512.0
+      ],
+      [
+        414.0,
+        512.0
+      ]
+    ],
+    "text": "Englisch erwartet: Latein für die Rezeption",
+    "confidence": 0.6087582318747031
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        509.0
+      ],
+      [
+        341.0,
+        509.0
+      ],
+      [
+        341.0,
+        536.0
+      ],
+      [
+        6.0,
+        536.0
+      ]
+    ],
+    "text": "lassenschaften der alten orientalischen,",
+    "confidence": 0.6058646929665548
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        510.0
+      ],
+      [
+        794.0,
+        510.0
+      ],
+      [
+        794.0,
+        536.0
+      ],
+      [
+        412.0,
+        536.0
+      ]
+    ],
+    "text": "antiker und mittelalterlicher Texte, Franzö-",
+    "confidence": 0.8957555426212542
+  },
+  {
+    "bbox": [
+      [
+        338.4789396203098,
+        512.4141973545267
+      ],
+      [
+        386.31922011144775,
+        505.09705016496594
+      ],
+      [
+        389.5210603796902,
+        534.5858026454733
+      ],
+      [
+        342.68077988855225,
+        540.9029498350341
+      ]
+    ],
+    "text": "grie-",
+    "confidence": 0.9999490335603594
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        535.0
+      ],
+      [
+        388.0,
+        535.0
+      ],
+      [
+        388.0,
+        562.0
+      ],
+      [
+        6.0,
+        562.0
+      ]
+    ],
+    "text": "chisch-römischen , biblischen und frühchrist-",
+    "confidence": 0.912608703358496
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        535.0
+      ],
+      [
+        794.0,
+        535.0
+      ],
+      [
+        794.0,
+        566.0
+      ],
+      [
+        412.0,
+        566.0
+      ]
+    ],
+    "text": "sisch und Englisch als internationale Archiv-",
+    "confidence": 0.8607844556444104
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        557.0
+      ],
+      [
+        391.0,
+        557.0
+      ],
+      [
+        391.0,
+        594.0
+      ],
+      [
+        5.0,
+        594.0
+      ]
+    ],
+    "text": "lichen Kulturen beschäftigt.  Die Volkskunde",
+    "confidence": 0.6416630741554351
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        562.0
+      ],
+      [
+        662.0,
+        562.0
+      ],
+      [
+        662.0,
+        590.0
+      ],
+      [
+        412.0,
+        590.0
+      ]
+    ],
+    "text": "und Wissenschaftssprachen.",
+    "confidence": 0.95037269748307
+  },
+  {
+    "bbox": [
+      [
+        3.0,
+        586.0
+      ],
+      [
+        390.0,
+        586.0
+      ],
+      [
+        390.0,
+        619.0
+      ],
+      [
+        3.0,
+        619.0
+      ]
+    ],
+    "text": "(europäische Ethnologie) beschränkt sich auf",
+    "confidence": 0.7607863037621823
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        604.0
+      ],
+      [
+        726.0,
+        604.0
+      ],
+      [
+        726.0,
+        640.0
+      ],
+      [
+        412.0,
+        640.0
+      ]
+    ],
+    "text": "Beschäftigungsmöglichkeiten",
+    "confidence": 0.9996022226945837
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        614.0
+      ],
+      [
+        388.0,
+        614.0
+      ],
+      [
+        388.0,
+        646.0
+      ],
+      [
+        6.0,
+        646.0
+      ]
+    ],
+    "text": "die Erforschung der volkstümlichen Kulturleis-",
+    "confidence": 0.9298917105480557
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        640.0
+      ],
+      [
+        794.0,
+        640.0
+      ],
+      [
+        794.0,
+        670.0
+      ],
+      [
+        414.0,
+        670.0
+      ]
+    ],
+    "text": "Historiker finden Beschäftigung in der Er-",
+    "confidence": 0.8097747849474144
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        642.0
+      ],
+      [
+        388.0,
+        642.0
+      ],
+      [
+        388.0,
+        672.0
+      ],
+      [
+        6.0,
+        672.0
+      ]
+    ],
+    "text": "tungen vor allem im deutschen und europäi -",
+    "confidence": 0.9167237805055115
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        665.0
+      ],
+      [
+        795.0,
+        665.0
+      ],
+      [
+        795.0,
+        697.0
+      ],
+      [
+        413.0,
+        697.0
+      ]
+    ],
+    "text": "wachsenenbildung und politischen Bildung ,",
+    "confidence": 0.8384131545148883
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        668.0
+      ],
+      [
+        136.0,
+        668.0
+      ],
+      [
+        136.0,
+        696.0
+      ],
+      [
+        6.0,
+        696.0
+      ]
+    ],
+    "text": "schen Bereich.",
+    "confidence": 0.9249339649121738
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        694.0
+      ],
+      [
+        794.0,
+        694.0
+      ],
+      [
+        794.0,
+        724.0
+      ],
+      [
+        414.0,
+        724.0
+      ]
+    ],
+    "text": "an Forschungsinstituten; in Museen, Archi-",
+    "confidence": 0.5477822674980122
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        700.0
+      ],
+      [
+        388.0,
+        700.0
+      ],
+      [
+        388.0,
+        728.0
+      ],
+      [
+        6.0,
+        728.0
+      ]
+    ],
+    "text": "Hilfswissenschaften der Geschichte sind Pa-",
+    "confidence": 0.8942015007330518
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        720.0
+      ],
+      [
+        790.0,
+        720.0
+      ],
+      [
+        790.0,
+        750.0
+      ],
+      [
+        414.0,
+        750.0
+      ]
+    ],
+    "text": "ven und Bibliotheken, im Auswärtigen Dienst,",
+    "confidence": 0.8899297420896396
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        728.0
+      ],
+      [
+        388.0,
+        728.0
+      ],
+      [
+        388.0,
+        758.0
+      ],
+      [
+        6.0,
+        758.0
+      ]
+    ],
+    "text": "läographie (Schriftkunde) , Diplomatik (Urkun -",
+    "confidence": 0.5656052407314337
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        745.0
+      ],
+      [
+        794.0,
+        745.0
+      ],
+      [
+        794.0,
+        777.0
+      ],
+      [
+        414.0,
+        777.0
+      ]
+    ],
+    "text": "bei Verbänden; Stiftungen und Parteien so-",
+    "confidence": 0.6207494575661603
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        752.0
+      ],
+      [
+        388.0,
+        752.0
+      ],
+      [
+        388.0,
+        784.0
+      ],
+      [
+        5.0,
+        784.0
+      ]
+    ],
+    "text": "denlehre), Chronologie (Zeitrechnung), Gene-",
+    "confidence": 0.914178543238397
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        771.0
+      ],
+      [
+        794.0,
+        771.0
+      ],
+      [
+        794.0,
+        803.0
+      ],
+      [
+        414.0,
+        803.0
+      ]
+    ],
+    "text": "wie im Medienbereich und in der Presse- und",
+    "confidence": 0.9507792377592397
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        779.0
+      ],
+      [
+        388.0,
+        779.0
+      ],
+      [
+        388.0,
+        812.0
+      ],
+      [
+        6.0,
+        812.0
+      ]
+    ],
+    "text": "alogie (Abstammungslehre), Sphragistik (Sie-",
+    "confidence": 0.8592190228154155
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        796.0
+      ],
+      [
+        794.0,
+        796.0
+      ],
+      [
+        794.0,
+        829.0
+      ],
+      [
+        414.0,
+        829.0
+      ]
+    ],
+    "text": "Öffentlichkeitsarbeit. Daneben ist ein Haupt-",
+    "confidence": 0.6966626463025218
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        807.0
+      ],
+      [
+        388.0,
+        807.0
+      ],
+      [
+        388.0,
+        838.0
+      ],
+      [
+        5.0,
+        838.0
+      ]
+    ],
+    "text": "gelkunde) , Numismatik (Münzkunde) Heral-",
+    "confidence": 0.7589372800394806
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        826.0
+      ],
+      [
+        794.0,
+        826.0
+      ],
+      [
+        794.0,
+        858.0
+      ],
+      [
+        414.0,
+        858.0
+      ]
+    ],
+    "text": "betätigungsfeld der Historiker die Unterrichts-",
+    "confidence": 0.9850405333387343
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        834.0
+      ],
+      [
+        388.0,
+        834.0
+      ],
+      [
+        388.0,
+        866.0
+      ],
+      [
+        6.0,
+        866.0
+      ]
+    ],
+    "text": "dik (Wappenkunde); ferner Soziologie; Wirt-",
+    "confidence": 0.7671258177456826
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        852.0
+      ],
+      [
+        796.0,
+        852.0
+      ],
+      [
+        796.0,
+        884.0
+      ],
+      [
+        412.0,
+        884.0
+      ]
+    ],
+    "text": "tätigkeit an Schulen; das Studium wird hierfür",
+    "confidence": 0.792424031361798
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        860.0
+      ],
+      [
+        388.0,
+        860.0
+      ],
+      [
+        388.0,
+        888.0
+      ],
+      [
+        6.0,
+        888.0
+      ]
+    ],
+    "text": "schaftswissenschaften und Statistik. Nicht an",
+    "confidence": 0.9496415771894714
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        875.0
+      ],
+      [
+        795.0,
+        875.0
+      ],
+      [
+        795.0,
+        911.0
+      ],
+      [
+        413.0,
+        911.0
+      ]
+    ],
+    "text": "mit der Lehramtsprüfung abgeschlossen (sie-",
+    "confidence": 0.8583658424241944
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        885.0
+      ],
+      [
+        388.0,
+        885.0
+      ],
+      [
+        388.0,
+        918.0
+      ],
+      [
+        4.0,
+        918.0
+      ]
+    ],
+    "text": "jeder Universität sind alle Richtungen vertre-",
+    "confidence": 0.8423317061519688
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        904.0
+      ],
+      [
+        570.0,
+        904.0
+      ],
+      [
+        570.0,
+        934.0
+      ],
+      [
+        412.0,
+        934.0
+      ]
+    ],
+    "text": "he 3.9 Lehrämter)",
+    "confidence": 0.9933654522210961
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        914.0
+      ],
+      [
+        388.0,
+        914.0
+      ],
+      [
+        388.0,
+        944.0
+      ],
+      [
+        6.0,
+        944.0
+      ]
+    ],
+    "text": "ten. Das Lehrangebot ist daher sehr unter-",
+    "confidence": 0.7099501447475763
+  },
+  {
+    "bbox": [
+      [
+        14.0,
+        954.0
+      ],
+      [
+        216.0,
+        954.0
+      ],
+      [
+        216.0,
+        978.0
+      ],
+      [
+        14.0,
+        978.0
+      ]
+    ],
+    "text": "Studium an Universitäten",
+    "confidence": 0.9978001526795214
+  },
+  {
+    "bbox": [
+      [
+        259.0,
+        975.0
+      ],
+      [
+        460.0,
+        975.0
+      ],
+      [
+        460.0,
+        1000.0
+      ],
+      [
+        259.0,
+        1000.0
+      ]
+    ],
+    "text": "Baugeschichte, Magister; WS",
+    "confidence": 0.9733260140969128
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        977.0
+      ],
+      [
+        91.0,
+        977.0
+      ],
+      [
+        91.0,
+        997.0
+      ],
+      [
+        15.0,
+        997.0
+      ]
+    ],
+    "text": "Aachen TH",
+    "confidence": 0.9962882351535333
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        993.0
+      ],
+      [
+        610.0,
+        993.0
+      ],
+      [
+        610.0,
+        1020.0
+      ],
+      [
+        260.0,
+        1020.0
+      ]
+    ],
+    "text": "Geschichte; Magister; Studienbeginn WS empfohlen",
+    "confidence": 0.846801970583521
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1014.0
+      ],
+      [
+        660.0,
+        1014.0
+      ],
+      [
+        660.0,
+        1038.0
+      ],
+      [
+        260.0,
+        1038.0
+      ]
+    ],
+    "text": "Wirtschafts- und Sozialgeschichte; Magister; nur Nebenfach",
+    "confidence": 0.6842825157332849
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1032.0
+      ],
+      [
+        438.0,
+        1032.0
+      ],
+      [
+        438.0,
+        1059.0
+      ],
+      [
+        260.0,
+        1059.0
+      ]
+    ],
+    "text": "Alte Geschichte, Magister",
+    "confidence": 0.614341638424671
+  },
+  {
+    "bbox": [
+      [
+        14.0,
+        1034.0
+      ],
+      [
+        98.0,
+        1034.0
+      ],
+      [
+        98.0,
+        1058.0
+      ],
+      [
+        14.0,
+        1058.0
+      ]
+    ],
+    "text": "Augsburg U",
+    "confidence": 0.7715047413085739
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1051.0
+      ],
+      [
+        642.0,
+        1051.0
+      ],
+      [
+        642.0,
+        1080.0
+      ],
+      [
+        260.0,
+        1080.0
+      ]
+    ],
+    "text": "Bayerische und schwäbische Landesgeschichte, Magister",
+    "confidence": 0.772382563814779
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1072.0
+      ],
+      [
+        490.0,
+        1072.0
+      ],
+      [
+        490.0,
+        1096.0
+      ],
+      [
+        260.0,
+        1096.0
+      ]
+    ],
+    "text": "Didaktik der Geschichte, Magister",
+    "confidence": 0.6671613827209238
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1092.0
+      ],
+      [
+        534.0,
+        1092.0
+      ],
+      [
+        534.0,
+        1116.0
+      ],
+      [
+        260.0,
+        1116.0
+      ]
+    ],
+    "text": "Geschichte der Frühen Neuzeit, Magister",
+    "confidence": 0.7675609103072099
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1110.0
+      ],
+      [
+        486.0,
+        1110.0
+      ],
+      [
+        486.0,
+        1136.0
+      ],
+      [
+        260.0,
+        1136.0
+      ]
+    ],
+    "text": "Klassische Archäologie, Magister",
+    "confidence": 0.9070221201431984
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1130.0
+      ],
+      [
+        512.0,
+        1130.0
+      ],
+      [
+        512.0,
+        1156.0
+      ],
+      [
+        260.0,
+        1156.0
+      ]
+    ],
+    "text": "Mittelalterliche Geschichte, Magister",
+    "confidence": 0.7575983177430861
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1149.0
+      ],
+      [
+        546.0,
+        1149.0
+      ],
+      [
+        546.0,
+        1176.0
+      ],
+      [
+        260.0,
+        1176.0
+      ]
+    ],
+    "text": "Neuere und Neueste Geschichte, Magister",
+    "confidence": 0.6981757022272133
+  },
+  {
+    "bbox": [
+      [
+        257.0,
+        1169.0
+      ],
+      [
+        408.0,
+        1169.0
+      ],
+      [
+        408.0,
+        1194.0
+      ],
+      [
+        257.0,
+        1194.0
+      ]
+    ],
+    "text": "Volkskunde , Magister",
+    "confidence": 0.7899618522636356
+  },
+  {
+    "bbox": [
+      [
+        13.0,
+        1188.0
+      ],
+      [
+        94.0,
+        1188.0
+      ],
+      [
+        94.0,
+        1214.0
+      ],
+      [
+        13.0,
+        1214.0
+      ]
+    ],
+    "text": "Bamberg U",
+    "confidence": 0.984114212656837
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1190.0
+      ],
+      [
+        630.0,
+        1190.0
+      ],
+      [
+        630.0,
+        1214.0
+      ],
+      [
+        260.0,
+        1214.0
+      ]
+    ],
+    "text": "Archäologie des Mittelalters und der Neuzeit, Magister",
+    "confidence": 0.9674752427334666
+  },
+  {
+    "bbox": [
+      [
+        259.0,
+        1207.0
+      ],
+      [
+        718.0,
+        1207.0
+      ],
+      [
+        718.0,
+        1235.0
+      ],
+      [
+        259.0,
+        1235.0
+      ]
+    ],
+    "text": "Bauforschung und Baugeschichte oder Bau- und Siedlungsgeschichte,",
+    "confidence": 0.5978740819932055
+  },
+  {
+    "bbox": [
+      [
+        264.0,
+        1230.0
+      ],
+      [
+        434.0,
+        1230.0
+      ],
+      [
+        434.0,
+        1254.0
+      ],
+      [
+        264.0,
+        1254.0
+      ]
+    ],
+    "text": "Magister; nur Nebenfach",
+    "confidence": 0.9963764542964194
+  },
+  {
+    "bbox": [
+      [
+        259.0,
+        1245.0
+      ],
+      [
+        536.0,
+        1245.0
+      ],
+      [
+        536.0,
+        1274.0
+      ],
+      [
+        259.0,
+        1274.0
+      ]
+    ],
+    "text": "Denkmalpflege, Magister; nur Nebenfach",
+    "confidence": 0.7955781733095919
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1268.0
+      ],
+      [
+        394.0,
+        1268.0
+      ],
+      [
+        394.0,
+        1292.0
+      ],
+      [
+        260.0,
+        1292.0
+      ]
+    ],
+    "text": "Geschichte, Diplom",
+    "confidence": 0.8465512464787965
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1288.0
+      ],
+      [
+        406.0,
+        1288.0
+      ],
+      [
+        406.0,
+        1312.0
+      ],
+      [
+        260.0,
+        1312.0
+      ]
+    ],
+    "text": "Geschichte; Magister",
+    "confidence": 0.6602271058078493
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1308.0
+      ],
+      [
+        566.0,
+        1308.0
+      ],
+      [
+        566.0,
+        1332.0
+      ],
+      [
+        260.0,
+        1332.0
+      ]
+    ],
+    "text": "Volkskunde/Europäische Ethnologie, Magister",
+    "confidence": 0.7885943734757663
+  },
+  {
+    "bbox": [
+      [
+        260.0,
+        1328.0
+      ],
+      [
+        490.0,
+        1328.0
+      ],
+      [
+        490.0,
+        1352.0
+      ],
+      [
+        260.0,
+        1352.0
+      ]
+    ],
+    "text": "Vor- und Frühgeschichte; Magister",
+    "confidence": 0.7783729075863977
+  }
+]

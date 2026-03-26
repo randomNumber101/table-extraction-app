@@ -1,0 +1,2312 @@
+[
+  {
+    "bbox": [
+      [
+        18.0,
+        26.0
+      ],
+      [
+        398.0,
+        26.0
+      ],
+      [
+        398.0,
+        58.0
+      ],
+      [
+        18.0,
+        58.0
+      ]
+    ],
+    "text": "Male gehört zum Studium das Interesse am",
+    "confidence": 0.747473777783324
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        26.0
+      ],
+      [
+        804.0,
+        26.0
+      ],
+      [
+        804.0,
+        52.0
+      ],
+      [
+        422.0,
+        52.0
+      ]
+    ],
+    "text": "len dabei instrumentelle Messverfahren mit",
+    "confidence": 0.6761995825492886
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        51.0
+      ],
+      [
+        804.0,
+        51.0
+      ],
+      [
+        804.0,
+        82.0
+      ],
+      [
+        423.0,
+        82.0
+      ]
+    ],
+    "text": "Computereinsatz (Phonetik), Sprechpädago-",
+    "confidence": 0.5947923691363202
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        52.0
+      ],
+      [
+        398.0,
+        52.0
+      ],
+      [
+        398.0,
+        80.0
+      ],
+      [
+        18.0,
+        80.0
+      ]
+    ],
+    "text": "Erlernen alter und neuer Sprachen der indo-",
+    "confidence": 0.7303469787945388
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        77.0
+      ],
+      [
+        804.0,
+        77.0
+      ],
+      [
+        804.0,
+        110.0
+      ],
+      [
+        422.0,
+        110.0
+      ]
+    ],
+    "text": "gik oder rhetorische Kommunikation eine",
+    "confidence": 0.9174765409801322
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        78.0
+      ],
+      [
+        382.0,
+        78.0
+      ],
+      [
+        382.0,
+        108.0
+      ],
+      [
+        16.0,
+        108.0
+      ]
+    ],
+    "text": "europäischen und anderer Sprachfamilien.",
+    "confidence": 0.7464551283940182
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        102.0
+      ],
+      [
+        804.0,
+        102.0
+      ],
+      [
+        804.0,
+        134.0
+      ],
+      [
+        424.0,
+        134.0
+      ]
+    ],
+    "text": "wichtige Rolle: Sprecherziehung entwickelt",
+    "confidence": 0.5535607290805776
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        109.0
+      ],
+      [
+        399.0,
+        109.0
+      ],
+      [
+        399.0,
+        140.0
+      ],
+      [
+        18.0,
+        140.0
+      ]
+    ],
+    "text": "Die allgemeine Sprachwissenschafterforscht",
+    "confidence": 0.7753480711877113
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        128.0
+      ],
+      [
+        803.0,
+        128.0
+      ],
+      [
+        803.0,
+        164.0
+      ],
+      [
+        421.0,
+        164.0
+      ]
+    ],
+    "text": "belastungsadäquat Atmung, Stimmbildung",
+    "confidence": 0.529728257931152
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        138.0
+      ],
+      [
+        398.0,
+        138.0
+      ],
+      [
+        398.0,
+        168.0
+      ],
+      [
+        16.0,
+        168.0
+      ]
+    ],
+    "text": "überwiegend die lebenden Sprachen als",
+    "confidence": 0.8062202279133519
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        156.0
+      ],
+      [
+        804.0,
+        156.0
+      ],
+      [
+        804.0,
+        186.0
+      ],
+      [
+        422.0,
+        186.0
+      ]
+    ],
+    "text": "und Aussprache von Menschen, die (beruf-",
+    "confidence": 0.8246098348821465
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        164.0
+      ],
+      [
+        398.0,
+        164.0
+      ],
+      [
+        398.0,
+        194.0
+      ],
+      [
+        18.0,
+        194.0
+      ]
+    ],
+    "text": "Grundgegebenheiten der menschlichen Exis-",
+    "confidence": 0.7033334424627576
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        183.0
+      ],
+      [
+        804.0,
+        183.0
+      ],
+      [
+        804.0,
+        214.0
+      ],
+      [
+        422.0,
+        214.0
+      ]
+    ],
+    "text": "lich) viel mit der Stimme arbeiten, beugt Funk-",
+    "confidence": 0.8960878822786843
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        185.0
+      ],
+      [
+        399.0,
+        185.0
+      ],
+      [
+        399.0,
+        222.0
+      ],
+      [
+        15.0,
+        222.0
+      ]
+    ],
+    "text": "tenz und Gesellschaft sowie die gegebenen",
+    "confidence": 0.949232948761304
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        208.0
+      ],
+      [
+        804.0,
+        208.0
+      ],
+      [
+        804.0,
+        241.0
+      ],
+      [
+        422.0,
+        241.0
+      ]
+    ],
+    "text": "tionsbeeinträchtigungen der Sprechorgane",
+    "confidence": 0.8915181122711713
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        214.0
+      ],
+      [
+        398.0,
+        214.0
+      ],
+      [
+        398.0,
+        247.0
+      ],
+      [
+        15.0,
+        247.0
+      ]
+    ],
+    "text": "Sprachsysteme in phonologischer; morpholo -",
+    "confidence": 0.7079014561879312
+  },
+  {
+    "bbox": [
+      [
+        457.0,
+        234.0
+      ],
+      [
+        803.0,
+        234.0
+      ],
+      [
+        803.0,
+        265.0
+      ],
+      [
+        457.0,
+        265.0
+      ]
+    ],
+    "text": "und/oder schult sprechkünstlerisches",
+    "confidence": 0.8678996155219255
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        240.0
+      ],
+      [
+        398.0,
+        240.0
+      ],
+      [
+        398.0,
+        272.0
+      ],
+      [
+        16.0,
+        272.0
+      ]
+    ],
+    "text": "gischer; syntaktischer; semantischer; pragma-",
+    "confidence": 0.794252132264866
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        241.0
+      ],
+      [
+        457.0,
+        241.0
+      ],
+      [
+        457.0,
+        261.0
+      ],
+      [
+        423.0,
+        261.0
+      ]
+    ],
+    "text": "vor",
+    "confidence": 0.9693748201891379
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        261.0
+      ],
+      [
+        803.0,
+        261.0
+      ],
+      [
+        803.0,
+        290.0
+      ],
+      [
+        423.0,
+        290.0
+      ]
+    ],
+    "text": "Können z.B. im Bereich der Darstellenden",
+    "confidence": 0.74812124270198
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        264.0
+      ],
+      [
+        402.0,
+        264.0
+      ],
+      [
+        402.0,
+        302.0
+      ],
+      [
+        15.0,
+        302.0
+      ]
+    ],
+    "text": "tischer und textkritischer Hinsicht . Wichtige",
+    "confidence": 0.58873027112965
+  },
+  {
+    "bbox": [
+      [
+        754.0513167019495,
+        285.1539501058485
+      ],
+      [
+        805.8624394627632,
+        294.101979776388
+      ],
+      [
+        800.9486832980505,
+        320.8460498941515
+      ],
+      [
+        749.1375605372368,
+        311.898020223612
+      ]
+    ],
+    "text": "Kom-",
+    "confidence": 0.9995797872543335
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        288.0
+      ],
+      [
+        753.0,
+        288.0
+      ],
+      [
+        753.0,
+        316.0
+      ],
+      [
+        424.0,
+        316.0
+      ]
+    ],
+    "text": "Kunst. Rhetorik fördert kommunikative",
+    "confidence": 0.5076055504233132
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        294.0
+      ],
+      [
+        398.0,
+        294.0
+      ],
+      [
+        398.0,
+        324.0
+      ],
+      [
+        18.0,
+        324.0
+      ]
+    ],
+    "text": "Methoden und Disziplinen sind: Strukturalis -",
+    "confidence": 0.5396829577561832
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        316.0
+      ],
+      [
+        804.0,
+        316.0
+      ],
+      [
+        804.0,
+        344.0
+      ],
+      [
+        423.0,
+        344.0
+      ]
+    ],
+    "text": "petenzen, indem sie die Gesprächs- und Re-",
+    "confidence": 0.7450378755783564
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        320.0
+      ],
+      [
+        398.0,
+        320.0
+      ],
+      [
+        398.0,
+        352.0
+      ],
+      [
+        18.0,
+        352.0
+      ]
+    ],
+    "text": "mus und Semiotik, die generative Transfor-",
+    "confidence": 0.8389693742573353
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        342.0
+      ],
+      [
+        802.0,
+        342.0
+      ],
+      [
+        802.0,
+        374.0
+      ],
+      [
+        422.0,
+        374.0
+      ]
+    ],
+    "text": "defähigkeit erweitert; und pathologisch-the-",
+    "confidence": 0.7677669342419372
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        348.0
+      ],
+      [
+        398.0,
+        348.0
+      ],
+      [
+        398.0,
+        378.0
+      ],
+      [
+        18.0,
+        378.0
+      ]
+    ],
+    "text": "mationsgrammatik, die strukturale und gene-",
+    "confidence": 0.928919654661656
+  },
+  {
+    "bbox": [
+      [
+        420.0,
+        363.0
+      ],
+      [
+        805.0,
+        363.0
+      ],
+      [
+        805.0,
+        401.0
+      ],
+      [
+        420.0,
+        401.0
+      ]
+    ],
+    "text": "rapeutisch ausgerichtete Aspekte der Sprech-",
+    "confidence": 0.9452299464326622
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        373.0
+      ],
+      [
+        356.0,
+        373.0
+      ],
+      [
+        356.0,
+        404.0
+      ],
+      [
+        16.0,
+        404.0
+      ]
+    ],
+    "text": "rative Semantik, die Textlinguistik,",
+    "confidence": 0.8740760751231559
+  },
+  {
+    "bbox": [
+      [
+        364.0,
+        374.0
+      ],
+      [
+        400.0,
+        374.0
+      ],
+      [
+        400.0,
+        402.0
+      ],
+      [
+        364.0,
+        402.0
+      ]
+    ],
+    "text": "die",
+    "confidence": 0.9999884373223668
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        394.0
+      ],
+      [
+        804.0,
+        394.0
+      ],
+      [
+        804.0,
+        420.0
+      ],
+      [
+        424.0,
+        420.0
+      ]
+    ],
+    "text": "wissenschaft befassen sich mit Stimmstörun-",
+    "confidence": 0.932769842699871
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        400.0
+      ],
+      [
+        221.0,
+        400.0
+      ],
+      [
+        221.0,
+        430.0
+      ],
+      [
+        18.0,
+        430.0
+      ]
+    ],
+    "text": "Sprachinhaltsforschung",
+    "confidence": 0.9853723133715414
+  },
+  {
+    "bbox": [
+      [
+        256.0,
+        400.0
+      ],
+      [
+        398.0,
+        400.0
+      ],
+      [
+        398.0,
+        430.0
+      ],
+      [
+        256.0,
+        430.0
+      ]
+    ],
+    "text": "die Kommunika -",
+    "confidence": 0.9332606892494739
+  },
+  {
+    "bbox": [
+      [
+        218.4789396203098,
+        403.41419735452666
+      ],
+      [
+        257.39127644446205,
+        400.1884269360136
+      ],
+      [
+        258.5210603796902,
+        425.58580264547334
+      ],
+      [
+        219.60872355553795,
+        428.8115730639864
+      ]
+    ],
+    "text": "und",
+    "confidence": 0.9997671669131456
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        420.0
+      ],
+      [
+        760.0,
+        420.0
+      ],
+      [
+        760.0,
+        450.0
+      ],
+      [
+        424.0,
+        450.0
+      ]
+    ],
+    "text": "gen und ähnlichen Beeinträchtigungen.",
+    "confidence": 0.7962129823511765
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        425.0
+      ],
+      [
+        398.0,
+        425.0
+      ],
+      [
+        398.0,
+        456.0
+      ],
+      [
+        15.0,
+        456.0
+      ]
+    ],
+    "text": "tionsforschung , die sich mit der zwischen-",
+    "confidence": 0.5410712856626955
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        450.0
+      ],
+      [
+        806.0,
+        450.0
+      ],
+      [
+        806.0,
+        482.0
+      ],
+      [
+        424.0,
+        482.0
+      ]
+    ],
+    "text": "Die Sprachlehrforschung beschäftigt sich mit",
+    "confidence": 0.8468253275189982
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        452.0
+      ],
+      [
+        398.0,
+        452.0
+      ],
+      [
+        398.0,
+        480.0
+      ],
+      [
+        18.0,
+        480.0
+      ]
+    ],
+    "text": "menschlichen Kommunikation befasst.  Als",
+    "confidence": 0.6531322135367199
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        475.0
+      ],
+      [
+        805.0,
+        475.0
+      ],
+      [
+        805.0,
+        513.0
+      ],
+      [
+        423.0,
+        513.0
+      ]
+    ],
+    "text": "den Bedingungen und Möglichkeiten des Ler-",
+    "confidence": 0.8479770300933905
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        476.0
+      ],
+      [
+        399.0,
+        476.0
+      ],
+      [
+        399.0,
+        512.0
+      ],
+      [
+        17.0,
+        512.0
+      ]
+    ],
+    "text": "besondere Forschungsbereiche haben sich",
+    "confidence": 0.6047037672081955
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        506.0
+      ],
+      [
+        398.0,
+        506.0
+      ],
+      [
+        398.0,
+        536.0
+      ],
+      [
+        18.0,
+        536.0
+      ]
+    ],
+    "text": "u.a. die Psycholinguistik (Spracherwerb, Spra-",
+    "confidence": 0.6322663463101537
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        506.0
+      ],
+      [
+        804.0,
+        506.0
+      ],
+      [
+        804.0,
+        534.0
+      ],
+      [
+        424.0,
+        534.0
+      ]
+    ],
+    "text": "nens und Lehrens von Fremdsprachen sowie",
+    "confidence": 0.9333496105247948
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        530.0
+      ],
+      [
+        806.0,
+        530.0
+      ],
+      [
+        806.0,
+        562.0
+      ],
+      [
+        424.0,
+        562.0
+      ]
+    ],
+    "text": "deren kommunikativen Verwendung.  Sie ist",
+    "confidence": 0.8611446791597296
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        531.0
+      ],
+      [
+        398.0,
+        531.0
+      ],
+      [
+        398.0,
+        561.0
+      ],
+      [
+        18.0,
+        561.0
+      ]
+    ],
+    "text": "che und Denken), die Soziolinguistik (soziale",
+    "confidence": 0.9272508355965622
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        557.0
+      ],
+      [
+        804.0,
+        557.0
+      ],
+      [
+        804.0,
+        589.0
+      ],
+      [
+        424.0,
+        589.0
+      ]
+    ],
+    "text": "eine empirisch und interdisziplinär arbeiten-",
+    "confidence": 0.9686063945886094
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        558.0
+      ],
+      [
+        398.0,
+        558.0
+      ],
+      [
+        398.0,
+        588.0
+      ],
+      [
+        18.0,
+        588.0
+      ]
+    ],
+    "text": "Sprachschichtung), die Pragmalinguistik (Wir-",
+    "confidence": 0.833272135474008
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        583.0
+      ],
+      [
+        804.0,
+        583.0
+      ],
+      [
+        804.0,
+        615.0
+      ],
+      [
+        424.0,
+        615.0
+      ]
+    ],
+    "text": "de Disziplin; die lerntheoretische Erkenntnis-",
+    "confidence": 0.6847142082406038
+  },
+  {
+    "bbox": [
+      [
+        19.02202795004179,
+        583.1638810551212
+      ],
+      [
+        67.82788167548362,
+        590.9984585732662
+      ],
+      [
+        63.97797204995821,
+        617.8361189448788
+      ],
+      [
+        14.172118324516376,
+        610.0015414267338
+      ]
+    ],
+    "text": "kung",
+    "confidence": 0.9999956488609314
+  },
+  {
+    "bbox": [
+      [
+        66.0,
+        585.0
+      ],
+      [
+        398.0,
+        585.0
+      ],
+      [
+        398.0,
+        614.0
+      ],
+      [
+        66.0,
+        614.0
+      ]
+    ],
+    "text": "der Sprache in den verschiedenen Le-",
+    "confidence": 0.9158688431401701
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        610.0
+      ],
+      [
+        804.0,
+        610.0
+      ],
+      [
+        804.0,
+        640.0
+      ],
+      [
+        422.0,
+        640.0
+      ]
+    ],
+    "text": "interessen mit praktischen Zielen (z.B. didak -",
+    "confidence": 0.5178248952966626
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        612.0
+      ],
+      [
+        288.0,
+        612.0
+      ],
+      [
+        288.0,
+        642.0
+      ],
+      [
+        18.0,
+        642.0
+      ]
+    ],
+    "text": "bensbereichen) herausgebildet.",
+    "confidence": 0.9774584065625599
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        637.0
+      ],
+      [
+        804.0,
+        637.0
+      ],
+      [
+        804.0,
+        669.0
+      ],
+      [
+        422.0,
+        669.0
+      ]
+    ],
+    "text": "tisch-methodische Konzeption von Fremd-",
+    "confidence": 0.9597312742526516
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        641.0
+      ],
+      [
+        399.0,
+        641.0
+      ],
+      [
+        399.0,
+        678.0
+      ],
+      [
+        17.0,
+        678.0
+      ]
+    ],
+    "text": "Die Computerlinguistik (Linguistische Daten -",
+    "confidence": 0.7292157690369383
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        664.0
+      ],
+      [
+        682.0,
+        664.0
+      ],
+      [
+        682.0,
+        694.0
+      ],
+      [
+        423.0,
+        694.0
+      ]
+    ],
+    "text": "sprachenunterricht) verbindet.",
+    "confidence": 0.8558821151658536
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        669.0
+      ],
+      [
+        398.0,
+        669.0
+      ],
+      [
+        398.0,
+        702.0
+      ],
+      [
+        17.0,
+        702.0
+      ]
+    ],
+    "text": "verarbeitung ,  Elektronische Sprachverarbei-",
+    "confidence": 0.6312462736377588
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        693.0
+      ],
+      [
+        399.0,
+        693.0
+      ],
+      [
+        399.0,
+        729.0
+      ],
+      [
+        17.0,
+        729.0
+      ]
+    ],
+    "text": "tung 0.Ä.) befasst sich mit der Verarbeitung",
+    "confidence": 0.8509437457759242
+  },
+  {
+    "bbox": [
+      [
+        474.0,
+        693.0
+      ],
+      [
+        805.0,
+        693.0
+      ],
+      [
+        805.0,
+        729.0
+      ],
+      [
+        474.0,
+        729.0
+      ]
+    ],
+    "text": "Wechselbeziehungen haben Sprach-",
+    "confidence": 0.9612872164215196
+  },
+  {
+    "bbox": [
+      [
+        425.0513167019495,
+        695.1539501058485
+      ],
+      [
+        475.82266223560623,
+        702.9838415951817
+      ],
+      [
+        470.94868329805047,
+        730.8460498941515
+      ],
+      [
+        420.1773377643938,
+        723.0161584048183
+      ]
+    ],
+    "text": "Enge",
+    "confidence": 0.9999597668647766
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        724.0
+      ],
+      [
+        398.0,
+        724.0
+      ],
+      [
+        398.0,
+        754.0
+      ],
+      [
+        18.0,
+        754.0
+      ]
+    ],
+    "text": "natürlicher Sprache in Computersystemen.",
+    "confidence": 0.9893740430939064
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        724.0
+      ],
+      [
+        804.0,
+        724.0
+      ],
+      [
+        804.0,
+        754.0
+      ],
+      [
+        424.0,
+        754.0
+      ]
+    ],
+    "text": "und Sprechwissenschaften zu den jeweiligen",
+    "confidence": 0.9534450654791358
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        748.0
+      ],
+      [
+        401.0,
+        748.0
+      ],
+      [
+        401.0,
+        784.0
+      ],
+      [
+        17.0,
+        784.0
+      ]
+    ],
+    "text": "Sie hat gemeinsame Arbeitsgebiete mit der",
+    "confidence": 0.7877497092564069
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        748.0
+      ],
+      [
+        805.0,
+        748.0
+      ],
+      [
+        805.0,
+        785.0
+      ],
+      [
+        423.0,
+        785.0
+      ]
+    ],
+    "text": "Nachbardisziplinen Pädagogik, Anthropolo-",
+    "confidence": 0.7574209794069328
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        778.0
+      ],
+      [
+        398.0,
+        778.0
+      ],
+      [
+        398.0,
+        810.0
+      ],
+      [
+        18.0,
+        810.0
+      ]
+    ],
+    "text": "Linguistik, der Informatik und der Informati -",
+    "confidence": 0.914113118947444
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        778.0
+      ],
+      [
+        804.0,
+        778.0
+      ],
+      [
+        804.0,
+        808.0
+      ],
+      [
+        424.0,
+        808.0
+      ]
+    ],
+    "text": "gie, Ethnologie, Logik, Philosophie; Informa -",
+    "confidence": 0.5908104191888176
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        804.0
+      ],
+      [
+        170.0,
+        804.0
+      ],
+      [
+        170.0,
+        832.0
+      ],
+      [
+        18.0,
+        832.0
+      ]
+    ],
+    "text": "onswissenschaft.",
+    "confidence": 0.98347056180244
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        804.0
+      ],
+      [
+        804.0,
+        804.0
+      ],
+      [
+        804.0,
+        836.0
+      ],
+      [
+        422.0,
+        836.0
+      ]
+    ],
+    "text": "tik, Psychologie sowie zu therapeutisch aus-",
+    "confidence": 0.8346943019130315
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        829.0
+      ],
+      [
+        804.0,
+        829.0
+      ],
+      [
+        804.0,
+        861.0
+      ],
+      [
+        423.0,
+        861.0
+      ]
+    ],
+    "text": "gerichteten Studiengängen. Erforderlich sind",
+    "confidence": 0.7450012368839042
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        836.0
+      ],
+      [
+        398.0,
+        836.0
+      ],
+      [
+        398.0,
+        869.0
+      ],
+      [
+        20.0,
+        869.0
+      ]
+    ],
+    "text": "Das noch relativ junge wissenschaftliche For-",
+    "confidence": 0.9545281084410725
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        855.0
+      ],
+      [
+        804.0,
+        855.0
+      ],
+      [
+        804.0,
+        888.0
+      ],
+      [
+        424.0,
+        888.0
+      ]
+    ],
+    "text": "in der Regel Kenntnisse in mehreren Fremd-",
+    "confidence": 0.9330840445688214
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        863.0
+      ],
+      [
+        400.0,
+        863.0
+      ],
+      [
+        400.0,
+        896.0
+      ],
+      [
+        17.0,
+        896.0
+      ]
+    ],
+    "text": "schungsgebiet der   Texttechnologie befasst",
+    "confidence": 0.49870743094234604
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        884.0
+      ],
+      [
+        804.0,
+        884.0
+      ],
+      [
+        804.0,
+        912.0
+      ],
+      [
+        424.0,
+        912.0
+      ]
+    ],
+    "text": "sprachen, davon mindestens zwei lebende",
+    "confidence": 0.5645641523207027
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        890.0
+      ],
+      [
+        398.0,
+        890.0
+      ],
+      [
+        398.0,
+        920.0
+      ],
+      [
+        18.0,
+        920.0
+      ]
+    ],
+    "text": "sich u.a. mit der technologischen Aufberei -",
+    "confidence": 0.6599765289223595
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        910.0
+      ],
+      [
+        804.0,
+        910.0
+      ],
+      [
+        804.0,
+        940.0
+      ],
+      [
+        424.0,
+        940.0
+      ]
+    ],
+    "text": "Sprachen sowie ausreichende Lateinkennt-",
+    "confidence": 0.9947044749800483
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        913.0
+      ],
+      [
+        399.0,
+        913.0
+      ],
+      [
+        399.0,
+        949.0
+      ],
+      [
+        17.0,
+        949.0
+      ]
+    ],
+    "text": "tung sowie der Informationsanreicherung von",
+    "confidence": 0.9611095280293348
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        936.0
+      ],
+      [
+        804.0,
+        936.0
+      ],
+      [
+        804.0,
+        964.0
+      ],
+      [
+        424.0,
+        964.0
+      ]
+    ],
+    "text": "nisse. Für das Studium der einzelnen Philolo-",
+    "confidence": 0.9555508399869573
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        944.0
+      ],
+      [
+        400.0,
+        944.0
+      ],
+      [
+        400.0,
+        970.0
+      ],
+      [
+        18.0,
+        970.0
+      ]
+    ],
+    "text": "Texten. Vermittelt werden Methoden der Text-",
+    "confidence": 0.7523376086334721
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        964.0
+      ],
+      [
+        806.0,
+        964.0
+      ],
+      [
+        806.0,
+        996.0
+      ],
+      [
+        424.0,
+        996.0
+      ]
+    ],
+    "text": "gien haben die Indogermanistik seit Beginn",
+    "confidence": 0.9743291591167286
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        968.0
+      ],
+      [
+        400.0,
+        968.0
+      ],
+      [
+        400.0,
+        1000.0
+      ],
+      [
+        17.0,
+        1000.0
+      ]
+    ],
+    "text": "beschreibung und -verarbeitung; die eine Prä-",
+    "confidence": 0.8041326417384486
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        990.0
+      ],
+      [
+        804.0,
+        990.0
+      ],
+      [
+        804.0,
+        1020.0
+      ],
+      [
+        424.0,
+        1020.0
+      ]
+    ],
+    "text": "des 19. Jahrhunderts und die allgemeine",
+    "confidence": 0.8949950631470946
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        997.0
+      ],
+      [
+        400.0,
+        997.0
+      ],
+      [
+        400.0,
+        1024.0
+      ],
+      [
+        18.0,
+        1024.0
+      ]
+    ],
+    "text": "sentation von Texten in verschiedenen Medi-",
+    "confidence": 0.8732314924369049
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1018.0
+      ],
+      [
+        804.0,
+        1018.0
+      ],
+      [
+        804.0,
+        1046.0
+      ],
+      [
+        424.0,
+        1046.0
+      ]
+    ],
+    "text": "Sprachwissenschaft vor allem in den letzten",
+    "confidence": 0.8582324503699967
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1019.0
+      ],
+      [
+        401.0,
+        1019.0
+      ],
+      [
+        401.0,
+        1055.0
+      ],
+      [
+        19.0,
+        1055.0
+      ]
+    ],
+    "text": "en, die maschinelle Weiterverarbeitung von",
+    "confidence": 0.6117147490562028
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1044.0
+      ],
+      [
+        804.0,
+        1044.0
+      ],
+      [
+        804.0,
+        1074.0
+      ],
+      [
+        424.0,
+        1074.0
+      ]
+    ],
+    "text": "Jahrzehnten grundlegende Erkenntnisse und",
+    "confidence": 0.8149992632530163
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1052.0
+      ],
+      [
+        400.0,
+        1052.0
+      ],
+      [
+        400.0,
+        1080.0
+      ],
+      [
+        20.0,
+        1080.0
+      ]
+    ],
+    "text": "Texten und die hypertextuelle bzw. hyperme-",
+    "confidence": 0.8490385022745642
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        1070.0
+      ],
+      [
+        804.0,
+        1070.0
+      ],
+      [
+        804.0,
+        1100.0
+      ],
+      [
+        426.0,
+        1100.0
+      ]
+    ],
+    "text": "Methoden hervorgebracht; die auch die didak -",
+    "confidence": 0.6876756130939039
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1073.0
+      ],
+      [
+        397.0,
+        1073.0
+      ],
+      [
+        397.0,
+        1109.0
+      ],
+      [
+        19.0,
+        1109.0
+      ]
+    ],
+    "text": "diale Darstellung von Texten ermöglichen:",
+    "confidence": 0.817440025596302
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1096.0
+      ],
+      [
+        804.0,
+        1096.0
+      ],
+      [
+        804.0,
+        1126.0
+      ],
+      [
+        424.0,
+        1126.0
+      ]
+    ],
+    "text": "tisch-methodische Konzeption des Deutsch-",
+    "confidence": 0.9865050882780176
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1099.0
+      ],
+      [
+        401.0,
+        1099.0
+      ],
+      [
+        401.0,
+        1135.0
+      ],
+      [
+        19.0,
+        1135.0
+      ]
+    ],
+    "text": "Auch die vereinfachte Wiederverwendung",
+    "confidence": 0.9233754828868856
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1124.0
+      ],
+      [
+        806.0,
+        1124.0
+      ],
+      [
+        806.0,
+        1154.0
+      ],
+      [
+        424.0,
+        1154.0
+      ]
+    ],
+    "text": "und Fremdsprachenunterrichts maßgeblich",
+    "confidence": 0.7802134698987286
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1127.0
+      ],
+      [
+        400.0,
+        1127.0
+      ],
+      [
+        400.0,
+        1160.0
+      ],
+      [
+        20.0,
+        1160.0
+      ]
+    ],
+    "text": "bzw. Archivierung von Texten ist Gegenstand",
+    "confidence": 0.7180077065098539
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1150.0
+      ],
+      [
+        574.0,
+        1150.0
+      ],
+      [
+        574.0,
+        1178.0
+      ],
+      [
+        424.0,
+        1178.0
+      ]
+    ],
+    "text": "verändert haben:.",
+    "confidence": 0.7477349536138976
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1156.0
+      ],
+      [
+        400.0,
+        1156.0
+      ],
+      [
+        400.0,
+        1184.0
+      ],
+      [
+        20.0,
+        1184.0
+      ]
+    ],
+    "text": "dieses Gebietes. Die Sprechwissenschaft,",
+    "confidence": 0.5165646185175409
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1179.0
+      ],
+      [
+        807.0,
+        1179.0
+      ],
+      [
+        807.0,
+        1217.0
+      ],
+      [
+        424.0,
+        1217.0
+      ]
+    ],
+    "text": "Diplomierte Sprechwissenschaftler können",
+    "confidence": 0.9422627967858621
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1183.0
+      ],
+      [
+        400.0,
+        1183.0
+      ],
+      [
+        400.0,
+        1215.0
+      ],
+      [
+        20.0,
+        1215.0
+      ]
+    ],
+    "text": "Rhetorik, Phonetik beschäftigen sich mit den",
+    "confidence": 0.7017254768735618
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1206.0
+      ],
+      [
+        401.0,
+        1206.0
+      ],
+      [
+        401.0,
+        1244.0
+      ],
+      [
+        17.0,
+        1244.0
+      ]
+    ],
+    "text": "Bedingungen menschlicher Kommunikation",
+    "confidence": 0.8893820946384294
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1208.0
+      ],
+      [
+        806.0,
+        1208.0
+      ],
+      [
+        806.0,
+        1238.0
+      ],
+      [
+        424.0,
+        1238.0
+      ]
+    ],
+    "text": "sich in Halle zusätzlich als Klinische Sprech-",
+    "confidence": 0.730879148496639
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1234.0
+      ],
+      [
+        400.0,
+        1234.0
+      ],
+      [
+        400.0,
+        1267.0
+      ],
+      [
+        20.0,
+        1267.0
+      ]
+    ],
+    "text": "unter dem Gesichtspunkt lautsprachlicher",
+    "confidence": 0.8603606165017688
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        1234.0
+      ],
+      [
+        806.0,
+        1234.0
+      ],
+      [
+        806.0,
+        1267.0
+      ],
+      [
+        426.0,
+        1267.0
+      ]
+    ],
+    "text": "wissenschaftler für therapeutische Arbeits-",
+    "confidence": 0.7777142679331874
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1258.0
+      ],
+      [
+        402.0,
+        1258.0
+      ],
+      [
+        402.0,
+        1296.0
+      ],
+      [
+        17.0,
+        1296.0
+      ]
+    ],
+    "text": "Äußerungen; also zentral mit dem menschli-",
+    "confidence": 0.7929526736342641
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        1259.0
+      ],
+      [
+        611.0,
+        1259.0
+      ],
+      [
+        611.0,
+        1296.0
+      ],
+      [
+        421.0,
+        1296.0
+      ]
+    ],
+    "text": "gebiete qualifizieren:",
+    "confidence": 0.7145510493743532
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1290.0
+      ],
+      [
+        402.0,
+        1290.0
+      ],
+      [
+        402.0,
+        1320.0
+      ],
+      [
+        20.0,
+        1320.0
+      ]
+    ],
+    "text": "chen Sprechen und Hören. Je nach fachlichem",
+    "confidence": 0.9378843818984497
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1294.0
+      ],
+      [
+        809.0,
+        1294.0
+      ],
+      [
+        809.0,
+        1331.0
+      ],
+      [
+        425.0,
+        1331.0
+      ]
+    ],
+    "text": "Außerdem gibt es an einigen Hochschulen die",
+    "confidence": 0.7761409530957624
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1314.0
+      ],
+      [
+        401.0,
+        1314.0
+      ],
+      [
+        401.0,
+        1352.0
+      ],
+      [
+        19.0,
+        1352.0
+      ]
+    ],
+    "text": "Zuschnitt des jeweiligen Studienganges spie-",
+    "confidence": 0.9215217739259423
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        1323.0
+      ],
+      [
+        806.0,
+        1323.0
+      ],
+      [
+        806.0,
+        1355.0
+      ],
+      [
+        426.0,
+        1355.0
+      ]
+    ],
+    "text": "Möglichkeit, studienbegleitend neben einem",
+    "confidence": 0.9783728349544629
+  }
+]

@@ -1,0 +1,2356 @@
+[
+  {
+    "bbox": [
+      [
+        17.0,
+        28.0
+      ],
+      [
+        399.0,
+        28.0
+      ],
+      [
+        399.0,
+        52.0
+      ],
+      [
+        17.0,
+        52.0
+      ]
+    ],
+    "text": "Industrie- und Handelskammern , Handwerkskammern",
+    "confidence": 0.7929475833913213
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        32.0
+      ],
+      [
+        591.0,
+        32.0
+      ],
+      [
+        591.0,
+        64.0
+      ],
+      [
+        425.0,
+        64.0
+      ]
+    ],
+    "text": "Andere Berufe",
+    "confidence": 0.9529785300524021
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        50.0
+      ],
+      [
+        399.0,
+        50.0
+      ],
+      [
+        399.0,
+        76.0
+      ],
+      [
+        17.0,
+        76.0
+      ]
+    ],
+    "text": "sowie Gewerkschaften informieren über rechtliche und",
+    "confidence": 0.7824585870835529
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        67.0
+      ],
+      [
+        806.0,
+        67.0
+      ],
+      [
+        806.0,
+        103.0
+      ],
+      [
+        422.0,
+        103.0
+      ]
+    ],
+    "text": "Über 3.000 Unternehmen im Bundesgebiet (vor",
+    "confidence": 0.7814881302109384
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        71.0
+      ],
+      [
+        379.0,
+        71.0
+      ],
+      [
+        379.0,
+        101.0
+      ],
+      [
+        17.0,
+        101.0
+      ]
+    ],
+    "text": "tarifliche Fragen der betrieblichen Berufsausbildung:",
+    "confidence": 0.9135207671824505
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        97.0
+      ],
+      [
+        801.0,
+        97.0
+      ],
+      [
+        801.0,
+        126.0
+      ],
+      [
+        423.0,
+        126.0
+      ]
+    ],
+    "text": "allem Industrie- und Handelsunternehmen,",
+    "confidence": 0.7982165282962442
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        112.0
+      ],
+      [
+        399.0,
+        112.0
+      ],
+      [
+        399.0,
+        140.0
+      ],
+      [
+        19.0,
+        140.0
+      ]
+    ],
+    "text": "Online Infos: Ausbildungs-Stellen Informations-Service",
+    "confidence": 0.8046022659853866
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        122.0
+      ],
+      [
+        807.0,
+        122.0
+      ],
+      [
+        807.0,
+        154.0
+      ],
+      [
+        422.0,
+        154.0
+      ]
+    ],
+    "text": "Versicherungen) bieten zurzeit etwa 13.000",
+    "confidence": 0.7838811387270013
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        136.0
+      ],
+      [
+        399.0,
+        136.0
+      ],
+      [
+        399.0,
+        160.0
+      ],
+      [
+        17.0,
+        160.0
+      ]
+    ],
+    "text": "(ASIS) der Bundesanstalt für Arbeit: wwwarbeitsamt de",
+    "confidence": 0.7140143132251385
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        148.0
+      ],
+      [
+        805.0,
+        148.0
+      ],
+      [
+        805.0,
+        181.0
+      ],
+      [
+        424.0,
+        181.0
+      ]
+    ],
+    "text": "Ausbildungsplätze an, die speziell auf Studien -",
+    "confidence": 0.7488936017266596
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        166.0
+      ],
+      [
+        399.0,
+        166.0
+      ],
+      [
+        399.0,
+        192.0
+      ],
+      [
+        21.0,
+        192.0
+      ]
+    ],
+    "text": "\"MACH S RICHTIG ONLINE\" mit Beschreibungen und",
+    "confidence": 0.6669779205916785
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        174.0
+      ],
+      [
+        805.0,
+        174.0
+      ],
+      [
+        805.0,
+        206.0
+      ],
+      [
+        423.0,
+        206.0
+      ]
+    ],
+    "text": "berechtigte zugeschnitten sind. Diese Sonder-",
+    "confidence": 0.6182657789151154
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        188.0
+      ],
+      [
+        399.0,
+        188.0
+      ],
+      [
+        399.0,
+        214.0
+      ],
+      [
+        17.0,
+        214.0
+      ]
+    ],
+    "text": "Simulationen zu 140 verschiedenen Berufen, aktuelle",
+    "confidence": 0.7742043583272625
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        199.0
+      ],
+      [
+        806.0,
+        199.0
+      ],
+      [
+        806.0,
+        236.0
+      ],
+      [
+        421.0,
+        236.0
+      ]
+    ],
+    "text": "ausbildungen zeichnen sich durch Praxisnähe",
+    "confidence": 0.8522429695546243
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        212.0
+      ],
+      [
+        399.0,
+        212.0
+      ],
+      [
+        399.0,
+        236.0
+      ],
+      [
+        17.0,
+        236.0
+      ]
+    ],
+    "text": "Informationen und interessante Links zu vielen Berufen:",
+    "confidence": 0.8942415341071284
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        229.0
+      ],
+      [
+        801.0,
+        229.0
+      ],
+      [
+        801.0,
+        259.0
+      ],
+      [
+        423.0,
+        259.0
+      ]
+    ],
+    "text": "und einen hohen theoretischen Anspruch aus.",
+    "confidence": 0.9396815255079097
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        234.0
+      ],
+      [
+        179.0,
+        234.0
+      ],
+      [
+        179.0,
+        258.0
+      ],
+      [
+        17.0,
+        258.0
+      ]
+    ],
+    "text": "wwmachs-richtig de",
+    "confidence": 0.9614317916303702
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        252.0
+      ],
+      [
+        806.0,
+        252.0
+      ],
+      [
+        806.0,
+        289.0
+      ],
+      [
+        424.0,
+        289.0
+      ]
+    ],
+    "text": "Meist sind diese Ausbildungsgänge nach dem",
+    "confidence": 0.805879342727752
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        262.0
+      ],
+      [
+        399.0,
+        262.0
+      ],
+      [
+        399.0,
+        290.0
+      ],
+      [
+        17.0,
+        290.0
+      ]
+    ],
+    "text": "Infos zu den Berufsbildungswerken und Berufsförde-",
+    "confidence": 0.9935321683113262
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        282.0
+      ],
+      [
+        805.0,
+        282.0
+      ],
+      [
+        805.0,
+        312.0
+      ],
+      [
+        423.0,
+        312.0
+      ]
+    ],
+    "text": "dualen System aufgebaut: Nach eineinhalb bis",
+    "confidence": 0.8427975210501387
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        284.0
+      ],
+      [
+        363.0,
+        284.0
+      ],
+      [
+        363.0,
+        313.0
+      ],
+      [
+        16.0,
+        313.0
+      ]
+    ],
+    "text": "rungswerken: http: / /aaonline dkf de/bb/p1OO.htm",
+    "confidence": 0.5646437716099211
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        307.0
+      ],
+      [
+        805.0,
+        307.0
+      ],
+      [
+        805.0,
+        337.0
+      ],
+      [
+        423.0,
+        337.0
+      ]
+    ],
+    "text": "zwei Jahren (erste Stufe) ist ein berufsqualifi -",
+    "confidence": 0.7099877969666499
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        314.0
+      ],
+      [
+        399.0,
+        314.0
+      ],
+      [
+        399.0,
+        342.0
+      ],
+      [
+        15.0,
+        342.0
+      ]
+    ],
+    "text": "Infos zu des staatlich anerkannten Ausbildungsberufen:",
+    "confidence": 0.7665150886290079
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        336.0
+      ],
+      [
+        399.0,
+        336.0
+      ],
+      [
+        399.0,
+        364.0
+      ],
+      [
+        16.0,
+        364.0
+      ]
+    ],
+    "text": "Bundesinstitut für Berufsbildung unter Stichwort",
+    "confidence": 0.8845495046567233
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        336.0
+      ],
+      [
+        803.0,
+        336.0
+      ],
+      [
+        803.0,
+        364.0
+      ],
+      [
+        423.0,
+        364.0
+      ]
+    ],
+    "text": "zierender Abschluss (Abschlussprüfung in ei-",
+    "confidence": 0.9888469589893412
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        360.0
+      ],
+      [
+        203.0,
+        360.0
+      ],
+      [
+        203.0,
+        384.0
+      ],
+      [
+        17.0,
+        384.0
+      ]
+    ],
+    "text": "\"AWEB\" in wwwbibb de",
+    "confidence": 0.7606867928734781
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        362.0
+      ],
+      [
+        801.0,
+        362.0
+      ],
+      [
+        801.0,
+        392.0
+      ],
+      [
+        423.0,
+        392.0
+      ]
+    ],
+    "text": "nem anerkannten Ausbildungsberuf) möglich.",
+    "confidence": 0.8502894707719554
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        388.0
+      ],
+      [
+        805.0,
+        388.0
+      ],
+      [
+        805.0,
+        414.0
+      ],
+      [
+        423.0,
+        414.0
+      ]
+    ],
+    "text": "Daran schließt sich eine weitere ein bis einein-",
+    "confidence": 0.7965714749615591
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        404.0
+      ],
+      [
+        277.0,
+        404.0
+      ],
+      [
+        277.0,
+        436.0
+      ],
+      [
+        19.0,
+        436.0
+      ]
+    ],
+    "text": "Berufsfachschulberufe",
+    "confidence": 0.6271338281350053
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        412.0
+      ],
+      [
+        805.0,
+        412.0
+      ],
+      [
+        805.0,
+        445.0
+      ],
+      [
+        423.0,
+        445.0
+      ]
+    ],
+    "text": "halb Jahre dauernde zweite Ausbildungsstufe",
+    "confidence": 0.8179835100345089
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        440.0
+      ],
+      [
+        803.0,
+        440.0
+      ],
+      [
+        803.0,
+        466.0
+      ],
+      [
+        423.0,
+        466.0
+      ]
+    ],
+    "text": "an. In Betrieben des Handwerks und des Han-",
+    "confidence": 0.8914625221249562
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        441.0
+      ],
+      [
+        397.0,
+        441.0
+      ],
+      [
+        397.0,
+        470.0
+      ],
+      [
+        17.0,
+        470.0
+      ]
+    ],
+    "text": "Berufsfachschulen sind Schulen der beruflichen",
+    "confidence": 0.8444297107407782
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        466.0
+      ],
+      [
+        397.0,
+        466.0
+      ],
+      [
+        397.0,
+        498.0
+      ],
+      [
+        16.0,
+        498.0
+      ]
+    ],
+    "text": "Erstausbildung mit Vollzeitunterricht von",
+    "confidence": 0.9116813186557494
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        466.0
+      ],
+      [
+        803.0,
+        466.0
+      ],
+      [
+        803.0,
+        497.0
+      ],
+      [
+        423.0,
+        497.0
+      ]
+    ],
+    "text": "dels kann neben der regulären Berufsausbil -",
+    "confidence": 0.7463150745323506
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        493.0
+      ],
+      [
+        803.0,
+        493.0
+      ],
+      [
+        803.0,
+        524.0
+      ],
+      [
+        421.0,
+        524.0
+      ]
+    ],
+    "text": "dung im dualen System ausbildungsbegleitend",
+    "confidence": 0.8323542898345229
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        496.0
+      ],
+      [
+        399.0,
+        496.0
+      ],
+      [
+        399.0,
+        526.0
+      ],
+      [
+        17.0,
+        526.0
+      ]
+    ],
+    "text": "mindestens einjähriger Dauer Berufsfachschu-",
+    "confidence": 0.8087635187597345
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        520.0
+      ],
+      [
+        805.0,
+        520.0
+      ],
+      [
+        805.0,
+        548.0
+      ],
+      [
+        423.0,
+        548.0
+      ]
+    ],
+    "text": "eine Zusatzqualifikation erworben werden; die",
+    "confidence": 0.8794292935570798
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        522.0
+      ],
+      [
+        397.0,
+        522.0
+      ],
+      [
+        397.0,
+        552.0
+      ],
+      [
+        17.0,
+        552.0
+      ]
+    ],
+    "text": "len haben die Aufgabe, allgemein-und berufs-",
+    "confidence": 0.8411219833346815
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        544.0
+      ],
+      [
+        803.0,
+        544.0
+      ],
+      [
+        803.0,
+        574.0
+      ],
+      [
+        423.0,
+        574.0
+      ]
+    ],
+    "text": "entweder zum \"Betriebsassistent im Hand-",
+    "confidence": 0.8543702368259735
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        548.0
+      ],
+      [
+        397.0,
+        548.0
+      ],
+      [
+        397.0,
+        576.0
+      ],
+      [
+        17.0,
+        576.0
+      ]
+    ],
+    "text": "bildende Lerninhalte zu vermitteln und bereiten",
+    "confidence": 0.7342019200085387
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        572.0
+      ],
+      [
+        397.0,
+        572.0
+      ],
+      [
+        397.0,
+        604.0
+      ],
+      [
+        17.0,
+        604.0
+      ]
+    ],
+    "text": "auf die Fachbildung in einem Ausbildungsbe-",
+    "confidence": 0.9826840439235461
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        572.0
+      ],
+      [
+        803.0,
+        572.0
+      ],
+      [
+        803.0,
+        601.0
+      ],
+      [
+        421.0,
+        601.0
+      ]
+    ],
+    "text": "werka oder zum \"Handelsassistenta (siehe",
+    "confidence": 0.40194791368717997
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        600.0
+      ],
+      [
+        675.0,
+        600.0
+      ],
+      [
+        675.0,
+        626.0
+      ],
+      [
+        423.0,
+        626.0
+      ]
+    ],
+    "text": "8.1.2.1) bzw. \"Substituta führt.",
+    "confidence": 0.48576132617349377
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        602.0
+      ],
+      [
+        399.0,
+        602.0
+      ],
+      [
+        399.0,
+        630.0
+      ],
+      [
+        17.0,
+        630.0
+      ]
+    ],
+    "text": "rufvor oder führen unmittelbar zu einem Berufs-",
+    "confidence": 0.6805591382666307
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        627.0
+      ],
+      [
+        106.0,
+        627.0
+      ],
+      [
+        106.0,
+        653.0
+      ],
+      [
+        17.0,
+        653.0
+      ]
+    ],
+    "text": "abschluss.",
+    "confidence": 0.9656599326571564
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        627.0
+      ],
+      [
+        803.0,
+        627.0
+      ],
+      [
+        803.0,
+        663.0
+      ],
+      [
+        422.0,
+        663.0
+      ]
+    ],
+    "text": "Bei der Ausbildung zum wBetriebsassistenten",
+    "confidence": 0.746444712094477
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        657.0
+      ],
+      [
+        803.0,
+        657.0
+      ],
+      [
+        803.0,
+        688.0
+      ],
+      [
+        423.0,
+        688.0
+      ]
+    ],
+    "text": "im Handwerkw wird in 3/ Jahren eine Doppel -",
+    "confidence": 0.4197556060040528
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        660.0
+      ],
+      [
+        397.0,
+        660.0
+      ],
+      [
+        397.0,
+        692.0
+      ],
+      [
+        17.0,
+        692.0
+      ]
+    ],
+    "text": "So unterschiedlich wie die Ausbildungsgänge",
+    "confidence": 0.9942667811345294
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        684.0
+      ],
+      [
+        803.0,
+        684.0
+      ],
+      [
+        803.0,
+        712.0
+      ],
+      [
+        423.0,
+        712.0
+      ]
+    ],
+    "text": "qualifikation erreicht: der Abschluss in einem",
+    "confidence": 0.7761141132378265
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        687.0
+      ],
+      [
+        397.0,
+        687.0
+      ],
+      [
+        397.0,
+        717.0
+      ],
+      [
+        17.0,
+        717.0
+      ]
+    ],
+    "text": "der hier beispielhaft aufgeführten Berufe sind",
+    "confidence": 0.9596444692521312
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        712.0
+      ],
+      [
+        803.0,
+        712.0
+      ],
+      [
+        803.0,
+        738.0
+      ],
+      [
+        423.0,
+        738.0
+      ]
+    ],
+    "text": "bestimmten Handwerksberuf sowie eine be-",
+    "confidence": 0.9776925616029846
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        713.0
+      ],
+      [
+        397.0,
+        713.0
+      ],
+      [
+        397.0,
+        745.0
+      ],
+      [
+        17.0,
+        745.0
+      ]
+    ],
+    "text": "auch die schulischen Voraussetzungen, die",
+    "confidence": 0.8919455471119794
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        736.0
+      ],
+      [
+        398.0,
+        736.0
+      ],
+      [
+        398.0,
+        773.0
+      ],
+      [
+        17.0,
+        773.0
+      ]
+    ],
+    "text": "Ausbildungsdauer und der Ausbildungsab-",
+    "confidence": 0.8218337397032573
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        738.0
+      ],
+      [
+        803.0,
+        738.0
+      ],
+      [
+        803.0,
+        764.0
+      ],
+      [
+        423.0,
+        764.0
+      ]
+    ],
+    "text": "triebswirtschaftliche Qualifikation und fach-",
+    "confidence": 0.9610640387045775
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        762.0
+      ],
+      [
+        804.0,
+        762.0
+      ],
+      [
+        804.0,
+        798.0
+      ],
+      [
+        421.0,
+        798.0
+      ]
+    ],
+    "text": "richtungsbezogene technische Zusatzkenntnis-",
+    "confidence": 0.9998940810941712
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        766.0
+      ],
+      [
+        397.0,
+        766.0
+      ],
+      [
+        397.0,
+        796.0
+      ],
+      [
+        17.0,
+        796.0
+      ]
+    ],
+    "text": "schluss. Sie werden jeweils bei den einzelnen",
+    "confidence": 0.6253721318811524
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        789.0
+      ],
+      [
+        398.0,
+        789.0
+      ],
+      [
+        398.0,
+        827.0
+      ],
+      [
+        15.0,
+        827.0
+      ]
+    ],
+    "text": "Berufsbeschreibungen aufgeführt . Die Ausbil-",
+    "confidence": 0.6980570981780392
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        790.0
+      ],
+      [
+        803.0,
+        790.0
+      ],
+      [
+        803.0,
+        820.0
+      ],
+      [
+        423.0,
+        820.0
+      ]
+    ],
+    "text": "se. In der Berufsschule werden in speziellen",
+    "confidence": 0.6917280780607293
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        815.0
+      ],
+      [
+        803.0,
+        815.0
+      ],
+      [
+        803.0,
+        848.0
+      ],
+      [
+        423.0,
+        848.0
+      ]
+    ],
+    "text": "Fachklassen Kenntnisse in Buchführung; Rech -",
+    "confidence": 0.8049193627279783
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        819.0
+      ],
+      [
+        399.0,
+        819.0
+      ],
+      [
+        399.0,
+        851.0
+      ],
+      [
+        16.0,
+        851.0
+      ]
+    ],
+    "text": "dungen sind durch Bundes- oder Landesrecht",
+    "confidence": 0.852307437142181
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        839.0
+      ],
+      [
+        804.0,
+        839.0
+      ],
+      [
+        804.0,
+        875.0
+      ],
+      [
+        422.0,
+        875.0
+      ]
+    ],
+    "text": "nungswesen; Marketing; EDV und Fremdspra-",
+    "confidence": 0.783076539827505
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        847.0
+      ],
+      [
+        95.0,
+        847.0
+      ],
+      [
+        95.0,
+        877.0
+      ],
+      [
+        16.0,
+        877.0
+      ]
+    ],
+    "text": "geregelt.",
+    "confidence": 0.8311213872351078
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        870.0
+      ],
+      [
+        803.0,
+        870.0
+      ],
+      [
+        803.0,
+        898.0
+      ],
+      [
+        423.0,
+        898.0
+      ]
+    ],
+    "text": "chen vermittelt. Dies ist die Basis für den Ein-",
+    "confidence": 0.881389051206746
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        876.0
+      ],
+      [
+        398.0,
+        876.0
+      ],
+      [
+        398.0,
+        912.0
+      ],
+      [
+        16.0,
+        912.0
+      ]
+    ],
+    "text": "Für die Förderung schulischer Ausbildungswe-",
+    "confidence": 0.8536071723738646
+  },
+  {
+    "bbox": [
+      [
+        424.0513167019495,
+        894.1539501058485
+      ],
+      [
+        471.7604639068858,
+        900.8253345077082
+      ],
+      [
+        466.9486832980505,
+        929.8460498941515
+      ],
+      [
+        419.2395360931143,
+        923.1746654922918
+      ]
+    ],
+    "text": "stieg",
+    "confidence": 0.9977566530756802
+  },
+  {
+    "bbox": [
+      [
+        465.0,
+        898.0
+      ],
+      [
+        803.0,
+        898.0
+      ],
+      [
+        803.0,
+        928.0
+      ],
+      [
+        465.0,
+        928.0
+      ]
+    ],
+    "text": "in Führungspositionen eines Handwerks-",
+    "confidence": 0.8397964834827442
+  },
+  {
+    "bbox": [
+      [
+        101.0,
+        905.0
+      ],
+      [
+        397.0,
+        905.0
+      ],
+      [
+        397.0,
+        937.0
+      ],
+      [
+        101.0,
+        937.0
+      ]
+    ],
+    "text": "die Bestimmungen des Bundesaus-",
+    "confidence": 0.80320616791952
+  },
+  {
+    "bbox": [
+      [
+        41.478939620309816,
+        909.4141973545267
+      ],
+      [
+        100.63178672575552,
+        904.5599657538319
+      ],
+      [
+        101.52106037969017,
+        931.5858026454733
+      ],
+      [
+        42.36821327424447,
+        936.4400342461681
+      ]
+    ],
+    "text": "gelten",
+    "confidence": 0.9999525007655262
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        910.0
+      ],
+      [
+        45.0,
+        910.0
+      ],
+      [
+        45.0,
+        936.0
+      ],
+      [
+        17.0,
+        936.0
+      ]
+    ],
+    "text": "ge",
+    "confidence": 0.9998739832486834
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        922.0
+      ],
+      [
+        803.0,
+        922.0
+      ],
+      [
+        803.0,
+        954.0
+      ],
+      [
+        423.0,
+        954.0
+      ]
+    ],
+    "text": "betriebes oder kann Vorbereitung auf ein Stu-",
+    "confidence": 0.9660048448632323
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        932.0
+      ],
+      [
+        397.0,
+        932.0
+      ],
+      [
+        397.0,
+        965.0
+      ],
+      [
+        16.0,
+        965.0
+      ]
+    ],
+    "text": "bildungsförderungsgesetzes (BAföG). Auskünf -",
+    "confidence": 0.8764187571033895
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        947.0
+      ],
+      [
+        804.0,
+        947.0
+      ],
+      [
+        804.0,
+        983.0
+      ],
+      [
+        422.0,
+        983.0
+      ]
+    ],
+    "text": "dium sein. Die Ausbildung zum Betriebsassis-",
+    "confidence": 0.838423623613505
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        958.0
+      ],
+      [
+        397.0,
+        958.0
+      ],
+      [
+        397.0,
+        990.0
+      ],
+      [
+        17.0,
+        990.0
+      ]
+    ],
+    "text": "te erteilen die Ämter für Ausbildungsförderung",
+    "confidence": 0.9477305166929743
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        977.0
+      ],
+      [
+        803.0,
+        977.0
+      ],
+      [
+        803.0,
+        1006.0
+      ],
+      [
+        423.0,
+        1006.0
+      ]
+    ],
+    "text": "tenten im Handwerk ist (regional unterschied-",
+    "confidence": 0.9748266529937829
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        984.0
+      ],
+      [
+        335.0,
+        984.0
+      ],
+      [
+        335.0,
+        1017.0
+      ],
+      [
+        17.0,
+        1017.0
+      ]
+    ],
+    "text": "bei den Stadt - und Kreisverwaltungen.",
+    "confidence": 0.6452826608455803
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        1004.0
+      ],
+      [
+        803.0,
+        1004.0
+      ],
+      [
+        803.0,
+        1030.0
+      ],
+      [
+        421.0,
+        1030.0
+      ]
+    ],
+    "text": "lich) nur in bestimmten Handwerksberufen",
+    "confidence": 0.9017913180843706
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        1027.0
+      ],
+      [
+        802.0,
+        1027.0
+      ],
+      [
+        802.0,
+        1063.0
+      ],
+      [
+        422.0,
+        1063.0
+      ]
+    ],
+    "text": "möglich. Es gibt verschiedene Fachrichtungen;",
+    "confidence": 0.8069861897871384
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1030.0
+      ],
+      [
+        397.0,
+        1030.0
+      ],
+      [
+        397.0,
+        1054.0
+      ],
+      [
+        17.0,
+        1054.0
+      ]
+    ],
+    "text": "Zur Information: Die Anschriften der Berufsfachschu-",
+    "confidence": 0.6887515516223235
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        1051.0
+      ],
+      [
+        399.0,
+        1051.0
+      ],
+      [
+        399.0,
+        1082.0
+      ],
+      [
+        15.0,
+        1082.0
+      ]
+    ],
+    "text": "len und der sonstigen Ausbildungseinrichtungen sind den",
+    "confidence": 0.7236115679289201
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1058.0
+      ],
+      [
+        803.0,
+        1058.0
+      ],
+      [
+        803.0,
+        1086.0
+      ],
+      [
+        423.0,
+        1086.0
+      ]
+    ],
+    "text": "zB. Haus-/Elektrotechnik, Haus-/Energietech-",
+    "confidence": 0.8114921286142901
+  },
+  {
+    "bbox": [
+      [
+        323.0,
+        1076.0
+      ],
+      [
+        397.0,
+        1076.0
+      ],
+      [
+        397.0,
+        1100.0
+      ],
+      [
+        323.0,
+        1100.0
+      ]
+    ],
+    "text": "Weiterbil -",
+    "confidence": 0.6665352610314664
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1077.0
+      ],
+      [
+        296.0,
+        1077.0
+      ],
+      [
+        296.0,
+        1097.0
+      ],
+      [
+        18.0,
+        1097.0
+      ]
+    ],
+    "text": "\"Blättern zur Berufskundec bzw. der Aus-",
+    "confidence": 0.5567165236167675
+  },
+  {
+    "bbox": [
+      [
+        293.78057847830064,
+        1080.4147520217907
+      ],
+      [
+        325.6071143866895,
+        1077.8095448987485
+      ],
+      [
+        327.21942152169936,
+        1096.5852479782093
+      ],
+      [
+        295.3928856133105,
+        1100.1904551012515
+      ]
+    ],
+    "text": "und",
+    "confidence": 0.999640877101055
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1083.0
+      ],
+      [
+        800.0,
+        1083.0
+      ],
+      [
+        800.0,
+        1114.0
+      ],
+      [
+        423.0,
+        1114.0
+      ]
+    ],
+    "text": "nik, Fahrzeugtechnik, Holztechnik, Bautechnik,",
+    "confidence": 0.7074588596233061
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1097.0
+      ],
+      [
+        397.0,
+        1097.0
+      ],
+      [
+        397.0,
+        1124.0
+      ],
+      [
+        16.0,
+        1124.0
+      ]
+    ],
+    "text": "dungsdatenbank wKURSw zu entnehmen; die in den Ar-",
+    "confidence": 0.4739805463107677
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1110.0
+      ],
+      [
+        579.0,
+        1110.0
+      ],
+      [
+        579.0,
+        1140.0
+      ],
+      [
+        423.0,
+        1140.0
+      ]
+    ],
+    "text": "Fertigungstechnik.",
+    "confidence": 0.9631762560834919
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1120.0
+      ],
+      [
+        315.0,
+        1120.0
+      ],
+      [
+        315.0,
+        1146.0
+      ],
+      [
+        17.0,
+        1146.0
+      ]
+    ],
+    "text": "beitsämtern und BlZen zur Verfügung steht",
+    "confidence": 0.7166924653515785
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1150.0
+      ],
+      [
+        397.0,
+        1150.0
+      ],
+      [
+        397.0,
+        1178.0
+      ],
+      [
+        17.0,
+        1178.0
+      ]
+    ],
+    "text": "Blätter zur Berufskunde, herausgegeben von der Bundes-",
+    "confidence": 0.8200540249216761
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1154.0
+      ],
+      [
+        805.0,
+        1154.0
+      ],
+      [
+        805.0,
+        1180.0
+      ],
+      [
+        423.0,
+        1180.0
+      ]
+    ],
+    "text": "Zur Information: Chris Hablitzel (Hrsg ): Berufswahl für",
+    "confidence": 0.7219394270606949
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1170.0
+      ],
+      [
+        399.0,
+        1170.0
+      ],
+      [
+        399.0,
+        1200.0
+      ],
+      [
+        17.0,
+        1200.0
+      ]
+    ],
+    "text": "anstalt für Arbeit (Verlag W. Bertelsmann; 33599 Biele-",
+    "confidence": 0.7142592356436924
+  },
+  {
+    "bbox": [
+      [
+        512.0,
+        1174.0
+      ],
+      [
+        805.0,
+        1174.0
+      ],
+      [
+        805.0,
+        1205.0
+      ],
+      [
+        512.0,
+        1205.0
+      ]
+    ],
+    "text": "Ausbildungs-und Studienwege in Deutsch-",
+    "confidence": 0.9322818776561801
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1179.0
+      ],
+      [
+        514.0,
+        1179.0
+      ],
+      [
+        514.0,
+        1199.0
+      ],
+      [
+        424.0,
+        1199.0
+      ]
+    ],
+    "text": "Abiturienten.",
+    "confidence": 0.6306006093858963
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        1194.0
+      ],
+      [
+        397.0,
+        1194.0
+      ],
+      [
+        397.0,
+        1223.0
+      ],
+      [
+        15.0,
+        1223.0
+      ]
+    ],
+    "text": "feld) Zur Anforderung eingeheftete Bestellkarte benutzen:.",
+    "confidence": 0.667449992920945
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        1198.0
+      ],
+      [
+        801.0,
+        1198.0
+      ],
+      [
+        801.0,
+        1224.0
+      ],
+      [
+        421.0,
+        1224.0
+      ]
+    ],
+    "text": "land, Österreich und der Schweiz Mit Berufe-Lexikon; 13.",
+    "confidence": 0.5732044312403568
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1221.0
+      ],
+      [
+        774.0,
+        1221.0
+      ],
+      [
+        774.0,
+        1248.0
+      ],
+      [
+        423.0,
+        1248.0
+      ]
+    ],
+    "text": "aktual. u. erw. Aufl , Würzburg 1998, Lexika Verlag:",
+    "confidence": 0.5769981782774454
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1224.0
+      ],
+      [
+        399.0,
+        1224.0
+      ],
+      [
+        399.0,
+        1252.0
+      ],
+      [
+        17.0,
+        1252.0
+      ]
+    ],
+    "text": "BERUF AKTUELL, jährlich neu herausgegeben von der",
+    "confidence": 0.8015157742039495
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1247.0
+      ],
+      [
+        397.0,
+        1247.0
+      ],
+      [
+        397.0,
+        1274.0
+      ],
+      [
+        17.0,
+        1274.0
+      ]
+    ],
+    "text": "Bundesanstalt für Arbeit (erhältlich bei den Arbeitsäm-",
+    "confidence": 0.8468714626588649
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        1248.0
+      ],
+      [
+        805.0,
+        1248.0
+      ],
+      [
+        805.0,
+        1280.0
+      ],
+      [
+        421.0,
+        1280.0
+      ]
+    ],
+    "text": "Wolfgang Kramer: Abiturientenausbildung in der Wirt-",
+    "confidence": 0.984954088602934
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1275.0
+      ],
+      [
+        58.0,
+        1275.0
+      ],
+      [
+        58.0,
+        1295.0
+      ],
+      [
+        18.0,
+        1295.0
+      ]
+    ],
+    "text": "tern)",
+    "confidence": 0.9737032348356088
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1276.0
+      ],
+      [
+        473.0,
+        1276.0
+      ],
+      [
+        473.0,
+        1300.0
+      ],
+      [
+        423.0,
+        1300.0
+      ]
+    ],
+    "text": "schaft",
+    "confidence": 0.9999385331687451
+  },
+  {
+    "bbox": [
+      [
+        479.0,
+        1276.0
+      ],
+      [
+        803.0,
+        1276.0
+      ],
+      [
+        803.0,
+        1300.0
+      ],
+      [
+        479.0,
+        1300.0
+      ]
+    ],
+    "text": "Die praxisnahe Alternative zur Hochschule; 10.",
+    "confidence": 0.8832423977469831
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1297.0
+      ],
+      [
+        720.0,
+        1297.0
+      ],
+      [
+        720.0,
+        1325.0
+      ],
+      [
+        423.0,
+        1325.0
+      ]
+    ],
+    "text": "Aufl. Köln 1999, Deutscher Instituts Verlag.",
+    "confidence": 0.638400153930357
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1302.0
+      ],
+      [
+        399.0,
+        1302.0
+      ],
+      [
+        399.0,
+        1326.0
+      ],
+      [
+        19.0,
+        1326.0
+      ]
+    ],
+    "text": "Darüber hinaus sind bei den Kultusministerien der Län-",
+    "confidence": 0.9824101097159089
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1324.0
+      ],
+      [
+        399.0,
+        1324.0
+      ],
+      [
+        399.0,
+        1350.0
+      ],
+      [
+        17.0,
+        1350.0
+      ]
+    ],
+    "text": "der Info-Materialien, meist in Form von Broschüren; er-",
+    "confidence": 0.6274272301360055
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        1328.0
+      ],
+      [
+        805.0,
+        1328.0
+      ],
+      [
+        805.0,
+        1357.0
+      ],
+      [
+        421.0,
+        1357.0
+      ]
+    ],
+    "text": "Jürgen Mönch, Helmut Heigl, Kurt Lehnstaedt: Berufe für",
+    "confidence": 0.8679879582145607
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1348.0
+      ],
+      [
+        77.0,
+        1348.0
+      ],
+      [
+        77.0,
+        1372.0
+      ],
+      [
+        17.0,
+        1372.0
+      ]
+    ],
+    "text": "hältlich:",
+    "confidence": 0.668891634175389
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1350.0
+      ],
+      [
+        805.0,
+        1350.0
+      ],
+      [
+        805.0,
+        1378.0
+      ],
+      [
+        423.0,
+        1378.0
+      ]
+    ],
+    "text": "Abiturienten . Alternativen zur Universität - Ausbildung ,",
+    "confidence": 0.8227434253694833
+  }
+]

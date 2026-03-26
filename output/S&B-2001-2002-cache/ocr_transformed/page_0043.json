@@ -1,0 +1,552 @@
+[
+  {
+    "bbox": [
+      [
+        160.0,
+        32.0
+      ],
+      [
+        216.0,
+        32.0
+      ],
+      [
+        216.0,
+        98.0
+      ],
+      [
+        160.0,
+        98.0
+      ]
+    ],
+    "text": "C",
+    "confidence": 0.9762859983163175
+  },
+  {
+    "bbox": [
+      [
+        469.0,
+        33.0
+      ],
+      [
+        535.0,
+        33.0
+      ],
+      [
+        535.0,
+        99.0
+      ],
+      [
+        469.0,
+        99.0
+      ]
+    ],
+    "text": "L",
+    "confidence": 0.7228528055046047
+  },
+  {
+    "bbox": [
+      [
+        624.0,
+        34.0
+      ],
+      [
+        680.0,
+        34.0
+      ],
+      [
+        680.0,
+        96.0
+      ],
+      [
+        624.0,
+        96.0
+      ]
+    ],
+    "text": "T",
+    "confidence": 0.9580150166767112
+  },
+  {
+    "bbox": [
+      [
+        55.0,
+        235.0
+      ],
+      [
+        535.0,
+        235.0
+      ],
+      [
+        535.0,
+        297.0
+      ],
+      [
+        55.0,
+        297.0
+      ]
+    ],
+    "text": "Jetzt durchstarten",
+    "confidence": 0.8430271810750238
+  },
+  {
+    "bbox": [
+      [
+        57.0,
+        293.0
+      ],
+      [
+        599.0,
+        293.0
+      ],
+      [
+        599.0,
+        378.0
+      ],
+      [
+        57.0,
+        378.0
+      ]
+    ],
+    "text": "in Richtung Zukunft!",
+    "confidence": 0.7880895974739006
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        410.0
+      ],
+      [
+        728.0,
+        410.0
+      ],
+      [
+        728.0,
+        443.0
+      ],
+      [
+        62.0,
+        443.0
+      ]
+    ],
+    "text": "Bei COLT TELECOM haben Sie die Chance; die Zukunft der Tele-",
+    "confidence": 0.6519682281050958
+  },
+  {
+    "bbox": [
+      [
+        61.0,
+        452.0
+      ],
+      [
+        760.0,
+        452.0
+      ],
+      [
+        760.0,
+        492.0
+      ],
+      [
+        61.0,
+        492.0
+      ]
+    ],
+    "text": "kommunikation aktiv mitzugestalten. Denn als eines der führenden",
+    "confidence": 0.8834345034851707
+  },
+  {
+    "bbox": [
+      [
+        61.0,
+        495.0
+      ],
+      [
+        741.0,
+        495.0
+      ],
+      [
+        741.0,
+        531.0
+      ],
+      [
+        61.0,
+        531.0
+      ]
+    ],
+    "text": "europäischen Telekommunikationsunternehmen bieten wir Ihnen",
+    "confidence": 0.9111091309831251
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        534.0
+      ],
+      [
+        754.0,
+        534.0
+      ],
+      [
+        754.0,
+        574.0
+      ],
+      [
+        60.0,
+        574.0
+      ]
+    ],
+    "text": "anspruchsvolle Aufgaben in einem dynamischen Wachstumsmarkt.",
+    "confidence": 0.9439213189324112
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        599.0
+      ],
+      [
+        736.0,
+        599.0
+      ],
+      [
+        736.0,
+        642.0
+      ],
+      [
+        60.0,
+        642.0
+      ]
+    ],
+    "text": "Gegründet von Fidelity Investment; der weltweit größten privaten",
+    "confidence": 0.7644222995673664
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        644.0
+      ],
+      [
+        767.0,
+        644.0
+      ],
+      [
+        767.0,
+        684.0
+      ],
+      [
+        60.0,
+        684.0
+      ]
+    ],
+    "text": "Kapitalgesellschaft; ist COLT auf Sprach-, Daten- und Internetdienste",
+    "confidence": 0.8181588118865057
+  },
+  {
+    "bbox": [
+      [
+        59.0,
+        684.0
+      ],
+      [
+        767.0,
+        684.0
+      ],
+      [
+        767.0,
+        724.0
+      ],
+      [
+        59.0,
+        724.0
+      ]
+    ],
+    "text": "für Geschäftskunden spezialisiert. In allen bedeutenden Metropolen",
+    "confidence": 0.5615591734616011
+  },
+  {
+    "bbox": [
+      [
+        59.0,
+        729.0
+      ],
+      [
+        787.0,
+        729.0
+      ],
+      [
+        787.0,
+        767.0
+      ],
+      [
+        59.0,
+        767.0
+      ]
+    ],
+    "text": "Europas verfügen wir über eigene Stadtnetze; die über leistungsstarke",
+    "confidence": 0.8993478883477813
+  },
+  {
+    "bbox": [
+      [
+        629.0,
+        766.0
+      ],
+      [
+        748.0,
+        766.0
+      ],
+      [
+        748.0,
+        810.0
+      ],
+      [
+        629.0,
+        810.0
+      ]
+    ],
+    "text": "Grundlage",
+    "confidence": 0.9999209626792828
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        771.0
+      ],
+      [
+        632.0,
+        771.0
+      ],
+      [
+        632.0,
+        804.0
+      ],
+      [
+        62.0,
+        804.0
+      ]
+    ],
+    "text": "Glasfasernetze miteinander verbunden sind. Auf dieser",
+    "confidence": 0.8313342577082866
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        814.0
+      ],
+      [
+        800.0,
+        814.0
+      ],
+      [
+        800.0,
+        846.0
+      ],
+      [
+        62.0,
+        846.0
+      ]
+    ],
+    "text": "bieten wir Telekommunikationsdienste in höchster Qualität. Und setzen",
+    "confidence": 0.6751721706490575
+  },
+  {
+    "bbox": [
+      [
+        61.0,
+        855.0
+      ],
+      [
+        785.0,
+        855.0
+      ],
+      [
+        785.0,
+        894.0
+      ],
+      [
+        61.0,
+        894.0
+      ]
+    ],
+    "text": "dabei auf Kundennähe: Und auf das Engagement unserer Mitarbeiter-",
+    "confidence": 0.7029195251446494
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        898.0
+      ],
+      [
+        294.0,
+        898.0
+      ],
+      [
+        294.0,
+        926.0
+      ],
+      [
+        60.0,
+        926.0
+      ]
+    ],
+    "text": "innen und Mitarbeiter.",
+    "confidence": 0.7618377068676794
+  },
+  {
+    "bbox": [
+      [
+        100.0,
+        964.0
+      ],
+      [
+        722.0,
+        964.0
+      ],
+      [
+        722.0,
+        997.0
+      ],
+      [
+        100.0,
+        997.0
+      ]
+    ],
+    "text": "Sind Sie bereit für die Zukunft? Dann senden Sie Ihre",
+    "confidence": 0.839560524306731
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        1003.0
+      ],
+      [
+        757.0,
+        1003.0
+      ],
+      [
+        757.0,
+        1045.0
+      ],
+      [
+        62.0,
+        1045.0
+      ]
+    ],
+    "text": "Bewerbungsunterlagen an COLT TELECOM GmbH, Personal-",
+    "confidence": 0.9446809991497394
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        1046.0
+      ],
+      [
+        749.0,
+        1046.0
+      ],
+      [
+        749.0,
+        1085.0
+      ],
+      [
+        62.0,
+        1085.0
+      ]
+    ],
+    "text": "abteilung, Walter-Kolb-Str.  13, D-60594 Frankfurt am Main.",
+    "confidence": 0.5310246614159684
+  },
+  {
+    "bbox": [
+      [
+        64.0,
+        1092.0
+      ],
+      [
+        786.0,
+        1092.0
+      ],
+      [
+        786.0,
+        1124.0
+      ],
+      [
+        64.0,
+        1124.0
+      ]
+    ],
+    "text": "Oder bewerben Sie sich per E-mail unter: Bewerbung@colt.de",
+    "confidence": 0.8420740968078045
+  },
+  {
+    "bbox": [
+      [
+        64.0,
+        1139.0
+      ],
+      [
+        560.0,
+        1139.0
+      ],
+      [
+        560.0,
+        1168.0
+      ],
+      [
+        64.0,
+        1168.0
+      ]
+    ],
+    "text": "Weitere Informationen unter: www colt_de",
+    "confidence": 0.5756148214770617
+  },
+  {
+    "bbox": [
+      [
+        502.0,
+        1252.0
+      ],
+      [
+        526.0,
+        1252.0
+      ],
+      [
+        526.0,
+        1282.0
+      ],
+      [
+        502.0,
+        1282.0
+      ]
+    ],
+    "text": "T",
+    "confidence": 0.9984770855385818
+  },
+  {
+    "bbox": [
+      [
+        203.0,
+        1329.0
+      ],
+      [
+        643.0,
+        1329.0
+      ],
+      [
+        643.0,
+        1360
+      ],
+      [
+        203.0,
+        1360
+      ]
+    ],
+    "text": "Telekommunikation überzeugend @nders",
+    "confidence": 0.8406153015614569
+  }
+]

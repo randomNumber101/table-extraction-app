@@ -1,0 +1,1300 @@
+[
+  {
+    "bbox": [
+      [
+        199.0,
+        26.0
+      ],
+      [
+        623.0,
+        26.0
+      ],
+      [
+        623.0,
+        74.0
+      ],
+      [
+        199.0,
+        74.0
+      ]
+    ],
+    "text": "3.6.2 Wirtschaftsinformatik",
+    "confidence": 0.9697787061231022
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        82.0
+      ],
+      [
+        805.0,
+        82.0
+      ],
+      [
+        805.0,
+        114.0
+      ],
+      [
+        424.0,
+        114.0
+      ]
+    ],
+    "text": "werden, Systeme zu gestalten, d.h. deren",
+    "confidence": 0.8349233142157843
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        84.0
+      ],
+      [
+        369.0,
+        84.0
+      ],
+      [
+        369.0,
+        114.0
+      ],
+      [
+        17.0,
+        114.0
+      ]
+    ],
+    "text": "Kurzcharakteristik des Studienbe-",
+    "confidence": 0.977453811250302
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        105.0
+      ],
+      [
+        806.0,
+        105.0
+      ],
+      [
+        806.0,
+        141.0
+      ],
+      [
+        423.0,
+        141.0
+      ]
+    ],
+    "text": "Entwicklung auf der Basis der Analyse kom-",
+    "confidence": 0.8969211564636301
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        114.0
+      ],
+      [
+        89.0,
+        114.0
+      ],
+      [
+        89.0,
+        142.0
+      ],
+      [
+        17.0,
+        142.0
+      ]
+    ],
+    "text": "reichs",
+    "confidence": 0.8652344222320564
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        134.0
+      ],
+      [
+        805.0,
+        134.0
+      ],
+      [
+        805.0,
+        166.0
+      ],
+      [
+        422.0,
+        166.0
+      ]
+    ],
+    "text": "plizierter Systeme und des Entwurfs von DV-",
+    "confidence": 0.8031107710443439
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        146.0
+      ],
+      [
+        399.0,
+        146.0
+      ],
+      [
+        399.0,
+        174.0
+      ],
+      [
+        17.0,
+        174.0
+      ]
+    ],
+    "text": "Das Studium der Wirtschaftsinformatik be-",
+    "confidence": 0.6404574514570466
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        161.0
+      ],
+      [
+        805.0,
+        161.0
+      ],
+      [
+        805.0,
+        192.0
+      ],
+      [
+        425.0,
+        192.0
+      ]
+    ],
+    "text": "Anwendungssystemen verantwortlich durch-",
+    "confidence": 0.7335222912798876
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        171.0
+      ],
+      [
+        400.0,
+        171.0
+      ],
+      [
+        400.0,
+        207.0
+      ],
+      [
+        16.0,
+        207.0
+      ]
+    ],
+    "text": "fähigt zum Systemarchitekten betrieblicher",
+    "confidence": 0.8222809019283357
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        190.0
+      ],
+      [
+        507.0,
+        190.0
+      ],
+      [
+        507.0,
+        216.0
+      ],
+      [
+        423.0,
+        216.0
+      ]
+    ],
+    "text": "zuführen:.",
+    "confidence": 0.6185202367543148
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        198.0
+      ],
+      [
+        399.0,
+        198.0
+      ],
+      [
+        399.0,
+        229.0
+      ],
+      [
+        16.0,
+        229.0
+      ]
+    ],
+    "text": "Informationssysteme . Neben Kerninhalten",
+    "confidence": 0.7853320534531819
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        217.0
+      ],
+      [
+        806.0,
+        217.0
+      ],
+      [
+        806.0,
+        255.0
+      ],
+      [
+        424.0,
+        255.0
+      ]
+    ],
+    "text": "Die Hauptaufgabe des Wirtschaftsinfomati -",
+    "confidence": 0.9421647852057288
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        225.0
+      ],
+      [
+        399.0,
+        225.0
+      ],
+      [
+        399.0,
+        252.0
+      ],
+      [
+        17.0,
+        252.0
+      ]
+    ],
+    "text": "der Wirtschaftsinformatik umfasst das Stu-",
+    "confidence": 0.7761246920607369
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        243.0
+      ],
+      [
+        806.0,
+        243.0
+      ],
+      [
+        806.0,
+        281.0
+      ],
+      [
+        422.0,
+        281.0
+      ]
+    ],
+    "text": "kers liegt in der Entwicklung , Gestaltung und",
+    "confidence": 0.7203824695466774
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        252.0
+      ],
+      [
+        399.0,
+        252.0
+      ],
+      [
+        399.0,
+        282.0
+      ],
+      [
+        17.0,
+        282.0
+      ]
+    ],
+    "text": "dium auch grundlegende Inhalte der Betriebs -",
+    "confidence": 0.6259362193641702
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        273.0
+      ],
+      [
+        805.0,
+        273.0
+      ],
+      [
+        805.0,
+        304.0
+      ],
+      [
+        423.0,
+        304.0
+      ]
+    ],
+    "text": "im Betrieb kommerzieller Anwendungssyste-",
+    "confidence": 0.7905524277759697
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        277.0
+      ],
+      [
+        399.0,
+        277.0
+      ],
+      [
+        399.0,
+        308.0
+      ],
+      [
+        18.0,
+        308.0
+      ]
+    ],
+    "text": "wirtschaftslehre und der angewandten Infor-",
+    "confidence": 0.766934721638453
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        300.0
+      ],
+      [
+        805.0,
+        300.0
+      ],
+      [
+        805.0,
+        330.0
+      ],
+      [
+        425.0,
+        330.0
+      ]
+    ],
+    "text": "me für administrative Aufgaben (z.B. Auf-",
+    "confidence": 0.7934870533688975
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        303.0
+      ],
+      [
+        398.0,
+        303.0
+      ],
+      [
+        398.0,
+        332.0
+      ],
+      [
+        19.0,
+        332.0
+      ]
+    ],
+    "text": "matik .  Neben dem Abschluss Diplom-Wirt-",
+    "confidence": 0.5009640450728642
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        321.0
+      ],
+      [
+        806.0,
+        321.0
+      ],
+      [
+        806.0,
+        360.0
+      ],
+      [
+        422.0,
+        360.0
+      ]
+    ],
+    "text": "tragsabwicklung , Beschaffungswesen, Lager-",
+    "confidence": 0.9043277907448823
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        332.0
+      ],
+      [
+        399.0,
+        332.0
+      ],
+      [
+        399.0,
+        358.0
+      ],
+      [
+        19.0,
+        358.0
+      ]
+    ],
+    "text": "schaftsinformatiker /in werden in Wirtschafts-",
+    "confidence": 0.8989787619640016
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        352.0
+      ],
+      [
+        805.0,
+        352.0
+      ],
+      [
+        805.0,
+        382.0
+      ],
+      [
+        425.0,
+        382.0
+      ]
+    ],
+    "text": "und Materialflussüberwachung , Kostenrech-",
+    "confidence": 0.835113138504447
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        358.0
+      ],
+      [
+        399.0,
+        358.0
+      ],
+      [
+        399.0,
+        388.0
+      ],
+      [
+        17.0,
+        388.0
+      ]
+    ],
+    "text": "informatik-Studiengängen auch die Abschlüs -",
+    "confidence": 0.7241100256502994
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        378.0
+      ],
+      [
+        805.0,
+        378.0
+      ],
+      [
+        805.0,
+        410.0
+      ],
+      [
+        425.0,
+        410.0
+      ]
+    ],
+    "text": "nung, Lohn- und Gehaltsabrechnung , after-",
+    "confidence": 0.6657170829915823
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        384.0
+      ],
+      [
+        399.0,
+        384.0
+      ],
+      [
+        399.0,
+        412.0
+      ],
+      [
+        19.0,
+        412.0
+      ]
+    ],
+    "text": "se Diplom-Kaufmann /Kauffrau ,  Diplom-Be-",
+    "confidence": 0.4456050669103488
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        404.0
+      ],
+      [
+        805.0,
+        404.0
+      ],
+      [
+        805.0,
+        436.0
+      ],
+      [
+        425.0,
+        436.0
+      ]
+    ],
+    "text": "sale-Service) , distributive Aufgaben (Ferti-",
+    "confidence": 0.7967964232309358
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        410.0
+      ],
+      [
+        399.0,
+        410.0
+      ],
+      [
+        399.0,
+        438.0
+      ],
+      [
+        17.0,
+        438.0
+      ]
+    ],
+    "text": "triebswirt/in, Diplom-Informatiker /in, Diplom -",
+    "confidence": 0.6784295840391802
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        429.0
+      ],
+      [
+        808.0,
+        429.0
+      ],
+      [
+        808.0,
+        491.0
+      ],
+      [
+        422.0,
+        491.0
+      ]
+    ],
+    "text": "guspssvobgrendng ener usnguersg Rrodiukai-",
+    "confidence": 0.1117871523726556
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        430.0
+      ],
+      [
+        404.0,
+        430.0
+      ],
+      [
+        404.0,
+        493.0
+      ],
+      [
+        15.0,
+        493.0
+      ]
+    ],
+    "text": "snogenisanfoinattudienscbavaeßonkd Mas:",
+    "confidence": 0.06531822449791672
+  },
+  {
+    "bbox": [
+      [
+        426.07899166023174,
+        479.1448741467184
+      ],
+      [
+        485.8509270834063,
+        487.0660756106083
+      ],
+      [
+        480.92100833976826,
+        515.8551258532816
+      ],
+      [
+        422.14907291659375,
+        507.9339243893917
+      ]
+    ],
+    "text": "keting",
+    "confidence": 0.999989049914076
+  },
+  {
+    "bbox": [
+      [
+        479.0,
+        484.0
+      ],
+      [
+        807.0,
+        484.0
+      ],
+      [
+        807.0,
+        512.0
+      ],
+      [
+        479.0,
+        512.0
+      ]
+    ],
+    "text": "und Vertrieb (e-commerce) , online-Kun-",
+    "confidence": 0.8846115868907003
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        488.0
+      ],
+      [
+        229.0,
+        488.0
+      ],
+      [
+        229.0,
+        520.0
+      ],
+      [
+        19.0,
+        520.0
+      ]
+    ],
+    "text": "ter of Science vergeben.",
+    "confidence": 0.8007594114241685
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        510.0
+      ],
+      [
+        807.0,
+        510.0
+      ],
+      [
+        807.0,
+        540.0
+      ],
+      [
+        424.0,
+        540.0
+      ]
+    ],
+    "text": "denbetreuung und strategische Fragestellun-",
+    "confidence": 0.9021271097594944
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        518.0
+      ],
+      [
+        401.0,
+        518.0
+      ],
+      [
+        401.0,
+        550.0
+      ],
+      [
+        19.0,
+        550.0
+      ]
+    ],
+    "text": "Die Wirtschaftsinformatik beschäftigt sich",
+    "confidence": 0.8037124533086393
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        536.0
+      ],
+      [
+        807.0,
+        536.0
+      ],
+      [
+        807.0,
+        568.0
+      ],
+      [
+        425.0,
+        568.0
+      ]
+    ],
+    "text": "gen im Sinne von Mensch-Aufgabe-Technik-",
+    "confidence": 0.7033334489187754
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        546.0
+      ],
+      [
+        401.0,
+        546.0
+      ],
+      [
+        401.0,
+        576.0
+      ],
+      [
+        19.0,
+        576.0
+      ]
+    ],
+    "text": "mit dem Aufbau, der Arbeitsweise und der",
+    "confidence": 0.5486236113603132
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        562.0
+      ],
+      [
+        807.0,
+        562.0
+      ],
+      [
+        807.0,
+        594.0
+      ],
+      [
+        425.0,
+        594.0
+      ]
+    ],
+    "text": "Systemen. Neben einem breiten betriebswirt-",
+    "confidence": 0.8678820193411172
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        573.0
+      ],
+      [
+        401.0,
+        573.0
+      ],
+      [
+        401.0,
+        605.0
+      ],
+      [
+        20.0,
+        605.0
+      ]
+    ],
+    "text": "Gestaltung computerbasierter betrieblicher",
+    "confidence": 0.9850930779490998
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        590.0
+      ],
+      [
+        809.0,
+        590.0
+      ],
+      [
+        809.0,
+        622.0
+      ],
+      [
+        425.0,
+        622.0
+      ]
+    ],
+    "text": "schaftlichen Wissen sowie der Fähigkeit,",
+    "confidence": 0.8744844266790619
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        598.0
+      ],
+      [
+        397.0,
+        598.0
+      ],
+      [
+        397.0,
+        630.0
+      ],
+      [
+        19.0,
+        630.0
+      ]
+    ],
+    "text": "Informations - und Kommunikationssysteme:",
+    "confidence": 0.6440964144486979
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        611.0
+      ],
+      [
+        809.0,
+        611.0
+      ],
+      [
+        809.0,
+        650.0
+      ],
+      [
+        425.0,
+        650.0
+      ]
+    ],
+    "text": "Anwendungssysteme zu entwickeln; gehören",
+    "confidence": 0.7631145479831066
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        627.0
+      ],
+      [
+        405.0,
+        627.0
+      ],
+      [
+        405.0,
+        660.0
+      ],
+      [
+        21.0,
+        660.0
+      ]
+    ],
+    "text": "Wirtschaftsinformatiker müssen befähigt",
+    "confidence": 0.7168114722057848
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        644.0
+      ],
+      [
+        769.0,
+        644.0
+      ],
+      [
+        769.0,
+        670.0
+      ],
+      [
+        425.0,
+        670.0
+      ]
+    ],
+    "text": "dazu auch Kenntnisse über den Aufbau",
+    "confidence": 0.9141433888993307
+  },
+  {
+    "bbox": [
+      [
+        767.9859597468732,
+        646.2761315696845
+      ],
+      [
+        805.6174721686064,
+        642.82365660465
+      ],
+      [
+        807.0140402531268,
+        666.7238684303155
+      ],
+      [
+        769.3825278313936,
+        669.17634339535
+      ]
+    ],
+    "text": "und",
+    "confidence": 0.9998516136638145
+  },
+  {
+    "bbox": [
+      [
+        24.0,
+        677.0
+      ],
+      [
+        76.0,
+        677.0
+      ],
+      [
+        76.0,
+        695.0
+      ],
+      [
+        24.0,
+        695.0
+      ]
+    ],
+    "text": "Anzeige",
+    "confidence": 0.9999792287103723
+  },
+  {
+    "bbox": [
+      [
+        472.0,
+        745.0
+      ],
+      [
+        692.0,
+        745.0
+      ],
+      [
+        692.0,
+        807.0
+      ],
+      [
+        472.0,
+        807.0
+      ]
+    ],
+    "text": "new kind",
+    "confidence": 0.9998991826332578
+  },
+  {
+    "bbox": [
+      [
+        138.0,
+        747.0
+      ],
+      [
+        462.0,
+        747.0
+      ],
+      [
+        462.0,
+        809.0
+      ],
+      [
+        138.0,
+        809.0
+      ]
+    ],
+    "text": "It's time for a",
+    "confidence": 0.7521332473618312
+  },
+  {
+    "bbox": [
+      [
+        153.0,
+        805.0
+      ],
+      [
+        682.0,
+        805.0
+      ],
+      [
+        682.0,
+        886.0
+      ],
+      [
+        153.0,
+        886.0
+      ]
+    ],
+    "text": "of business university",
+    "confidence": 0.9697995030528235
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        943.0
+      ],
+      [
+        772.0,
+        943.0
+      ],
+      [
+        772.0,
+        979.0
+      ],
+      [
+        62.0,
+        979.0
+      ]
+    ],
+    "text": "Das Studium an der Apollo International University of Applied Sciences",
+    "confidence": 0.6635103127558535
+  },
+  {
+    "bbox": [
+      [
+        61.0,
+        985.0
+      ],
+      [
+        771.0,
+        985.0
+      ],
+      [
+        771.0,
+        1018.0
+      ],
+      [
+        61.0,
+        1018.0
+      ]
+    ],
+    "text": "(AIUAS) ist die optimale Vorbereitung auf eine internationale Karriere:",
+    "confidence": 0.8191995354756955
+  },
+  {
+    "bbox": [
+      [
+        59.0,
+        1021.0
+      ],
+      [
+        772.0,
+        1021.0
+      ],
+      [
+        772.0,
+        1057.0
+      ],
+      [
+        59.0,
+        1057.0
+      ]
+    ],
+    "text": "amerikanisch geprägt; business-orientiert und effektiv. Studiengänge",
+    "confidence": 0.7441016052214577
+  },
+  {
+    "bbox": [
+      [
+        63.0,
+        1060.0
+      ],
+      [
+        769.0,
+        1060.0
+      ],
+      [
+        769.0,
+        1092.0
+      ],
+      [
+        63.0,
+        1092.0
+      ]
+    ],
+    "text": "mit den Abschlüssen Bachelor und MBA starten im September 2001.",
+    "confidence": 0.8708980268094554
+  },
+  {
+    "bbox": [
+      [
+        65.0,
+        1104.0
+      ],
+      [
+        553.0,
+        1104.0
+      ],
+      [
+        553.0,
+        1132.0
+      ],
+      [
+        65.0,
+        1132.0
+      ]
+    ],
+    "text": "Mehr erfahren? Einfach anrufen, faxen oder mailen",
+    "confidence": 0.6081960454019273
+  },
+  {
+    "bbox": [
+      [
+        272.0,
+        1156.0
+      ],
+      [
+        651.0,
+        1156.0
+      ],
+      [
+        651.0,
+        1213.0
+      ],
+      [
+        272.0,
+        1213.0
+      ]
+    ],
+    "text": "Apollo International",
+    "confidence": 0.9763725843802997
+  },
+  {
+    "bbox": [
+      [
+        273.0,
+        1206.0
+      ],
+      [
+        609.0,
+        1206.0
+      ],
+      [
+        609.0,
+        1230.0
+      ],
+      [
+        273.0,
+        1230.0
+      ]
+    ],
+    "text": "UNIVERSITY OF APPLIED SCIENCES",
+    "confidence": 0.8468772953964622
+  },
+  {
+    "bbox": [
+      [
+        65.0,
+        1250.0
+      ],
+      [
+        769.0,
+        1250.0
+      ],
+      [
+        769.0,
+        1278.0
+      ],
+      [
+        65.0,
+        1278.0
+      ]
+    ],
+    "text": "Apollo International University of Applied Sciences, Niederkasseler Lohweg 189,40547 Düsseldorf.",
+    "confidence": 0.8028929281922232
+  },
+  {
+    "bbox": [
+      [
+        53.0,
+        1276.0
+      ],
+      [
+        783.0,
+        1276.0
+      ],
+      [
+        783.0,
+        1302.0
+      ],
+      [
+        53.0,
+        1302.0
+      ]
+    ],
+    "text": "Tel : +49 211 5228980. Fax: +49 211 52289811. E-mail: info@apolloint de. Internet: ww apolloint.de",
+    "confidence": 0.5810239665150734
+  },
+  {
+    "bbox": [
+      [
+        83.0,
+        1300.0
+      ],
+      [
+        753.0,
+        1300.0
+      ],
+      [
+        753.0,
+        1329.0
+      ],
+      [
+        83.0,
+        1329.0
+      ]
+    ],
+    "text": "Interimsadresse: Apollo International University of Applied Sciences, Salierring 32, 50677 Köln.",
+    "confidence": 0.459843503025457
+  },
+  {
+    "bbox": [
+      [
+        245.0,
+        1328.0
+      ],
+      [
+        589.0,
+        1328.0
+      ],
+      [
+        589.0,
+        1352.0
+      ],
+      [
+        245.0,
+        1352.0
+      ]
+    ],
+    "text": "Tel : +49 221 9977865. Fax :+49 221 9977868.",
+    "confidence": 0.7671147969854535
+  }
+]

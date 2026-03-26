@@ -1,0 +1,2092 @@
+[
+  {
+    "bbox": [
+      [
+        441.0,
+        25.0
+      ],
+      [
+        805.0,
+        25.0
+      ],
+      [
+        805.0,
+        61.0
+      ],
+      [
+        441.0,
+        61.0
+      ]
+    ],
+    "text": "Freiburg und Karlsruhe kann der Studien-",
+    "confidence": 0.9853709389695686
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        28.0
+      ],
+      [
+        398.0,
+        28.0
+      ],
+      [
+        398.0,
+        56.0
+      ],
+      [
+        18.0,
+        56.0
+      ]
+    ],
+    "text": "Praktikum während des Studiums: ein",
+    "confidence": 0.8805127772006441
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        33.0
+      ],
+      [
+        445.0,
+        33.0
+      ],
+      [
+        445.0,
+        55.0
+      ],
+      [
+        425.0,
+        55.0
+      ]
+    ],
+    "text": "In",
+    "confidence": 0.9999325657083509
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        53.0
+      ],
+      [
+        807.0,
+        53.0
+      ],
+      [
+        807.0,
+        86.0
+      ],
+      [
+        424.0,
+        86.0
+      ]
+    ],
+    "text": "gang Europalehramt für Realschulen gewählt",
+    "confidence": 0.7637182139395224
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        56.0
+      ],
+      [
+        398.0,
+        56.0
+      ],
+      [
+        398.0,
+        84.0
+      ],
+      [
+        18.0,
+        84.0
+      ]
+    ],
+    "text": "außerschulisches Betriebspraktikum von",
+    "confidence": 0.7950422123309183
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        80.0
+      ],
+      [
+        398.0,
+        80.0
+      ],
+      [
+        398.0,
+        110.0
+      ],
+      [
+        18.0,
+        110.0
+      ]
+    ],
+    "text": "mindestens vier Wochen; wobei berufliche",
+    "confidence": 0.5759940327237205
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        81.0
+      ],
+      [
+        804.0,
+        81.0
+      ],
+      [
+        804.0,
+        108.0
+      ],
+      [
+        424.0,
+        108.0
+      ]
+    ],
+    "text": "werden. Studiendauer: 8 Semester ein-",
+    "confidence": 0.7002719233161732
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        107.0
+      ],
+      [
+        398.0,
+        107.0
+      ],
+      [
+        398.0,
+        138.0
+      ],
+      [
+        18.0,
+        138.0
+      ]
+    ],
+    "text": "Tätigkeiten angerechnet werden können;",
+    "confidence": 0.8440650357027921
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        108.0
+      ],
+      [
+        804.0,
+        108.0
+      ],
+      [
+        804.0,
+        138.0
+      ],
+      [
+        422.0,
+        138.0
+      ]
+    ],
+    "text": "schließlich einem obligatorischen Auslands-",
+    "confidence": 0.9856325176775788
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        130.0
+      ],
+      [
+        807.0,
+        130.0
+      ],
+      [
+        807.0,
+        167.0
+      ],
+      [
+        421.0,
+        167.0
+      ]
+    ],
+    "text": "semester. Der herkömmliche Studiengang für",
+    "confidence": 0.6162632482498289
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        132.0
+      ],
+      [
+        398.0,
+        132.0
+      ],
+      [
+        398.0,
+        164.0
+      ],
+      [
+        17.0,
+        164.0
+      ]
+    ],
+    "text": "schulpraktische Studien zur Einführung in die",
+    "confidence": 0.9587322403690021
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        160.0
+      ],
+      [
+        398.0,
+        160.0
+      ],
+      [
+        398.0,
+        190.0
+      ],
+      [
+        18.0,
+        190.0
+      ]
+    ],
+    "text": "Unterrichtstätigkeit, und zwar zwei Blockprak -",
+    "confidence": 0.8143099918771959
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        162.0
+      ],
+      [
+        804.0,
+        162.0
+      ],
+      [
+        804.0,
+        188.0
+      ],
+      [
+        424.0,
+        188.0
+      ]
+    ],
+    "text": "das Lehramt an Realschulen wird mit bilin-",
+    "confidence": 0.6942374675226569
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        185.0
+      ],
+      [
+        804.0,
+        185.0
+      ],
+      [
+        804.0,
+        218.0
+      ],
+      [
+        422.0,
+        218.0
+      ]
+    ],
+    "text": "gualem (zweisprachigem) Lehren und Lernen",
+    "confidence": 0.9784067289600912
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        186.0
+      ],
+      [
+        398.0,
+        186.0
+      ],
+      [
+        398.0,
+        216.0
+      ],
+      [
+        16.0,
+        216.0
+      ]
+    ],
+    "text": "tika im Umfang von mindestens drei Wochen",
+    "confidence": 0.9839548457531094
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        212.0
+      ],
+      [
+        398.0,
+        212.0
+      ],
+      [
+        398.0,
+        244.0
+      ],
+      [
+        18.0,
+        244.0
+      ]
+    ],
+    "text": "und Tagespraktika gemäß der jeweiligen Stu-",
+    "confidence": 0.7855689582685645
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        212.0
+      ],
+      [
+        804.0,
+        212.0
+      ],
+      [
+        804.0,
+        242.0
+      ],
+      [
+        424.0,
+        242.0
+      ]
+    ],
+    "text": "und mit europaorientierten interdisziplinären",
+    "confidence": 0.9360244296989237
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        237.0
+      ],
+      [
+        134.0,
+        237.0
+      ],
+      [
+        134.0,
+        270.0
+      ],
+      [
+        17.0,
+        270.0
+      ]
+    ],
+    "text": "dienordnung:",
+    "confidence": 0.8151400596117468
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        240.0
+      ],
+      [
+        804.0,
+        240.0
+      ],
+      [
+        804.0,
+        270.0
+      ],
+      [
+        422.0,
+        270.0
+      ]
+    ],
+    "text": "(sprach-, fach-und kulturvergleichenden) Stu-",
+    "confidence": 0.7710468995104185
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        266.0
+      ],
+      [
+        804.0,
+        266.0
+      ],
+      [
+        804.0,
+        295.0
+      ],
+      [
+        424.0,
+        295.0
+      ]
+    ],
+    "text": "dien verbunden. Europalehrer /innen werden",
+    "confidence": 0.6228639209915695
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        278.0
+      ],
+      [
+        344.0,
+        278.0
+      ],
+      [
+        344.0,
+        306.0
+      ],
+      [
+        18.0,
+        306.0
+      ]
+    ],
+    "text": "Fächer und Fächerkombinationen",
+    "confidence": 0.8686293335885524
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        292.0
+      ],
+      [
+        803.0,
+        292.0
+      ],
+      [
+        803.0,
+        322.0
+      ],
+      [
+        422.0,
+        322.0
+      ]
+    ],
+    "text": "für fächerübergreifendes bzw. fächerverbin-",
+    "confidence": 0.7064841568405821
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        308.0
+      ],
+      [
+        399.0,
+        308.0
+      ],
+      [
+        399.0,
+        345.0
+      ],
+      [
+        17.0,
+        345.0
+      ]
+    ],
+    "text": "Das Studium gliedert sich in den Erziehungs-",
+    "confidence": 0.9937891793208586
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        315.0
+      ],
+      [
+        805.0,
+        315.0
+      ],
+      [
+        805.0,
+        353.0
+      ],
+      [
+        423.0,
+        353.0
+      ]
+    ],
+    "text": "dendes Unterrichten ausgebildet. Sie können",
+    "confidence": 0.8751396366713309
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        338.0
+      ],
+      [
+        398.0,
+        338.0
+      ],
+      [
+        398.0,
+        368.0
+      ],
+      [
+        18.0,
+        368.0
+      ]
+    ],
+    "text": "wissenschaftlichen Bereich (Allgemeine Pä -",
+    "confidence": 0.6697550923479205
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        346.0
+      ],
+      [
+        804.0,
+        346.0
+      ],
+      [
+        804.0,
+        374.0
+      ],
+      [
+        424.0,
+        374.0
+      ]
+    ],
+    "text": "mindestens ein nichtsprachliches Unterrichts-",
+    "confidence": 0.9464643927588049
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        364.0
+      ],
+      [
+        398.0,
+        364.0
+      ],
+      [
+        398.0,
+        396.0
+      ],
+      [
+        18.0,
+        396.0
+      ]
+    ],
+    "text": "dagogik, Schulpädagogik) mit Pädagogischer",
+    "confidence": 0.801652660080074
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        372.0
+      ],
+      [
+        806.0,
+        372.0
+      ],
+      [
+        806.0,
+        404.0
+      ],
+      [
+        422.0,
+        404.0
+      ]
+    ],
+    "text": "fach; zum Beispiel Geographie; in Englisch",
+    "confidence": 0.6175990432335152
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        389.0
+      ],
+      [
+        398.0,
+        389.0
+      ],
+      [
+        398.0,
+        422.0
+      ],
+      [
+        18.0,
+        422.0
+      ]
+    ],
+    "text": "Psychologie und den Grundlagenwahlfächern",
+    "confidence": 0.9149702376916748
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        398.0
+      ],
+      [
+        804.0,
+        398.0
+      ],
+      [
+        804.0,
+        424.0
+      ],
+      [
+        424.0,
+        424.0
+      ]
+    ],
+    "text": "oder Französisch unterrichten und vermitteln",
+    "confidence": 0.985376054697121
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        415.0
+      ],
+      [
+        398.0,
+        415.0
+      ],
+      [
+        398.0,
+        448.0
+      ],
+      [
+        17.0,
+        448.0
+      ]
+    ],
+    "text": "Philosophie, Soziologie/Politikwissenschaft,",
+    "confidence": 0.9533660462646075
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        423.0
+      ],
+      [
+        804.0,
+        423.0
+      ],
+      [
+        804.0,
+        453.0
+      ],
+      [
+        424.0,
+        453.0
+      ]
+    ],
+    "text": "darüber hinaus die mit der Fremdsprache ver -",
+    "confidence": 0.8174170648135364
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        439.0
+      ],
+      [
+        401.0,
+        439.0
+      ],
+      [
+        401.0,
+        506.0
+      ],
+      [
+        15.0,
+        506.0
+      ]
+    ],
+    "text": "Iheologiologsiligionsgädspogigogangalisoh",
+    "confidence": 0.10005075055480424
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        450.0
+      ],
+      [
+        804.0,
+        450.0
+      ],
+      [
+        804.0,
+        480.0
+      ],
+      [
+        424.0,
+        480.0
+      ]
+    ],
+    "text": "knüpften kulturellen und landeskundlichen",
+    "confidence": 0.7679551178639842
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        475.0
+      ],
+      [
+        576.0,
+        475.0
+      ],
+      [
+        576.0,
+        506.0
+      ],
+      [
+        423.0,
+        506.0
+      ]
+    ],
+    "text": "Zusammenhänge.",
+    "confidence": 0.941822258171283
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        491.0
+      ],
+      [
+        399.0,
+        491.0
+      ],
+      [
+        399.0,
+        527.0
+      ],
+      [
+        15.0,
+        527.0
+      ]
+    ],
+    "text": "lisch, das Studium zweier unterrichtsbezoge -",
+    "confidence": 0.7189671815111983
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        510.0
+      ],
+      [
+        804.0,
+        510.0
+      ],
+      [
+        804.0,
+        538.0
+      ],
+      [
+        424.0,
+        538.0
+      ]
+    ],
+    "text": "Als erstes Fach muss Deutsch oder Mathe-",
+    "confidence": 0.6693225769393569
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        522.0
+      ],
+      [
+        398.0,
+        522.0
+      ],
+      [
+        398.0,
+        550.0
+      ],
+      [
+        18.0,
+        550.0
+      ]
+    ],
+    "text": "ner Fachdisziplinen , die Interdisziplinären",
+    "confidence": 0.5207870744844882
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        533.0
+      ],
+      [
+        806.0,
+        533.0
+      ],
+      [
+        806.0,
+        566.0
+      ],
+      [
+        424.0,
+        566.0
+      ]
+    ],
+    "text": "matik gewählt werden. Das zweite Fach ist",
+    "confidence": 0.7059534658652112
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        547.0
+      ],
+      [
+        330.0,
+        547.0
+      ],
+      [
+        330.0,
+        576.0
+      ],
+      [
+        18.0,
+        576.0
+      ]
+    ],
+    "text": "sowie die Schulpraktischen Studien.",
+    "confidence": 0.8016679384847318
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        561.0
+      ],
+      [
+        804.0,
+        561.0
+      ],
+      [
+        804.0,
+        593.0
+      ],
+      [
+        424.0,
+        593.0
+      ]
+    ],
+    "text": "entweder ein bilinguales Sachfach wie Geo-",
+    "confidence": 0.8641412965153791
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        577.0
+      ],
+      [
+        399.0,
+        577.0
+      ],
+      [
+        399.0,
+        613.0
+      ],
+      [
+        17.0,
+        613.0
+      ]
+    ],
+    "text": "Die Teilnahme an einer Lehrveranstaltung zur",
+    "confidence": 0.8529619657153693
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        585.0
+      ],
+      [
+        805.0,
+        585.0
+      ],
+      [
+        805.0,
+        623.0
+      ],
+      [
+        421.0,
+        623.0
+      ]
+    ],
+    "text": "graphie oder ein Sprachfach, nämlich Englisch",
+    "confidence": 0.8963837163710419
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        604.0
+      ],
+      [
+        399.0,
+        604.0
+      ],
+      [
+        399.0,
+        640.0
+      ],
+      [
+        16.0,
+        640.0
+      ]
+    ],
+    "text": "Sprecherziehung ist vorgeschrieben. Die Fä-",
+    "confidence": 0.5882800380294628
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        611.0
+      ],
+      [
+        805.0,
+        611.0
+      ],
+      [
+        805.0,
+        647.0
+      ],
+      [
+        423.0,
+        647.0
+      ]
+    ],
+    "text": "oder Französisch. Die ergänzendenden euro-",
+    "confidence": 0.7854375051343269
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        632.0
+      ],
+      [
+        398.0,
+        632.0
+      ],
+      [
+        398.0,
+        664.0
+      ],
+      [
+        17.0,
+        664.0
+      ]
+    ],
+    "text": "cherverbindungen bei den unterrichtsbezoge-",
+    "confidence": 0.9828468393522314
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        640.0
+      ],
+      [
+        806.0,
+        640.0
+      ],
+      [
+        806.0,
+        670.0
+      ],
+      [
+        423.0,
+        670.0
+      ]
+    ],
+    "text": "paorientierten Studien (zusätzlich 40 SWS)",
+    "confidence": 0.9667883412641166
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        662.0
+      ],
+      [
+        398.0,
+        662.0
+      ],
+      [
+        398.0,
+        690.0
+      ],
+      [
+        18.0,
+        690.0
+      ]
+    ],
+    "text": "nen Fachdisziplinen sind mit jeweils 44 Se-",
+    "confidence": 0.9295976315744195
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        668.0
+      ],
+      [
+        804.0,
+        668.0
+      ],
+      [
+        804.0,
+        696.0
+      ],
+      [
+        424.0,
+        696.0
+      ]
+    ],
+    "text": "werden im ersten Fall mit dem Studium von",
+    "confidence": 0.7150365165725294
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        687.0
+      ],
+      [
+        398.0,
+        687.0
+      ],
+      [
+        398.0,
+        714.0
+      ],
+      [
+        18.0,
+        714.0
+      ]
+    ],
+    "text": "mesterwochenstunden die Fächer: Deutsch",
+    "confidence": 0.6862772911523483
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        696.0
+      ],
+      [
+        804.0,
+        696.0
+      ],
+      [
+        804.0,
+        728.0
+      ],
+      [
+        424.0,
+        728.0
+      ]
+    ],
+    "text": "Englisch oder Französisch verknüpft; im zwei-",
+    "confidence": 0.7856049173351213
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        714.0
+      ],
+      [
+        398.0,
+        714.0
+      ],
+      [
+        398.0,
+        746.0
+      ],
+      [
+        18.0,
+        746.0
+      ]
+    ],
+    "text": "oder Englisch oder Französisch oder Mathe-",
+    "confidence": 0.752060936280762
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        719.0
+      ],
+      [
+        805.0,
+        719.0
+      ],
+      [
+        805.0,
+        755.0
+      ],
+      [
+        421.0,
+        755.0
+      ]
+    ],
+    "text": "ten Fall mit dem Studium eines bilingualen",
+    "confidence": 0.8485649745437548
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        738.0
+      ],
+      [
+        399.0,
+        738.0
+      ],
+      [
+        399.0,
+        775.0
+      ],
+      [
+        17.0,
+        775.0
+      ]
+    ],
+    "text": "matik (für Französisch gilt die Sonderregelung,",
+    "confidence": 0.7661223820250979
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        748.0
+      ],
+      [
+        520.0,
+        748.0
+      ],
+      [
+        520.0,
+        776.0
+      ],
+      [
+        424.0,
+        776.0
+      ]
+    ],
+    "text": "Sachfachs .",
+    "confidence": 0.7010678175210354
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        767.0
+      ],
+      [
+        400.0,
+        767.0
+      ],
+      [
+        400.0,
+        800.0
+      ],
+      [
+        17.0,
+        800.0
+      ]
+    ],
+    "text": "dass, wenn es nicht mit Deutsch; Englisch",
+    "confidence": 0.6627040552461725
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        794.0
+      ],
+      [
+        398.0,
+        794.0
+      ],
+      [
+        398.0,
+        820.0
+      ],
+      [
+        18.0,
+        820.0
+      ]
+    ],
+    "text": "oder Mathematik kombiniert wird, ein drit -",
+    "confidence": 0.6654113710321793
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        802.0
+      ],
+      [
+        520.0,
+        802.0
+      ],
+      [
+        520.0,
+        842.0
+      ],
+      [
+        421.0,
+        842.0
+      ]
+    ],
+    "text": "Bayern:",
+    "confidence": 0.999482839048204
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        820.0
+      ],
+      [
+        398.0,
+        820.0
+      ],
+      [
+        398.0,
+        850.0
+      ],
+      [
+        18.0,
+        850.0
+      ]
+    ],
+    "text": "tes Fach als Erweiterungsfach studiert wer-",
+    "confidence": 0.8416348251878042
+  },
+  {
+    "bbox": [
+      [
+        156.0,
+        844.0
+      ],
+      [
+        401.0,
+        844.0
+      ],
+      [
+        401.0,
+        882.0
+      ],
+      [
+        156.0,
+        882.0
+      ]
+    ],
+    "text": "Biologie oder Chemie oder",
+    "confidence": 0.8577686142705011
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        848.0
+      ],
+      [
+        156.0,
+        848.0
+      ],
+      [
+        156.0,
+        874.0
+      ],
+      [
+        18.0,
+        874.0
+      ]
+    ],
+    "text": "den muss) und",
+    "confidence": 0.975090371544645
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        854.0
+      ],
+      [
+        676.0,
+        854.0
+      ],
+      [
+        676.0,
+        884.0
+      ],
+      [
+        424.0,
+        884.0
+      ]
+    ],
+    "text": "Lehramt an Realschulen",
+    "confidence": 0.7439478544940151
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        874.0
+      ],
+      [
+        398.0,
+        874.0
+      ],
+      [
+        398.0,
+        906.0
+      ],
+      [
+        18.0,
+        906.0
+      ]
+    ],
+    "text": "Deutsch oder Englisch oder Ethik oder Fran-",
+    "confidence": 0.8786116659892037
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        888.0
+      ],
+      [
+        804.0,
+        888.0
+      ],
+      [
+        804.0,
+        916.0
+      ],
+      [
+        424.0,
+        916.0
+      ]
+    ],
+    "text": "Praktikum während des Studiums: Jeder",
+    "confidence": 0.5969708935168567
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        899.0
+      ],
+      [
+        398.0,
+        899.0
+      ],
+      [
+        398.0,
+        931.0
+      ],
+      [
+        18.0,
+        931.0
+      ]
+    ],
+    "text": "zösisch oder Geographie oder Geschichte",
+    "confidence": 0.7743897080960309
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        916.0
+      ],
+      [
+        804.0,
+        916.0
+      ],
+      [
+        804.0,
+        944.0
+      ],
+      [
+        424.0,
+        944.0
+      ]
+    ],
+    "text": "Studierende hat mindestens folgende Prakti -",
+    "confidence": 0.9522525727682865
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        926.0
+      ],
+      [
+        398.0,
+        926.0
+      ],
+      [
+        398.0,
+        954.0
+      ],
+      [
+        18.0,
+        954.0
+      ]
+    ],
+    "text": "oder Haushalt/Textil oder Kunst oder Mathe-",
+    "confidence": 0.764878111813579
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        942.0
+      ],
+      [
+        804.0,
+        942.0
+      ],
+      [
+        804.0,
+        972.0
+      ],
+      [
+        424.0,
+        972.0
+      ]
+    ],
+    "text": "ka abzuleisten: ein schulpädagogisches",
+    "confidence": 0.8633898156800853
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        953.0
+      ],
+      [
+        397.0,
+        953.0
+      ],
+      [
+        397.0,
+        982.0
+      ],
+      [
+        18.0,
+        982.0
+      ]
+    ],
+    "text": "matik oder Musik oder Physik oder Politikwis -",
+    "confidence": 0.623790676281849
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        968.0
+      ],
+      [
+        804.0,
+        968.0
+      ],
+      [
+        804.0,
+        998.0
+      ],
+      [
+        424.0,
+        998.0
+      ]
+    ],
+    "text": "Blockpraktikum (15-tägig) , ein fachdidakti -",
+    "confidence": 0.8020996715289567
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        980.0
+      ],
+      [
+        398.0,
+        980.0
+      ],
+      [
+        398.0,
+        1008.0
+      ],
+      [
+        18.0,
+        1008.0
+      ]
+    ],
+    "text": "senschaft oder Sport oder Technik oder The-",
+    "confidence": 0.5910609215195235
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        994.0
+      ],
+      [
+        804.0,
+        994.0
+      ],
+      [
+        804.0,
+        1026.0
+      ],
+      [
+        424.0,
+        1026.0
+      ]
+    ],
+    "text": "sches Blockpraktikum (15-tägig), ein studien-",
+    "confidence": 0.7867374448711062
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1006.0
+      ],
+      [
+        400.0,
+        1006.0
+      ],
+      [
+        400.0,
+        1037.0
+      ],
+      [
+        18.0,
+        1037.0
+      ]
+    ],
+    "text": "ologie/Religionspädagogik evangelisch oder",
+    "confidence": 0.8267998878700382
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1021.0
+      ],
+      [
+        804.0,
+        1021.0
+      ],
+      [
+        804.0,
+        1052.0
+      ],
+      [
+        424.0,
+        1052.0
+      ]
+    ],
+    "text": "begleitendes fachdidaktisches Praktikum (fin-",
+    "confidence": 0.8869440079761809
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1034.0
+      ],
+      [
+        376.0,
+        1034.0
+      ],
+      [
+        376.0,
+        1066.0
+      ],
+      [
+        18.0,
+        1066.0
+      ]
+    ],
+    "text": "Theologie/Religionspädagogik katholisch.",
+    "confidence": 0.8939725202253676
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1048.0
+      ],
+      [
+        806.0,
+        1048.0
+      ],
+      [
+        806.0,
+        1078.0
+      ],
+      [
+        424.0,
+        1078.0
+      ]
+    ],
+    "text": "det während eines Semesters einmal jede",
+    "confidence": 0.9314002038515947
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1063.0
+      ],
+      [
+        399.0,
+        1063.0
+      ],
+      [
+        399.0,
+        1099.0
+      ],
+      [
+        17.0,
+        1099.0
+      ]
+    ],
+    "text": "Zeitgleich mit der Ablegung der Ersten Staats-",
+    "confidence": 0.9598693167579482
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        1073.0
+      ],
+      [
+        806.0,
+        1073.0
+      ],
+      [
+        806.0,
+        1104.0
+      ],
+      [
+        422.0,
+        1104.0
+      ]
+    ],
+    "text": "Woche statt und umfasst dabei mindestens",
+    "confidence": 0.9353825008764518
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1092.0
+      ],
+      [
+        400.0,
+        1092.0
+      ],
+      [
+        400.0,
+        1124.0
+      ],
+      [
+        18.0,
+        1124.0
+      ]
+    ],
+    "text": "prüfung können für eine Erweiterungsprüfung",
+    "confidence": 0.8878467909257494
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        1102.0
+      ],
+      [
+        616.0,
+        1102.0
+      ],
+      [
+        616.0,
+        1128.0
+      ],
+      [
+        426.0,
+        1128.0
+      ]
+    ],
+    "text": "4 Stunden Unterricht).",
+    "confidence": 0.8213265940301946
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1119.0
+      ],
+      [
+        399.0,
+        1119.0
+      ],
+      [
+        399.0,
+        1150.0
+      ],
+      [
+        18.0,
+        1150.0
+      ]
+    ],
+    "text": "außerdem die Erweiterungsfächer Beratung ,",
+    "confidence": 0.9530979328663259
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1138.0
+      ],
+      [
+        626.0,
+        1138.0
+      ],
+      [
+        626.0,
+        1170.0
+      ],
+      [
+        423.0,
+        1170.0
+      ]
+    ],
+    "text": "Fächerverbindungen",
+    "confidence": 0.9999922168480117
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1145.0
+      ],
+      [
+        398.0,
+        1145.0
+      ],
+      [
+        398.0,
+        1177.0
+      ],
+      [
+        19.0,
+        1177.0
+      ]
+    ],
+    "text": "Bilinguales Lehren und Lernen, Europaorien-",
+    "confidence": 0.6886546548570242
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1172.0
+      ],
+      [
+        400.0,
+        1172.0
+      ],
+      [
+        400.0,
+        1204.0
+      ],
+      [
+        18.0,
+        1204.0
+      ]
+    ],
+    "text": "tierte Studien mit Bilingualem Lehren und",
+    "confidence": 0.956562934672094
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1174.0
+      ],
+      [
+        804.0,
+        1174.0
+      ],
+      [
+        804.0,
+        1206.0
+      ],
+      [
+        424.0,
+        1206.0
+      ]
+    ],
+    "text": "Biologie mit Chemie; Deutsch mit Englisch;",
+    "confidence": 0.611445382047742
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1199.0
+      ],
+      [
+        399.0,
+        1199.0
+      ],
+      [
+        399.0,
+        1228.0
+      ],
+      [
+        17.0,
+        1228.0
+      ]
+    ],
+    "text": "Lernen, Informatik Informationstechnische",
+    "confidence": 0.5733757765535957
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1199.0
+      ],
+      [
+        804.0,
+        1199.0
+      ],
+      [
+        804.0,
+        1230.0
+      ],
+      [
+        423.0,
+        1230.0
+      ]
+    ],
+    "text": "Erdkunde, Französisch, Geschichte, Hauswirt-",
+    "confidence": 0.7466981783484827
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1221.0
+      ],
+      [
+        401.0,
+        1221.0
+      ],
+      [
+        401.0,
+        1260.0
+      ],
+      [
+        18.0,
+        1260.0
+      ]
+    ],
+    "text": "Grundbildung, Interkulturelle Pädagogik ge-",
+    "confidence": 0.5724805596403226
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1223.0
+      ],
+      [
+        803.0,
+        1223.0
+      ],
+      [
+        803.0,
+        1259.0
+      ],
+      [
+        423.0,
+        1259.0
+      ]
+    ],
+    "text": "schaftswissenschaft, Kunsterziehung, Musik,",
+    "confidence": 0.8239236717967117
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1254.0
+      ],
+      [
+        148.0,
+        1254.0
+      ],
+      [
+        148.0,
+        1280.0
+      ],
+      [
+        20.0,
+        1280.0
+      ]
+    ],
+    "text": "wählt werden.",
+    "confidence": 0.5478878760308485
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1254.0
+      ],
+      [
+        804.0,
+        1254.0
+      ],
+      [
+        804.0,
+        1286.0
+      ],
+      [
+        424.0,
+        1286.0
+      ]
+    ],
+    "text": "Religionslehre, Sport; Englisch mit Franzö -",
+    "confidence": 0.6617659743965291
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1278.0
+      ],
+      [
+        802.0,
+        1278.0
+      ],
+      [
+        802.0,
+        1310.0
+      ],
+      [
+        424.0,
+        1310.0
+      ]
+    ],
+    "text": "sisch, Geschichte, Kunsterziehung , Musik,",
+    "confidence": 0.7160617898413767
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1286.0
+      ],
+      [
+        158.0,
+        1286.0
+      ],
+      [
+        158.0,
+        1314.0
+      ],
+      [
+        20.0,
+        1314.0
+      ]
+    ],
+    "text": "Studiendauer:",
+    "confidence": 0.7782303187932266
+  },
+  {
+    "bbox": [
+      [
+        174.0,
+        1288.0
+      ],
+      [
+        264.0,
+        1288.0
+      ],
+      [
+        264.0,
+        1314.0
+      ],
+      [
+        174.0,
+        1314.0
+      ]
+    ],
+    "text": "Semester.",
+    "confidence": 0.8514038173191049
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1307.0
+      ],
+      [
+        805.0,
+        1307.0
+      ],
+      [
+        805.0,
+        1338.0
+      ],
+      [
+        424.0,
+        1338.0
+      ]
+    ],
+    "text": "Religionslehre, Sport und Wirtschaftswissen -",
+    "confidence": 0.8481259630019257
+  }
+]

@@ -1,0 +1,2114 @@
+[
+  {
+    "bbox": [
+      [
+        19.0,
+        28.0
+      ],
+      [
+        72.0,
+        28.0
+      ],
+      [
+        72.0,
+        48.0
+      ],
+      [
+        19.0,
+        48.0
+      ]
+    ],
+    "text": "Anzeige",
+    "confidence": 0.9967564742282007
+  },
+  {
+    "bbox": [
+      [
+        210.0,
+        52.0
+      ],
+      [
+        489.0,
+        52.0
+      ],
+      [
+        489.0,
+        92.0
+      ],
+      [
+        210.0,
+        92.0
+      ]
+    ],
+    "text": "Mehr als eine Ausbildung:",
+    "confidence": 0.9991068237163887
+  },
+  {
+    "bbox": [
+      [
+        210.0,
+        79.0
+      ],
+      [
+        488.0,
+        79.0
+      ],
+      [
+        488.0,
+        115.0
+      ],
+      [
+        210.0,
+        115.0
+      ]
+    ],
+    "text": "Eine Lebensentscheidung.",
+    "confidence": 0.8412523766033292
+  },
+  {
+    "bbox": [
+      [
+        213.0,
+        108.0
+      ],
+      [
+        343.0,
+        108.0
+      ],
+      [
+        343.0,
+        132.0
+      ],
+      [
+        213.0,
+        132.0
+      ]
+    ],
+    "text": "Die Bundesrepublik",
+    "confidence": 0.9274661994572716
+  },
+  {
+    "bbox": [
+      [
+        347.0,
+        108.0
+      ],
+      [
+        779.0,
+        108.0
+      ],
+      [
+        779.0,
+        132.0
+      ],
+      [
+        347.0,
+        132.0
+      ]
+    ],
+    "text": "Deutschland pflegt   intensive   politische Beziehungen zu anderen",
+    "confidence": 0.5313242421627897
+  },
+  {
+    "bbox": [
+      [
+        512.0,
+        127.0
+      ],
+      [
+        778.0,
+        127.0
+      ],
+      [
+        778.0,
+        147.0
+      ],
+      [
+        512.0,
+        147.0
+      ]
+    ],
+    "text": "Einen wichtigen Beitrag dazu leisten die",
+    "confidence": 0.9519654420113763
+  },
+  {
+    "bbox": [
+      [
+        214.0,
+        129.0
+      ],
+      [
+        504.0,
+        129.0
+      ],
+      [
+        504.0,
+        149.0
+      ],
+      [
+        214.0,
+        149.0
+      ]
+    ],
+    "text": "Staaten und internationalen Organisationen",
+    "confidence": 0.9707122837044617
+  },
+  {
+    "bbox": [
+      [
+        213.0,
+        142.0
+      ],
+      [
+        575.0,
+        142.0
+      ],
+      [
+        575.0,
+        166.0
+      ],
+      [
+        213.0,
+        166.0
+      ]
+    ],
+    "text": "Beamtinnen und Beamten des gehobenen Auswärtigen",
+    "confidence": 0.7682787085604267
+  },
+  {
+    "bbox": [
+      [
+        580.0,
+        145.0
+      ],
+      [
+        748.0,
+        145.0
+      ],
+      [
+        748.0,
+        165.0
+      ],
+      [
+        580.0,
+        165.0
+      ]
+    ],
+    "text": "Dienstes. Tätigkeitsfelder",
+    "confidence": 0.7802580530023184
+  },
+  {
+    "bbox": [
+      [
+        744.6546544120074,
+        146.52011985320812
+      ],
+      [
+        777.7253959401953,
+        143.98856100057515
+      ],
+      [
+        779.3453455879926,
+        160.47988014679188
+      ],
+      [
+        745.2746040598047,
+        163.01143899942485
+      ]
+    ],
+    "text": "sind",
+    "confidence": 0.997894287109375
+  },
+  {
+    "bbox": [
+      [
+        355.0,
+        158.0
+      ],
+      [
+        775.0,
+        158.0
+      ],
+      [
+        775.0,
+        183.0
+      ],
+      [
+        355.0,
+        183.0
+      ]
+    ],
+    "text": "Rechts - und Konsularangelegenheiten , Außenwrtschaftsförderung,",
+    "confidence": 0.7795657839904839
+  },
+  {
+    "bbox": [
+      [
+        214.0,
+        163.0
+      ],
+      [
+        350.0,
+        163.0
+      ],
+      [
+        350.0,
+        181.0
+      ],
+      [
+        214.0,
+        181.0
+      ]
+    ],
+    "text": "Verwaltungsaufgaben",
+    "confidence": 0.9960486229499107
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        177.0
+      ],
+      [
+        778.0,
+        177.0
+      ],
+      [
+        778.0,
+        195.0
+      ],
+      [
+        426.0,
+        195.0
+      ]
+    ],
+    "text": "Presse- und Offentlichkeitsarbeit . Einsatzorte sind das",
+    "confidence": 0.7503383803179892
+  },
+  {
+    "bbox": [
+      [
+        214.0,
+        179.0
+      ],
+      [
+        420.0,
+        179.0
+      ],
+      [
+        420.0,
+        197.0
+      ],
+      [
+        214.0,
+        197.0
+      ]
+    ],
+    "text": "Entwicklungshilfe sowie Kultur-",
+    "confidence": 0.9995259611529502
+  },
+  {
+    "bbox": [
+      [
+        214.0,
+        194.0
+      ],
+      [
+        658.0,
+        194.0
+      ],
+      [
+        658.0,
+        215.0
+      ],
+      [
+        214.0,
+        215.0
+      ]
+    ],
+    "text": "Auswärtige Amt und 201 Auslandsvertretungen überall auf der Welt.",
+    "confidence": 0.8397595197949268
+  },
+  {
+    "bbox": [
+      [
+        213.0,
+        216.0
+      ],
+      [
+        705.0,
+        216.0
+      ],
+      [
+        705.0,
+        240.0
+      ],
+      [
+        213.0,
+        240.0
+      ]
+    ],
+    "text": "Wenn Sie sich vorstellen können, in einem Verwaltungsberuf tätig zu sein",
+    "confidence": 0.705529815535979
+  },
+  {
+    "bbox": [
+      [
+        710.0,
+        217.0
+      ],
+      [
+        778.0,
+        217.0
+      ],
+      [
+        778.0,
+        237.0
+      ],
+      [
+        710.0,
+        237.0
+      ]
+    ],
+    "text": "der Ihnen",
+    "confidence": 0.8335330264495445
+  },
+  {
+    "bbox": [
+      [
+        213.0,
+        233.0
+      ],
+      [
+        779.0,
+        233.0
+      ],
+      [
+        779.0,
+        258.0
+      ],
+      [
+        213.0,
+        258.0
+      ]
+    ],
+    "text": "außergewöhnliche Perspektiven bietet, der aber auch außergewöhnliche Anforderungen",
+    "confidence": 0.7041198199013957
+  },
+  {
+    "bbox": [
+      [
+        233.0,
+        250.0
+      ],
+      [
+        779.0,
+        250.0
+      ],
+      [
+        779.0,
+        274.0
+      ],
+      [
+        233.0,
+        274.0
+      ]
+    ],
+    "text": "Sie stellt und eine starke Persönlichkeit verlangt, sind Sie bei uns richtig: Im",
+    "confidence": 0.8209245418808376
+  },
+  {
+    "bbox": [
+      [
+        212.0,
+        266.0
+      ],
+      [
+        779.0,
+        266.0
+      ],
+      [
+        779.0,
+        292.0
+      ],
+      [
+        212.0,
+        292.0
+      ]
+    ],
+    "text": "gehobenen Auswärtigen Dienst erwartet Sie alles andere als ein normaler Schreibtisch.",
+    "confidence": 0.7276804802160685
+  },
+  {
+    "bbox": [
+      [
+        212.0,
+        291.0
+      ],
+      [
+        608.0,
+        291.0
+      ],
+      [
+        608.0,
+        333.0
+      ],
+      [
+        212.0,
+        333.0
+      ]
+    ],
+    "text": "Ihr Arbeitsplatz: Die Welt.",
+    "confidence": 0.7636663494924053
+  },
+  {
+    "bbox": [
+      [
+        33.0,
+        324.0
+      ],
+      [
+        783.0,
+        324.0
+      ],
+      [
+        783.0,
+        351.0
+      ],
+      [
+        33.0,
+        351.0
+      ]
+    ],
+    "text": "Die Ausbildung zur Vorbereitung auf die Laufbahn im gehobenen Auswärtigen Dienst , die zugleich ein Fachhoch -",
+    "confidence": 0.8004789728161491
+  },
+  {
+    "bbox": [
+      [
+        35.0,
+        342.0
+      ],
+      [
+        505.0,
+        342.0
+      ],
+      [
+        505.0,
+        369.0
+      ],
+      [
+        35.0,
+        369.0
+      ]
+    ],
+    "text": "schulstudium ist; beginnt Anfang August 2002 und dauert drei Jahre;",
+    "confidence": 0.6403392113316856
+  },
+  {
+    "bbox": [
+      [
+        510.0,
+        344.0
+      ],
+      [
+        782.0,
+        344.0
+      ],
+      [
+        782.0,
+        365.0
+      ],
+      [
+        510.0,
+        365.0
+      ]
+    ],
+    "text": "Eine wesentliche Voraussetzung für Ihre",
+    "confidence": 0.6769117155223996
+  },
+  {
+    "bbox": [
+      [
+        521.202547777171,
+        358.1658598874935
+      ],
+      [
+        554.9028890371088,
+        365.3843594291707
+      ],
+      [
+        550.797452222829,
+        384.8341401125065
+      ],
+      [
+        517.0971109628912,
+        377.6156405708293
+      ]
+    ],
+    "text": "mogl",
+    "confidence": 0.8150767683982849
+  },
+  {
+    "bbox": [
+      [
+        547.0,
+        361.0
+      ],
+      [
+        782.0,
+        361.0
+      ],
+      [
+        782.0,
+        382.0
+      ],
+      [
+        547.0,
+        382.0
+      ]
+    ],
+    "text": "lichen Dienstort der Welt versetzen",
+    "confidence": 0.6792895281217429
+  },
+  {
+    "bbox": [
+      [
+        35.0,
+        362.0
+      ],
+      [
+        518.0,
+        362.0
+      ],
+      [
+        518.0,
+        383.0
+      ],
+      [
+        35.0,
+        383.0
+      ]
+    ],
+    "text": "Bewerbung ist die Bereitschaft, sich später etwa alle vier Jahre an jeden",
+    "confidence": 0.6585551952189691
+  },
+  {
+    "bbox": [
+      [
+        110.0,
+        379.0
+      ],
+      [
+        464.0,
+        379.0
+      ],
+      [
+        464.0,
+        397.0
+      ],
+      [
+        110.0,
+        397.0
+      ]
+    ],
+    "text": "ohne selbst bestimmen zu können, wohin Sie kommen",
+    "confidence": 0.7481311027875942
+  },
+  {
+    "bbox": [
+      [
+        36.0,
+        383.0
+      ],
+      [
+        98.0,
+        383.0
+      ],
+      [
+        98.0,
+        397.0
+      ],
+      [
+        36.0,
+        397.0
+      ]
+    ],
+    "text": "zu lassen",
+    "confidence": 0.7146611521188951
+  },
+  {
+    "bbox": [
+      [
+        36.0,
+        405.0
+      ],
+      [
+        280.0,
+        405.0
+      ],
+      [
+        280.0,
+        425.0
+      ],
+      [
+        36.0,
+        425.0
+      ]
+    ],
+    "text": "Weitere Bewerbungsvoraussetzungen:",
+    "confidence": 0.9703280413559756
+  },
+  {
+    "bbox": [
+      [
+        199.0,
+        418.0
+      ],
+      [
+        365.0,
+        418.0
+      ],
+      [
+        365.0,
+        443.0
+      ],
+      [
+        199.0,
+        443.0
+      ]
+    ],
+    "text": "Sinne des Grundgesetzes",
+    "confidence": 0.7622139793086617
+  },
+  {
+    "bbox": [
+      [
+        50.0,
+        423.0
+      ],
+      [
+        110.0,
+        423.0
+      ],
+      [
+        110.0,
+        439.0
+      ],
+      [
+        50.0,
+        439.0
+      ]
+    ],
+    "text": "Deutsche",
+    "confidence": 0.9998996884165091
+  },
+  {
+    "bbox": [
+      [
+        116.0,
+        423.0
+      ],
+      [
+        202.0,
+        423.0
+      ],
+      [
+        202.0,
+        439.0
+      ],
+      [
+        116.0,
+        439.0
+      ]
+    ],
+    "text": "Deutscher im",
+    "confidence": 0.9579739971498699
+  },
+  {
+    "bbox": [
+      [
+        49.0,
+        439.0
+      ],
+      [
+        252.0,
+        439.0
+      ],
+      [
+        252.0,
+        455.0
+      ],
+      [
+        49.0,
+        455.0
+      ]
+    ],
+    "text": "Fachhochschulreife oder Abitur",
+    "confidence": 0.6237605977529584
+  },
+  {
+    "bbox": [
+      [
+        50.0,
+        453.0
+      ],
+      [
+        740.0,
+        453.0
+      ],
+      [
+        740.0,
+        473.0
+      ],
+      [
+        50.0,
+        473.0
+      ]
+    ],
+    "text": "Kenntnisse in Englisch und Französisch; im Auswahlverfahren kann eine dieser beiden Sprachen durch eine",
+    "confidence": 0.7548660175072726
+  },
+  {
+    "bbox": [
+      [
+        50.0,
+        471.0
+      ],
+      [
+        466.0,
+        471.0
+      ],
+      [
+        466.0,
+        489.0
+      ],
+      [
+        50.0,
+        489.0
+      ]
+    ],
+    "text": "andere Amtssprache der Vereinten Nationen (Spanisch; Russisch",
+    "confidence": 0.6216451138439237
+  },
+  {
+    "bbox": [
+      [
+        472.0,
+        471.0
+      ],
+      [
+        744.0,
+        471.0
+      ],
+      [
+        744.0,
+        489.0
+      ],
+      [
+        472.0,
+        489.0
+      ]
+    ],
+    "text": "Arabisch oder Chinesisch) ersetzt werden.",
+    "confidence": 0.7606331813218604
+  },
+  {
+    "bbox": [
+      [
+        49.0,
+        484.0
+      ],
+      [
+        519.0,
+        484.0
+      ],
+      [
+        519.0,
+        509.0
+      ],
+      [
+        49.0,
+        509.0
+      ]
+    ],
+    "text": "Alter zwischen 18 und 31 Jahren (zum Ausbildungsbeginn August 2002)",
+    "confidence": 0.68259255840519
+  },
+  {
+    "bbox": [
+      [
+        35.0,
+        506.0
+      ],
+      [
+        783.0,
+        506.0
+      ],
+      [
+        783.0,
+        534.0
+      ],
+      [
+        35.0,
+        534.0
+      ]
+    ],
+    "text": "Das Auswärtige Amt setzt sich die berufliche Förderung von Frauen zum Ziel und lädt ausdrücklich qualifizierte Frauen",
+    "confidence": 0.6063140933178295
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        526.0
+      ],
+      [
+        677.0,
+        526.0
+      ],
+      [
+        677.0,
+        550.0
+      ],
+      [
+        60.0,
+        550.0
+      ]
+    ],
+    "text": "Bewerbung ein. Auf die Probleme Schwerbehinderter geht das Auswärtige Amt besonders ein",
+    "confidence": 0.9021464464958824
+  },
+  {
+    "bbox": [
+      [
+        682.0,
+        529.0
+      ],
+      [
+        782.0,
+        529.0
+      ],
+      [
+        782.0,
+        547.0
+      ],
+      [
+        682.0,
+        547.0
+      ]
+    ],
+    "text": "Soweit sie den",
+    "confidence": 0.9994226149481886
+  },
+  {
+    "bbox": [
+      [
+        36.0,
+        533.0
+      ],
+      [
+        62.0,
+        533.0
+      ],
+      [
+        62.0,
+        547.0
+      ],
+      [
+        36.0,
+        547.0
+      ]
+    ],
+    "text": "zur",
+    "confidence": 0.5070884227752686
+  },
+  {
+    "bbox": [
+      [
+        511.0,
+        541.0
+      ],
+      [
+        782.0,
+        541.0
+      ],
+      [
+        782.0,
+        566.0
+      ],
+      [
+        511.0,
+        566.0
+      ]
+    ],
+    "text": "werden sie bei sonst gleicher Qualifikation",
+    "confidence": 0.9836313243472922
+  },
+  {
+    "bbox": [
+      [
+        37.0,
+        544.0
+      ],
+      [
+        507.0,
+        544.0
+      ],
+      [
+        507.0,
+        568.0
+      ],
+      [
+        37.0,
+        568.0
+      ]
+    ],
+    "text": "körperlichen Anforderungen in dem unverzichtbaren Mindestmaß genügen,",
+    "confidence": 0.9206823245038604
+  },
+  {
+    "bbox": [
+      [
+        37.0,
+        560.0
+      ],
+      [
+        547.0,
+        560.0
+      ],
+      [
+        547.0,
+        585.0
+      ],
+      [
+        37.0,
+        585.0
+      ]
+    ],
+    "text": "bevorzugt eingestellt. (Weitere Auskünfte werden auf Nachfrage gerne erteilt )",
+    "confidence": 0.8429273219960691
+  },
+  {
+    "bbox": [
+      [
+        34.0,
+        587.0
+      ],
+      [
+        166.0,
+        587.0
+      ],
+      [
+        166.0,
+        607.0
+      ],
+      [
+        34.0,
+        607.0
+      ]
+    ],
+    "text": "Schreiben Sie uns:",
+    "confidence": 0.9764747473776294
+  },
+  {
+    "bbox": [
+      [
+        444.0,
+        600.0
+      ],
+      [
+        618.0,
+        600.0
+      ],
+      [
+        618.0,
+        642.0
+      ],
+      [
+        444.0,
+        642.0
+      ]
+    ],
+    "text": "gehpobenen Ausswäceigges",
+    "confidence": 0.45035883229549173
+  },
+  {
+    "bbox": [
+      [
+        523.0,
+        600.0
+      ],
+      [
+        783.0,
+        600.0
+      ],
+      [
+        783.0,
+        626.0
+      ],
+      [
+        523.0,
+        626.0
+      ]
+    ],
+    "text": "Auswärtigen Dienst und die offiziellen",
+    "confidence": 0.9634333462808504
+  },
+  {
+    "bbox": [
+      [
+        38.0,
+        602.0
+      ],
+      [
+        444.0,
+        602.0
+      ],
+      [
+        444.0,
+        623.0
+      ],
+      [
+        38.0,
+        623.0
+      ]
+    ],
+    "text": "Fordern Sie die ausführliche Informationsbroschüre über den",
+    "confidence": 0.8212658568986511
+  },
+  {
+    "bbox": [
+      [
+        154.0,
+        619.0
+      ],
+      [
+        448.0,
+        619.0
+      ],
+      [
+        448.0,
+        659.0
+      ],
+      [
+        154.0,
+        659.0
+      ]
+    ],
+    "text": "dßeobeittoger Postkarte oder über Internet",
+    "confidence": 0.2841175701791402
+  },
+  {
+    "bbox": [
+      [
+        32.0,
+        621.0
+      ],
+      [
+        190.0,
+        621.0
+      ],
+      [
+        190.0,
+        659.0
+      ],
+      [
+        32.0,
+        659.0
+      ]
+    ],
+    "text": "Sehuerbusngsernterlageot",
+    "confidence": 0.21677550576350563
+  },
+  {
+    "bbox": [
+      [
+        618.0,
+        623.0
+      ],
+      [
+        782.0,
+        623.0
+      ],
+      [
+        782.0,
+        641.0
+      ],
+      [
+        618.0,
+        641.0
+      ]
+    ],
+    "text": "amt.de an. Bewerbungs -",
+    "confidence": 0.9620556961101532
+  },
+  {
+    "bbox": [
+      [
+        349.0,
+        652.0
+      ],
+      [
+        471.0,
+        652.0
+      ],
+      [
+        471.0,
+        676.0
+      ],
+      [
+        349.0,
+        676.0
+      ]
+    ],
+    "text": "Auswärtiges Amt",
+    "confidence": 0.7324002013704585
+  },
+  {
+    "bbox": [
+      [
+        311.0,
+        668.0
+      ],
+      [
+        509.0,
+        668.0
+      ],
+      [
+        509.0,
+        692.0
+      ],
+      [
+        311.0,
+        692.0
+      ]
+    ],
+    "text": "Aus- und Fortbildungsstätte",
+    "confidence": 0.8361719249623443
+  },
+  {
+    "bbox": [
+      [
+        277.0,
+        684.0
+      ],
+      [
+        543.0,
+        684.0
+      ],
+      [
+        543.0,
+        710.0
+      ],
+      [
+        277.0,
+        710.0
+      ]
+    ],
+    "text": "Gudenauer Weg 134-136,53127 Bonn",
+    "confidence": 0.8892272409282849
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        725.0
+      ],
+      [
+        400.0,
+        725.0
+      ],
+      [
+        400.0,
+        761.0
+      ],
+      [
+        16.0,
+        761.0
+      ]
+    ],
+    "text": "ter des gehobenen Dienstes der ständige",
+    "confidence": 0.8342305797510015
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        725.0
+      ],
+      [
+        579.0,
+        725.0
+      ],
+      [
+        579.0,
+        754.0
+      ],
+      [
+        422.0,
+        754.0
+      ]
+    ],
+    "text": "Dienstese, 3-VII F 01",
+    "confidence": 0.5185589638114173
+  },
+  {
+    "bbox": [
+      [
+        593.0,
+        726.0
+      ],
+      [
+        805.0,
+        726.0
+      ],
+      [
+        805.0,
+        750.0
+      ],
+      [
+        593.0,
+        750.0
+      ]
+    ],
+    "text": "Informationsschrift über den",
+    "confidence": 0.7055416940596512
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        747.0
+      ],
+      [
+        805.0,
+        747.0
+      ],
+      [
+        805.0,
+        776.0
+      ],
+      [
+        422.0,
+        776.0
+      ]
+    ],
+    "text": "gehobenen Auswärtigen Dienst, Aus-und Fortbildungs-",
+    "confidence": 0.9169423770843341
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        756.0
+      ],
+      [
+        199.0,
+        756.0
+      ],
+      [
+        199.0,
+        782.0
+      ],
+      [
+        17.0,
+        782.0
+      ]
+    ],
+    "text": "Vertreter des Leiters.",
+    "confidence": 0.7748034731222123
+  },
+  {
+    "bbox": [
+      [
+        727.9230627620734,
+        768.1999631813908
+      ],
+      [
+        769.7947328584552,
+        774.9093725430419
+      ],
+      [
+        765.0769372379266,
+        799.8000368186092
+      ],
+      [
+        723.2052671415448,
+        793.0906274569581
+      ]
+    ],
+    "text": "Weg",
+    "confidence": 0.9999726763203935
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        772.0
+      ],
+      [
+        729.0,
+        772.0
+      ],
+      [
+        729.0,
+        798.0
+      ],
+      [
+        423.0,
+        798.0
+      ]
+    ],
+    "text": "stätte des Auswärtigen Amts, Gudenauer",
+    "confidence": 0.8070027622101579
+  },
+  {
+    "bbox": [
+      [
+        768.0,
+        773.0
+      ],
+      [
+        800.0,
+        773.0
+      ],
+      [
+        800.0,
+        793.0
+      ],
+      [
+        768.0,
+        793.0
+      ]
+    ],
+    "text": "134",
+    "confidence": 0.9999985546643163
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        794.0
+      ],
+      [
+        551.0,
+        794.0
+      ],
+      [
+        551.0,
+        818.0
+      ],
+      [
+        423.0,
+        818.0
+      ]
+    ],
+    "text": "136, 53127 Bonn:",
+    "confidence": 0.5621855884803797
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        800.0
+      ],
+      [
+        399.0,
+        800.0
+      ],
+      [
+        399.0,
+        824.0
+      ],
+      [
+        19.0,
+        824.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde \"Beamter/",
+    "confidence": 0.9066967733511774
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        819.0
+      ],
+      [
+        401.0,
+        819.0
+      ],
+      [
+        401.0,
+        872.0
+      ],
+      [
+        15.0,
+        872.0
+      ]
+    ],
+    "text": "Beamtincamgetioenin ussärönereniensesärtzgen",
+    "confidence": 0.11478613134327541
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        834.0
+      ],
+      [
+        729.0,
+        834.0
+      ],
+      [
+        729.0,
+        861.0
+      ],
+      [
+        425.0,
+        861.0
+      ]
+    ],
+    "text": "Online-Infos: www auswaertiges-amt.de",
+    "confidence": 0.6465297067039562
+  },
+  {
+    "bbox": [
+      [
+        181.0,
+        892.0
+      ],
+      [
+        643.0,
+        892.0
+      ],
+      [
+        643.0,
+        940.0
+      ],
+      [
+        181.0,
+        940.0
+      ]
+    ],
+    "text": "5.2.4 Bundesanstalt für Arbeit",
+    "confidence": 0.6791235836749525
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        945.0
+      ],
+      [
+        806.0,
+        945.0
+      ],
+      [
+        806.0,
+        985.0
+      ],
+      [
+        423.0,
+        985.0
+      ]
+    ],
+    "text": "Ausbildungsorte: Für die Fachstudien: Fach -",
+    "confidence": 0.9169036835345576
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        948.0
+      ],
+      [
+        400.0,
+        948.0
+      ],
+      [
+        400.0,
+        986.0
+      ],
+      [
+        18.0,
+        986.0
+      ]
+    ],
+    "text": "Der Zugang zum gehobenen Dienst bei der",
+    "confidence": 0.67993251969807
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        977.0
+      ],
+      [
+        399.0,
+        977.0
+      ],
+      [
+        399.0,
+        1007.0
+      ],
+      [
+        19.0,
+        1007.0
+      ]
+    ],
+    "text": "Bundesanstalt für Arbeit ist über die Laufbahn",
+    "confidence": 0.7126357579951386
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        977.0
+      ],
+      [
+        805.0,
+        977.0
+      ],
+      [
+        805.0,
+        1004.0
+      ],
+      [
+        425.0,
+        1004.0
+      ]
+    ],
+    "text": "hochschule des Bundes für öffentliche Ver-",
+    "confidence": 0.7335504840024037
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1003.0
+      ],
+      [
+        805.0,
+        1003.0
+      ],
+      [
+        805.0,
+        1034.0
+      ],
+      [
+        425.0,
+        1034.0
+      ]
+    ],
+    "text": "waltung , Fachbereich Arbeitsverwaltung in",
+    "confidence": 0.8760887027978838
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1006.0
+      ],
+      [
+        343.0,
+        1006.0
+      ],
+      [
+        343.0,
+        1036.0
+      ],
+      [
+        19.0,
+        1036.0
+      ]
+    ],
+    "text": "als Verwaltungsinspektorenanwärter",
+    "confidence": 0.9911024740439419
+  },
+  {
+    "bbox": [
+      [
+        359.0,
+        1006.0
+      ],
+      [
+        399.0,
+        1006.0
+      ],
+      [
+        399.0,
+        1032.0
+      ],
+      [
+        359.0,
+        1032.0
+      ]
+    ],
+    "text": "Ver-",
+    "confidence": 0.9990591406822205
+  },
+  {
+    "bbox": [
+      [
+        427.0,
+        1030.0
+      ],
+      [
+        805.0,
+        1030.0
+      ],
+      [
+        805.0,
+        1060.0
+      ],
+      [
+        427.0,
+        1060.0
+      ]
+    ],
+    "text": "Mannheim bzw: in der Dependance des Fach-",
+    "confidence": 0.8933508685343002
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1031.0
+      ],
+      [
+        399.0,
+        1031.0
+      ],
+      [
+        399.0,
+        1064.0
+      ],
+      [
+        18.0,
+        1064.0
+      ]
+    ],
+    "text": "waltungsinspektorenanwärterin möglich. Vo-",
+    "confidence": 0.8164599962828656
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1056.0
+      ],
+      [
+        805.0,
+        1056.0
+      ],
+      [
+        805.0,
+        1088.0
+      ],
+      [
+        425.0,
+        1088.0
+      ]
+    ],
+    "text": "bereichs Arbeitsverwaltung in Schwerin, für",
+    "confidence": 0.7987224099510791
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1058.0
+      ],
+      [
+        399.0,
+        1058.0
+      ],
+      [
+        399.0,
+        1088.0
+      ],
+      [
+        17.0,
+        1088.0
+      ]
+    ],
+    "text": "raussetzung ist die Fachhochschulreife oder",
+    "confidence": 0.9940638210272347
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1079.0
+      ],
+      [
+        805.0,
+        1079.0
+      ],
+      [
+        805.0,
+        1115.0
+      ],
+      [
+        424.0,
+        1115.0
+      ]
+    ],
+    "text": "die praktische Ausbildung: In den Arbeitsäm -",
+    "confidence": 0.8305683218065132
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1084.0
+      ],
+      [
+        399.0,
+        1084.0
+      ],
+      [
+        399.0,
+        1112.0
+      ],
+      [
+        19.0,
+        1112.0
+      ]
+    ],
+    "text": "eine andere zu einem Fachhochschulstudium",
+    "confidence": 0.9446648623938626
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1106.0
+      ],
+      [
+        402.0,
+        1106.0
+      ],
+      [
+        402.0,
+        1143.0
+      ],
+      [
+        18.0,
+        1143.0
+      ]
+    ],
+    "text": "berechtigende Schulbildung bzw. ein als",
+    "confidence": 0.5234409796478589
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1114.0
+      ],
+      [
+        467.0,
+        1114.0
+      ],
+      [
+        467.0,
+        1138.0
+      ],
+      [
+        425.0,
+        1138.0
+      ]
+    ],
+    "text": "tern.",
+    "confidence": 0.8438307972078806
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1138.0
+      ],
+      [
+        367.0,
+        1138.0
+      ],
+      [
+        367.0,
+        1168.0
+      ],
+      [
+        19.0,
+        1168.0
+      ]
+    ],
+    "text": "gleichwertig anerkannter Bildungsstand.",
+    "confidence": 0.9982531281379751
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1144.0
+      ],
+      [
+        807.0,
+        1144.0
+      ],
+      [
+        807.0,
+        1174.0
+      ],
+      [
+        425.0,
+        1174.0
+      ]
+    ],
+    "text": "Inhalt: Arbeitsmarkt und Ausbildungsmarkt:",
+    "confidence": 0.7846994800324822
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1169.0
+      ],
+      [
+        805.0,
+        1169.0
+      ],
+      [
+        805.0,
+        1200.0
+      ],
+      [
+        424.0,
+        1200.0
+      ]
+    ],
+    "text": "Theorie , Statistik und Politik; Betriebswirt-",
+    "confidence": 0.49328147122155996
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1176.0
+      ],
+      [
+        145.0,
+        1176.0
+      ],
+      [
+        145.0,
+        1219.0
+      ],
+      [
+        16.0,
+        1219.0
+      ]
+    ],
+    "text": "Ausbildung",
+    "confidence": 0.9999207207784538
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1196.0
+      ],
+      [
+        807.0,
+        1196.0
+      ],
+      [
+        807.0,
+        1226.0
+      ],
+      [
+        425.0,
+        1226.0
+      ]
+    ],
+    "text": "schaftslehre für die Arbeitsverwaltung; Sozi -",
+    "confidence": 0.941603033839449
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1213.0
+      ],
+      [
+        374.0,
+        1213.0
+      ],
+      [
+        374.0,
+        1249.0
+      ],
+      [
+        19.0,
+        1249.0
+      ]
+    ],
+    "text": "Bewerbung: Beim örtlichen Arbeitsamt",
+    "confidence": 0.8937548223000347
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1224.0
+      ],
+      [
+        807.0,
+        1224.0
+      ],
+      [
+        807.0,
+        1254.0
+      ],
+      [
+        425.0,
+        1254.0
+      ]
+    ],
+    "text": "al-, Arbeits- und Organisationspsychologie in",
+    "confidence": 0.8160033739748345
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1247.0
+      ],
+      [
+        806.0,
+        1247.0
+      ],
+      [
+        806.0,
+        1285.0
+      ],
+      [
+        424.0,
+        1285.0
+      ]
+    ],
+    "text": "der Arbeitsverwaltung; ausgewählte Rechts-",
+    "confidence": 0.9043590079542001
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1249.0
+      ],
+      [
+        259.0,
+        1249.0
+      ],
+      [
+        259.0,
+        1282.0
+      ],
+      [
+        20.0,
+        1282.0
+      ]
+    ],
+    "text": "Einstellung: 1 . September",
+    "confidence": 0.6787815736291133
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        1273.0
+      ],
+      [
+        808.0,
+        1273.0
+      ],
+      [
+        808.0,
+        1312.0
+      ],
+      [
+        422.0,
+        1312.0
+      ]
+    ],
+    "text": "gebiete in der Arbeitsverwaltung; angewand-",
+    "confidence": 0.9855686188089802
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1283.0
+      ],
+      [
+        323.0,
+        1283.0
+      ],
+      [
+        323.0,
+        1313.0
+      ],
+      [
+        20.0,
+        1313.0
+      ]
+    ],
+    "text": "Einstellungskapazität: Etwa 600",
+    "confidence": 0.9975408330400262
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1303.0
+      ],
+      [
+        805.0,
+        1303.0
+      ],
+      [
+        805.0,
+        1334.0
+      ],
+      [
+        425.0,
+        1334.0
+      ]
+    ],
+    "text": "te Berufswissenschaften; Selbstverwaltung",
+    "confidence": 0.8987091873738391
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1330.0
+      ],
+      [
+        807.0,
+        1330.0
+      ],
+      [
+        807.0,
+        1362.0
+      ],
+      [
+        425.0,
+        1362.0
+      ]
+    ],
+    "text": "und Verwaltung der Bundesanstalt für Arbeit;",
+    "confidence": 0.7672402270797922
+  }
+]

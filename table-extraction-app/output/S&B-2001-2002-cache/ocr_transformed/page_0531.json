@@ -1,0 +1,2114 @@
+[
+  {
+    "bbox": [
+      [
+        21.0,
+        31.0
+      ],
+      [
+        401.0,
+        31.0
+      ],
+      [
+        401.0,
+        61.0
+      ],
+      [
+        21.0,
+        61.0
+      ]
+    ],
+    "text": "Inhalte der Mathematik: Mathematische",
+    "confidence": 0.8102018396733457
+  },
+  {
+    "bbox": [
+      [
+        427.0,
+        33.0
+      ],
+      [
+        810.0,
+        33.0
+      ],
+      [
+        810.0,
+        66.0
+      ],
+      [
+        427.0,
+        66.0
+      ]
+    ],
+    "text": "scher und wirtschaftlicher Fragen unter Einsatz",
+    "confidence": 0.6999997764440684
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        57.0
+      ],
+      [
+        401.0,
+        57.0
+      ],
+      [
+        401.0,
+        88.0
+      ],
+      [
+        20.0,
+        88.0
+      ]
+    ],
+    "text": "Grundlagen (auch Informatik) , Analysis, Linea -",
+    "confidence": 0.761774556685822
+  },
+  {
+    "bbox": [
+      [
+        427.0,
+        59.0
+      ],
+      [
+        809.0,
+        59.0
+      ],
+      [
+        809.0,
+        89.0
+      ],
+      [
+        427.0,
+        89.0
+      ]
+    ],
+    "text": "von Methoden und Verfahren der Informatik",
+    "confidence": 0.8574854835181938
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        84.0
+      ],
+      [
+        401.0,
+        84.0
+      ],
+      [
+        401.0,
+        114.0
+      ],
+      [
+        21.0,
+        114.0
+      ]
+    ],
+    "text": "re Algebra, Analytische Geometrie, Wahr-",
+    "confidence": 0.834796486464626
+  },
+  {
+    "bbox": [
+      [
+        427.0,
+        84.0
+      ],
+      [
+        807.0,
+        84.0
+      ],
+      [
+        807.0,
+        116.0
+      ],
+      [
+        427.0,
+        116.0
+      ]
+    ],
+    "text": "und der Mathematik . Bei der Entwicklung von",
+    "confidence": 0.73585520207143
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        107.0
+      ],
+      [
+        402.0,
+        107.0
+      ],
+      [
+        402.0,
+        143.0
+      ],
+      [
+        19.0,
+        143.0
+      ]
+    ],
+    "text": "scheinlichkeitsrechnung und Statistik, Nume-",
+    "confidence": 0.8684010125716259
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        111.0
+      ],
+      [
+        807.0,
+        111.0
+      ],
+      [
+        807.0,
+        142.0
+      ],
+      [
+        426.0,
+        142.0
+      ]
+    ],
+    "text": "Software müssen sie als Projektmitarbeiter in",
+    "confidence": 0.8216422842595899
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        133.0
+      ],
+      [
+        402.0,
+        133.0
+      ],
+      [
+        402.0,
+        169.0
+      ],
+      [
+        18.0,
+        169.0
+      ]
+    ],
+    "text": "rik sowie in Verbindung mit der Informatik AI-",
+    "confidence": 0.7649306944894778
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        139.0
+      ],
+      [
+        807.0,
+        139.0
+      ],
+      [
+        807.0,
+        170.0
+      ],
+      [
+        425.0,
+        170.0
+      ]
+    ],
+    "text": "der Lage sein, sich in Anwendungsprobleme",
+    "confidence": 0.9489307487212709
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        159.0
+      ],
+      [
+        402.0,
+        159.0
+      ],
+      [
+        402.0,
+        195.0
+      ],
+      [
+        18.0,
+        195.0
+      ]
+    ],
+    "text": "gorithmen der Graphentheorie und des Opera -",
+    "confidence": 0.8505513404591896
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        161.0
+      ],
+      [
+        809.0,
+        161.0
+      ],
+      [
+        809.0,
+        197.0
+      ],
+      [
+        426.0,
+        197.0
+      ]
+    ],
+    "text": "einzuarbeiten und Probleme der Änwendung",
+    "confidence": 0.8878533628589637
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        189.0
+      ],
+      [
+        807.0,
+        189.0
+      ],
+      [
+        807.0,
+        222.0
+      ],
+      [
+        425.0,
+        222.0
+      ]
+    ],
+    "text": "und der technischen Realisierung zu erkennen",
+    "confidence": 0.9736873118644152
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        190.0
+      ],
+      [
+        153.0,
+        190.0
+      ],
+      [
+        153.0,
+        216.0
+      ],
+      [
+        19.0,
+        216.0
+      ]
+    ],
+    "text": "tions Research.",
+    "confidence": 0.9614791584067104
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        215.0
+      ],
+      [
+        808.0,
+        215.0
+      ],
+      [
+        808.0,
+        251.0
+      ],
+      [
+        424.0,
+        251.0
+      ]
+    ],
+    "text": "und zu analysieren, Lösungen zu finden und",
+    "confidence": 0.8047770790226831
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        220.0
+      ],
+      [
+        400.0,
+        220.0
+      ],
+      [
+        400.0,
+        251.0
+      ],
+      [
+        20.0,
+        251.0
+      ]
+    ],
+    "text": "Betriebswirtschaftslehre und Volkswirtschafts-",
+    "confidence": 0.9478122011657517
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        242.0
+      ],
+      [
+        807.0,
+        242.0
+      ],
+      [
+        807.0,
+        272.0
+      ],
+      [
+        426.0,
+        272.0
+      ]
+    ],
+    "text": "professionell in Software-Produkte umzuset-",
+    "confidence": 0.9740158590757819
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        248.0
+      ],
+      [
+        399.0,
+        248.0
+      ],
+      [
+        399.0,
+        280.0
+      ],
+      [
+        19.0,
+        280.0
+      ]
+    ],
+    "text": "lehre sowie Englisch stellen Ergänzungen dar.",
+    "confidence": 0.7138639650881483
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        270.0
+      ],
+      [
+        807.0,
+        270.0
+      ],
+      [
+        807.0,
+        298.0
+      ],
+      [
+        425.0,
+        298.0
+      ]
+    ],
+    "text": "zen, zu testen und zu dokumentieren. Schon von",
+    "confidence": 0.6296753329041906
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        280.0
+      ],
+      [
+        401.0,
+        280.0
+      ],
+      [
+        401.0,
+        313.0
+      ],
+      [
+        21.0,
+        313.0
+      ]
+    ],
+    "text": "1999 neu abgeschlossene Ausbildungsverträ-",
+    "confidence": 0.8541457952996295
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        296.0
+      ],
+      [
+        809.0,
+        296.0
+      ],
+      [
+        809.0,
+        326.0
+      ],
+      [
+        425.0,
+        326.0
+      ]
+    ],
+    "text": "der unterschiedlichen Aufgabenstellung her ist",
+    "confidence": 0.6470318241086981
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        307.0
+      ],
+      [
+        401.0,
+        307.0
+      ],
+      [
+        401.0,
+        338.0
+      ],
+      [
+        19.0,
+        338.0
+      ]
+    ],
+    "text": "ge: 179. Frauenanteil: 31,8% . Auszubildende",
+    "confidence": 0.8039213573282377
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        322.0
+      ],
+      [
+        809.0,
+        322.0
+      ],
+      [
+        809.0,
+        352.0
+      ],
+      [
+        424.0,
+        352.0
+      ]
+    ],
+    "text": "erkennbar; dass es sich um Teamarbeit mit",
+    "confidence": 0.7601802580478554
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        334.0
+      ],
+      [
+        401.0,
+        334.0
+      ],
+      [
+        401.0,
+        362.0
+      ],
+      [
+        21.0,
+        362.0
+      ]
+    ],
+    "text": "mit Hochschul- oder Fachhochschulreife:",
+    "confidence": 0.9931278347623046
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        348.0
+      ],
+      [
+        807.0,
+        348.0
+      ],
+      [
+        807.0,
+        378.0
+      ],
+      [
+        426.0,
+        378.0
+      ]
+    ],
+    "text": "Mathematikern , Informatikern, Wirtschafts -",
+    "confidence": 0.5895428106977839
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        362.0
+      ],
+      [
+        81.0,
+        362.0
+      ],
+      [
+        81.0,
+        388.0
+      ],
+      [
+        21.0,
+        388.0
+      ]
+    ],
+    "text": "93,39 .",
+    "confidence": 0.5298014532195358
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        370.0
+      ],
+      [
+        810.0,
+        370.0
+      ],
+      [
+        810.0,
+        431.0
+      ],
+      [
+        421.0,
+        431.0
+      ]
+    ],
+    "text": "Faissenschaalerel ngenemaeiscnnccnniscae",
+    "confidence": 0.03338553605499363
+  },
+  {
+    "bbox": [
+      [
+        134.07899166023174,
+        389.14487414671834
+      ],
+      [
+        207.93043792425843,
+        398.357712235779
+      ],
+      [
+        202.92100833976826,
+        425.85512585328166
+      ],
+      [
+        129.06956207574157,
+        415.642287764221
+      ]
+    ],
+    "text": "Prüfung",
+    "confidence": 0.9999757593056858
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        392.0
+      ],
+      [
+        133.0,
+        392.0
+      ],
+      [
+        133.0,
+        420.0
+      ],
+      [
+        21.0,
+        420.0
+      ]
+    ],
+    "text": "Abschluss:",
+    "confidence": 0.999898063515715
+  },
+  {
+    "bbox": [
+      [
+        205.0,
+        394.0
+      ],
+      [
+        401.0,
+        394.0
+      ],
+      [
+        401.0,
+        420.0
+      ],
+      [
+        205.0,
+        420.0
+      ]
+    ],
+    "text": "vor der Industrie- und",
+    "confidence": 0.8507686693271798
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        416.0
+      ],
+      [
+        361.0,
+        416.0
+      ],
+      [
+        361.0,
+        452.0
+      ],
+      [
+        20.0,
+        452.0
+      ]
+    ],
+    "text": "Handelskammer bzw. staatliche Prüfung .",
+    "confidence": 0.5552595456255919
+  },
+  {
+    "bbox": [
+      [
+        427.0,
+        427.0
+      ],
+      [
+        807.0,
+        427.0
+      ],
+      [
+        807.0,
+        459.0
+      ],
+      [
+        427.0,
+        459.0
+      ]
+    ],
+    "text": "Assistenten bearbeiten dabei Teilaufgaben",
+    "confidence": 0.9577297073228913
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        453.0
+      ],
+      [
+        807.0,
+        453.0
+      ],
+      [
+        807.0,
+        485.0
+      ],
+      [
+        425.0,
+        485.0
+      ]
+    ],
+    "text": "selbständig . Andere wichtige Tätigkeiten sind",
+    "confidence": 0.8392904764422398
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        464.0
+      ],
+      [
+        203.0,
+        464.0
+      ],
+      [
+        203.0,
+        496.0
+      ],
+      [
+        21.0,
+        496.0
+      ]
+    ],
+    "text": "Tätigkeitsbereich",
+    "confidence": 0.9999806284261227
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        478.0
+      ],
+      [
+        769.0,
+        478.0
+      ],
+      [
+        769.0,
+        510.0
+      ],
+      [
+        425.0,
+        510.0
+      ]
+    ],
+    "text": "die Einrichtung von Rechnern; Netzen und",
+    "confidence": 0.8118993624533387
+  },
+  {
+    "bbox": [
+      [
+        767.8858279709377,
+        479.2145699273442
+      ],
+      [
+        808.7500878941253,
+        484.8012437384582
+      ],
+      [
+        805.1141720290623,
+        509.7854300726558
+      ],
+      [
+        764.2499121058747,
+        504.1987562615418
+      ]
+    ],
+    "text": "Pro-",
+    "confidence": 0.9957064938056949
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        497.0
+      ],
+      [
+        397.0,
+        497.0
+      ],
+      [
+        397.0,
+        528.0
+      ],
+      [
+        21.0,
+        528.0
+      ]
+    ],
+    "text": "Wo Software entwickelt und eingesetzt wird,",
+    "confidence": 0.7310720643527748
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        507.0
+      ],
+      [
+        807.0,
+        507.0
+      ],
+      [
+        807.0,
+        538.0
+      ],
+      [
+        425.0,
+        538.0
+      ]
+    ],
+    "text": "grammen für Anwender sowie die Unterstüt-",
+    "confidence": 0.7978461989812307
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        524.0
+      ],
+      [
+        401.0,
+        524.0
+      ],
+      [
+        401.0,
+        554.0
+      ],
+      [
+        19.0,
+        554.0
+      ]
+    ],
+    "text": "finden sich Tätigkeitsfelder für mathematisch-",
+    "confidence": 0.9913867298707774
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        533.0
+      ],
+      [
+        805.0,
+        533.0
+      ],
+      [
+        805.0,
+        564.0
+      ],
+      [
+        425.0,
+        564.0
+      ]
+    ],
+    "text": "zung und Beratung der Anwender bei der Be-",
+    "confidence": 0.7600546495117797
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        550.0
+      ],
+      [
+        401.0,
+        550.0
+      ],
+      [
+        401.0,
+        578.0
+      ],
+      [
+        19.0,
+        578.0
+      ]
+    ],
+    "text": "technische Assistenten. Das sindalle Industrie -",
+    "confidence": 0.6018160836390478
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        558.0
+      ],
+      [
+        701.0,
+        558.0
+      ],
+      [
+        701.0,
+        590.0
+      ],
+      [
+        425.0,
+        590.0
+      ]
+    ],
+    "text": "nutzung und in Fehlersituationen.",
+    "confidence": 0.8293968530641365
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        577.0
+      ],
+      [
+        401.0,
+        577.0
+      ],
+      [
+        401.0,
+        606.0
+      ],
+      [
+        19.0,
+        606.0
+      ]
+    ],
+    "text": "zweige, Verwaltungen , Banken und Versiche-",
+    "confidence": 0.6200797895035325
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        603.0
+      ],
+      [
+        401.0,
+        603.0
+      ],
+      [
+        401.0,
+        635.0
+      ],
+      [
+        19.0,
+        635.0
+      ]
+    ],
+    "text": "rungen sowie der Hochschul- und Forschungs -",
+    "confidence": 0.7655486959487918
+  },
+  {
+    "bbox": [
+      [
+        427.0,
+        604.0
+      ],
+      [
+        805.0,
+        604.0
+      ],
+      [
+        805.0,
+        630.0
+      ],
+      [
+        427.0,
+        630.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde \"Mathema-",
+    "confidence": 0.7839128578677649
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        627.0
+      ],
+      [
+        807.0,
+        627.0
+      ],
+      [
+        807.0,
+        652.0
+      ],
+      [
+        425.0,
+        652.0
+      ]
+    ],
+    "text": "tisch-technischelr) Assistent/ino, 2-1A.30; \"Assistenten/",
+    "confidence": 0.46413456508825995
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        630.0
+      ],
+      [
+        399.0,
+        630.0
+      ],
+      [
+        399.0,
+        660.0
+      ],
+      [
+        19.0,
+        660.0
+      ]
+    ],
+    "text": "bereich. Der Tätigkeitsbereich der mathema-",
+    "confidence": 0.7697185079979981
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        650.0
+      ],
+      [
+        807.0,
+        650.0
+      ],
+      [
+        807.0,
+        674.0
+      ],
+      [
+        425.0,
+        674.0
+      ]
+    ],
+    "text": "Assistentinnen in der Informatik , 2-IA47;\"Berufe in der",
+    "confidence": 0.5322059879896867
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        656.0
+      ],
+      [
+        401.0,
+        656.0
+      ],
+      [
+        401.0,
+        684.0
+      ],
+      [
+        19.0,
+        684.0
+      ]
+    ],
+    "text": "tisch-technischen Assistenten umfasst dabei",
+    "confidence": 0.9034726330196031
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        672.0
+      ],
+      [
+        667.0,
+        672.0
+      ],
+      [
+        667.0,
+        696.0
+      ],
+      [
+        423.0,
+        696.0
+      ]
+    ],
+    "text": "Informationstechnik (ITJ, 0-2200 E.",
+    "confidence": 0.6226421829323845
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        679.0
+      ],
+      [
+        400.0,
+        679.0
+      ],
+      [
+        400.0,
+        715.0
+      ],
+      [
+        18.0,
+        715.0
+      ]
+    ],
+    "text": "die Problemlösung wissenschaftlicher; techni-",
+    "confidence": 0.9188661314396274
+  },
+  {
+    "bbox": [
+      [
+        203.0,
+        730.0
+      ],
+      [
+        625.0,
+        730.0
+      ],
+      [
+        625.0,
+        778.0
+      ],
+      [
+        203.0,
+        778.0
+      ]
+    ],
+    "text": "8.4 Elektronik, Elektrotechnik",
+    "confidence": 0.7708142248683579
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        786.0
+      ],
+      [
+        807.0,
+        786.0
+      ],
+      [
+        807.0,
+        818.0
+      ],
+      [
+        425.0,
+        818.0
+      ]
+    ],
+    "text": "monteur. Einen Überblick gibt die Grafik auf",
+    "confidence": 0.747541498878045
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        788.0
+      ],
+      [
+        399.0,
+        788.0
+      ],
+      [
+        399.0,
+        818.0
+      ],
+      [
+        19.0,
+        818.0
+      ]
+    ],
+    "text": "Facharbeitertätigkeiten in der Industrie erfor-",
+    "confidence": 0.9611405829495971
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        813.0
+      ],
+      [
+        399.0,
+        813.0
+      ],
+      [
+        399.0,
+        846.0
+      ],
+      [
+        19.0,
+        846.0
+      ]
+    ],
+    "text": "dern eine schnelle Verfügbarkeit hochspeziali -",
+    "confidence": 0.9785328130050045
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        814.0
+      ],
+      [
+        515.0,
+        814.0
+      ],
+      [
+        515.0,
+        844.0
+      ],
+      [
+        425.0,
+        844.0
+      ]
+    ],
+    "text": "Seite 525.",
+    "confidence": 0.9978424293180556
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        838.0
+      ],
+      [
+        399.0,
+        838.0
+      ],
+      [
+        399.0,
+        870.0
+      ],
+      [
+        19.0,
+        870.0
+      ]
+    ],
+    "text": "sierter Qualifikationen für wechselnde Aufga -",
+    "confidence": 0.7973199807793984
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        848.0
+      ],
+      [
+        805.0,
+        848.0
+      ],
+      [
+        805.0,
+        878.0
+      ],
+      [
+        425.0,
+        878.0
+      ]
+    ],
+    "text": "Im Elektrohandwerk können in einer 3Y-jähri -",
+    "confidence": 0.41722562254041695
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        868.0
+      ],
+      [
+        399.0,
+        868.0
+      ],
+      [
+        399.0,
+        898.0
+      ],
+      [
+        19.0,
+        898.0
+      ]
+    ],
+    "text": "benbereiche Die Struktur der Ausbildungsord-",
+    "confidence": 0.46876805824347967
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        872.0
+      ],
+      [
+        805.0,
+        872.0
+      ],
+      [
+        805.0,
+        905.0
+      ],
+      [
+        425.0,
+        905.0
+      ]
+    ],
+    "text": "gen Ausbildungszeit die Berufe des Elektroma -",
+    "confidence": 0.8080411895017393
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        893.0
+      ],
+      [
+        399.0,
+        893.0
+      ],
+      [
+        399.0,
+        926.0
+      ],
+      [
+        19.0,
+        926.0
+      ]
+    ],
+    "text": "nung trägt dem Rechnung: So ist für alle indus -",
+    "confidence": 0.5950699334991721
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        900.0
+      ],
+      [
+        804.0,
+        900.0
+      ],
+      [
+        804.0,
+        928.0
+      ],
+      [
+        425.0,
+        928.0
+      ]
+    ],
+    "text": "schinenbauers, Elektroinstallateurs, Elektrome-",
+    "confidence": 0.6804580094831673
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        920.0
+      ],
+      [
+        401.0,
+        920.0
+      ],
+      [
+        401.0,
+        948.0
+      ],
+      [
+        19.0,
+        948.0
+      ]
+    ],
+    "text": "triellen Elektroberufe mit Ausnahme des Elek-",
+    "confidence": 0.5909788841243632
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        928.0
+      ],
+      [
+        806.0,
+        928.0
+      ],
+      [
+        806.0,
+        958.0
+      ],
+      [
+        425.0,
+        958.0
+      ]
+    ],
+    "text": "chanikers, des Fernmeldeanlagenelektronikers",
+    "confidence": 0.975383755263404
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        945.0
+      ],
+      [
+        402.0,
+        945.0
+      ],
+      [
+        402.0,
+        981.0
+      ],
+      [
+        17.0,
+        981.0
+      ]
+    ],
+    "text": "troanlagenmonteurs im ersten Ausbildungsjahr",
+    "confidence": 0.8994208886437879
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        953.0
+      ],
+      [
+        805.0,
+        953.0
+      ],
+      [
+        805.0,
+        983.0
+      ],
+      [
+        425.0,
+        983.0
+      ]
+    ],
+    "text": "und des Informationselektronikers erlernt wer-",
+    "confidence": 0.6834973635750236
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        969.0
+      ],
+      [
+        402.0,
+        969.0
+      ],
+      [
+        402.0,
+        1005.0
+      ],
+      [
+        18.0,
+        1005.0
+      ]
+    ],
+    "text": "die Grundbildung und in der ersten Hälfte des",
+    "confidence": 0.9295886186960166
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        982.0
+      ],
+      [
+        805.0,
+        982.0
+      ],
+      [
+        805.0,
+        1010.0
+      ],
+      [
+        425.0,
+        1010.0
+      ]
+    ],
+    "text": "den (siehe auch Grafik, Seite 525). Die Berufs-",
+    "confidence": 0.8857912577964937
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        996.0
+      ],
+      [
+        401.0,
+        996.0
+      ],
+      [
+        401.0,
+        1034.0
+      ],
+      [
+        18.0,
+        1034.0
+      ]
+    ],
+    "text": "zweiten Ausbildungsjahres die Fachbildung",
+    "confidence": 0.8271749533582442
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1007.0
+      ],
+      [
+        805.0,
+        1007.0
+      ],
+      [
+        805.0,
+        1039.0
+      ],
+      [
+        425.0,
+        1039.0
+      ]
+    ],
+    "text": "bilder tragen dem zunehmenden Einsatz der Mi -",
+    "confidence": 0.839265537429249
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1026.0
+      ],
+      [
+        399.0,
+        1026.0
+      ],
+      [
+        399.0,
+        1058.0
+      ],
+      [
+        18.0,
+        1058.0
+      ]
+    ],
+    "text": "gemeinsam. Eine Spezialisierung nach Fach-",
+    "confidence": 0.8400613915437237
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1033.0
+      ],
+      [
+        805.0,
+        1033.0
+      ],
+      [
+        805.0,
+        1065.0
+      ],
+      [
+        425.0,
+        1065.0
+      ]
+    ],
+    "text": "kroelektronik, der Digitaltechnik und den viel-",
+    "confidence": 0.9664078064161409
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1050.0
+      ],
+      [
+        400.0,
+        1050.0
+      ],
+      [
+        400.0,
+        1087.0
+      ],
+      [
+        16.0,
+        1087.0
+      ]
+    ],
+    "text": "richtungen folgt im dritten und vierten Ausbil-",
+    "confidence": 0.832721065232407
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1060.0
+      ],
+      [
+        805.0,
+        1060.0
+      ],
+      [
+        805.0,
+        1092.0
+      ],
+      [
+        423.0,
+        1092.0
+      ]
+    ],
+    "text": "fältigen technischen und arbeitsorganisatori -",
+    "confidence": 0.9023303792730224
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1077.0
+      ],
+      [
+        380.0,
+        1077.0
+      ],
+      [
+        380.0,
+        1113.0
+      ],
+      [
+        18.0,
+        1113.0
+      ]
+    ],
+    "text": "dungsjahr:. Die Ausbildungsordnung sieht",
+    "confidence": 0.5640194683705132
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1084.0
+      ],
+      [
+        806.0,
+        1084.0
+      ],
+      [
+        806.0,
+        1120.0
+      ],
+      [
+        424.0,
+        1120.0
+      ]
+    ],
+    "text": "schen Veränderungen Rechnung . Das Hand-",
+    "confidence": 0.563811525237084
+  },
+  {
+    "bbox": [
+      [
+        386.0,
+        1085.0
+      ],
+      [
+        400.0,
+        1085.0
+      ],
+      [
+        400.0,
+        1107.0
+      ],
+      [
+        386.0,
+        1107.0
+      ]
+    ],
+    "text": "5",
+    "confidence": 0.9999933242909265
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1108.0
+      ],
+      [
+        337.0,
+        1108.0
+      ],
+      [
+        337.0,
+        1136.0
+      ],
+      [
+        19.0,
+        1136.0
+      ]
+    ],
+    "text": "Ausbildungsberufe vor; von denen 3 in",
+    "confidence": 0.5775256974977605
+  },
+  {
+    "bbox": [
+      [
+        349.0,
+        1108.0
+      ],
+      [
+        399.0,
+        1108.0
+      ],
+      [
+        399.0,
+        1134.0
+      ],
+      [
+        349.0,
+        1134.0
+      ]
+    ],
+    "text": "Fach-",
+    "confidence": 0.9505311057729938
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1114.0
+      ],
+      [
+        805.0,
+        1114.0
+      ],
+      [
+        805.0,
+        1144.0
+      ],
+      [
+        425.0,
+        1144.0
+      ]
+    ],
+    "text": "werk repräsentiert über 50 % der gesamten",
+    "confidence": 0.695945304896852
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        1129.0
+      ],
+      [
+        400.0,
+        1129.0
+      ],
+      [
+        400.0,
+        1167.0
+      ],
+      [
+        15.0,
+        1167.0
+      ]
+    ],
+    "text": "richtungen gegliedert sind: Die Ausbildungs -",
+    "confidence": 0.5602641227430623
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1138.0
+      ],
+      [
+        673.0,
+        1138.0
+      ],
+      [
+        673.0,
+        1170.0
+      ],
+      [
+        424.0,
+        1170.0
+      ]
+    ],
+    "text": "Ausbildung im Elektrobereich:",
+    "confidence": 0.796398216243072
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1159.0
+      ],
+      [
+        399.0,
+        1159.0
+      ],
+      [
+        399.0,
+        1190.0
+      ],
+      [
+        19.0,
+        1190.0
+      ]
+    ],
+    "text": "dauer beträgt einheitlich 3V Jahre (Elektroan -",
+    "confidence": 0.5683525762784097
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1173.0
+      ],
+      [
+        743.0,
+        1173.0
+      ],
+      [
+        743.0,
+        1204.0
+      ],
+      [
+        425.0,
+        1204.0
+      ]
+    ],
+    "text": "Entsprechende Studienmöglichkeiten:",
+    "confidence": 0.9827626545638295
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1187.0
+      ],
+      [
+        399.0,
+        1187.0
+      ],
+      [
+        399.0,
+        1217.0
+      ],
+      [
+        16.0,
+        1217.0
+      ]
+    ],
+    "text": "lagenmonteur: 3 Jahre) . Die klassische Tren -",
+    "confidence": 0.4575477426850157
+  },
+  {
+    "bbox": [
+      [
+        441.0,
+        1203.0
+      ],
+      [
+        711.0,
+        1203.0
+      ],
+      [
+        711.0,
+        1232.0
+      ],
+      [
+        441.0,
+        1232.0
+      ]
+    ],
+    "text": "Elektrotechnik (Abschnitt 3.2.5)",
+    "confidence": 0.7363817608909182
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1214.0
+      ],
+      [
+        399.0,
+        1214.0
+      ],
+      [
+        399.0,
+        1244.0
+      ],
+      [
+        19.0,
+        1244.0
+      ]
+    ],
+    "text": "nung von energie-und nachrichtentechnischen",
+    "confidence": 0.8780425156317289
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1237.0
+      ],
+      [
+        805.0,
+        1237.0
+      ],
+      [
+        805.0,
+        1267.0
+      ],
+      [
+        425.0,
+        1267.0
+      ]
+    ],
+    "text": "Entsprechende 'Ausbildungsmöglichkeiten an",
+    "confidence": 0.8305390800252248
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1240.0
+      ],
+      [
+        401.0,
+        1240.0
+      ],
+      [
+        401.0,
+        1272.0
+      ],
+      [
+        19.0,
+        1272.0
+      ]
+    ],
+    "text": "Berufen gibt es weitgehend nicht mehr. Die",
+    "confidence": 0.922738704729672
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1264.0
+      ],
+      [
+        581.0,
+        1264.0
+      ],
+      [
+        581.0,
+        1292.0
+      ],
+      [
+        425.0,
+        1292.0
+      ]
+    ],
+    "text": "Berufsakademien:",
+    "confidence": 0.717797629206312
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1266.0
+      ],
+      [
+        399.0,
+        1266.0
+      ],
+      [
+        399.0,
+        1296.0
+      ],
+      [
+        19.0,
+        1296.0
+      ]
+    ],
+    "text": "Elektronik dominiert; so enden die Berufsbe-",
+    "confidence": 0.8134947406115337
+  },
+  {
+    "bbox": [
+      [
+        683.0,
+        1289.0
+      ],
+      [
+        807.0,
+        1289.0
+      ],
+      [
+        807.0,
+        1327.0
+      ],
+      [
+        683.0,
+        1327.0
+      ]
+    ],
+    "text": "Fachrichtung",
+    "confidence": 0.9999889190470753
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1294.0
+      ],
+      [
+        401.0,
+        1294.0
+      ],
+      [
+        401.0,
+        1324.0
+      ],
+      [
+        18.0,
+        1324.0
+      ]
+    ],
+    "text": "zeichnungen alle mit Elektroniker; außer beim",
+    "confidence": 0.6055150604805186
+  },
+  {
+    "bbox": [
+      [
+        441.0,
+        1294.0
+      ],
+      [
+        671.0,
+        1294.0
+      ],
+      [
+        671.0,
+        1324.0
+      ],
+      [
+        441.0,
+        1324.0
+      ]
+    ],
+    "text": "Diplom-Ingenieur/in (BA)",
+    "confidence": 0.8853325752327839
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        1320.0
+      ],
+      [
+        399.0,
+        1320.0
+      ],
+      [
+        399.0,
+        1353.0
+      ],
+      [
+        21.0,
+        1353.0
+      ]
+    ],
+    "text": "Elektromaschinenmonteur und Elektroanlagen-",
+    "confidence": 0.9843091519439208
+  },
+  {
+    "bbox": [
+      [
+        441.0,
+        1320.0
+      ],
+      [
+        711.0,
+        1320.0
+      ],
+      [
+        711.0,
+        1348.0
+      ],
+      [
+        441.0,
+        1348.0
+      ]
+    ],
+    "text": "Elektrotechnik (Abschnitt 6.3.2)",
+    "confidence": 0.5671172466713514
+  }
+]

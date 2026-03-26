@@ -1,0 +1,640 @@
+[
+  {
+    "bbox": [
+      [
+        36.0,
+        0
+      ],
+      [
+        303.0,
+        0
+      ],
+      [
+        303.0,
+        55.0
+      ],
+      [
+        36.0,
+        55.0
+      ]
+    ],
+    "text": "SIEMENS",
+    "confidence": 0.66522243750009
+  },
+  {
+    "bbox": [
+      [
+        312.0,
+        16.0
+      ],
+      [
+        790.0,
+        16.0
+      ],
+      [
+        790.0,
+        44.0
+      ],
+      [
+        312.0,
+        44.0
+      ]
+    ],
+    "text": "Informationen unter: www.siemens. delcareer",
+    "confidence": 0.6765434461448292
+  },
+  {
+    "bbox": [
+      [
+        81.0,
+        103.0
+      ],
+      [
+        262.0,
+        103.0
+      ],
+      [
+        262.0,
+        163.0
+      ],
+      [
+        81.0,
+        163.0
+      ]
+    ],
+    "text": "Ausbildung",
+    "confidence": 0.9982061063177624
+  },
+  {
+    "bbox": [
+      [
+        152.0,
+        192.0
+      ],
+      [
+        371.0,
+        192.0
+      ],
+      [
+        371.0,
+        253.0
+      ],
+      [
+        152.0,
+        253.0
+      ]
+    ],
+    "text": "Studiengänge",
+    "confidence": 0.9995908054340287
+  },
+  {
+    "bbox": [
+      [
+        117.0,
+        289.0
+      ],
+      [
+        351.0,
+        289.0
+      ],
+      [
+        351.0,
+        333.0
+      ],
+      [
+        117.0,
+        333.0
+      ]
+    ],
+    "text": "Nichts wie hin!",
+    "confidence": 0.3855150171176946
+  },
+  {
+    "bbox": [
+      [
+        38.0,
+        474.0
+      ],
+      [
+        334.0,
+        474.0
+      ],
+      [
+        334.0,
+        500.0
+      ],
+      [
+        38.0,
+        500.0
+      ]
+    ],
+    "text": "In unserem Service Center",
+    "confidence": 0.8667178350683161
+  },
+  {
+    "bbox": [
+      [
+        37.0,
+        513.0
+      ],
+      [
+        765.0,
+        513.0
+      ],
+      [
+        765.0,
+        573.0
+      ],
+      [
+        37.0,
+        573.0
+      ]
+    ],
+    "text": "Siemens Professional Education",
+    "confidence": 0.9980445168716856
+  },
+  {
+    "bbox": [
+      [
+        39.0,
+        587.0
+      ],
+      [
+        787.0,
+        587.0
+      ],
+      [
+        787.0,
+        623.0
+      ],
+      [
+        39.0,
+        623.0
+      ]
+    ],
+    "text": "bereiten wir Sie optimal auf Ihre berufliche Karriere vor und machen",
+    "confidence": 0.9086577142525879
+  },
+  {
+    "bbox": [
+      [
+        39.0,
+        620.0
+      ],
+      [
+        741.0,
+        620.0
+      ],
+      [
+        741.0,
+        657.0
+      ],
+      [
+        39.0,
+        657.0
+      ]
+    ],
+    "text": "Sie fit für die Herausforderungen von morgen. Unter dem Motto",
+    "confidence": 0.838943913892327
+  },
+  {
+    "bbox": [
+      [
+        54.0,
+        655.0
+      ],
+      [
+        764.0,
+        655.0
+      ],
+      [
+        764.0,
+        695.0
+      ],
+      [
+        54.0,
+        695.0
+      ]
+    ],
+    "text": "Ausbildung ist Zukunft\" bieten wir für die verschiedensten Bega-",
+    "confidence": 0.6294150329765764
+  },
+  {
+    "bbox": [
+      [
+        38.0,
+        693.0
+      ],
+      [
+        751.0,
+        693.0
+      ],
+      [
+        751.0,
+        730.0
+      ],
+      [
+        38.0,
+        730.0
+      ]
+    ],
+    "text": "bungen, Interessensbereiche und Schulabschlüsse die passende",
+    "confidence": 0.9090615443165242
+  },
+  {
+    "bbox": [
+      [
+        40.0,
+        727.0
+      ],
+      [
+        717.0,
+        727.0
+      ],
+      [
+        717.0,
+        767.0
+      ],
+      [
+        40.0,
+        767.0
+      ]
+    ],
+    "text": "Ausbildung. Theorie und Praxis, Schlüsselqualifikationen und",
+    "confidence": 0.8318598336858896
+  },
+  {
+    "bbox": [
+      [
+        40.0,
+        765.0
+      ],
+      [
+        787.0,
+        765.0
+      ],
+      [
+        787.0,
+        801.0
+      ],
+      [
+        40.0,
+        801.0
+      ]
+    ],
+    "text": "persönliche Kompetenzen: eine solide Basis. Auch für internationale",
+    "confidence": 0.9055444707703924
+  },
+  {
+    "bbox": [
+      [
+        40.0,
+        803.0
+      ],
+      [
+        574.0,
+        803.0
+      ],
+      [
+        574.0,
+        836.0
+      ],
+      [
+        40.0,
+        836.0
+      ]
+    ],
+    "text": "Einsätze. Und Spaß macht das Ganze auch noch!",
+    "confidence": 0.9457870509006778
+  },
+  {
+    "bbox": [
+      [
+        40.0,
+        838.0
+      ],
+      [
+        771.0,
+        838.0
+      ],
+      [
+        771.0,
+        868.0
+      ],
+      [
+        40.0,
+        868.0
+      ]
+    ],
+    "text": "Sie haben Abitur und möchten Karriere in der Wirtschaft machen?",
+    "confidence": 0.8281112617614921
+  },
+  {
+    "bbox": [
+      [
+        41.0,
+        873.0
+      ],
+      [
+        767.0,
+        873.0
+      ],
+      [
+        767.0,
+        909.0
+      ],
+      [
+        41.0,
+        909.0
+      ]
+    ],
+    "text": "Wir bieten Ihnen zukunftsorientierte Berufe und Studiengänge im",
+    "confidence": 0.8628788516489578
+  },
+  {
+    "bbox": [
+      [
+        41.0,
+        910.0
+      ],
+      [
+        750.0,
+        910.0
+      ],
+      [
+        750.0,
+        942.0
+      ],
+      [
+        41.0,
+        942.0
+      ]
+    ],
+    "text": "kaufmännischen, technischen und IT-Bereich. Dabei arbeiten wir",
+    "confidence": 0.819253626279532
+  },
+  {
+    "bbox": [
+      [
+        42.0,
+        946.0
+      ],
+      [
+        740.0,
+        946.0
+      ],
+      [
+        740.0,
+        976.0
+      ],
+      [
+        42.0,
+        976.0
+      ]
+    ],
+    "text": "auch mit renommierten Hochschulen zusammen. Wenn Sie also",
+    "confidence": 0.8041207392256803
+  },
+  {
+    "bbox": [
+      [
+        42.0,
+        982.0
+      ],
+      [
+        752.0,
+        982.0
+      ],
+      [
+        752.0,
+        1012.0
+      ],
+      [
+        42.0,
+        1012.0
+      ]
+    ],
+    "text": "einen akademischen Abschluss anstreben, können Sie auch das",
+    "confidence": 0.8843463812929709
+  },
+  {
+    "bbox": [
+      [
+        44.0,
+        1018.0
+      ],
+      [
+        762.0,
+        1018.0
+      ],
+      [
+        762.0,
+        1049.0
+      ],
+      [
+        44.0,
+        1049.0
+      ]
+    ],
+    "text": "mit uns zusammen erreichen. Somit ist Ihnen beides sicher: eine",
+    "confidence": 0.9293407819583266
+  },
+  {
+    "bbox": [
+      [
+        41.0,
+        1051.0
+      ],
+      [
+        733.0,
+        1051.0
+      ],
+      [
+        733.0,
+        1089.0
+      ],
+      [
+        41.0,
+        1089.0
+      ]
+    ],
+    "text": "hervorragende betriebliche Ausbildung und ein akademischer",
+    "confidence": 0.9688558992319799
+  },
+  {
+    "bbox": [
+      [
+        43.0,
+        1089.0
+      ],
+      [
+        789.0,
+        1089.0
+      ],
+      [
+        789.0,
+        1127.0
+      ],
+      [
+        43.0,
+        1127.0
+      ]
+    ],
+    "text": "Abschluss. Egal, ob mit oder ohne Hochschule: Sie erleben bei uns",
+    "confidence": 0.8132384524481395
+  },
+  {
+    "bbox": [
+      [
+        42.0,
+        1126.0
+      ],
+      [
+        574.0,
+        1126.0
+      ],
+      [
+        574.0,
+        1159.0
+      ],
+      [
+        42.0,
+        1159.0
+      ]
+    ],
+    "text": "Theorie und Praxis im spannenden Doppelpack.",
+    "confidence": 0.8059030097387907
+  },
+  {
+    "bbox": [
+      [
+        44.0,
+        1164.0
+      ],
+      [
+        306.0,
+        1164.0
+      ],
+      [
+        306.0,
+        1194.0
+      ],
+      [
+        44.0,
+        1194.0
+      ]
+    ],
+    "text": "Wir freuen uns auf Siel",
+    "confidence": 0.8882178800957278
+  },
+  {
+    "bbox": [
+      [
+        42.0,
+        1198.0
+      ],
+      [
+        735.0,
+        1198.0
+      ],
+      [
+        735.0,
+        1234.0
+      ],
+      [
+        42.0,
+        1234.0
+      ]
+    ],
+    "text": "Bewerbungen von Behinderten sind uns herzlich willkommen.",
+    "confidence": 0.8453804792125421
+  },
+  {
+    "bbox": [
+      [
+        215.0,
+        1231.0
+      ],
+      [
+        783.0,
+        1231.0
+      ],
+      [
+        783.0,
+        1269.0
+      ],
+      [
+        215.0,
+        1269.0
+      ]
+    ],
+    "text": "auch über unsere vollständige Ausbildungspalette:",
+    "confidence": 0.9942118765297462
+  },
+  {
+    "bbox": [
+      [
+        44.0,
+        1238.0
+      ],
+      [
+        196.0,
+        1238.0
+      ],
+      [
+        196.0,
+        1264.0
+      ],
+      [
+        44.0,
+        1264.0
+      ]
+    ],
+    "text": "Weitere Infos",
+    "confidence": 0.8208493375944234
+  },
+  {
+    "bbox": [
+      [
+        44.0,
+        1287.0
+      ],
+      [
+        538.0,
+        1287.0
+      ],
+      [
+        538.0,
+        1318.0
+      ],
+      [
+        44.0,
+        1318.0
+      ]
+    ],
+    "text": "Freecall 0800-266 32 87 oder 0800-come2us.",
+    "confidence": 0.6953397971372243
+  },
+  {
+    "bbox": [
+      [
+        42.0,
+        1319.0
+      ],
+      [
+        371.0,
+        1319.0
+      ],
+      [
+        371.0,
+        1357.0
+      ],
+      [
+        42.0,
+        1357.0
+      ]
+    ],
+    "text": "www.siemens-ausbildung de",
+    "confidence": 0.7293245785261879
+  }
+]

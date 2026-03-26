@@ -1,0 +1,2070 @@
+[
+  {
+    "bbox": [
+      [
+        18.0,
+        28.0
+      ],
+      [
+        400.0,
+        28.0
+      ],
+      [
+        400.0,
+        58.0
+      ],
+      [
+        18.0,
+        58.0
+      ]
+    ],
+    "text": "sollten Sie z.B. beachten; dass bereits eine",
+    "confidence": 0.7050679653676037
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        30.0
+      ],
+      [
+        806.0,
+        30.0
+      ],
+      [
+        806.0,
+        58.0
+      ],
+      [
+        424.0,
+        58.0
+      ]
+    ],
+    "text": "einzelnen Studienfächer 2000 von der Ar-",
+    "confidence": 0.7443368119387773
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        56.0
+      ],
+      [
+        400.0,
+        56.0
+      ],
+      [
+        400.0,
+        86.0
+      ],
+      [
+        18.0,
+        86.0
+      ]
+    ],
+    "text": "relativ geringe Anzahl zusätzlicher Arbeitslo-",
+    "confidence": 0.8415564732145611
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        56.0
+      ],
+      [
+        806.0,
+        56.0
+      ],
+      [
+        806.0,
+        88.0
+      ],
+      [
+        424.0,
+        88.0
+      ]
+    ],
+    "text": "beitslosigkeit betroffen waren. Liegt z.B. der",
+    "confidence": 0.6936885234274949
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        82.0
+      ],
+      [
+        398.0,
+        82.0
+      ],
+      [
+        398.0,
+        110.0
+      ],
+      [
+        18.0,
+        110.0
+      ]
+    ],
+    "text": "ser bei vkleinena Fächern eine hohe prozen-",
+    "confidence": 0.45243700776328455
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        82.0
+      ],
+      [
+        806.0,
+        82.0
+      ],
+      [
+        806.0,
+        112.0
+      ],
+      [
+        426.0,
+        112.0
+      ]
+    ],
+    "text": "Anteil der unter 35-Jährigen weit unter dem",
+    "confidence": 0.8622077576041401
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        108.0
+      ],
+      [
+        400.0,
+        108.0
+      ],
+      [
+        400.0,
+        138.0
+      ],
+      [
+        18.0,
+        138.0
+      ]
+    ],
+    "text": "tuale Zunahme bewirkt, während die gleiche",
+    "confidence": 0.8655729773338189
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        108.0
+      ],
+      [
+        806.0,
+        108.0
+      ],
+      [
+        806.0,
+        134.0
+      ],
+      [
+        424.0,
+        134.0
+      ]
+    ],
+    "text": "durchschnittlichen Anteil aller arbeitslosen",
+    "confidence": 0.7268056023159793
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        133.0
+      ],
+      [
+        400.0,
+        133.0
+      ],
+      [
+        400.0,
+        164.0
+      ],
+      [
+        20.0,
+        164.0
+      ]
+    ],
+    "text": "Menge zusätzlicher Arbeitsloser bei einem",
+    "confidence": 0.7496425417393445
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        134.0
+      ],
+      [
+        806.0,
+        134.0
+      ],
+      [
+        806.0,
+        160.0
+      ],
+      [
+        426.0,
+        160.0
+      ]
+    ],
+    "text": "Akademiker unter 35 Jahren, kann dies als",
+    "confidence": 0.8001410742286273
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        156.0
+      ],
+      [
+        399.0,
+        156.0
+      ],
+      [
+        399.0,
+        194.0
+      ],
+      [
+        15.0,
+        194.0
+      ]
+    ],
+    "text": "\"großene Fach nur als eine sehr geringe Stei -",
+    "confidence": 0.5282298139060974
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        159.0
+      ],
+      [
+        806.0,
+        159.0
+      ],
+      [
+        806.0,
+        191.0
+      ],
+      [
+        424.0,
+        191.0
+      ]
+    ],
+    "text": "Indikator für relativ gute Einmündungschan -",
+    "confidence": 0.6729834359800373
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        184.0
+      ],
+      [
+        401.0,
+        184.0
+      ],
+      [
+        401.0,
+        221.0
+      ],
+      [
+        17.0,
+        221.0
+      ]
+    ],
+    "text": "gerung der Arbeitslosigkeit ausgewiesen",
+    "confidence": 0.9818650454917899
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        187.0
+      ],
+      [
+        806.0,
+        187.0
+      ],
+      [
+        806.0,
+        214.0
+      ],
+      [
+        424.0,
+        214.0
+      ]
+    ],
+    "text": "cen für die Absolventen des betreffenden",
+    "confidence": 0.6261035082048318
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        213.0
+      ],
+      [
+        806.0,
+        213.0
+      ],
+      [
+        806.0,
+        244.0
+      ],
+      [
+        424.0,
+        244.0
+      ]
+    ],
+    "text": "Studienfaches in das Beschäftigungssystem",
+    "confidence": 0.9096956344577396
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        214.0
+      ],
+      [
+        400.0,
+        214.0
+      ],
+      [
+        400.0,
+        240.0
+      ],
+      [
+        18.0,
+        240.0
+      ]
+    ],
+    "text": "wird . Deshalb werden in der Tabelle neben",
+    "confidence": 0.5138045823760329
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        238.0
+      ],
+      [
+        400.0,
+        238.0
+      ],
+      [
+        400.0,
+        270.0
+      ],
+      [
+        18.0,
+        270.0
+      ]
+    ],
+    "text": "den Indexzahlen zur Entwicklung auch die",
+    "confidence": 0.8903302566447391
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        240.0
+      ],
+      [
+        582.0,
+        240.0
+      ],
+      [
+        582.0,
+        270.0
+      ],
+      [
+        423.0,
+        270.0
+      ]
+    ],
+    "text": "gewertet werden:",
+    "confidence": 0.8629687680132724
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        261.0
+      ],
+      [
+        321.0,
+        261.0
+      ],
+      [
+        321.0,
+        299.0
+      ],
+      [
+        17.0,
+        299.0
+      ]
+    ],
+    "text": "absoluten Zahlen (2000) angeführt.",
+    "confidence": 0.723359641258066
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        272.0
+      ],
+      [
+        808.0,
+        272.0
+      ],
+      [
+        808.0,
+        298.0
+      ],
+      [
+        426.0,
+        298.0
+      ]
+    ],
+    "text": "Die Grafiken und Tabellen sollen Ihnen eine",
+    "confidence": 0.7853852849149587
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        297.0
+      ],
+      [
+        808.0,
+        297.0
+      ],
+      [
+        808.0,
+        329.0
+      ],
+      [
+        426.0,
+        329.0
+      ]
+    ],
+    "text": "erste Orientierung bieten. Zu einer Studien-",
+    "confidence": 0.8756290890540824
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        298.0
+      ],
+      [
+        400.0,
+        298.0
+      ],
+      [
+        400.0,
+        327.0
+      ],
+      [
+        20.0,
+        327.0
+      ]
+    ],
+    "text": "Aus der Tabelle können Sie daher sowohl et-",
+    "confidence": 0.8912932413248995
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        321.0
+      ],
+      [
+        401.0,
+        321.0
+      ],
+      [
+        401.0,
+        357.0
+      ],
+      [
+        19.0,
+        357.0
+      ]
+    ],
+    "text": "was über die Entwicklung als auch über den",
+    "confidence": 0.8139891589725855
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        323.0
+      ],
+      [
+        808.0,
+        323.0
+      ],
+      [
+        808.0,
+        354.0
+      ],
+      [
+        425.0,
+        354.0
+      ]
+    ],
+    "text": "wahlentscheidung können sie erst dann bei -",
+    "confidence": 0.6713607022867815
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        349.0
+      ],
+      [
+        400.0,
+        349.0
+      ],
+      [
+        400.0,
+        382.0
+      ],
+      [
+        17.0,
+        382.0
+      ]
+    ],
+    "text": "tatsächlichen Umfang der Arbeitslosigkeit bei",
+    "confidence": 0.9760794971434377
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        352.0
+      ],
+      [
+        807.0,
+        352.0
+      ],
+      [
+        807.0,
+        381.0
+      ],
+      [
+        425.0,
+        381.0
+      ]
+    ],
+    "text": "tragen; wenn Sie sich weitere Informationen",
+    "confidence": 0.8392784325557313
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        378.0
+      ],
+      [
+        400.0,
+        378.0
+      ],
+      [
+        400.0,
+        408.0
+      ],
+      [
+        18.0,
+        408.0
+      ]
+    ],
+    "text": "Personen mit dem jeweiligen Studienab-",
+    "confidence": 0.8774316489378856
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        378.0
+      ],
+      [
+        808.0,
+        378.0
+      ],
+      [
+        808.0,
+        408.0
+      ],
+      [
+        426.0,
+        408.0
+      ]
+    ],
+    "text": "beschaffen; z.B.in einem Beratungsgespräch",
+    "confidence": 0.613000787092045
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        404.0
+      ],
+      [
+        170.0,
+        404.0
+      ],
+      [
+        170.0,
+        430.0
+      ],
+      [
+        18.0,
+        430.0
+      ]
+    ],
+    "text": "schluss erfahren.",
+    "confidence": 0.7066464567280291
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        404.0
+      ],
+      [
+        734.0,
+        404.0
+      ],
+      [
+        734.0,
+        430.0
+      ],
+      [
+        426.0,
+        430.0
+      ]
+    ],
+    "text": "mit Fachkräften Ihres Arbeitsamtes:",
+    "confidence": 0.9087546989584506
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        436.0
+      ],
+      [
+        400.0,
+        436.0
+      ],
+      [
+        400.0,
+        464.0
+      ],
+      [
+        20.0,
+        464.0
+      ]
+    ],
+    "text": "Der Anteil der Arbeitslosen unter 35 Jahren",
+    "confidence": 0.8168466938836343
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        462.0
+      ],
+      [
+        400.0,
+        462.0
+      ],
+      [
+        400.0,
+        492.0
+      ],
+      [
+        18.0,
+        492.0
+      ]
+    ],
+    "text": "zeigt, inwieweit die jüngeren Absolventen der",
+    "confidence": 0.7654021023518522
+  },
+  {
+    "bbox": [
+      [
+        114.0,
+        512.0
+      ],
+      [
+        716.0,
+        512.0
+      ],
+      [
+        716.0,
+        564.0
+      ],
+      [
+        114.0,
+        564.0
+      ]
+    ],
+    "text": "3.1.2 Studienplanung und Studiendauer",
+    "confidence": 0.7935102419184096
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        568.0
+      ],
+      [
+        806.0,
+        568.0
+      ],
+      [
+        806.0,
+        598.0
+      ],
+      [
+        426.0,
+        598.0
+      ]
+    ],
+    "text": "stress am Ende des Studiums) , mit modula-",
+    "confidence": 0.7839896001837887
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        570.0
+      ],
+      [
+        334.0,
+        570.0
+      ],
+      [
+        334.0,
+        603.0
+      ],
+      [
+        20.0,
+        603.0
+      ]
+    ],
+    "text": "Wie lange dauert Ihr Studium?",
+    "confidence": 0.6605534200507832
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        594.0
+      ],
+      [
+        806.0,
+        594.0
+      ],
+      [
+        806.0,
+        626.0
+      ],
+      [
+        424.0,
+        626.0
+      ]
+    ],
+    "text": "rem Studienaufbau oder mit der Ausweitung",
+    "confidence": 0.7810835429390992
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        608.0
+      ],
+      [
+        188.0,
+        608.0
+      ],
+      [
+        188.0,
+        640.0
+      ],
+      [
+        19.0,
+        640.0
+      ]
+    ],
+    "text": "Regelstudienzeit",
+    "confidence": 0.9998979814465743
+  },
+  {
+    "bbox": [
+      [
+        198.0,
+        609.0
+      ],
+      [
+        394.0,
+        609.0
+      ],
+      [
+        394.0,
+        638.0
+      ],
+      [
+        198.0,
+        638.0
+      ]
+    ],
+    "text": "in der Praxis bisher",
+    "confidence": 0.925438684638998
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        621.0
+      ],
+      [
+        806.0,
+        621.0
+      ],
+      [
+        806.0,
+        654.0
+      ],
+      [
+        426.0,
+        654.0
+      ]
+    ],
+    "text": "der so genannten \"Freischussregelunge. Die-",
+    "confidence": 0.5611152091313362
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        636.0
+      ],
+      [
+        240.0,
+        636.0
+      ],
+      [
+        240.0,
+        672.0
+      ],
+      [
+        19.0,
+        672.0
+      ]
+    ],
+    "text": "nicht immer die Regel",
+    "confidence": 0.8952289335638596
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        647.0
+      ],
+      [
+        805.0,
+        647.0
+      ],
+      [
+        805.0,
+        680.0
+      ],
+      [
+        426.0,
+        680.0
+      ]
+    ],
+    "text": "se ermöglicht Studierenden, die Abschluss-",
+    "confidence": 0.7085965215004452
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        667.0
+      ],
+      [
+        401.0,
+        667.0
+      ],
+      [
+        401.0,
+        703.0
+      ],
+      [
+        19.0,
+        703.0
+      ]
+    ],
+    "text": "Für jeden Studiengang ist in der Prüfungsord-",
+    "confidence": 0.9400251615324332
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        674.0
+      ],
+      [
+        806.0,
+        674.0
+      ],
+      [
+        806.0,
+        706.0
+      ],
+      [
+        425.0,
+        706.0
+      ]
+    ],
+    "text": "prüfung schon früh, innerhalb der Regelstu-",
+    "confidence": 0.8979092923345718
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        693.0
+      ],
+      [
+        403.0,
+        693.0
+      ],
+      [
+        403.0,
+        730.0
+      ],
+      [
+        19.0,
+        730.0
+      ]
+    ],
+    "text": "nung eine Regelstudienzeit festgelegt:  Sie",
+    "confidence": 0.6334191883141848
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        702.0
+      ],
+      [
+        806.0,
+        702.0
+      ],
+      [
+        806.0,
+        730.0
+      ],
+      [
+        426.0,
+        730.0
+      ]
+    ],
+    "text": "dienzeit , zu riskieren , ohne dass dies im Fall",
+    "confidence": 0.5822498301598547
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        724.0
+      ],
+      [
+        402.0,
+        724.0
+      ],
+      [
+        402.0,
+        756.0
+      ],
+      [
+        20.0,
+        756.0
+      ]
+    ],
+    "text": "gibt an, in welcher Zeit Sie ein Studium mit",
+    "confidence": 0.6743110109710521
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        727.0
+      ],
+      [
+        808.0,
+        727.0
+      ],
+      [
+        808.0,
+        759.0
+      ],
+      [
+        426.0,
+        759.0
+      ]
+    ],
+    "text": "des Scheiterns als Prüfungsversuch im Sinne",
+    "confidence": 0.9054354946319343
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        746.0
+      ],
+      [
+        401.0,
+        746.0
+      ],
+      [
+        401.0,
+        782.0
+      ],
+      [
+        19.0,
+        782.0
+      ]
+    ],
+    "text": "der angestrebten Prüfung abschließen kön-",
+    "confidence": 0.9113181557221693
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        752.0
+      ],
+      [
+        809.0,
+        752.0
+      ],
+      [
+        809.0,
+        789.0
+      ],
+      [
+        425.0,
+        789.0
+      ]
+    ],
+    "text": "der Prüfungsordnung gezählt wird. Daneben",
+    "confidence": 0.7583661188642046
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        775.0
+      ],
+      [
+        400.0,
+        775.0
+      ],
+      [
+        400.0,
+        807.0
+      ],
+      [
+        20.0,
+        807.0
+      ]
+    ],
+    "text": "nen (eine entsprechende Gestaltung der Stu-",
+    "confidence": 0.8717376126338392
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        777.0
+      ],
+      [
+        809.0,
+        777.0
+      ],
+      [
+        809.0,
+        815.0
+      ],
+      [
+        425.0,
+        815.0
+      ]
+    ],
+    "text": "gibt es weiterhin Bestrebungen; grundstän -",
+    "confidence": 0.6871467723626798
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        800.0
+      ],
+      [
+        401.0,
+        800.0
+      ],
+      [
+        401.0,
+        836.0
+      ],
+      [
+        18.0,
+        836.0
+      ]
+    ],
+    "text": "dienordnungen und des Lehrangebotes vor-",
+    "confidence": 0.8372057492168611
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        808.0
+      ],
+      [
+        808.0,
+        808.0
+      ],
+      [
+        808.0,
+        838.0
+      ],
+      [
+        426.0,
+        838.0
+      ]
+    ],
+    "text": "diges Studieren in Teilzeitform im Rahmen",
+    "confidence": 0.6699737532408584
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        829.0
+      ],
+      [
+        400.0,
+        829.0
+      ],
+      [
+        400.0,
+        862.0
+      ],
+      [
+        19.0,
+        862.0
+      ]
+    ],
+    "text": "ausgesetzt) . Die Prüfungsordnungen sehen",
+    "confidence": 0.8426468641472036
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        832.0
+      ],
+      [
+        809.0,
+        832.0
+      ],
+      [
+        809.0,
+        868.0
+      ],
+      [
+        425.0,
+        868.0
+      ]
+    ],
+    "text": "berufsintegrierter Studiengänge oder ande-",
+    "confidence": 0.9745764289130417
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        854.0
+      ],
+      [
+        400.0,
+        854.0
+      ],
+      [
+        400.0,
+        886.0
+      ],
+      [
+        20.0,
+        886.0
+      ]
+    ],
+    "text": "vielfach auch Fristen für die Meldung zur Prü -",
+    "confidence": 0.8977371641667167
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        857.0
+      ],
+      [
+        809.0,
+        857.0
+      ],
+      [
+        809.0,
+        894.0
+      ],
+      [
+        425.0,
+        894.0
+      ]
+    ],
+    "text": "rer geeigneter Konzepte zu organisieren. Der-",
+    "confidence": 0.8843149587984823
+  },
+  {
+    "bbox": [
+      [
+        64.0,
+        881.0
+      ],
+      [
+        400.0,
+        881.0
+      ],
+      [
+        400.0,
+        913.0
+      ],
+      [
+        64.0,
+        913.0
+      ]
+    ],
+    "text": "vor. Für den gleichen Studiengang kann",
+    "confidence": 0.8440181221349392
+  },
+  {
+    "bbox": [
+      [
+        21.02202795004179,
+        881.1638810551212
+      ],
+      [
+        66.76374868423416,
+        887.833083888879
+      ],
+      [
+        61.97797204995821,
+        915.8361189448788
+      ],
+      [
+        16.23625131576584,
+        909.166916111121
+      ]
+    ],
+    "text": "fung",
+    "confidence": 0.9999984502792358
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        883.0
+      ],
+      [
+        809.0,
+        883.0
+      ],
+      [
+        809.0,
+        919.0
+      ],
+      [
+        424.0,
+        919.0
+      ]
+    ],
+    "text": "gleichen wird zukünftig auch denjenigen das",
+    "confidence": 0.7403546055125777
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        910.0
+      ],
+      [
+        400.0,
+        910.0
+      ],
+      [
+        400.0,
+        936.0
+      ],
+      [
+        20.0,
+        936.0
+      ]
+    ],
+    "text": "es in den einzelnen Ländern unterschiedlich",
+    "confidence": 0.8368078746974965
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        914.0
+      ],
+      [
+        808.0,
+        914.0
+      ],
+      [
+        808.0,
+        945.0
+      ],
+      [
+        426.0,
+        945.0
+      ]
+    ],
+    "text": "Einhalten einer entsprechenden Regelstudi -",
+    "confidence": 0.7773726666294375
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        934.0
+      ],
+      [
+        246.0,
+        934.0
+      ],
+      [
+        246.0,
+        967.0
+      ],
+      [
+        18.0,
+        967.0
+      ]
+    ],
+    "text": "lange Regelstudienzeiten",
+    "confidence": 0.8499460147363002
+  },
+  {
+    "bbox": [
+      [
+        311.0,
+        936.0
+      ],
+      [
+        401.0,
+        936.0
+      ],
+      [
+        401.0,
+        962.0
+      ],
+      [
+        311.0,
+        962.0
+      ]
+    ],
+    "text": "(Konkrete",
+    "confidence": 0.999564878493455
+  },
+  {
+    "bbox": [
+      [
+        245.60276070150212,
+        937.345245332854
+      ],
+      [
+        308.6246796240911,
+        932.5470523509496
+      ],
+      [
+        310.3972392984979,
+        961.6547546671459
+      ],
+      [
+        247.37532037590893,
+        966.4529476490504
+      ]
+    ],
+    "text": "geben.",
+    "confidence": 0.7198752902966021
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        942.0
+      ],
+      [
+        808.0,
+        942.0
+      ],
+      [
+        808.0,
+        972.0
+      ],
+      [
+        426.0,
+        972.0
+      ]
+    ],
+    "text": "enzeit ermöglichen; die neben dem Studium",
+    "confidence": 0.6996779199256801
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        964.0
+      ],
+      [
+        402.0,
+        964.0
+      ],
+      [
+        402.0,
+        992.0
+      ],
+      [
+        20.0,
+        992.0
+      ]
+    ],
+    "text": "Informationen zur jeweiligen Regelstudienzeit",
+    "confidence": 0.9955952171046444
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        967.0
+      ],
+      [
+        808.0,
+        967.0
+      ],
+      [
+        808.0,
+        997.0
+      ],
+      [
+        426.0,
+        997.0
+      ]
+    ],
+    "text": "eine Berufstätigkeit aufrechterhalten oder",
+    "confidence": 0.9521188996925621
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        990.0
+      ],
+      [
+        378.0,
+        990.0
+      ],
+      [
+        378.0,
+        1018.0
+      ],
+      [
+        20.0,
+        1018.0
+      ]
+    ],
+    "text": "finden Sie in den Abschnitten 3.2 bis 3.9)",
+    "confidence": 0.8719750649393782
+  },
+  {
+    "bbox": [
+      [
+        428.0,
+        996.0
+      ],
+      [
+        809.0,
+        996.0
+      ],
+      [
+        809.0,
+        1024.0
+      ],
+      [
+        428.0,
+        1024.0
+      ]
+    ],
+    "text": "Angehörige betreuen müssen. So führte zum",
+    "confidence": 0.8234391891480721
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1019.0
+      ],
+      [
+        402.0,
+        1019.0
+      ],
+      [
+        402.0,
+        1052.0
+      ],
+      [
+        20.0,
+        1052.0
+      ]
+    ],
+    "text": "In der Praxis sind Regelstudienzeit-Über-",
+    "confidence": 0.9128083466834966
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        1019.0
+      ],
+      [
+        808.0,
+        1019.0
+      ],
+      [
+        808.0,
+        1052.0
+      ],
+      [
+        426.0,
+        1052.0
+      ]
+    ],
+    "text": "Beispiel die Universität Freiburg zum Winter-",
+    "confidence": 0.9322354707389828
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        1047.0
+      ],
+      [
+        808.0,
+        1047.0
+      ],
+      [
+        808.0,
+        1074.0
+      ],
+      [
+        426.0,
+        1074.0
+      ]
+    ],
+    "text": "semester 2000/2001 als Modellversuch für",
+    "confidence": 0.8887568975739029
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1048.0
+      ],
+      [
+        402.0,
+        1048.0
+      ],
+      [
+        402.0,
+        1078.0
+      ],
+      [
+        19.0,
+        1078.0
+      ]
+    ],
+    "text": "schreitungen leider keine Ausnahme. Das hat",
+    "confidence": 0.7931976345112509
+  },
+  {
+    "bbox": [
+      [
+        428.0,
+        1074.0
+      ],
+      [
+        808.0,
+        1074.0
+      ],
+      [
+        808.0,
+        1105.0
+      ],
+      [
+        428.0,
+        1105.0
+      ]
+    ],
+    "text": "Magisterstudiengänge an der philosophi-",
+    "confidence": 0.9012146045451238
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1076.0
+      ],
+      [
+        402.0,
+        1076.0
+      ],
+      [
+        402.0,
+        1106.0
+      ],
+      [
+        20.0,
+        1106.0
+      ]
+    ],
+    "text": "ganz unterschiedliche Ursachen, u.a. die Rah-",
+    "confidence": 0.8141536806805149
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1097.0
+      ],
+      [
+        402.0,
+        1097.0
+      ],
+      [
+        402.0,
+        1136.0
+      ],
+      [
+        20.0,
+        1136.0
+      ]
+    ],
+    "text": "menbedingungen des jeweiligen Studiums",
+    "confidence": 0.8819200525710444
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1099.0
+      ],
+      [
+        809.0,
+        1099.0
+      ],
+      [
+        809.0,
+        1135.0
+      ],
+      [
+        425.0,
+        1135.0
+      ]
+    ],
+    "text": "schen Fakultät die Möglichkeit des individu-",
+    "confidence": 0.8388189342888472
+  },
+  {
+    "bbox": [
+      [
+        428.0,
+        1126.0
+      ],
+      [
+        654.0,
+        1126.0
+      ],
+      [
+        654.0,
+        1154.0
+      ],
+      [
+        428.0,
+        1154.0
+      ]
+    ],
+    "text": "ellen Teilzeitstudiums ein.",
+    "confidence": 0.9647261133582444
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1127.0
+      ],
+      [
+        402.0,
+        1127.0
+      ],
+      [
+        402.0,
+        1159.0
+      ],
+      [
+        18.0,
+        1159.0
+      ]
+    ],
+    "text": "(z.B. sehr hohe Studentenzahlen und knappe",
+    "confidence": 0.8627968210882524
+  },
+  {
+    "bbox": [
+      [
+        22.0,
+        1156.0
+      ],
+      [
+        402.0,
+        1156.0
+      ],
+      [
+        402.0,
+        1184.0
+      ],
+      [
+        22.0,
+        1184.0
+      ]
+    ],
+    "text": "Ressourcen an Dozentenkapazität, Rechner -",
+    "confidence": 0.7611940982609322
+  },
+  {
+    "bbox": [
+      [
+        427.0,
+        1165.0
+      ],
+      [
+        715.0,
+        1165.0
+      ],
+      [
+        715.0,
+        1201.0
+      ],
+      [
+        427.0,
+        1201.0
+      ]
+    ],
+    "text": "Den Studienverlauf zügig und",
+    "confidence": 0.820376468858414
+  },
+  {
+    "bbox": [
+      [
+        22.0,
+        1182.0
+      ],
+      [
+        400.0,
+        1182.0
+      ],
+      [
+        400.0,
+        1210.0
+      ],
+      [
+        22.0,
+        1210.0
+      ]
+    ],
+    "text": "und Laborplätzen, Unterrichtsmitteln usw:)",
+    "confidence": 0.6185370052373929
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        1191.0
+      ],
+      [
+        630.0,
+        1191.0
+      ],
+      [
+        630.0,
+        1224.0
+      ],
+      [
+        426.0,
+        1224.0
+      ]
+    ],
+    "text": "zielstrebig gestalten",
+    "confidence": 0.8549799209733052
+  },
+  {
+    "bbox": [
+      [
+        22.0,
+        1208.0
+      ],
+      [
+        402.0,
+        1208.0
+      ],
+      [
+        402.0,
+        1238.0
+      ],
+      [
+        22.0,
+        1238.0
+      ]
+    ],
+    "text": "Hier versucht man derzeit, mit bildungspoli -",
+    "confidence": 0.9432949400550239
+  },
+  {
+    "bbox": [
+      [
+        427.0,
+        1223.0
+      ],
+      [
+        811.0,
+        1223.0
+      ],
+      [
+        811.0,
+        1259.0
+      ],
+      [
+        427.0,
+        1259.0
+      ]
+    ],
+    "text": "Ein langes Studium über die Regelstudienzeit",
+    "confidence": 0.7661618134591172
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1234.0
+      ],
+      [
+        404.0,
+        1234.0
+      ],
+      [
+        404.0,
+        1266.0
+      ],
+      [
+        20.0,
+        1266.0
+      ]
+    ],
+    "text": "tischen Maßnahmen gegenzusteuern, z.B.mit",
+    "confidence": 0.8575545442995711
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1249.0
+      ],
+      [
+        811.0,
+        1249.0
+      ],
+      [
+        811.0,
+        1287.0
+      ],
+      [
+        425.0,
+        1287.0
+      ]
+    ],
+    "text": "hinaus ist unnötig teuer. Außerdem gilt es als",
+    "confidence": 0.8075990202527316
+  },
+  {
+    "bbox": [
+      [
+        22.0,
+        1260.0
+      ],
+      [
+        404.0,
+        1260.0
+      ],
+      [
+        404.0,
+        1293.0
+      ],
+      [
+        22.0,
+        1293.0
+      ]
+    ],
+    "text": "der Reformierung von Lehr- und Prüfungsin-",
+    "confidence": 0.9773444730985774
+  },
+  {
+    "bbox": [
+      [
+        430.0,
+        1279.0
+      ],
+      [
+        808.0,
+        1279.0
+      ],
+      [
+        808.0,
+        1310.0
+      ],
+      [
+        430.0,
+        1310.0
+      ]
+    ],
+    "text": "Minuspunkt beim Berufseinstieg , wenn es",
+    "confidence": 0.7310314409662622
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        1285.0
+      ],
+      [
+        403.0,
+        1285.0
+      ],
+      [
+        403.0,
+        1322.0
+      ],
+      [
+        21.0,
+        1322.0
+      ]
+    ],
+    "text": "halten; der Möglichkeit, mehr Prüfungen stu-",
+    "confidence": 0.6084568768968414
+  },
+  {
+    "bbox": [
+      [
+        428.0,
+        1307.0
+      ],
+      [
+        809.0,
+        1307.0
+      ],
+      [
+        809.0,
+        1338.0
+      ],
+      [
+        428.0,
+        1338.0
+      ]
+    ],
+    "text": "nicht sachlich gut begründet werden kann,",
+    "confidence": 0.8499500080186745
+  },
+  {
+    "bbox": [
+      [
+        21.0,
+        1312.0
+      ],
+      [
+        406.0,
+        1312.0
+      ],
+      [
+        406.0,
+        1349.0
+      ],
+      [
+        21.0,
+        1349.0
+      ]
+    ],
+    "text": "dienbegleitend abzulegen (weniger Prüfungs-",
+    "confidence": 0.7192401607703623
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        1332.0
+      ],
+      [
+        808.0,
+        1332.0
+      ],
+      [
+        808.0,
+        1365.0
+      ],
+      [
+        426.0,
+        1365.0
+      ]
+    ],
+    "text": "zB. durch berufsbezogene Auslandsaufent -",
+    "confidence": 0.6443302882520812
+  }
+]

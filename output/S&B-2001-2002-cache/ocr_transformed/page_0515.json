@@ -1,0 +1,2026 @@
+[
+  {
+    "bbox": [
+      [
+        69.0,
+        28.0
+      ],
+      [
+        400.0,
+        28.0
+      ],
+      [
+        400.0,
+        67.0
+      ],
+      [
+        69.0,
+        67.0
+      ]
+    ],
+    "text": "Tätigkeiten ausgeübt: Organisation; Ver-",
+    "confidence": 0.8738970580128839
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        30.0
+      ],
+      [
+        808.0,
+        30.0
+      ],
+      [
+        808.0,
+        67.0
+      ],
+      [
+        424.0,
+        67.0
+      ]
+    ],
+    "text": "se dem Lektorat hat der Verlagskaufmann",
+    "confidence": 0.966722203709023
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        32.0
+      ],
+      [
+        75.0,
+        32.0
+      ],
+      [
+        75.0,
+        58.0
+      ],
+      [
+        19.0,
+        58.0
+      ]
+    ],
+    "text": "schen",
+    "confidence": 0.9785142105284397
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        55.0
+      ],
+      [
+        401.0,
+        55.0
+      ],
+      [
+        401.0,
+        88.0
+      ],
+      [
+        17.0,
+        88.0
+      ]
+    ],
+    "text": "waltung; Verkauf, Werbung; Buchführung, Zah-",
+    "confidence": 0.5599294602735901
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        60.0
+      ],
+      [
+        703.0,
+        60.0
+      ],
+      [
+        703.0,
+        90.0
+      ],
+      [
+        425.0,
+        90.0
+      ]
+    ],
+    "text": "lediglich Koordinationsaufgaben:",
+    "confidence": 0.5076550830297185
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        81.0
+      ],
+      [
+        402.0,
+        81.0
+      ],
+      [
+        402.0,
+        117.0
+      ],
+      [
+        17.0,
+        117.0
+      ]
+    ],
+    "text": "lungsverkehr, Kosten- und Leistungsrechnung",
+    "confidence": 0.5716929475141037
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        90.0
+      ],
+      [
+        807.0,
+        90.0
+      ],
+      [
+        807.0,
+        122.0
+      ],
+      [
+        424.0,
+        122.0
+      ]
+    ],
+    "text": "Fortbildung zum Verlagsfachwirt ist bei entspre-",
+    "confidence": 0.9725785929505916
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        110.0
+      ],
+      [
+        401.0,
+        110.0
+      ],
+      [
+        401.0,
+        141.0
+      ],
+      [
+        18.0,
+        141.0
+      ]
+    ],
+    "text": "sowie Materialwirtschaft. Mit dem eigentli -",
+    "confidence": 0.6912459316142726
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        113.0
+      ],
+      [
+        808.0,
+        113.0
+      ],
+      [
+        808.0,
+        149.0
+      ],
+      [
+        424.0,
+        149.0
+      ]
+    ],
+    "text": "chender Berufserfahrung im Bereich Herstel -",
+    "confidence": 0.7691408691456137
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        136.0
+      ],
+      [
+        401.0,
+        136.0
+      ],
+      [
+        401.0,
+        169.0
+      ],
+      [
+        19.0,
+        169.0
+      ]
+    ],
+    "text": "chen Produktionsprozess kommen die Verlags-",
+    "confidence": 0.6681258456577369
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        139.0
+      ],
+      [
+        672.0,
+        139.0
+      ],
+      [
+        672.0,
+        175.0
+      ],
+      [
+        424.0,
+        175.0
+      ]
+    ],
+    "text": "lung oder Marketing möglich.",
+    "confidence": 0.803459085126852
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        159.0
+      ],
+      [
+        402.0,
+        159.0
+      ],
+      [
+        402.0,
+        195.0
+      ],
+      [
+        18.0,
+        195.0
+      ]
+    ],
+    "text": "kaufleute nur indirekt - im Zusammenhang mit",
+    "confidence": 0.8217256158836783
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        185.0
+      ],
+      [
+        402.0,
+        185.0
+      ],
+      [
+        402.0,
+        221.0
+      ],
+      [
+        18.0,
+        221.0
+      ]
+    ],
+    "text": "der Vorbereitung, der Kontrolle und Abrechnung",
+    "confidence": 0.7729556477961795
+  },
+  {
+    "bbox": [
+      [
+        427.0,
+        187.0
+      ],
+      [
+        807.0,
+        187.0
+      ],
+      [
+        807.0,
+        215.0
+      ],
+      [
+        427.0,
+        215.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde wVerlagskauf-",
+    "confidence": 0.9234963193053537
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        209.0
+      ],
+      [
+        593.0,
+        209.0
+      ],
+      [
+        593.0,
+        235.0
+      ],
+      [
+        425.0,
+        235.0
+      ]
+    ],
+    "text": "mann Nerlagskauffrauw,",
+    "confidence": 0.5272034973996187
+  },
+  {
+    "bbox": [
+      [
+        615.0,
+        210.0
+      ],
+      [
+        805.0,
+        210.0
+      ],
+      [
+        805.0,
+        234.0
+      ],
+      [
+        615.0,
+        234.0
+      ]
+    ],
+    "text": "IX A 106; \"Buchhändler/ine ,",
+    "confidence": 0.6249113439591669
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        214.0
+      ],
+      [
+        305.0,
+        214.0
+      ],
+      [
+        305.0,
+        247.0
+      ],
+      [
+        19.0,
+        247.0
+      ]
+    ],
+    "text": "der drucktechnischen Leistungen",
+    "confidence": 0.7926064343486314
+  },
+  {
+    "bbox": [
+      [
+        315.0,
+        216.0
+      ],
+      [
+        399.0,
+        216.0
+      ],
+      [
+        399.0,
+        242.0
+      ],
+      [
+        315.0,
+        242.0
+      ]
+    ],
+    "text": "in Berüh-",
+    "confidence": 0.7915019301544985
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        231.0
+      ],
+      [
+        729.0,
+        231.0
+      ],
+      [
+        729.0,
+        259.0
+      ],
+      [
+        425.0,
+        259.0
+      ]
+    ],
+    "text": "1-VIII A 104; wVerlagsfachwirt/ine, 2-IX B 04.",
+    "confidence": 0.4626434174361649
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        241.0
+      ],
+      [
+        399.0,
+        241.0
+      ],
+      [
+        399.0,
+        273.0
+      ],
+      [
+        19.0,
+        273.0
+      ]
+    ],
+    "text": "rung. Gegenüber der Redaktion beziehungswei -",
+    "confidence": 0.5581706951418035
+  },
+  {
+    "bbox": [
+      [
+        102.0,
+        286.0
+      ],
+      [
+        725.0,
+        286.0
+      ],
+      [
+        725.0,
+        338.0
+      ],
+      [
+        102.0,
+        338.0
+      ]
+    ],
+    "text": "8.1.1.15 Versicherungskaufmann/-kauffrau",
+    "confidence": 0.9978257255529511
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        344.0
+      ],
+      [
+        209.0,
+        344.0
+      ],
+      [
+        209.0,
+        376.0
+      ],
+      [
+        19.0,
+        376.0
+      ]
+    ],
+    "text": "Ausbildungsinhalt",
+    "confidence": 0.9998906176637397
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        344.0
+      ],
+      [
+        807.0,
+        344.0
+      ],
+      [
+        807.0,
+        370.0
+      ],
+      [
+        425.0,
+        370.0
+      ]
+    ],
+    "text": "Sie arbeiten entweder im Innen- oder Außen-",
+    "confidence": 0.8656708362226528
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        370.0
+      ],
+      [
+        807.0,
+        370.0
+      ],
+      [
+        807.0,
+        396.0
+      ],
+      [
+        425.0,
+        396.0
+      ]
+    ],
+    "text": "dienst. Sie können als Mitarbeiter einer Versi-",
+    "confidence": 0.5994057047626029
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        375.0
+      ],
+      [
+        401.0,
+        375.0
+      ],
+      [
+        401.0,
+        407.0
+      ],
+      [
+        18.0,
+        407.0
+      ]
+    ],
+    "text": "Versicherungsmärkte und Vertrieb (Analyse von",
+    "confidence": 0.7315262525239109
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        395.0
+      ],
+      [
+        805.0,
+        395.0
+      ],
+      [
+        805.0,
+        426.0
+      ],
+      [
+        425.0,
+        426.0
+      ]
+    ],
+    "text": "cherungsgesellschaft , selbständige Versiche-",
+    "confidence": 0.8961954187786586
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        401.0
+      ],
+      [
+        401.0,
+        401.0
+      ],
+      [
+        401.0,
+        434.0
+      ],
+      [
+        19.0,
+        434.0
+      ]
+    ],
+    "text": "Kundeninteressen, Kundenbetreuung; Marke-",
+    "confidence": 0.709384443116652
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        421.0
+      ],
+      [
+        807.0,
+        421.0
+      ],
+      [
+        807.0,
+        453.0
+      ],
+      [
+        424.0,
+        453.0
+      ]
+    ],
+    "text": "rungsmittler und Versicherungsmakler tätig",
+    "confidence": 0.9702633421691389
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        428.0
+      ],
+      [
+        401.0,
+        428.0
+      ],
+      [
+        401.0,
+        460.0
+      ],
+      [
+        17.0,
+        460.0
+      ]
+    ],
+    "text": "ting, Produktgestaltung) , Produkte und Leis-",
+    "confidence": 0.8265532120727719
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        447.0
+      ],
+      [
+        807.0,
+        447.0
+      ],
+      [
+        807.0,
+        479.0
+      ],
+      [
+        425.0,
+        479.0
+      ]
+    ],
+    "text": "sein. Außerhalb der Versicherungswirtschaft",
+    "confidence": 0.8137447327105597
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        452.0
+      ],
+      [
+        402.0,
+        452.0
+      ],
+      [
+        402.0,
+        488.0
+      ],
+      [
+        15.0,
+        488.0
+      ]
+    ],
+    "text": "tungserstellung im Versicherungsunternehmen",
+    "confidence": 0.9989096599566993
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        473.0
+      ],
+      [
+        807.0,
+        473.0
+      ],
+      [
+        807.0,
+        505.0
+      ],
+      [
+        425.0,
+        505.0
+      ]
+    ],
+    "text": "sind Versicherungskaufleute in Industrie; Han-",
+    "confidence": 0.6966677503616928
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        482.0
+      ],
+      [
+        399.0,
+        482.0
+      ],
+      [
+        399.0,
+        512.0
+      ],
+      [
+        19.0,
+        512.0
+      ]
+    ],
+    "text": "(Versicherungsprodukte für Privatkunden, wei-",
+    "confidence": 0.6882970955632769
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        502.0
+      ],
+      [
+        807.0,
+        502.0
+      ],
+      [
+        807.0,
+        534.0
+      ],
+      [
+        425.0,
+        534.0
+      ]
+    ],
+    "text": "del und Banken beschäftigt. Insbesondere in",
+    "confidence": 0.6843179564391216
+  },
+  {
+    "bbox": [
+      [
+        53.0,
+        504.0
+      ],
+      [
+        400.0,
+        504.0
+      ],
+      [
+        400.0,
+        540.0
+      ],
+      [
+        53.0,
+        540.0
+      ]
+    ],
+    "text": "Versicherungs-und Finanzdienstleistungs -",
+    "confidence": 0.7349626245344019
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        510.0
+      ],
+      [
+        59.0,
+        510.0
+      ],
+      [
+        59.0,
+        534.0
+      ],
+      [
+        17.0,
+        534.0
+      ]
+    ],
+    "text": "tere",
+    "confidence": 0.9999971389770508
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        528.0
+      ],
+      [
+        805.0,
+        528.0
+      ],
+      [
+        805.0,
+        558.0
+      ],
+      [
+        425.0,
+        558.0
+      ]
+    ],
+    "text": "den nachstehend genannten Aufgabenberei-",
+    "confidence": 0.7935746717397295
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        535.0
+      ],
+      [
+        399.0,
+        535.0
+      ],
+      [
+        399.0,
+        567.0
+      ],
+      [
+        19.0,
+        567.0
+      ]
+    ],
+    "text": "produkte, Antrags-, Vertrags-, Leistungsbear-",
+    "confidence": 0.6535673425813748
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        554.0
+      ],
+      [
+        805.0,
+        554.0
+      ],
+      [
+        805.0,
+        584.0
+      ],
+      [
+        425.0,
+        584.0
+      ]
+    ],
+    "text": "chen arbeiten sie selbständig: Analyse der in-",
+    "confidence": 0.8575408245604241
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        558.0
+      ],
+      [
+        402.0,
+        558.0
+      ],
+      [
+        402.0,
+        595.0
+      ],
+      [
+        16.0,
+        595.0
+      ]
+    ],
+    "text": "beitung), Rechnungswesen (Buchführung, Kos-",
+    "confidence": 0.7500522130342416
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        580.0
+      ],
+      [
+        805.0,
+        580.0
+      ],
+      [
+        805.0,
+        610.0
+      ],
+      [
+        425.0,
+        610.0
+      ]
+    ],
+    "text": "dividuellen Bedarfslage von Privatkunden und",
+    "confidence": 0.955241814282701
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        583.0
+      ],
+      [
+        400.0,
+        583.0
+      ],
+      [
+        400.0,
+        619.0
+      ],
+      [
+        15.0,
+        619.0
+      ]
+    ],
+    "text": "tenrechnung; Controlling, Revision), Arbeitsor-",
+    "confidence": 0.595276608626821
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        605.0
+      ],
+      [
+        805.0,
+        605.0
+      ],
+      [
+        805.0,
+        638.0
+      ],
+      [
+        424.0,
+        638.0
+      ]
+    ],
+    "text": "Entwicklung entsprechender Lösungsvorschlä -",
+    "confidence": 0.8123186303360383
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        612.0
+      ],
+      [
+        401.0,
+        612.0
+      ],
+      [
+        401.0,
+        644.0
+      ],
+      [
+        17.0,
+        644.0
+      ]
+    ],
+    "text": "ganisation, Informations-und Kommunikations -",
+    "confidence": 0.6566181922084254
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        633.0
+      ],
+      [
+        805.0,
+        633.0
+      ],
+      [
+        805.0,
+        666.0
+      ],
+      [
+        425.0,
+        666.0
+      ]
+    ],
+    "text": "ge, Beratung und Betreuung von Kunden, Ver-",
+    "confidence": 0.7432572798931822
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        641.0
+      ],
+      [
+        399.0,
+        641.0
+      ],
+      [
+        399.0,
+        674.0
+      ],
+      [
+        18.0,
+        674.0
+      ]
+    ],
+    "text": "system. Den Funktionsbereichen Antrags-, Ver-",
+    "confidence": 0.7815082521887831
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        658.0
+      ],
+      [
+        806.0,
+        658.0
+      ],
+      [
+        806.0,
+        694.0
+      ],
+      [
+        424.0,
+        694.0
+      ]
+    ],
+    "text": "kauf von Produkten und Dienstleistungen, Be-",
+    "confidence": 0.9465360960739746
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        668.0
+      ],
+      [
+        399.0,
+        668.0
+      ],
+      [
+        399.0,
+        698.0
+      ],
+      [
+        17.0,
+        698.0
+      ]
+    ],
+    "text": "trags-und Leistungsbearbeitung sind die Spar-",
+    "confidence": 0.9221420970410787
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        685.0
+      ],
+      [
+        807.0,
+        685.0
+      ],
+      [
+        807.0,
+        718.0
+      ],
+      [
+        423.0,
+        718.0
+      ]
+    ],
+    "text": "arbeitung von Anträgen, Bearbeitung und Än-",
+    "confidence": 0.7362190418453478
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        694.0
+      ],
+      [
+        399.0,
+        694.0
+      ],
+      [
+        399.0,
+        724.0
+      ],
+      [
+        17.0,
+        724.0
+      ]
+    ],
+    "text": "tenbereiche Lebens-, Unfall-, private Kranken-",
+    "confidence": 0.806418009797044
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        712.0
+      ],
+      [
+        805.0,
+        712.0
+      ],
+      [
+        805.0,
+        745.0
+      ],
+      [
+        424.0,
+        745.0
+      ]
+    ],
+    "text": "derung von Verträgen, Bearbeitung von Leis-",
+    "confidence": 0.7022964010227511
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        717.0
+      ],
+      [
+        400.0,
+        717.0
+      ],
+      [
+        400.0,
+        754.0
+      ],
+      [
+        18.0,
+        754.0
+      ]
+    ],
+    "text": "und Schadenversicherung zugrunde gelegt: Im",
+    "confidence": 0.7877339058433666
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        740.0
+      ],
+      [
+        806.0,
+        740.0
+      ],
+      [
+        806.0,
+        770.0
+      ],
+      [
+        425.0,
+        770.0
+      ]
+    ],
+    "text": "tungs- und Schadensfällen. Im Außendienst",
+    "confidence": 0.7626489563814824
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        743.0
+      ],
+      [
+        400.0,
+        743.0
+      ],
+      [
+        400.0,
+        779.0
+      ],
+      [
+        18.0,
+        779.0
+      ]
+    ],
+    "text": "Spartenbereich Schadenversicherung kann",
+    "confidence": 0.9662798100179893
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        763.0
+      ],
+      [
+        806.0,
+        763.0
+      ],
+      [
+        806.0,
+        799.0
+      ],
+      [
+        424.0,
+        799.0
+      ]
+    ],
+    "text": "liegt der Schwerpunkt auf der Kundenwerbung",
+    "confidence": 0.9062078254213722
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        774.0
+      ],
+      [
+        399.0,
+        774.0
+      ],
+      [
+        399.0,
+        804.0
+      ],
+      [
+        19.0,
+        804.0
+      ]
+    ],
+    "text": "zwischen den Zweigen Haftpflicht-und Rechts-",
+    "confidence": 0.915949534658164
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        793.0
+      ],
+      [
+        562.0,
+        793.0
+      ],
+      [
+        562.0,
+        824.0
+      ],
+      [
+        425.0,
+        824.0
+      ]
+    ],
+    "text": "und-betreuung:",
+    "confidence": 0.87801748439709
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        797.0
+      ],
+      [
+        400.0,
+        797.0
+      ],
+      [
+        400.0,
+        833.0
+      ],
+      [
+        17.0,
+        833.0
+      ]
+    ],
+    "text": "schutzversicherung oder Kraftfahrtversicherung",
+    "confidence": 0.9748879409432925
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        822.0
+      ],
+      [
+        804.0,
+        822.0
+      ],
+      [
+        804.0,
+        858.0
+      ],
+      [
+        423.0,
+        858.0
+      ]
+    ],
+    "text": "Fortbildungen zum Versicherungsfachwirt,",
+    "confidence": 0.8142092211744782
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        825.0
+      ],
+      [
+        355.0,
+        825.0
+      ],
+      [
+        355.0,
+        858.0
+      ],
+      [
+        19.0,
+        858.0
+      ]
+    ],
+    "text": "oder Sachversicherung gewählt werden.",
+    "confidence": 0.9299440633116564
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        850.0
+      ],
+      [
+        806.0,
+        850.0
+      ],
+      [
+        806.0,
+        886.0
+      ],
+      [
+        424.0,
+        886.0
+      ]
+    ],
+    "text": "Fachwirt für Finanzberatung und Versicherungs-",
+    "confidence": 0.9061969620000543
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        858.0
+      ],
+      [
+        400.0,
+        858.0
+      ],
+      [
+        400.0,
+        894.0
+      ],
+      [
+        18.0,
+        894.0
+      ]
+    ],
+    "text": "1999 neu abgeschlossene Ausbildungsverträ-",
+    "confidence": 0.806831844452329
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        880.0
+      ],
+      [
+        643.0,
+        880.0
+      ],
+      [
+        643.0,
+        910.0
+      ],
+      [
+        425.0,
+        910.0
+      ]
+    ],
+    "text": "betriebswirt sind möglich.",
+    "confidence": 0.8364609833586405
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        888.0
+      ],
+      [
+        399.0,
+        888.0
+      ],
+      [
+        399.0,
+        918.0
+      ],
+      [
+        19.0,
+        918.0
+      ]
+    ],
+    "text": "ge: 5200. Frauenanteil: 50,1% . Auszubildende",
+    "confidence": 0.7022008197363441
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        914.0
+      ],
+      [
+        398.0,
+        914.0
+      ],
+      [
+        398.0,
+        940.0
+      ],
+      [
+        19.0,
+        940.0
+      ]
+    ],
+    "text": "mit Hochschul- oder Fachhochschulreife:",
+    "confidence": 0.8448839812269242
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        914.0
+      ],
+      [
+        807.0,
+        914.0
+      ],
+      [
+        807.0,
+        938.0
+      ],
+      [
+        425.0,
+        938.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde \"Versiche-",
+    "confidence": 0.716037357333171
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        933.0
+      ],
+      [
+        807.0,
+        933.0
+      ],
+      [
+        807.0,
+        963.0
+      ],
+      [
+        422.0,
+        963.0
+      ]
+    ],
+    "text": "rungskaufmann/-kauffraue, 1-IX A 103; wVersicherungs-",
+    "confidence": 0.646153573305563
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        940.0
+      ],
+      [
+        85.0,
+        940.0
+      ],
+      [
+        85.0,
+        968.0
+      ],
+      [
+        19.0,
+        968.0
+      ]
+    ],
+    "text": "61,49.",
+    "confidence": 0.5957050235686532
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        958.0
+      ],
+      [
+        585.0,
+        958.0
+      ],
+      [
+        585.0,
+        982.0
+      ],
+      [
+        423.0,
+        982.0
+      ]
+    ],
+    "text": "fachwirt/in , 2-IX B 05.",
+    "confidence": 0.5183688799846548
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        982.0
+      ],
+      [
+        202.0,
+        982.0
+      ],
+      [
+        202.0,
+        1020.0
+      ],
+      [
+        17.0,
+        1020.0
+      ]
+    ],
+    "text": "Tätigkeitsbereich",
+    "confidence": 0.9999522353397958
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        986.0
+      ],
+      [
+        793.0,
+        986.0
+      ],
+      [
+        793.0,
+        1015.0
+      ],
+      [
+        424.0,
+        1015.0
+      ]
+    ],
+    "text": "Berufsbildungswerk der Versicherungswirtschaft e.V",
+    "confidence": 0.7662062831027676
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1009.0
+      ],
+      [
+        805.0,
+        1009.0
+      ],
+      [
+        805.0,
+        1036.0
+      ],
+      [
+        425.0,
+        1036.0
+      ]
+    ],
+    "text": "Deutsche Versicherungs-Akademie; Studienort München;",
+    "confidence": 0.6689486585937627
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        1020.0
+      ],
+      [
+        399.0,
+        1020.0
+      ],
+      [
+        399.0,
+        1050.0
+      ],
+      [
+        19.0,
+        1050.0
+      ]
+    ],
+    "text": "Versicherungskaufleute sind in allen Geschäfts-",
+    "confidence": 0.9603928673532393
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1032.0
+      ],
+      [
+        807.0,
+        1032.0
+      ],
+      [
+        807.0,
+        1058.0
+      ],
+      [
+        425.0,
+        1058.0
+      ]
+    ],
+    "text": "Schackstraße 3,80539 München, Tel: 089/383922-0, Fax",
+    "confidence": 0.48176240130331516
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1045.0
+      ],
+      [
+        397.0,
+        1045.0
+      ],
+      [
+        397.0,
+        1076.0
+      ],
+      [
+        18.0,
+        1076.0
+      ]
+    ],
+    "text": "bereichen der Versicherungswirtschaft tätig .",
+    "confidence": 0.8745873856669768
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1056.0
+      ],
+      [
+        537.0,
+        1056.0
+      ],
+      [
+        537.0,
+        1080.0
+      ],
+      [
+        425.0,
+        1080.0
+      ]
+    ],
+    "text": "089/383922-26 .",
+    "confidence": 0.8389711297967656
+  },
+  {
+    "bbox": [
+      [
+        153.0,
+        1093.0
+      ],
+      [
+        671.0,
+        1093.0
+      ],
+      [
+        671.0,
+        1142.0
+      ],
+      [
+        153.0,
+        1142.0
+      ]
+    ],
+    "text": "8.1.1.16 Werbekaufmann /-kauffrau",
+    "confidence": 0.6909549588459492
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1151.0
+      ],
+      [
+        210.0,
+        1151.0
+      ],
+      [
+        210.0,
+        1187.0
+      ],
+      [
+        18.0,
+        1187.0
+      ]
+    ],
+    "text": "Ausbildungsinhalt",
+    "confidence": 0.9999006224971644
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1151.0
+      ],
+      [
+        807.0,
+        1151.0
+      ],
+      [
+        807.0,
+        1183.0
+      ],
+      [
+        425.0,
+        1183.0
+      ]
+    ],
+    "text": "rung, Kosten-und Leistungsrechnung), Struktu-",
+    "confidence": 0.6213861696003641
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1180.0
+      ],
+      [
+        803.0,
+        1180.0
+      ],
+      [
+        803.0,
+        1210.0
+      ],
+      [
+        425.0,
+        1210.0
+      ]
+    ],
+    "text": "ren der Werbewirtschaft, Büroorganisation,",
+    "confidence": 0.7238938719727644
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1183.0
+      ],
+      [
+        400.0,
+        1183.0
+      ],
+      [
+        400.0,
+        1219.0
+      ],
+      [
+        17.0,
+        1219.0
+      ]
+    ],
+    "text": "Beschaffung und Auswertung von Informatio -",
+    "confidence": 0.709812606153222
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1206.0
+      ],
+      [
+        803.0,
+        1206.0
+      ],
+      [
+        803.0,
+        1234.0
+      ],
+      [
+        425.0,
+        1234.0
+      ]
+    ],
+    "text": "Informations- und Kommunikationstechniken:.",
+    "confidence": 0.8682724054557232
+  },
+  {
+    "bbox": [
+      [
+        51.0,
+        1213.0
+      ],
+      [
+        399.0,
+        1213.0
+      ],
+      [
+        399.0,
+        1246.0
+      ],
+      [
+        51.0,
+        1246.0
+      ]
+    ],
+    "text": "(Briefing), Konzeptentwicklung (Kommuni -",
+    "confidence": 0.6614796753999302
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        1219.0
+      ],
+      [
+        54.0,
+        1219.0
+      ],
+      [
+        54.0,
+        1239.0
+      ],
+      [
+        20.0,
+        1239.0
+      ]
+    ],
+    "text": "nen",
+    "confidence": 0.9999960081211735
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1239.0
+      ],
+      [
+        398.0,
+        1239.0
+      ],
+      [
+        398.0,
+        1272.0
+      ],
+      [
+        18.0,
+        1272.0
+      ]
+    ],
+    "text": "kationsstrategien, Kreativ- und Mediastrate-",
+    "confidence": 0.7743387025701655
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1240.0
+      ],
+      [
+        807.0,
+        1240.0
+      ],
+      [
+        807.0,
+        1270.0
+      ],
+      [
+        425.0,
+        1270.0
+      ]
+    ],
+    "text": "1999 neu abgeschlossene Ausbildungsverträ-",
+    "confidence": 0.8062181035866375
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1265.0
+      ],
+      [
+        402.0,
+        1265.0
+      ],
+      [
+        402.0,
+        1301.0
+      ],
+      [
+        18.0,
+        1301.0
+      ]
+    ],
+    "text": "gie) , Mediaplanung und -einkauf, Produktion",
+    "confidence": 0.5105761861208908
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1265.0
+      ],
+      [
+        806.0,
+        1265.0
+      ],
+      [
+        806.0,
+        1296.0
+      ],
+      [
+        425.0,
+        1296.0
+      ]
+    ],
+    "text": "ge: 1674. Frauenanteil: 71,9% . Auszubildende",
+    "confidence": 0.5351661367657168
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1293.0
+      ],
+      [
+        399.0,
+        1293.0
+      ],
+      [
+        399.0,
+        1323.0
+      ],
+      [
+        17.0,
+        1323.0
+      ]
+    ],
+    "text": "(Produktionstechniken, kaufmännische Abwick-",
+    "confidence": 0.6736531478444902
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1293.0
+      ],
+      [
+        807.0,
+        1293.0
+      ],
+      [
+        807.0,
+        1320.0
+      ],
+      [
+        425.0,
+        1320.0
+      ]
+    ],
+    "text": "mit Hochschul- oder Fachhochschulreife:",
+    "confidence": 0.9278275123718607
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1318.0
+      ],
+      [
+        402.0,
+        1318.0
+      ],
+      [
+        402.0,
+        1354.0
+      ],
+      [
+        16.0,
+        1354.0
+      ]
+    ],
+    "text": "Iung) , Rechnungs- und Finanzwesen (Buchfüh-",
+    "confidence": 0.6553028941456832
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        1320.0
+      ],
+      [
+        489.0,
+        1320.0
+      ],
+      [
+        489.0,
+        1350.0
+      ],
+      [
+        425.0,
+        1350.0
+      ]
+    ],
+    "text": "80,2% .",
+    "confidence": 0.8758526260162988
+  }
+]

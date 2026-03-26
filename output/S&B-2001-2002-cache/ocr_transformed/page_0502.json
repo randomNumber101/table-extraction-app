@@ -1,0 +1,2400 @@
+[
+  {
+    "bbox": [
+      [
+        407.0,
+        25.0
+      ],
+      [
+        790.0,
+        25.0
+      ],
+      [
+        790.0,
+        61.0
+      ],
+      [
+        407.0,
+        61.0
+      ]
+    ],
+    "text": "nötig; werden bei der Ausbildung und Prüfung",
+    "confidence": 0.8640068320171084
+  },
+  {
+    "bbox": [
+      [
+        2.0,
+        29.0
+      ],
+      [
+        258.0,
+        29.0
+      ],
+      [
+        258.0,
+        62.0
+      ],
+      [
+        2.0,
+        62.0
+      ]
+    ],
+    "text": "schlossenen Berufsausbildung",
+    "confidence": 0.9999668147044062
+  },
+  {
+    "bbox": [
+      [
+        268.0,
+        32.0
+      ],
+      [
+        382.0,
+        32.0
+      ],
+      [
+        382.0,
+        58.0
+      ],
+      [
+        268.0,
+        58.0
+      ]
+    ],
+    "text": "und einer an-",
+    "confidence": 0.9098593207526591
+  },
+  {
+    "bbox": [
+      [
+        408.0,
+        56.0
+      ],
+      [
+        788.0,
+        56.0
+      ],
+      [
+        788.0,
+        86.0
+      ],
+      [
+        408.0,
+        86.0
+      ]
+    ],
+    "text": "die behinderungsbedingten Benachteiligungen",
+    "confidence": 0.9918345185522734
+  },
+  {
+    "bbox": [
+      [
+        2.0,
+        58.0
+      ],
+      [
+        384.0,
+        58.0
+      ],
+      [
+        384.0,
+        88.0
+      ],
+      [
+        2.0,
+        88.0
+      ]
+    ],
+    "text": "schließenden mehrjährigen Berufspraxis. So",
+    "confidence": 0.6472700861185332
+  },
+  {
+    "bbox": [
+      [
+        2.0,
+        81.0
+      ],
+      [
+        386.0,
+        81.0
+      ],
+      [
+        386.0,
+        114.0
+      ],
+      [
+        2.0,
+        114.0
+      ]
+    ],
+    "text": "kann eine zweijährige Technikerausbildung (in",
+    "confidence": 0.9923923751846613
+  },
+  {
+    "bbox": [
+      [
+        408.0,
+        82.0
+      ],
+      [
+        788.0,
+        82.0
+      ],
+      [
+        788.0,
+        112.0
+      ],
+      [
+        408.0,
+        112.0
+      ]
+    ],
+    "text": "berücksichtigt, ohne dass die qualitativen Prü -",
+    "confidence": 0.8456650764157385
+  },
+  {
+    "bbox": [
+      [
+        407.0,
+        105.0
+      ],
+      [
+        791.0,
+        105.0
+      ],
+      [
+        791.0,
+        141.0
+      ],
+      [
+        407.0,
+        141.0
+      ]
+    ],
+    "text": "fungsanforderungen geändert werden (unter",
+    "confidence": 0.9336506430991361
+  },
+  {
+    "bbox": [
+      [
+        2.0,
+        107.0
+      ],
+      [
+        384.0,
+        107.0
+      ],
+      [
+        384.0,
+        140.0
+      ],
+      [
+        2.0,
+        140.0
+      ]
+    ],
+    "text": "Vollzeitform an einer Fachschule) grundsätzlich",
+    "confidence": 0.8023934531417771
+  },
+  {
+    "bbox": [
+      [
+        407.0,
+        129.0
+      ],
+      [
+        789.0,
+        129.0
+      ],
+      [
+        789.0,
+        166.0
+      ],
+      [
+        407.0,
+        166.0
+      ]
+    ],
+    "text": "anderem durch den Verzicht auf Ausbildungs-",
+    "confidence": 0.8772619542307328
+  },
+  {
+    "bbox": [
+      [
+        2.0,
+        136.0
+      ],
+      [
+        384.0,
+        136.0
+      ],
+      [
+        384.0,
+        166.0
+      ],
+      [
+        2.0,
+        166.0
+      ]
+    ],
+    "text": "frühestens nach einer abgeschlossenen Berufs-",
+    "confidence": 0.7620963909934264
+  },
+  {
+    "bbox": [
+      [
+        408.0,
+        160.0
+      ],
+      [
+        790.0,
+        160.0
+      ],
+      [
+        790.0,
+        190.0
+      ],
+      [
+        408.0,
+        190.0
+      ]
+    ],
+    "text": "abschnitte; die für die spätere Berufstätigkeit",
+    "confidence": 0.7713115697441421
+  },
+  {
+    "bbox": [
+      [
+        1.0,
+        161.0
+      ],
+      [
+        386.0,
+        161.0
+      ],
+      [
+        386.0,
+        194.0
+      ],
+      [
+        1.0,
+        194.0
+      ]
+    ],
+    "text": "ausbildung und einer Berufspraxis von zwei bis",
+    "confidence": 0.8268858712060131
+  },
+  {
+    "bbox": [
+      [
+        408.0,
+        186.0
+      ],
+      [
+        718.0,
+        186.0
+      ],
+      [
+        718.0,
+        218.0
+      ],
+      [
+        408.0,
+        218.0
+      ]
+    ],
+    "text": "von nachgeordneter Bedeutung sind)",
+    "confidence": 0.9856638756568546
+  },
+  {
+    "bbox": [
+      [
+        2.0,
+        190.0
+      ],
+      [
+        384.0,
+        190.0
+      ],
+      [
+        384.0,
+        220.0
+      ],
+      [
+        2.0,
+        220.0
+      ]
+    ],
+    "text": "drei Jahren aufgenommen werden. Für die",
+    "confidence": 0.6482486236487842
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        213.0
+      ],
+      [
+        384.0,
+        213.0
+      ],
+      [
+        384.0,
+        246.0
+      ],
+      [
+        4.0,
+        246.0
+      ]
+    ],
+    "text": "Meisterprüfung , zu deren Vorbereitung Kurse",
+    "confidence": 0.8083347990810278
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        220.0
+      ],
+      [
+        788.0,
+        220.0
+      ],
+      [
+        788.0,
+        250.0
+      ],
+      [
+        410.0,
+        250.0
+      ]
+    ],
+    "text": "Sofern wegen Art und Schwere der Behinde-",
+    "confidence": 0.90197568358942
+  },
+  {
+    "bbox": [
+      [
+        121.0,
+        237.0
+      ],
+      [
+        387.0,
+        237.0
+      ],
+      [
+        387.0,
+        275.0
+      ],
+      [
+        121.0,
+        275.0
+      ]
+    ],
+    "text": "angeboten werden; wird in der",
+    "confidence": 0.8326015757968118
+  },
+  {
+    "bbox": [
+      [
+        2.0,
+        242.0
+      ],
+      [
+        126.0,
+        242.0
+      ],
+      [
+        126.0,
+        270.0
+      ],
+      [
+        2.0,
+        270.0
+      ]
+    ],
+    "text": "in Teilzeitform",
+    "confidence": 0.9863442296894532
+  },
+  {
+    "bbox": [
+      [
+        407.0,
+        242.0
+      ],
+      [
+        789.0,
+        242.0
+      ],
+      [
+        789.0,
+        279.0
+      ],
+      [
+        407.0,
+        279.0
+      ]
+    ],
+    "text": "rung eine betriebliche Ausbildung nicht mög-",
+    "confidence": 0.7223868858494646
+  },
+  {
+    "bbox": [
+      [
+        1.0,
+        264.0
+      ],
+      [
+        385.0,
+        264.0
+      ],
+      [
+        385.0,
+        301.0
+      ],
+      [
+        1.0,
+        301.0
+      ]
+    ],
+    "text": "Regel eine mindestens dreijährige Berufspra -",
+    "confidence": 0.7543397172764449
+  },
+  {
+    "bbox": [
+      [
+        408.0,
+        272.0
+      ],
+      [
+        788.0,
+        272.0
+      ],
+      [
+        788.0,
+        302.0
+      ],
+      [
+        408.0,
+        302.0
+      ]
+    ],
+    "text": "lich ist, kann eine Ausbildung in einem aner-",
+    "confidence": 0.805216919246928
+  },
+  {
+    "bbox": [
+      [
+        1.0,
+        291.0
+      ],
+      [
+        385.0,
+        291.0
+      ],
+      [
+        385.0,
+        327.0
+      ],
+      [
+        1.0,
+        327.0
+      ]
+    ],
+    "text": "xis verlangt: Einzelangaben zu den verschiede-",
+    "confidence": 0.7684377152703331
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        298.0
+      ],
+      [
+        788.0,
+        298.0
+      ],
+      [
+        788.0,
+        328.0
+      ],
+      [
+        410.0,
+        328.0
+      ]
+    ],
+    "text": "kannten Ausbildungsberuf in überbetrieblichen",
+    "confidence": 0.9067658207499514
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        320.0
+      ],
+      [
+        384.0,
+        320.0
+      ],
+      [
+        384.0,
+        350.0
+      ],
+      [
+        4.0,
+        350.0
+      ]
+    ],
+    "text": "nen Bereichen können häufig der Aus- und",
+    "confidence": 0.7031514472491588
+  },
+  {
+    "bbox": [
+      [
+        408.0,
+        322.0
+      ],
+      [
+        791.0,
+        322.0
+      ],
+      [
+        791.0,
+        358.0
+      ],
+      [
+        408.0,
+        358.0
+      ]
+    ],
+    "text": "Einrichtungen vermittelt werden: So stehen für",
+    "confidence": 0.8017673363798662
+  },
+  {
+    "bbox": [
+      [
+        409.0,
+        347.0
+      ],
+      [
+        791.0,
+        347.0
+      ],
+      [
+        791.0,
+        384.0
+      ],
+      [
+        409.0,
+        384.0
+      ]
+    ],
+    "text": "die Erstausbildung vornehmlich jugendlicher",
+    "confidence": 0.9004427202827024
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        348.0
+      ],
+      [
+        384.0,
+        348.0
+      ],
+      [
+        384.0,
+        378.0
+      ],
+      [
+        4.0,
+        378.0
+      ]
+    ],
+    "text": "Weiterbildungsdatenbank \"KURScentnommen",
+    "confidence": 0.5948173233085409
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        374.0
+      ],
+      [
+        386.0,
+        374.0
+      ],
+      [
+        386.0,
+        400.0
+      ],
+      [
+        4.0,
+        400.0
+      ]
+    ],
+    "text": "werden, die in den Arbeitsämtern und BlZen zur",
+    "confidence": 0.9375497573784385
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        376.0
+      ],
+      [
+        790.0,
+        376.0
+      ],
+      [
+        790.0,
+        409.0
+      ],
+      [
+        410.0,
+        409.0
+      ]
+    ],
+    "text": "Behinderter Berufsbildungswerke zur Verfü-",
+    "confidence": 0.7199615545563509
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        402.0
+      ],
+      [
+        386.0,
+        402.0
+      ],
+      [
+        386.0,
+        432.0
+      ],
+      [
+        4.0,
+        432.0
+      ]
+    ],
+    "text": "Verfügung steht oder im Internet unter www",
+    "confidence": 0.8231491320165178
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        404.0
+      ],
+      [
+        790.0,
+        404.0
+      ],
+      [
+        790.0,
+        436.0
+      ],
+      [
+        410.0,
+        436.0
+      ]
+    ],
+    "text": "gung , die neben einer behindertengerechten",
+    "confidence": 0.7873367667954962
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        426.0
+      ],
+      [
+        328.0,
+        426.0
+      ],
+      [
+        328.0,
+        456.0
+      ],
+      [
+        8.0,
+        456.0
+      ]
+    ],
+    "text": "arbeitsamt.de abgefragt werden kann.",
+    "confidence": 0.7698065061150827
+  },
+  {
+    "bbox": [
+      [
+        408.0,
+        427.0
+      ],
+      [
+        775.0,
+        427.0
+      ],
+      [
+        775.0,
+        463.0
+      ],
+      [
+        408.0,
+        463.0
+      ]
+    ],
+    "text": "Äusbildung die notwendigen Dienste sowie",
+    "confidence": 0.9370282751149408
+  },
+  {
+    "bbox": [
+      [
+        566.0,
+        456.0
+      ],
+      [
+        790.0,
+        456.0
+      ],
+      [
+        790.0,
+        487.0
+      ],
+      [
+        566.0,
+        487.0
+      ]
+    ],
+    "text": "eine entsprechende Unter -",
+    "confidence": 0.855753557078488
+  },
+  {
+    "bbox": [
+      [
+        3.0,
+        458.0
+      ],
+      [
+        386.0,
+        458.0
+      ],
+      [
+        386.0,
+        490.0
+      ],
+      [
+        3.0,
+        490.0
+      ]
+    ],
+    "text": "Förderung: Für die Teilnehmer an den berufli -",
+    "confidence": 0.908700445482232
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        458.0
+      ],
+      [
+        552.0,
+        458.0
+      ],
+      [
+        552.0,
+        484.0
+      ],
+      [
+        410.0,
+        484.0
+      ]
+    ],
+    "text": "falls erforderlich",
+    "confidence": 0.9995819573695628
+  },
+  {
+    "bbox": [
+      [
+        407.0,
+        479.0
+      ],
+      [
+        791.0,
+        479.0
+      ],
+      [
+        791.0,
+        518.0
+      ],
+      [
+        407.0,
+        518.0
+      ]
+    ],
+    "text": "bringung und Versorgung (Internatseinrichtun-",
+    "confidence": 0.9769613452306308
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        485.0
+      ],
+      [
+        386.0,
+        485.0
+      ],
+      [
+        386.0,
+        515.0
+      ],
+      [
+        4.0,
+        515.0
+      ]
+    ],
+    "text": "chen Aufstiegsfortbildungsmaßnahmen wer-",
+    "confidence": 0.9754778976062248
+  },
+  {
+    "bbox": [
+      [
+        408.0,
+        508.0
+      ],
+      [
+        790.0,
+        508.0
+      ],
+      [
+        790.0,
+        540.0
+      ],
+      [
+        408.0,
+        540.0
+      ]
+    ],
+    "text": "gen) bieten. Sofern wegen Art oder Schwere",
+    "confidence": 0.4683045794312747
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        509.0
+      ],
+      [
+        386.0,
+        509.0
+      ],
+      [
+        386.0,
+        542.0
+      ],
+      [
+        4.0,
+        542.0
+      ]
+    ],
+    "text": "den Finanzierungshilfen nach dem Aufstiegs-",
+    "confidence": 0.8534187510109374
+  },
+  {
+    "bbox": [
+      [
+        409.0,
+        531.0
+      ],
+      [
+        791.0,
+        531.0
+      ],
+      [
+        791.0,
+        567.0
+      ],
+      [
+        409.0,
+        567.0
+      ]
+    ],
+    "text": "der Behinderung keine Ausbildung in einem",
+    "confidence": 0.9409933780380393
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        538.0
+      ],
+      [
+        382.0,
+        538.0
+      ],
+      [
+        382.0,
+        568.0
+      ],
+      [
+        4.0,
+        568.0
+      ]
+    ],
+    "text": "fortbildungsförderungsgesetz (AFBGIgeleistet.",
+    "confidence": 0.7971411951723243
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        562.0
+      ],
+      [
+        386.0,
+        562.0
+      ],
+      [
+        386.0,
+        594.0
+      ],
+      [
+        6.0,
+        594.0
+      ]
+    ],
+    "text": "Die Förderung hilft Handwerkern, Facharbeitern",
+    "confidence": 0.9754368993348846
+  },
+  {
+    "bbox": [
+      [
+        409.0,
+        562.0
+      ],
+      [
+        792.0,
+        562.0
+      ],
+      [
+        792.0,
+        592.0
+      ],
+      [
+        409.0,
+        592.0
+      ]
+    ],
+    "text": "anerkannten Ausbildungsberuf in Betracht",
+    "confidence": 0.9763602536857666
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        585.0
+      ],
+      [
+        790.0,
+        585.0
+      ],
+      [
+        790.0,
+        618.0
+      ],
+      [
+        410.0,
+        618.0
+      ]
+    ],
+    "text": "kommt; eine berufliche Bildung aber grundsätz -",
+    "confidence": 0.7794045705368933
+  },
+  {
+    "bbox": [
+      [
+        2.0,
+        588.0
+      ],
+      [
+        386.0,
+        588.0
+      ],
+      [
+        386.0,
+        620.0
+      ],
+      [
+        2.0,
+        620.0
+      ]
+    ],
+    "text": "und Technikern; ihre Vorbereitung auf einen",
+    "confidence": 0.7587564691165257
+  },
+  {
+    "bbox": [
+      [
+        409.0,
+        612.0
+      ],
+      [
+        791.0,
+        612.0
+      ],
+      [
+        791.0,
+        649.0
+      ],
+      [
+        409.0,
+        649.0
+      ]
+    ],
+    "text": "lich möglich ist, bietet sich unter Umständen",
+    "confidence": 0.7797310470046974
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        618.0
+      ],
+      [
+        386.0,
+        618.0
+      ],
+      [
+        386.0,
+        648.0
+      ],
+      [
+        4.0,
+        648.0
+      ]
+    ],
+    "text": "Fortbildungsabschluss zu finanzieren, der ihnen",
+    "confidence": 0.8978746108818231
+  },
+  {
+    "bbox": [
+      [
+        450.0,
+        637.0
+      ],
+      [
+        791.0,
+        637.0
+      ],
+      [
+        791.0,
+        673.0
+      ],
+      [
+        450.0,
+        673.0
+      ]
+    ],
+    "text": "Ausbildung für Behinderte nach $48 Be-",
+    "confidence": 0.836789786131638
+  },
+  {
+    "bbox": [
+      [
+        3.0,
+        639.0
+      ],
+      [
+        325.0,
+        639.0
+      ],
+      [
+        325.0,
+        675.0
+      ],
+      [
+        3.0,
+        675.0
+      ]
+    ],
+    "text": "einen beruflichen Aufstieg ermöglicht:",
+    "confidence": 0.952544810333281
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        644.0
+      ],
+      [
+        454.0,
+        644.0
+      ],
+      [
+        454.0,
+        668.0
+      ],
+      [
+        412.0,
+        668.0
+      ]
+    ],
+    "text": "eine",
+    "confidence": 0.9999616742134094
+  },
+  {
+    "bbox": [
+      [
+        409.0,
+        663.0
+      ],
+      [
+        791.0,
+        663.0
+      ],
+      [
+        791.0,
+        701.0
+      ],
+      [
+        409.0,
+        701.0
+      ]
+    ],
+    "text": "rufsbildungsgesetz /5 42b Handwerksordnung",
+    "confidence": 0.8179301000706733
+  },
+  {
+    "bbox": [
+      [
+        3.0,
+        675.0
+      ],
+      [
+        386.0,
+        675.0
+      ],
+      [
+        386.0,
+        706.0
+      ],
+      [
+        3.0,
+        706.0
+      ]
+    ],
+    "text": "Voraussetzung ist, dass sie eine anerkannte",
+    "confidence": 0.6131026262297925
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        699.0
+      ],
+      [
+        387.0,
+        699.0
+      ],
+      [
+        387.0,
+        735.0
+      ],
+      [
+        4.0,
+        735.0
+      ]
+    ],
+    "text": "Berufsausbildung erfolgreich abgeschlossen",
+    "confidence": 0.8623101580809378
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        701.0
+      ],
+      [
+        443.0,
+        701.0
+      ],
+      [
+        443.0,
+        721.0
+      ],
+      [
+        413.0,
+        721.0
+      ]
+    ],
+    "text": "an.",
+    "confidence": 0.8997939971790391
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        728.0
+      ],
+      [
+        386.0,
+        728.0
+      ],
+      [
+        386.0,
+        761.0
+      ],
+      [
+        4.0,
+        761.0
+      ]
+    ],
+    "text": "haben. Der angestrebte Fortbildungsabschluss",
+    "confidence": 0.9025576653416505
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        731.0
+      ],
+      [
+        790.0,
+        731.0
+      ],
+      [
+        790.0,
+        757.0
+      ],
+      [
+        412.0,
+        757.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde, herausgege-",
+    "confidence": 0.7033684027739424
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        752.0
+      ],
+      [
+        788.0,
+        752.0
+      ],
+      [
+        788.0,
+        778.0
+      ],
+      [
+        412.0,
+        778.0
+      ]
+    ],
+    "text": "ben von der Bundesanstalt für Arbeit (Verlag W. Bertels-",
+    "confidence": 0.7034153319438411
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        756.0
+      ],
+      [
+        386.0,
+        756.0
+      ],
+      [
+        386.0,
+        787.0
+      ],
+      [
+        6.0,
+        787.0
+      ]
+    ],
+    "text": "muss rechtlich geregelt sein und über dem Ni-",
+    "confidence": 0.973595614254495
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        776.0
+      ],
+      [
+        792.0,
+        776.0
+      ],
+      [
+        792.0,
+        802.0
+      ],
+      [
+        412.0,
+        802.0
+      ]
+    ],
+    "text": "mann KG, 33599 Bielefeld); eingeheftete Bestellkarte",
+    "confidence": 0.7703346019835061
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        782.0
+      ],
+      [
+        386.0,
+        782.0
+      ],
+      [
+        386.0,
+        810.0
+      ],
+      [
+        4.0,
+        810.0
+      ]
+    ],
+    "text": "veau einer Facharbeiter -, Gesellen- und Gehil-",
+    "confidence": 0.6519739823423772
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        801.0
+      ],
+      [
+        481.0,
+        801.0
+      ],
+      [
+        481.0,
+        821.0
+      ],
+      [
+        413.0,
+        821.0
+      ]
+    ],
+    "text": "benutzen.",
+    "confidence": 0.971877965906949
+  },
+  {
+    "bbox": [
+      [
+        3.0,
+        807.0
+      ],
+      [
+        388.0,
+        807.0
+      ],
+      [
+        388.0,
+        840.0
+      ],
+      [
+        3.0,
+        840.0
+      ]
+    ],
+    "text": "fenprüfung oder eines Berufsfachschulab-",
+    "confidence": 0.9855389146120421
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        830.0
+      ],
+      [
+        792.0,
+        830.0
+      ],
+      [
+        792.0,
+        856.0
+      ],
+      [
+        412.0,
+        856.0
+      ]
+    ],
+    "text": "BERUF AKTUELL, jährlich neu herausgegeben von der",
+    "confidence": 0.8230848475675874
+  },
+  {
+    "bbox": [
+      [
+        91.10517502059216,
+        833.1365600658949
+      ],
+      [
+        154.9076923076923,
+        843.2615384615384
+      ],
+      [
+        148.89482497940782,
+        870.8634399341051
+      ],
+      [
+        86.09230769230768,
+        860.7384615384616
+      ]
+    ],
+    "text": "liegen.",
+    "confidence": 0.9308497985558026
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        838.0
+      ],
+      [
+        92.0,
+        838.0
+      ],
+      [
+        92.0,
+        864.0
+      ],
+      [
+        6.0,
+        864.0
+      ]
+    ],
+    "text": "schlusses",
+    "confidence": 0.9999713100918695
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        852.0
+      ],
+      [
+        792.0,
+        852.0
+      ],
+      [
+        792.0,
+        876.0
+      ],
+      [
+        412.0,
+        876.0
+      ]
+    ],
+    "text": "Bundesanstalt für Arbeit (erhältlich bei den Arbeitsäm-",
+    "confidence": 0.9020638302439461
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        866.0
+      ],
+      [
+        388.0,
+        866.0
+      ],
+      [
+        388.0,
+        898.0
+      ],
+      [
+        6.0,
+        898.0
+      ]
+    ],
+    "text": "Die Länder haben die Behörden bestimmt; die",
+    "confidence": 0.7612084688282365
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        877.0
+      ],
+      [
+        449.0,
+        877.0
+      ],
+      [
+        449.0,
+        897.0
+      ],
+      [
+        411.0,
+        897.0
+      ]
+    ],
+    "text": "tern;",
+    "confidence": 0.9998963074962528
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        894.0
+      ],
+      [
+        387.0,
+        894.0
+      ],
+      [
+        387.0,
+        924.0
+      ],
+      [
+        4.0,
+        924.0
+      ]
+    ],
+    "text": "über Art und Höhe des Förderungsanspruchs",
+    "confidence": 0.7287937747601104
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        902.0
+      ],
+      [
+        792.0,
+        902.0
+      ],
+      [
+        792.0,
+        930.0
+      ],
+      [
+        411.0,
+        930.0
+      ]
+    ],
+    "text": "ABZ/Ausbildung-Beschäftigung-Zukunftsaspekte . Aner-",
+    "confidence": 0.6834582865342749
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        922.0
+      ],
+      [
+        384.0,
+        922.0
+      ],
+      [
+        384.0,
+        948.0
+      ],
+      [
+        6.0,
+        948.0
+      ]
+    ],
+    "text": "entscheiden und die Zuschüsse ausbezahlen.",
+    "confidence": 0.6231443125150126
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        923.0
+      ],
+      [
+        792.0,
+        923.0
+      ],
+      [
+        792.0,
+        953.0
+      ],
+      [
+        412.0,
+        953.0
+      ]
+    ],
+    "text": "kannte Ausbildungsberufe in regionaler Gliederung: He-",
+    "confidence": 0.6942368200681787
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        946.0
+      ],
+      [
+        388.0,
+        946.0
+      ],
+      [
+        388.0,
+        979.0
+      ],
+      [
+        6.0,
+        979.0
+      ]
+    ],
+    "text": "Dort sind auch die Anträge auf Förderung nach",
+    "confidence": 0.6524878298957407
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        947.0
+      ],
+      [
+        792.0,
+        947.0
+      ],
+      [
+        792.0,
+        978.0
+      ],
+      [
+        411.0,
+        978.0
+      ]
+    ],
+    "text": "rausgegeben von der Bundesanstalt für Arbeit (einseh-",
+    "confidence": 0.9934345257295163
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        972.0
+      ],
+      [
+        548.0,
+        972.0
+      ],
+      [
+        548.0,
+        996.0
+      ],
+      [
+        412.0,
+        996.0
+      ]
+    ],
+    "text": "bar im Arbeitsamt).",
+    "confidence": 0.8909715649868772
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        974.0
+      ],
+      [
+        184.0,
+        974.0
+      ],
+      [
+        184.0,
+        1004.0
+      ],
+      [
+        6.0,
+        1004.0
+      ]
+    ],
+    "text": "dem AFBG zu stellen:",
+    "confidence": 0.6355681655716876
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1000.0
+      ],
+      [
+        792.0,
+        1000.0
+      ],
+      [
+        792.0,
+        1028.0
+      ],
+      [
+        414.0,
+        1028.0
+      ]
+    ],
+    "text": "Aus- und Weiterbildungsdatenbank wKURSw , steht in al-",
+    "confidence": 0.39166070730289365
+  },
+  {
+    "bbox": [
+      [
+        295.1299778141514,
+        1001.1289267866996
+      ],
+      [
+        362.90785659390195,
+        1011.2621856403532
+      ],
+      [
+        357.8700221858486,
+        1039.8710732133004
+      ],
+      [
+        290.09214340609805,
+        1029.7378143596468
+      ]
+    ],
+    "text": "Ämtern",
+    "confidence": 0.999965202967038
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1008.0
+      ],
+      [
+        296.0,
+        1008.0
+      ],
+      [
+        296.0,
+        1034.0
+      ],
+      [
+        6.0,
+        1034.0
+      ]
+    ],
+    "text": "Das \"Meister-BAföGw kann bei den",
+    "confidence": 0.44026958555248347
+  },
+  {
+    "bbox": [
+      [
+        358.0,
+        1008.0
+      ],
+      [
+        388.0,
+        1008.0
+      ],
+      [
+        388.0,
+        1032.0
+      ],
+      [
+        358.0,
+        1032.0
+      ]
+    ],
+    "text": "für",
+    "confidence": 0.9998840299074866
+  },
+  {
+    "bbox": [
+      [
+        548.0,
+        1022.0
+      ],
+      [
+        794.0,
+        1022.0
+      ],
+      [
+        794.0,
+        1048.0
+      ],
+      [
+        548.0,
+        1048.0
+      ]
+    ],
+    "text": "auch online unter wwwarbeitsamt",
+    "confidence": 0.8216752224170863
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1024.0
+      ],
+      [
+        542.0,
+        1024.0
+      ],
+      [
+        542.0,
+        1048.0
+      ],
+      [
+        412.0,
+        1048.0
+      ]
+    ],
+    "text": "len Arbeitsämtern",
+    "confidence": 0.7395554808262387
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1034.0
+      ],
+      [
+        390.0,
+        1034.0
+      ],
+      [
+        390.0,
+        1064.0
+      ],
+      [
+        6.0,
+        1064.0
+      ]
+    ],
+    "text": "Ausbildungsförderung der kreisfreien Städte",
+    "confidence": 0.902197151695131
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        1045.0
+      ],
+      [
+        622.0,
+        1045.0
+      ],
+      [
+        622.0,
+        1074.0
+      ],
+      [
+        416.0,
+        1074.0
+      ]
+    ],
+    "text": "de - und BlZen zur Verfügung:",
+    "confidence": 0.6612820971323636
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1060.0
+      ],
+      [
+        388.0,
+        1060.0
+      ],
+      [
+        388.0,
+        1092.0
+      ],
+      [
+        6.0,
+        1092.0
+      ]
+    ],
+    "text": "und Kreise beantragt werden. Ausnahmerege-",
+    "confidence": 0.7977122579194416
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        1075.0
+      ],
+      [
+        792.0,
+        1075.0
+      ],
+      [
+        792.0,
+        1104.0
+      ],
+      [
+        413.0,
+        1104.0
+      ]
+    ],
+    "text": "Ausbildung und Beruf, herausgegeben vom Bundesminis-",
+    "confidence": 0.8436040618708863
+  },
+  {
+    "bbox": [
+      [
+        3.0,
+        1088.0
+      ],
+      [
+        172.0,
+        1088.0
+      ],
+      [
+        172.0,
+        1119.0
+      ],
+      [
+        3.0,
+        1119.0
+      ]
+    ],
+    "text": "lungen sind bei den",
+    "confidence": 0.6843459252884992
+  },
+  {
+    "bbox": [
+      [
+        180.0,
+        1088.0
+      ],
+      [
+        344.0,
+        1088.0
+      ],
+      [
+        344.0,
+        1116.0
+      ],
+      [
+        180.0,
+        1116.0
+      ]
+    ],
+    "text": "ändern zu erfragen.",
+    "confidence": 0.9893546228810455
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1097.0
+      ],
+      [
+        734.0,
+        1097.0
+      ],
+      [
+        734.0,
+        1126.0
+      ],
+      [
+        412.0,
+        1126.0
+      ]
+    ],
+    "text": "terium für Bildung und Forschung; 53170 Bonn:",
+    "confidence": 0.5897704964282255
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1126.0
+      ],
+      [
+        344.0,
+        1126.0
+      ],
+      [
+        344.0,
+        1154.0
+      ],
+      [
+        8.0,
+        1154.0
+      ]
+    ],
+    "text": "Besondere Hinweise für behinderte",
+    "confidence": 0.9679082835962348
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1128.0
+      ],
+      [
+        792.0,
+        1128.0
+      ],
+      [
+        792.0,
+        1156.0
+      ],
+      [
+        414.0,
+        1156.0
+      ]
+    ],
+    "text": "Berufsbildungswerke, Berufsförderungswerke und Ein-",
+    "confidence": 0.8970383462461959
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        1150.0
+      ],
+      [
+        794.0,
+        1150.0
+      ],
+      [
+        794.0,
+        1179.0
+      ],
+      [
+        411.0,
+        1179.0
+      ]
+    ],
+    "text": "richtungen der medizinisch-beruflichen Rehabilitation,",
+    "confidence": 0.7425467699909212
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1151.0
+      ],
+      [
+        322.0,
+        1151.0
+      ],
+      [
+        322.0,
+        1182.0
+      ],
+      [
+        8.0,
+        1182.0
+      ]
+    ],
+    "text": "Menschen und chronisch Kranke",
+    "confidence": 0.8132479218298889
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1173.0
+      ],
+      [
+        794.0,
+        1173.0
+      ],
+      [
+        794.0,
+        1201.0
+      ],
+      [
+        412.0,
+        1201.0
+      ]
+    ],
+    "text": "alle Broschüren herausgegeben vom Bundesministerium",
+    "confidence": 0.8641719020129839
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        1181.0
+      ],
+      [
+        389.0,
+        1181.0
+      ],
+      [
+        389.0,
+        1218.0
+      ],
+      [
+        4.0,
+        1218.0
+      ]
+    ],
+    "text": "Vorrangiges Ziel bei der Berufsausbildung Be-",
+    "confidence": 0.9205332276205237
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1195.0
+      ],
+      [
+        710.0,
+        1195.0
+      ],
+      [
+        710.0,
+        1222.0
+      ],
+      [
+        412.0,
+        1222.0
+      ]
+    ],
+    "text": "für Arbeit und Sozialordnung; 11017 Berlin:",
+    "confidence": 0.7183783067164633
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1212.0
+      ],
+      [
+        388.0,
+        1212.0
+      ],
+      [
+        388.0,
+        1242.0
+      ],
+      [
+        6.0,
+        1242.0
+      ]
+    ],
+    "text": "hinderter ist, dieser Personengruppe eine be-",
+    "confidence": 0.5492120663758135
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1226.0
+      ],
+      [
+        794.0,
+        1226.0
+      ],
+      [
+        794.0,
+        1254.0
+      ],
+      [
+        414.0,
+        1254.0
+      ]
+    ],
+    "text": "Eingliederung behinderter Menschen in der Bundesrepu-",
+    "confidence": 0.6860690116240119
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        1235.0
+      ],
+      [
+        389.0,
+        1235.0
+      ],
+      [
+        389.0,
+        1271.0
+      ],
+      [
+        5.0,
+        1271.0
+      ]
+    ],
+    "text": "triebliche Ausbildung in einem anerkannten",
+    "confidence": 0.9761038923631383
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1248.0
+      ],
+      [
+        792.0,
+        1248.0
+      ],
+      [
+        792.0,
+        1276.0
+      ],
+      [
+        414.0,
+        1276.0
+      ]
+    ],
+    "text": "blik Deutschland , herausgegeben vom Bundesministeri-",
+    "confidence": 0.8291032376861968
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        1265.0
+      ],
+      [
+        388.0,
+        1265.0
+      ],
+      [
+        388.0,
+        1297.0
+      ],
+      [
+        7.0,
+        1297.0
+      ]
+    ],
+    "text": "Ausbildungsberuf zu ermöglichen. Hierzu kön-",
+    "confidence": 0.9307583787697497
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1270.0
+      ],
+      [
+        643.0,
+        1270.0
+      ],
+      [
+        643.0,
+        1298.0
+      ],
+      [
+        414.0,
+        1298.0
+      ]
+    ],
+    "text": "um für Arbeit und Sozialordnung:",
+    "confidence": 0.8672599562052781
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1290.0
+      ],
+      [
+        389.0,
+        1290.0
+      ],
+      [
+        389.0,
+        1323.0
+      ],
+      [
+        6.0,
+        1323.0
+      ]
+    ],
+    "text": "nen finanzielle und technische Hilfen beitragen:.",
+    "confidence": 0.7424165666028986
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1302.0
+      ],
+      [
+        794.0,
+        1302.0
+      ],
+      [
+        794.0,
+        1328.0
+      ],
+      [
+        414.0,
+        1328.0
+      ]
+    ],
+    "text": "Berufliche Rehabilitation junger Menschen Handbuch für",
+    "confidence": 0.8667292309918226
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1319.0
+      ],
+      [
+        390.0,
+        1319.0
+      ],
+      [
+        390.0,
+        1346.0
+      ],
+      [
+        8.0,
+        1346.0
+      ]
+    ],
+    "text": "Auskunft erteilen die Arbeitsämter. So weit",
+    "confidence": 0.6098654693778794
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1322.0
+      ],
+      [
+        790.0,
+        1322.0
+      ],
+      [
+        790.0,
+        1350.0
+      ],
+      [
+        414.0,
+        1350.0
+      ]
+    ],
+    "text": "Schule; Berufsberatung und Ausbildung: Ausgabe 1997,",
+    "confidence": 0.5293939362592165
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1344.0
+      ],
+      [
+        489.0,
+        1344.0
+      ],
+      [
+        489.0,
+        1374.0
+      ],
+      [
+        412.0,
+        1374.0
+      ]
+    ],
+    "text": "Nürnberg:",
+    "confidence": 0.8480013218578498
+  }
+]

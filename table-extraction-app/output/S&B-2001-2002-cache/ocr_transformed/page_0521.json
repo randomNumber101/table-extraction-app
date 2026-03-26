@@ -1,0 +1,1894 @@
+[
+  {
+    "bbox": [
+      [
+        121.0,
+        28.0
+      ],
+      [
+        698.0,
+        28.0
+      ],
+      [
+        698.0,
+        83.0
+      ],
+      [
+        121.0,
+        83.0
+      ]
+    ],
+    "text": "8.2.1.3 Mediengestalter/in Bild und Ton",
+    "confidence": 0.9082254807439363
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        83.0
+      ],
+      [
+        209.0,
+        83.0
+      ],
+      [
+        209.0,
+        122.0
+      ],
+      [
+        16.0,
+        122.0
+      ]
+    ],
+    "text": "Ausbildungsinhalt",
+    "confidence": 0.9999178849223155
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        87.0
+      ],
+      [
+        607.0,
+        87.0
+      ],
+      [
+        607.0,
+        123.0
+      ],
+      [
+        423.0,
+        123.0
+      ]
+    ],
+    "text": "Tätigkeitsbereich",
+    "confidence": 0.9999703353083806
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        119.0
+      ],
+      [
+        398.0,
+        119.0
+      ],
+      [
+        398.0,
+        152.0
+      ],
+      [
+        17.0,
+        152.0
+      ]
+    ],
+    "text": "Beratung bei der Gestaltung und Planung von",
+    "confidence": 0.8334927848217029
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        122.0
+      ],
+      [
+        804.0,
+        122.0
+      ],
+      [
+        804.0,
+        154.0
+      ],
+      [
+        424.0,
+        154.0
+      ]
+    ],
+    "text": "Der Tätigkeitsbereich ist auf die elektronische",
+    "confidence": 0.7903672717156526
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        143.0
+      ],
+      [
+        401.0,
+        143.0
+      ],
+      [
+        401.0,
+        179.0
+      ],
+      [
+        19.0,
+        179.0
+      ]
+    ],
+    "text": "Medienproduktionen sowie Vorbereitung der",
+    "confidence": 0.8621342869717035
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        148.0
+      ],
+      [
+        804.0,
+        148.0
+      ],
+      [
+        804.0,
+        179.0
+      ],
+      [
+        424.0,
+        179.0
+      ]
+    ],
+    "text": "Produktion von Bild- und Tonmedien ausgerich -",
+    "confidence": 0.8249594451310784
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        171.0
+      ],
+      [
+        398.0,
+        171.0
+      ],
+      [
+        398.0,
+        204.0
+      ],
+      [
+        18.0,
+        204.0
+      ]
+    ],
+    "text": "Produktion, Auswahl und Einrichtung der not-",
+    "confidence": 0.8388829217079492
+  },
+  {
+    "bbox": [
+      [
+        422.88582797093767,
+        173.21456992734423
+      ],
+      [
+        457.6669236692798,
+        178.62613023097708
+      ],
+      [
+        454.11417202906233,
+        203.7854300726558
+      ],
+      [
+        419.3330763307202,
+        198.37386976902292
+      ]
+    ],
+    "text": "tet,",
+    "confidence": 0.9609273672103882
+  },
+  {
+    "bbox": [
+      [
+        458.0,
+        174.0
+      ],
+      [
+        800.0,
+        174.0
+      ],
+      [
+        800.0,
+        204.0
+      ],
+      [
+        458.0,
+        204.0
+      ]
+    ],
+    "text": "z.B. Nachrichten - und Magazinbeiträge",
+    "confidence": 0.6917883043253034
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        197.0
+      ],
+      [
+        398.0,
+        197.0
+      ],
+      [
+        398.0,
+        230.0
+      ],
+      [
+        18.0,
+        230.0
+      ]
+    ],
+    "text": "wendigen Geräte, Sichtung und Prüfung von",
+    "confidence": 0.6593732205696392
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        200.0
+      ],
+      [
+        728.0,
+        200.0
+      ],
+      [
+        728.0,
+        231.0
+      ],
+      [
+        424.0,
+        231.0
+      ]
+    ],
+    "text": "Hörspiele Werbespots, Musikvideos",
+    "confidence": 0.7457158506626529
+  },
+  {
+    "bbox": [
+      [
+        760.0,
+        202.0
+      ],
+      [
+        804.0,
+        202.0
+      ],
+      [
+        804.0,
+        226.0
+      ],
+      [
+        760.0,
+        226.0
+      ]
+    ],
+    "text": "Mul-",
+    "confidence": 0.9974411129951477
+  },
+  {
+    "bbox": [
+      [
+        722.4789396203098,
+        203.41419735452666
+      ],
+      [
+        761.4262082529095,
+        201.23548490697488
+      ],
+      [
+        762.5210603796902,
+        225.58580264547334
+      ],
+      [
+        723.5737917470905,
+        228.76451509302512
+      ]
+    ],
+    "text": "und",
+    "confidence": 0.9995641407387904
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        222.0
+      ],
+      [
+        399.0,
+        222.0
+      ],
+      [
+        399.0,
+        258.0
+      ],
+      [
+        16.0,
+        258.0
+      ]
+    ],
+    "text": "Aufzeichnungen , Beschaffung von Bild- und",
+    "confidence": 0.7883294862585432
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        227.0
+      ],
+      [
+        804.0,
+        227.0
+      ],
+      [
+        804.0,
+        256.0
+      ],
+      [
+        422.0,
+        256.0
+      ]
+    ],
+    "text": "timediaprodukte Im Mittelpunkt stehen sowohl",
+    "confidence": 0.8353471336369618
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        249.0
+      ],
+      [
+        401.0,
+        249.0
+      ],
+      [
+        401.0,
+        285.0
+      ],
+      [
+        16.0,
+        285.0
+      ]
+    ],
+    "text": "Tonmaterial aus Archiven, Ausführung von",
+    "confidence": 0.6652708802565211
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        253.0
+      ],
+      [
+        804.0,
+        253.0
+      ],
+      [
+        804.0,
+        283.0
+      ],
+      [
+        424.0,
+        283.0
+      ]
+    ],
+    "text": "das zu erstellende Bild-und Tonprodukt als auch",
+    "confidence": 0.9905432351513955
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        277.0
+      ],
+      [
+        398.0,
+        277.0
+      ],
+      [
+        398.0,
+        310.0
+      ],
+      [
+        18.0,
+        310.0
+      ]
+    ],
+    "text": "Norm - und Formatwandlungen , Durchführung",
+    "confidence": 0.6065247691017182
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        278.0
+      ],
+      [
+        804.0,
+        278.0
+      ],
+      [
+        804.0,
+        309.0
+      ],
+      [
+        422.0,
+        309.0
+      ]
+    ],
+    "text": "reine Tonprodukte: Neben technischen Quali -",
+    "confidence": 0.7502817324828343
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        303.0
+      ],
+      [
+        398.0,
+        303.0
+      ],
+      [
+        398.0,
+        336.0
+      ],
+      [
+        16.0,
+        336.0
+      ]
+    ],
+    "text": "von Ton- und Bildaufnahmen , Bearbeitung,",
+    "confidence": 0.7829113959039685
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        305.0
+      ],
+      [
+        804.0,
+        305.0
+      ],
+      [
+        804.0,
+        336.0
+      ],
+      [
+        422.0,
+        336.0
+      ]
+    ],
+    "text": "fikationen werden auch gestalterische und her -",
+    "confidence": 0.8887130690762118
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        329.0
+      ],
+      [
+        396.0,
+        329.0
+      ],
+      [
+        396.0,
+        362.0
+      ],
+      [
+        16.0,
+        362.0
+      ]
+    ],
+    "text": "Mischung und Schnitt von Sprache und Musik;",
+    "confidence": 0.8946599816151339
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        330.0
+      ],
+      [
+        804.0,
+        330.0
+      ],
+      [
+        804.0,
+        363.0
+      ],
+      [
+        423.0,
+        363.0
+      ]
+    ],
+    "text": "stellungsorganisatorische Qualifikationen ver-",
+    "confidence": 0.9261261338375609
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        354.0
+      ],
+      [
+        399.0,
+        354.0
+      ],
+      [
+        399.0,
+        390.0
+      ],
+      [
+        16.0,
+        390.0
+      ]
+    ],
+    "text": "Bearbeitung von Bild- und Tonaufzeichnungen",
+    "confidence": 0.8363749341207368
+  },
+  {
+    "bbox": [
+      [
+        420.0,
+        359.0
+      ],
+      [
+        804.0,
+        359.0
+      ],
+      [
+        804.0,
+        389.0
+      ],
+      [
+        420.0,
+        389.0
+      ]
+    ],
+    "text": "langt. Mediengestalterwerden im Fernseh-und",
+    "confidence": 0.8095521037670055
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        381.0
+      ],
+      [
+        399.0,
+        381.0
+      ],
+      [
+        399.0,
+        417.0
+      ],
+      [
+        17.0,
+        417.0
+      ]
+    ],
+    "text": "am Schnittplatz, Ausführung von Bildmischun-",
+    "confidence": 0.7329860560143677
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        382.0
+      ],
+      [
+        805.0,
+        382.0
+      ],
+      [
+        805.0,
+        419.0
+      ],
+      [
+        423.0,
+        419.0
+      ]
+    ],
+    "text": "Tonstudio, bei Außenübertragungen, im Auf-",
+    "confidence": 0.5602528474516479
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        407.0
+      ],
+      [
+        805.0,
+        407.0
+      ],
+      [
+        805.0,
+        443.0
+      ],
+      [
+        423.0,
+        443.0
+      ]
+    ],
+    "text": "nahmeteam und in der Nachbearbeitung sowie",
+    "confidence": 0.8156634965851589
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        412.0
+      ],
+      [
+        398.0,
+        412.0
+      ],
+      [
+        398.0,
+        440.0
+      ],
+      [
+        16.0,
+        440.0
+      ]
+    ],
+    "text": "gen in Zusammenarbeit mit Regie und Kamera",
+    "confidence": 0.9560757438069745
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        435.0
+      ],
+      [
+        730.0,
+        435.0
+      ],
+      [
+        730.0,
+        468.0
+      ],
+      [
+        424.0,
+        468.0
+      ]
+    ],
+    "text": "bei der Sendeabwicklung eingesetzt:",
+    "confidence": 0.783045107578215
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        436.0
+      ],
+      [
+        224.0,
+        436.0
+      ],
+      [
+        224.0,
+        468.0
+      ],
+      [
+        18.0,
+        468.0
+      ]
+    ],
+    "text": "unter Live-Bedingungen:",
+    "confidence": 0.7148299935974423
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        468.0
+      ],
+      [
+        398.0,
+        468.0
+      ],
+      [
+        398.0,
+        500.0
+      ],
+      [
+        18.0,
+        500.0
+      ]
+    ],
+    "text": "1999 neu abgeschlossene Ausbildungsverträ -",
+    "confidence": 0.7107221661536983
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        479.0
+      ],
+      [
+        800.0,
+        479.0
+      ],
+      [
+        800.0,
+        509.0
+      ],
+      [
+        424.0,
+        509.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde \"Medienge",
+    "confidence": 0.8120863213200956
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        495.0
+      ],
+      [
+        264.0,
+        495.0
+      ],
+      [
+        264.0,
+        526.0
+      ],
+      [
+        16.0,
+        526.0
+      ]
+    ],
+    "text": "ge: 642. Frauenanteil: 36,1% .",
+    "confidence": 0.7836886369220136
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        504.0
+      ],
+      [
+        660.0,
+        504.0
+      ],
+      [
+        660.0,
+        528.0
+      ],
+      [
+        422.0,
+        528.0
+      ]
+    ],
+    "text": "stalter /in Bild und Tone, 1-IIlE 410",
+    "confidence": 0.621181237642378
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        528.0
+      ],
+      [
+        398.0,
+        528.0
+      ],
+      [
+        398.0,
+        556.0
+      ],
+      [
+        18.0,
+        556.0
+      ]
+    ],
+    "text": "Auszubildende mit Hochschul- oder Fachhoch-",
+    "confidence": 0.9579211108597504
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        556.0
+      ],
+      [
+        174.0,
+        556.0
+      ],
+      [
+        174.0,
+        584.0
+      ],
+      [
+        18.0,
+        584.0
+      ]
+    ],
+    "text": "schulreife: 69,6% .",
+    "confidence": 0.720182231360427
+  },
+  {
+    "bbox": [
+      [
+        104.0,
+        596.0
+      ],
+      [
+        718.0,
+        596.0
+      ],
+      [
+        718.0,
+        651.0
+      ],
+      [
+        104.0,
+        651.0
+      ]
+    ],
+    "text": "8.2.1.4 Mediengestalter /in für Digital- und",
+    "confidence": 0.8375499883043027
+  },
+  {
+    "bbox": [
+      [
+        317.0,
+        637.0
+      ],
+      [
+        504.0,
+        637.0
+      ],
+      [
+        504.0,
+        687.0
+      ],
+      [
+        317.0,
+        687.0
+      ]
+    ],
+    "text": "Printmedien",
+    "confidence": 0.9999340432489806
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        693.0
+      ],
+      [
+        399.0,
+        693.0
+      ],
+      [
+        399.0,
+        729.0
+      ],
+      [
+        17.0,
+        729.0
+      ]
+    ],
+    "text": "Eine Ausbildung in dem betrieblich /dualen",
+    "confidence": 0.7973334801622579
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        693.0
+      ],
+      [
+        805.0,
+        693.0
+      ],
+      [
+        805.0,
+        729.0
+      ],
+      [
+        422.0,
+        729.0
+      ]
+    ],
+    "text": "Fachrichtung Mediendesign: Gestaltungsorien-",
+    "confidence": 0.8609433053674526
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        721.0
+      ],
+      [
+        805.0,
+        721.0
+      ],
+      [
+        805.0,
+        757.0
+      ],
+      [
+        421.0,
+        757.0
+      ]
+    ],
+    "text": "tierte Aufbereitung von Vorlagen und Daten für",
+    "confidence": 0.8672953256085716
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        724.0
+      ],
+      [
+        398.0,
+        724.0
+      ],
+      [
+        398.0,
+        755.0
+      ],
+      [
+        18.0,
+        755.0
+      ]
+    ],
+    "text": "Ausbildungsberuf wird seit August 1998ange-",
+    "confidence": 0.9613385256837962
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        747.0
+      ],
+      [
+        399.0,
+        747.0
+      ],
+      [
+        399.0,
+        784.0
+      ],
+      [
+        17.0,
+        784.0
+      ]
+    ],
+    "text": "boten: Der Beruf hat die Fachrichtungen Medi -",
+    "confidence": 0.5736464168135301
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        752.0
+      ],
+      [
+        804.0,
+        752.0
+      ],
+      [
+        804.0,
+        778.0
+      ],
+      [
+        424.0,
+        778.0
+      ]
+    ],
+    "text": "Print- oder multimediale Produkte bzw. zur Ver-",
+    "confidence": 0.8102467347745207
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        775.0
+      ],
+      [
+        672.0,
+        775.0
+      ],
+      [
+        672.0,
+        808.0
+      ],
+      [
+        423.0,
+        808.0
+      ]
+    ],
+    "text": "wendung in digitalen Medien:.",
+    "confidence": 0.6151185482053736
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        776.0
+      ],
+      [
+        398.0,
+        776.0
+      ],
+      [
+        398.0,
+        808.0
+      ],
+      [
+        17.0,
+        808.0
+      ]
+    ],
+    "text": "enberatung , Mediendesign; Medienoperating",
+    "confidence": 0.6533529453458607
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        799.0
+      ],
+      [
+        399.0,
+        799.0
+      ],
+      [
+        399.0,
+        837.0
+      ],
+      [
+        17.0,
+        837.0
+      ]
+    ],
+    "text": "und Medientechnik . Die Ausbildung in dem",
+    "confidence": 0.7273561724033826
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        807.0
+      ],
+      [
+        805.0,
+        807.0
+      ],
+      [
+        805.0,
+        843.0
+      ],
+      [
+        422.0,
+        843.0
+      ]
+    ],
+    "text": "Fachrichtung Medienoperating: Aufbereitung",
+    "confidence": 0.9289153259589153
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        832.0
+      ],
+      [
+        398.0,
+        832.0
+      ],
+      [
+        398.0,
+        862.0
+      ],
+      [
+        18.0,
+        862.0
+      ]
+    ],
+    "text": "neuen Beruf ist modular aufgebaut, d.h. neben",
+    "confidence": 0.8124914015086694
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        838.0
+      ],
+      [
+        804.0,
+        838.0
+      ],
+      [
+        804.0,
+        868.0
+      ],
+      [
+        424.0,
+        868.0
+      ]
+    ],
+    "text": "und Ausgabe von Daten für unterschiedliche",
+    "confidence": 0.8802489596351443
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        858.0
+      ],
+      [
+        398.0,
+        858.0
+      ],
+      [
+        398.0,
+        884.0
+      ],
+      [
+        18.0,
+        884.0
+      ]
+    ],
+    "text": "Pflichtmodulen kann der Auszubildende Wahl-",
+    "confidence": 0.9895814853625159
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        864.0
+      ],
+      [
+        804.0,
+        864.0
+      ],
+      [
+        804.0,
+        896.0
+      ],
+      [
+        424.0,
+        896.0
+      ]
+    ],
+    "text": "analoge und digitale Medienprodukte unter",
+    "confidence": 0.9039877721666741
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        884.0
+      ],
+      [
+        398.0,
+        884.0
+      ],
+      [
+        398.0,
+        914.0
+      ],
+      [
+        18.0,
+        914.0
+      ]
+    ],
+    "text": "module entsprechend der jeweiligen betriebs-",
+    "confidence": 0.9626174233291748
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        891.0
+      ],
+      [
+        785.0,
+        891.0
+      ],
+      [
+        785.0,
+        922.0
+      ],
+      [
+        423.0,
+        922.0
+      ]
+    ],
+    "text": "Nutzung moderner Kommunikationstechnik.",
+    "confidence": 0.9215266091210438
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        910.0
+      ],
+      [
+        398.0,
+        910.0
+      ],
+      [
+        398.0,
+        940.0
+      ],
+      [
+        17.0,
+        940.0
+      ]
+    ],
+    "text": "spezifischen Spezialisierung wählen. Die Aus-",
+    "confidence": 0.8732715695212452
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        921.0
+      ],
+      [
+        804.0,
+        921.0
+      ],
+      [
+        804.0,
+        954.0
+      ],
+      [
+        423.0,
+        954.0
+      ]
+    ],
+    "text": "Fachrichtung Medientechnik: Eingabe und Auf-",
+    "confidence": 0.8943436899060726
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        934.0
+      ],
+      [
+        399.0,
+        934.0
+      ],
+      [
+        399.0,
+        971.0
+      ],
+      [
+        15.0,
+        971.0
+      ]
+    ],
+    "text": "bildung zum Mediengestalter für Digital - und",
+    "confidence": 0.8584494002661854
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        949.0
+      ],
+      [
+        804.0,
+        949.0
+      ],
+      [
+        804.0,
+        980.0
+      ],
+      [
+        423.0,
+        980.0
+      ]
+    ],
+    "text": "bereitung sowie Kombination von Daten für",
+    "confidence": 0.9647052036676351
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        963.0
+      ],
+      [
+        398.0,
+        963.0
+      ],
+      [
+        398.0,
+        994.0
+      ],
+      [
+        18.0,
+        994.0
+      ]
+    ],
+    "text": "Printmedien löst schrittweise die bisherigen",
+    "confidence": 0.7098085151076762
+  },
+  {
+    "bbox": [
+      [
+        421.0,
+        973.0
+      ],
+      [
+        805.0,
+        973.0
+      ],
+      [
+        805.0,
+        1009.0
+      ],
+      [
+        421.0,
+        1009.0
+      ]
+    ],
+    "text": "verschiedene Medienprodukte und Ausgabe",
+    "confidence": 0.9835036798125243
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        987.0
+      ],
+      [
+        399.0,
+        987.0
+      ],
+      [
+        399.0,
+        1023.0
+      ],
+      [
+        16.0,
+        1023.0
+      ]
+    ],
+    "text": "Ausbildungsverordnungen im Bereich der Me-",
+    "confidence": 0.7629310403119997
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1003.0
+      ],
+      [
+        803.0,
+        1003.0
+      ],
+      [
+        803.0,
+        1030.0
+      ],
+      [
+        424.0,
+        1030.0
+      ]
+    ],
+    "text": "dieser Daten insbesondere in den Bereichen",
+    "confidence": 0.7770323583040416
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1015.0
+      ],
+      [
+        398.0,
+        1015.0
+      ],
+      [
+        398.0,
+        1048.0
+      ],
+      [
+        18.0,
+        1048.0
+      ]
+    ],
+    "text": "dienvorstufe ab. Für die Fachrichtung Medien -",
+    "confidence": 0.7470605387808615
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1030.0
+      ],
+      [
+        774.0,
+        1030.0
+      ],
+      [
+        774.0,
+        1060.0
+      ],
+      [
+        424.0,
+        1060.0
+      ]
+    ],
+    "text": "Reprografie, Mikrografie und Digitaldruck.",
+    "confidence": 0.7575294609798714
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1040.0
+      ],
+      [
+        399.0,
+        1040.0
+      ],
+      [
+        399.0,
+        1076.0
+      ],
+      [
+        17.0,
+        1076.0
+      ]
+    ],
+    "text": "design besteht eine vergleichbare schulische",
+    "confidence": 0.9826183835256116
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1064.0
+      ],
+      [
+        804.0,
+        1064.0
+      ],
+      [
+        804.0,
+        1094.0
+      ],
+      [
+        424.0,
+        1094.0
+      ]
+    ],
+    "text": "1999 neu abgeschlossene Ausbildungsverträ -",
+    "confidence": 0.9602811284667755
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1067.0
+      ],
+      [
+        316.0,
+        1067.0
+      ],
+      [
+        316.0,
+        1100.0
+      ],
+      [
+        17.0,
+        1100.0
+      ]
+    ],
+    "text": "Ausbildung im Berufsbereich Grafik.",
+    "confidence": 0.8207247445030214
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1090.0
+      ],
+      [
+        804.0,
+        1090.0
+      ],
+      [
+        804.0,
+        1120.0
+      ],
+      [
+        424.0,
+        1120.0
+      ]
+    ],
+    "text": "ge: 3886. Frauenanteil: 56,8%. Auszubildende",
+    "confidence": 0.7601245703144438
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1115.0
+      ],
+      [
+        803.0,
+        1115.0
+      ],
+      [
+        803.0,
+        1144.0
+      ],
+      [
+        424.0,
+        1144.0
+      ]
+    ],
+    "text": "mit Hochschul- oder Fachhochschulreife:",
+    "confidence": 0.7494276579507202
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1116.0
+      ],
+      [
+        208.0,
+        1116.0
+      ],
+      [
+        208.0,
+        1148.0
+      ],
+      [
+        18.0,
+        1148.0
+      ]
+    ],
+    "text": "Ausbildungsinhalt",
+    "confidence": 0.9993075513524639
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1144.0
+      ],
+      [
+        488.0,
+        1144.0
+      ],
+      [
+        488.0,
+        1170.0
+      ],
+      [
+        424.0,
+        1170.0
+      ]
+    ],
+    "text": "53,39 .",
+    "confidence": 0.6973979809679939
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1145.0
+      ],
+      [
+        399.0,
+        1145.0
+      ],
+      [
+        399.0,
+        1181.0
+      ],
+      [
+        16.0,
+        1181.0
+      ]
+    ],
+    "text": "Fachrichtung Medienberatung: Im Zentrum der",
+    "confidence": 0.9072613555666362
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1171.0
+      ],
+      [
+        399.0,
+        1171.0
+      ],
+      [
+        399.0,
+        1207.0
+      ],
+      [
+        16.0,
+        1207.0
+      ]
+    ],
+    "text": "Ausbildung dieser kaufmännisch-organisieren-",
+    "confidence": 0.9848024124309069
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1187.0
+      ],
+      [
+        607.0,
+        1187.0
+      ],
+      [
+        607.0,
+        1223.0
+      ],
+      [
+        423.0,
+        1223.0
+      ]
+    ],
+    "text": "Tätigkeitsbereich",
+    "confidence": 0.7929528741962409
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1199.0
+      ],
+      [
+        399.0,
+        1199.0
+      ],
+      [
+        399.0,
+        1235.0
+      ],
+      [
+        17.0,
+        1235.0
+      ]
+    ],
+    "text": "den Fachrichtung stehen Kundenakquisition;",
+    "confidence": 0.8240724311941938
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1218.0
+      ],
+      [
+        807.0,
+        1218.0
+      ],
+      [
+        807.0,
+        1255.0
+      ],
+      [
+        423.0,
+        1255.0
+      ]
+    ],
+    "text": "Das Arbeitsgebiet von Mediengestaltern für",
+    "confidence": 0.9576117535120467
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1230.0
+      ],
+      [
+        398.0,
+        1230.0
+      ],
+      [
+        398.0,
+        1260.0
+      ],
+      [
+        18.0,
+        1260.0
+      ]
+    ],
+    "text": "Kalkulation von Produkten sowie gestaltungs-",
+    "confidence": 0.6816284945968455
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1246.0
+      ],
+      [
+        805.0,
+        1246.0
+      ],
+      [
+        805.0,
+        1283.0
+      ],
+      [
+        423.0,
+        1283.0
+      ]
+    ],
+    "text": "Digital- und Printmedien umfasst die produkt -",
+    "confidence": 0.821823925365642
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1256.0
+      ],
+      [
+        398.0,
+        1256.0
+      ],
+      [
+        398.0,
+        1288.0
+      ],
+      [
+        18.0,
+        1288.0
+      ]
+    ],
+    "text": "orientierte Beratung in Druckereien, bei Medi -",
+    "confidence": 0.716340785893829
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1274.0
+      ],
+      [
+        804.0,
+        1274.0
+      ],
+      [
+        804.0,
+        1307.0
+      ],
+      [
+        423.0,
+        1307.0
+      ]
+    ],
+    "text": "bezogene Kundenberatung, die Gestaltung und",
+    "confidence": 0.9014073311457862
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1282.0
+      ],
+      [
+        398.0,
+        1282.0
+      ],
+      [
+        398.0,
+        1312.0
+      ],
+      [
+        18.0,
+        1312.0
+      ]
+    ],
+    "text": "enherstellern u.Ä. unter technischen; produkt-",
+    "confidence": 0.6350312623646778
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        1299.0
+      ],
+      [
+        805.0,
+        1299.0
+      ],
+      [
+        805.0,
+        1335.0
+      ],
+      [
+        422.0,
+        1335.0
+      ]
+    ],
+    "text": "Aufbereitung von Daten sowie deren techni-",
+    "confidence": 0.874027398901717
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1311.0
+      ],
+      [
+        370.0,
+        1311.0
+      ],
+      [
+        370.0,
+        1343.0
+      ],
+      [
+        17.0,
+        1343.0
+      ]
+    ],
+    "text": "bezogenen und wirtschaftlichen Aspekten:",
+    "confidence": 0.8643719325623942
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1328.0
+      ],
+      [
+        804.0,
+        1328.0
+      ],
+      [
+        804.0,
+        1360.0
+      ],
+      [
+        424.0,
+        1360.0
+      ]
+    ],
+    "text": "sche Weiterverarbeitung, um Medienprodukte",
+    "confidence": 0.938513869084173
+  }
+]

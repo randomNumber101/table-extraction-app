@@ -1,0 +1,794 @@
+[
+  {
+    "bbox": [
+      [
+        55.0,
+        16.0
+      ],
+      [
+        627.0,
+        16.0
+      ],
+      [
+        627.0,
+        101.0
+      ],
+      [
+        55.0,
+        101.0
+      ]
+    ],
+    "text": "Theorie plus Praxis",
+    "confidence": 0.9977543672893835
+  },
+  {
+    "bbox": [
+      [
+        56.0,
+        94.0
+      ],
+      [
+        768.0,
+        94.0
+      ],
+      [
+        768.0,
+        168.0
+      ],
+      [
+        56.0,
+        168.0
+      ]
+    ],
+    "text": "die clevere Kombination",
+    "confidence": 0.9241863611652062
+  },
+  {
+    "bbox": [
+      [
+        56.0,
+        174.0
+      ],
+      [
+        519.0,
+        174.0
+      ],
+      [
+        519.0,
+        246.0
+      ],
+      [
+        56.0,
+        246.0
+      ]
+    ],
+    "text": "für Abiturienten",
+    "confidence": 0.8429144865716766
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        310.0
+      ],
+      [
+        734.0,
+        310.0
+      ],
+      [
+        734.0,
+        340.0
+      ],
+      [
+        60.0,
+        340.0
+      ]
+    ],
+    "text": "Sie haben Ihr Abitur mit guten Leistungen abgeschlossen oder",
+    "confidence": 0.6694544042759532
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        336.0
+      ],
+      [
+        690.0,
+        336.0
+      ],
+      [
+        690.0,
+        366.0
+      ],
+      [
+        60.0,
+        366.0
+      ]
+    ],
+    "text": "sind auf dem Weg dorthin? Sie sind offen für neue Heraus -",
+    "confidence": 0.6955779349168244
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        362.0
+      ],
+      [
+        706.0,
+        362.0
+      ],
+      [
+        706.0,
+        390.0
+      ],
+      [
+        60.0,
+        390.0
+      ]
+    ],
+    "text": "forderungen? Sie sind flexibel und schätzen das Arbeiten im",
+    "confidence": 0.83700939168226
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        386.0
+      ],
+      [
+        136.0,
+        386.0
+      ],
+      [
+        136.0,
+        412.0
+      ],
+      [
+        62.0,
+        412.0
+      ]
+    ],
+    "text": "Team?",
+    "confidence": 0.9999803278436268
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        410.0
+      ],
+      [
+        702.0,
+        410.0
+      ],
+      [
+        702.0,
+        440.0
+      ],
+      [
+        62.0,
+        440.0
+      ]
+    ],
+    "text": "Dann informieren Sie sich über attraktive Möglichkeiten der",
+    "confidence": 0.6048409689408025
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        436.0
+      ],
+      [
+        376.0,
+        436.0
+      ],
+      [
+        376.0,
+        466.0
+      ],
+      [
+        60.0,
+        466.0
+      ]
+    ],
+    "text": "\"Ausbildung made by BASF\"!",
+    "confidence": 0.9370529755999687
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        474.0
+      ],
+      [
+        682.0,
+        474.0
+      ],
+      [
+        682.0,
+        500.0
+      ],
+      [
+        62.0,
+        500.0
+      ]
+    ],
+    "text": "Sie interessieren sich für internationale wirtschaftliche Prozesse?",
+    "confidence": 0.9503489150768367
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        514.0
+      ],
+      [
+        330.0,
+        514.0
+      ],
+      [
+        330.0,
+        542.0
+      ],
+      [
+        62.0,
+        542.0
+      ]
+    ],
+    "text": "Dipl.-Betriebswirt/in (FH)",
+    "confidence": 0.5322880444222878
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        538.0
+      ],
+      [
+        666.0,
+        538.0
+      ],
+      [
+        666.0,
+        568.0
+      ],
+      [
+        60.0,
+        568.0
+      ]
+    ],
+    "text": "Internationale Betriebswirtschaft im Praxisverbund (BiP)",
+    "confidence": 0.9865651398701063
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        568.0
+      ],
+      [
+        726.0,
+        568.0
+      ],
+      [
+        726.0,
+        598.0
+      ],
+      [
+        62.0,
+        598.0
+      ]
+    ],
+    "text": "Viereinhalb Jahre Ausbildung im Wechsel zwischen Unterricht an der",
+    "confidence": 0.8941031535203339
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        593.0
+      ],
+      [
+        736.0,
+        593.0
+      ],
+      [
+        736.0,
+        622.0
+      ],
+      [
+        62.0,
+        622.0
+      ]
+    ],
+    "text": "Berufsbildenden Schule; Studium an der Fachhochschule und betrieb -",
+    "confidence": 0.7068185995662191
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        617.0
+      ],
+      [
+        718.0,
+        617.0
+      ],
+      [
+        718.0,
+        650.0
+      ],
+      [
+        60.0,
+        650.0
+      ]
+    ],
+    "text": "licher Ausbildung bei BASF In den ersten Monaten Ihrer Ausbildung",
+    "confidence": 0.7830379636211884
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        644.0
+      ],
+      [
+        754.0,
+        644.0
+      ],
+      [
+        754.0,
+        672.0
+      ],
+      [
+        62.0,
+        672.0
+      ]
+    ],
+    "text": "erlernen Sie das Basiswissen einer/s Industriekauffrau/-manns. Darüber",
+    "confidence": 0.532783550203393
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        668.0
+      ],
+      [
+        672.0,
+        668.0
+      ],
+      [
+        672.0,
+        699.0
+      ],
+      [
+        62.0,
+        699.0
+      ]
+    ],
+    "text": "hinaus ist im Hauptstudium ein Auslandsaufenthalt vorgesehen.",
+    "confidence": 0.8170167458134473
+  },
+  {
+    "bbox": [
+      [
+        144.0,
+        706.0
+      ],
+      [
+        654.0,
+        706.0
+      ],
+      [
+        654.0,
+        736.0
+      ],
+      [
+        144.0,
+        736.0
+      ]
+    ],
+    "text": "falls Ihr Interesse der Lösung betriebswirtschaftlicher",
+    "confidence": 0.9886356750049416
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        708.0
+      ],
+      [
+        118.0,
+        708.0
+      ],
+      [
+        118.0,
+        732.0
+      ],
+      [
+        62.0,
+        732.0
+      ]
+    ],
+    "text": "Oder",
+    "confidence": 0.9999814629554749
+  },
+  {
+    "bbox": [
+      [
+        61.0,
+        730.0
+      ],
+      [
+        508.0,
+        730.0
+      ],
+      [
+        508.0,
+        763.0
+      ],
+      [
+        61.0,
+        763.0
+      ]
+    ],
+    "text": "Problemstellungen mit Hilfe der Informatik gilt:",
+    "confidence": 0.9120819014807461
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        770.0
+      ],
+      [
+        454.0,
+        770.0
+      ],
+      [
+        454.0,
+        798.0
+      ],
+      [
+        62.0,
+        798.0
+      ]
+    ],
+    "text": "Dipl.-Wirtschaftsinformatikerlin (BA)",
+    "confidence": 0.9227223491160077
+  },
+  {
+    "bbox": [
+      [
+        61.0,
+        795.0
+      ],
+      [
+        761.0,
+        795.0
+      ],
+      [
+        761.0,
+        831.0
+      ],
+      [
+        61.0,
+        831.0
+      ]
+    ],
+    "text": "Drei Jahre Ausbildung im vierteljährlichen Wechsel zwischen Studium an",
+    "confidence": 0.8185339819014072
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        823.0
+      ],
+      [
+        744.0,
+        823.0
+      ],
+      [
+        744.0,
+        855.0
+      ],
+      [
+        62.0,
+        855.0
+      ]
+    ],
+    "text": "der Berufsakademie Mannheim und praxisnaher Tätigkeit in der BASF:",
+    "confidence": 0.7934106879212469
+  },
+  {
+    "bbox": [
+      [
+        64.0,
+        858.0
+      ],
+      [
+        566.0,
+        858.0
+      ],
+      [
+        566.0,
+        884.0
+      ],
+      [
+        64.0,
+        884.0
+      ]
+    ],
+    "text": "Wirtschaftsinformatiker werden bei BASF neben der",
+    "confidence": 0.7574343710748137
+  },
+  {
+    "bbox": [
+      [
+        574.0,
+        858.0
+      ],
+      [
+        700.0,
+        858.0
+      ],
+      [
+        700.0,
+        884.0
+      ],
+      [
+        574.0,
+        884.0
+      ]
+    ],
+    "text": "klassischen\"",
+    "confidence": 0.9941160125874695
+  },
+  {
+    "bbox": [
+      [
+        60.0,
+        878.0
+      ],
+      [
+        751.0,
+        878.0
+      ],
+      [
+        751.0,
+        915.0
+      ],
+      [
+        60.0,
+        915.0
+      ]
+    ],
+    "text": "Fachrichtung auch mit einem internationalen Schwerpunkt ausgebildet:",
+    "confidence": 0.9705777588167593
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        910.0
+      ],
+      [
+        282.0,
+        910.0
+      ],
+      [
+        282.0,
+        936.0
+      ],
+      [
+        62.0,
+        936.0
+      ]
+    ],
+    "text": "International Business.",
+    "confidence": 0.898878439709817
+  },
+  {
+    "bbox": [
+      [
+        64.0,
+        942.0
+      ],
+      [
+        600.0,
+        942.0
+      ],
+      [
+        600.0,
+        972.0
+      ],
+      [
+        64.0,
+        972.0
+      ]
+    ],
+    "text": "Anrufen & informieren! Azubi-Telefon (0621) 60-2 22 22",
+    "confidence": 0.8116059847380416
+  },
+  {
+    "bbox": [
+      [
+        64.0,
+        976.0
+      ],
+      [
+        278.0,
+        976.0
+      ],
+      [
+        278.0,
+        1004.0
+      ],
+      [
+        64.0,
+        1004.0
+      ]
+    ],
+    "text": "Bewerbungsanschrift:",
+    "confidence": 0.9999730503275512
+  },
+  {
+    "bbox": [
+      [
+        64.0,
+        1007.0
+      ],
+      [
+        302.0,
+        1007.0
+      ],
+      [
+        302.0,
+        1039.0
+      ],
+      [
+        64.0,
+        1039.0
+      ]
+    ],
+    "text": "BASF Aktiengesellschaft",
+    "confidence": 0.9239675369742371
+  },
+  {
+    "bbox": [
+      [
+        64.0,
+        1033.0
+      ],
+      [
+        408.0,
+        1033.0
+      ],
+      [
+        408.0,
+        1063.0
+      ],
+      [
+        64.0,
+        1063.0
+      ]
+    ],
+    "text": "DPBIPA Ausbildungsplatzbewerber",
+    "confidence": 0.7850900705648645
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1034.0
+      ],
+      [
+        490.0,
+        1034.0
+      ],
+      [
+        490.0,
+        1058.0
+      ],
+      [
+        424.0,
+        1058.0
+      ]
+    ],
+    "text": "D 107",
+    "confidence": 0.9946477529387272
+  },
+  {
+    "bbox": [
+      [
+        61.0,
+        1058.0
+      ],
+      [
+        410.0,
+        1058.0
+      ],
+      [
+        410.0,
+        1086.0
+      ],
+      [
+        61.0,
+        1086.0
+      ]
+    ],
+    "text": "Stichwort: Studien- und Berufswahl",
+    "confidence": 0.9027922886664583
+  },
+  {
+    "bbox": [
+      [
+        62.0,
+        1082.0
+      ],
+      [
+        270.0,
+        1082.0
+      ],
+      [
+        270.0,
+        1113.0
+      ],
+      [
+        62.0,
+        1113.0
+      ]
+    ],
+    "text": "67056 Ludwigshafen",
+    "confidence": 0.7946113176942112
+  },
+  {
+    "bbox": [
+      [
+        64.0,
+        1108.0
+      ],
+      [
+        306.0,
+        1108.0
+      ],
+      [
+        306.0,
+        1138.0
+      ],
+      [
+        64.0,
+        1138.0
+      ]
+    ],
+    "text": "wwwbasf delausbildung",
+    "confidence": 0.5179929360121173
+  },
+  {
+    "bbox": [
+      [
+        683.0,
+        1239.0
+      ],
+      [
+        837.0,
+        1239.0
+      ],
+      [
+        837.0,
+        1295.0
+      ],
+      [
+        683.0,
+        1295.0
+      ]
+    ],
+    "text": "BASF",
+    "confidence": 0.5654933532333056
+  }
+]

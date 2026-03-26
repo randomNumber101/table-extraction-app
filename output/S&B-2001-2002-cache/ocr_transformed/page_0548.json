@@ -1,0 +1,2004 @@
+[
+  {
+    "bbox": [
+      [
+        8.0,
+        32.0
+      ],
+      [
+        390.0,
+        32.0
+      ],
+      [
+        390.0,
+        62.0
+      ],
+      [
+        8.0,
+        62.0
+      ]
+    ],
+    "text": "dabei assistieren und die situationsgerechte",
+    "confidence": 0.981521667250575
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        32.0
+      ],
+      [
+        794.0,
+        32.0
+      ],
+      [
+        794.0,
+        58.0
+      ],
+      [
+        414.0,
+        58.0
+      ]
+    ],
+    "text": "Lehrkräften oder zu Fachassistenten für radio-",
+    "confidence": 0.7420849755490995
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        54.0
+      ],
+      [
+        387.0,
+        54.0
+      ],
+      [
+        387.0,
+        90.0
+      ],
+      [
+        5.0,
+        90.0
+      ]
+    ],
+    "text": "psychische Führung des Patienten unterstützen:.",
+    "confidence": 0.5800727814365825
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        57.0
+      ],
+      [
+        794.0,
+        57.0
+      ],
+      [
+        794.0,
+        90.0
+      ],
+      [
+        414.0,
+        90.0
+      ]
+    ],
+    "text": "logische Diagnostik, für radiologische Onkolo-",
+    "confidence": 0.8915284732312517
+  },
+  {
+    "bbox": [
+      [
+        9.0,
+        81.0
+      ],
+      [
+        391.0,
+        81.0
+      ],
+      [
+        391.0,
+        117.0
+      ],
+      [
+        9.0,
+        117.0
+      ]
+    ],
+    "text": "Weiterhin führen sie messtechnische Aufgaben",
+    "confidence": 0.9624708370113313
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        84.0
+      ],
+      [
+        728.0,
+        84.0
+      ],
+      [
+        728.0,
+        116.0
+      ],
+      [
+        414.0,
+        116.0
+      ]
+    ],
+    "text": "gie bzw. für Nuklearmedizin gegeben:",
+    "confidence": 0.7028296198020654
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        107.0
+      ],
+      [
+        391.0,
+        107.0
+      ],
+      [
+        391.0,
+        143.0
+      ],
+      [
+        7.0,
+        143.0
+      ]
+    ],
+    "text": "in Dosimetrie, Strahlenschutz , radiologischer",
+    "confidence": 0.7878405772441376
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        128.0
+      ],
+      [
+        796.0,
+        128.0
+      ],
+      [
+        796.0,
+        152.0
+      ],
+      [
+        416.0,
+        152.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde \"Medizinisch-",
+    "confidence": 0.8670182822422109
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        135.0
+      ],
+      [
+        390.0,
+        135.0
+      ],
+      [
+        390.0,
+        167.0
+      ],
+      [
+        7.0,
+        167.0
+      ]
+    ],
+    "text": "Diagnostik, Strahlentherapie und Nuklearme-",
+    "confidence": 0.9578130512212216
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        149.0
+      ],
+      [
+        730.0,
+        149.0
+      ],
+      [
+        730.0,
+        178.0
+      ],
+      [
+        414.0,
+        178.0
+      ]
+    ],
+    "text": "technischelr) Radiologieassistent/ine, 2-1 F13.",
+    "confidence": 0.2873759693390712
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        164.0
+      ],
+      [
+        106.0,
+        164.0
+      ],
+      [
+        106.0,
+        190.0
+      ],
+      [
+        8.0,
+        190.0
+      ]
+    ],
+    "text": "dizin durch.",
+    "confidence": 0.7562214496316573
+  },
+  {
+    "bbox": [
+      [
+        572.0,
+        189.0
+      ],
+      [
+        796.0,
+        189.0
+      ],
+      [
+        796.0,
+        218.0
+      ],
+      [
+        572.0,
+        218.0
+      ]
+    ],
+    "text": "Deutscher Verband Technischer",
+    "confidence": 0.9992619698878131
+  },
+  {
+    "bbox": [
+      [
+        417.0,
+        193.0
+      ],
+      [
+        563.0,
+        193.0
+      ],
+      [
+        563.0,
+        213.0
+      ],
+      [
+        417.0,
+        213.0
+      ]
+    ],
+    "text": "Online-Infos: DVTA",
+    "confidence": 0.876409989157459
+  },
+  {
+    "bbox": [
+      [
+        10.0,
+        196.0
+      ],
+      [
+        390.0,
+        196.0
+      ],
+      [
+        390.0,
+        226.0
+      ],
+      [
+        10.0,
+        226.0
+      ]
+    ],
+    "text": "Aufstiegsmöglichkeiten sind in Form der Wei-",
+    "confidence": 0.9709868861013113
+  },
+  {
+    "bbox": [
+      [
+        415.0,
+        213.0
+      ],
+      [
+        630.0,
+        213.0
+      ],
+      [
+        630.0,
+        239.0
+      ],
+      [
+        415.0,
+        239.0
+      ]
+    ],
+    "text": "Assistenten in der Medizin e.V",
+    "confidence": 0.9479705221469054
+  },
+  {
+    "bbox": [
+      [
+        635.0,
+        217.0
+      ],
+      [
+        729.0,
+        217.0
+      ],
+      [
+        729.0,
+        237.0
+      ],
+      [
+        635.0,
+        237.0
+      ]
+    ],
+    "text": "wwdvta de",
+    "confidence": 0.7749985524168799
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        219.0
+      ],
+      [
+        390.0,
+        219.0
+      ],
+      [
+        390.0,
+        252.0
+      ],
+      [
+        6.0,
+        252.0
+      ]
+    ],
+    "text": "terbildung zu leitenden Assistenten; zu MTA-",
+    "confidence": 0.520734007068934
+  },
+  {
+    "bbox": [
+      [
+        41.0,
+        265.0
+      ],
+      [
+        762.0,
+        265.0
+      ],
+      [
+        762.0,
+        316.0
+      ],
+      [
+        41.0,
+        316.0
+      ]
+    ],
+    "text": "8.7.2.6 Pharmazeutisch-technische(r) Assistent/in",
+    "confidence": 0.6394486276811047
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        320.0
+      ],
+      [
+        130.0,
+        320.0
+      ],
+      [
+        130.0,
+        359.0
+      ],
+      [
+        7.0,
+        359.0
+      ]
+    ],
+    "text": "Ausbildung",
+    "confidence": 0.9999019088625255
+  },
+  {
+    "bbox": [
+      [
+        415.0,
+        323.0
+      ],
+      [
+        794.0,
+        323.0
+      ],
+      [
+        794.0,
+        354.0
+      ],
+      [
+        415.0,
+        354.0
+      ]
+    ],
+    "text": "pharmazeutischen Kenntnisse vertieft und",
+    "confidence": 0.7298789343518245
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        350.0
+      ],
+      [
+        672.0,
+        350.0
+      ],
+      [
+        672.0,
+        383.0
+      ],
+      [
+        413.0,
+        383.0
+      ]
+    ],
+    "text": "praktisch angewendet werden:",
+    "confidence": 0.8078591889720034
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        356.0
+      ],
+      [
+        387.0,
+        356.0
+      ],
+      [
+        387.0,
+        392.0
+      ],
+      [
+        6.0,
+        392.0
+      ]
+    ],
+    "text": "Voraussetzung: Mittlerer Bildungsabschluss.",
+    "confidence": 0.7683169033849819
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        381.0
+      ],
+      [
+        796.0,
+        381.0
+      ],
+      [
+        796.0,
+        414.0
+      ],
+      [
+        416.0,
+        414.0
+      ]
+    ],
+    "text": "Abschluss: Die staatliche Prüfung besteht aus",
+    "confidence": 0.8146157099397486
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        386.0
+      ],
+      [
+        390.0,
+        386.0
+      ],
+      [
+        390.0,
+        416.0
+      ],
+      [
+        8.0,
+        416.0
+      ]
+    ],
+    "text": "Ein Mindestalter ist für den Beginn der Ausbil-",
+    "confidence": 0.9347130333354288
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        409.0
+      ],
+      [
+        794.0,
+        409.0
+      ],
+      [
+        794.0,
+        440.0
+      ],
+      [
+        414.0,
+        440.0
+      ]
+    ],
+    "text": "zwei Abschnitten: Der erste Abschnitt wird am",
+    "confidence": 0.9193992784403106
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        411.0
+      ],
+      [
+        390.0,
+        411.0
+      ],
+      [
+        390.0,
+        443.0
+      ],
+      [
+        6.0,
+        443.0
+      ]
+    ],
+    "text": "dung nicht festgelegt:. Der Beruf darf erst nach",
+    "confidence": 0.6224517755065178
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        434.0
+      ],
+      [
+        391.0,
+        434.0
+      ],
+      [
+        391.0,
+        470.0
+      ],
+      [
+        6.0,
+        470.0
+      ]
+    ],
+    "text": "Vollendung des 18. Lebensjahres ausgeübt",
+    "confidence": 0.9106450033050864
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        435.0
+      ],
+      [
+        794.0,
+        435.0
+      ],
+      [
+        794.0,
+        468.0
+      ],
+      [
+        414.0,
+        468.0
+      ]
+    ],
+    "text": "Ende des Lehrgangs abgelegt und umfasst ei-",
+    "confidence": 0.6144412519544551
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        462.0
+      ],
+      [
+        794.0,
+        462.0
+      ],
+      [
+        794.0,
+        492.0
+      ],
+      [
+        414.0,
+        492.0
+      ]
+    ],
+    "text": "nen schriftlichen, mündlichen und praktischen",
+    "confidence": 0.7569363843639302
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        463.0
+      ],
+      [
+        390.0,
+        463.0
+      ],
+      [
+        390.0,
+        494.0
+      ],
+      [
+        7.0,
+        494.0
+      ]
+    ],
+    "text": "werden. Von den Lehranstalten wird häufig ein",
+    "confidence": 0.7492965940545334
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        490.0
+      ],
+      [
+        794.0,
+        490.0
+      ],
+      [
+        794.0,
+        516.0
+      ],
+      [
+        414.0,
+        516.0
+      ]
+    ],
+    "text": "Teil. Der zweite Abschnitt findet nach der halb -",
+    "confidence": 0.8158147342113555
+  },
+  {
+    "bbox": [
+      [
+        10.0,
+        492.0
+      ],
+      [
+        280.0,
+        492.0
+      ],
+      [
+        280.0,
+        520.0
+      ],
+      [
+        10.0,
+        520.0
+      ]
+    ],
+    "text": "Auswahlverfahren durchgeführt.",
+    "confidence": 0.9925764176456873
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        513.0
+      ],
+      [
+        794.0,
+        513.0
+      ],
+      [
+        794.0,
+        546.0
+      ],
+      [
+        412.0,
+        546.0
+      ]
+    ],
+    "text": "jährigen Ausbildung in der Apotheke statt und",
+    "confidence": 0.7604885164634289
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        519.0
+      ],
+      [
+        391.0,
+        519.0
+      ],
+      [
+        391.0,
+        555.0
+      ],
+      [
+        6.0,
+        555.0
+      ]
+    ],
+    "text": "Bewerbung: Da Ausbildungsbeginn und Be-",
+    "confidence": 0.7422531497165091
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        541.0
+      ],
+      [
+        794.0,
+        541.0
+      ],
+      [
+        794.0,
+        572.0
+      ],
+      [
+        414.0,
+        572.0
+      ]
+    ],
+    "text": "besteht aus einer mündlichen Prüfung des Fa-",
+    "confidence": 0.8780908206404826
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        550.0
+      ],
+      [
+        388.0,
+        550.0
+      ],
+      [
+        388.0,
+        580.0
+      ],
+      [
+        8.0,
+        580.0
+      ]
+    ],
+    "text": "werbungstermine sehr unterschiedlich sind,",
+    "confidence": 0.8386038923373467
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        568.0
+      ],
+      [
+        622.0,
+        568.0
+      ],
+      [
+        622.0,
+        596.0
+      ],
+      [
+        414.0,
+        596.0
+      ]
+    ],
+    "text": "ches \"Apothekenpraxisa.",
+    "confidence": 0.4687275726616613
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        571.0
+      ],
+      [
+        367.0,
+        571.0
+      ],
+      [
+        367.0,
+        607.0
+      ],
+      [
+        7.0,
+        607.0
+      ]
+    ],
+    "text": "empfiehlt sich eine frühzeitige Bewerbung:",
+    "confidence": 0.8427490089758961
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        606.0
+      ],
+      [
+        390.0,
+        606.0
+      ],
+      [
+        390.0,
+        638.0
+      ],
+      [
+        8.0,
+        638.0
+      ]
+    ],
+    "text": "Ausbildungsdauer: 2V Jahre; davon 2 Jah-",
+    "confidence": 0.650624401060098
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        611.0
+      ],
+      [
+        599.0,
+        611.0
+      ],
+      [
+        599.0,
+        647.0
+      ],
+      [
+        413.0,
+        647.0
+      ]
+    ],
+    "text": "Tätigkeitsbereich",
+    "confidence": 0.9999016056253504
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        636.0
+      ],
+      [
+        390.0,
+        636.0
+      ],
+      [
+        390.0,
+        662.0
+      ],
+      [
+        8.0,
+        662.0
+      ]
+    ],
+    "text": "rean einer Lehranstalt mit einem Praktikum von",
+    "confidence": 0.6177238076663093
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        646.0
+      ],
+      [
+        794.0,
+        646.0
+      ],
+      [
+        794.0,
+        674.0
+      ],
+      [
+        414.0,
+        674.0
+      ]
+    ],
+    "text": "Pharmazeutisch-technische Assistenten arbei-",
+    "confidence": 0.9382148672045723
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        662.0
+      ],
+      [
+        390.0,
+        662.0
+      ],
+      [
+        390.0,
+        688.0
+      ],
+      [
+        8.0,
+        688.0
+      ]
+    ],
+    "text": "160 Stunden in einer Apotheke und einer Aus-",
+    "confidence": 0.8458588483547073
+  },
+  {
+    "bbox": [
+      [
+        447.0,
+        670.0
+      ],
+      [
+        794.0,
+        670.0
+      ],
+      [
+        794.0,
+        703.0
+      ],
+      [
+        447.0,
+        703.0
+      ]
+    ],
+    "text": "hauptsächlich in öffentlichen Apotheken",
+    "confidence": 0.9905332228296386
+  },
+  {
+    "bbox": [
+      [
+        415.0,
+        677.0
+      ],
+      [
+        447.0,
+        677.0
+      ],
+      [
+        447.0,
+        697.0
+      ],
+      [
+        415.0,
+        697.0
+      ]
+    ],
+    "text": "ten",
+    "confidence": 0.9999985546643163
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        684.0
+      ],
+      [
+        391.0,
+        684.0
+      ],
+      [
+        391.0,
+        721.0
+      ],
+      [
+        5.0,
+        721.0
+      ]
+    ],
+    "text": "bildung in Erster Hilfe von acht Doppelstunden",
+    "confidence": 0.8852227772506585
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        698.0
+      ],
+      [
+        794.0,
+        698.0
+      ],
+      [
+        794.0,
+        728.0
+      ],
+      [
+        414.0,
+        728.0
+      ]
+    ],
+    "text": "und Krankenhausapotheken (unter Aufsicht ei-",
+    "confidence": 0.7949937430341026
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        712.0
+      ],
+      [
+        326.0,
+        712.0
+      ],
+      [
+        326.0,
+        744.0
+      ],
+      [
+        8.0,
+        744.0
+      ]
+    ],
+    "text": "außerhalb der schulischen Ausbildung",
+    "confidence": 0.9978827954960783
+  },
+  {
+    "bbox": [
+      [
+        358.0,
+        716.0
+      ],
+      [
+        390.0,
+        716.0
+      ],
+      [
+        390.0,
+        742.0
+      ],
+      [
+        358.0,
+        742.0
+      ]
+    ],
+    "text": "ein",
+    "confidence": 0.9999051590423217
+  },
+  {
+    "bbox": [
+      [
+        320.4789396203098,
+        717.4141973545267
+      ],
+      [
+        359.39127644446205,
+        714.1884269360136
+      ],
+      [
+        360.5210603796902,
+        739.5858026454733
+      ],
+      [
+        321.60872355553795,
+        742.8115730639864
+      ]
+    ],
+    "text": "und",
+    "confidence": 0.9998300029129232
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        726.0
+      ],
+      [
+        794.0,
+        726.0
+      ],
+      [
+        794.0,
+        754.0
+      ],
+      [
+        414.0,
+        754.0
+      ]
+    ],
+    "text": "nes Apothekers) , daneben auch in der pharma-",
+    "confidence": 0.8472888274500183
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        742.0
+      ],
+      [
+        390.0,
+        742.0
+      ],
+      [
+        390.0,
+        772.0
+      ],
+      [
+        8.0,
+        772.0
+      ]
+    ],
+    "text": "halbjähriges Ausbildungspraktikum in einer",
+    "confidence": 0.7399795523827017
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        752.0
+      ],
+      [
+        793.0,
+        752.0
+      ],
+      [
+        793.0,
+        782.0
+      ],
+      [
+        414.0,
+        782.0
+      ]
+    ],
+    "text": "zeutischen Industrie Die Aufstiegsmöglichkei -",
+    "confidence": 0.7763693406079398
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        768.0
+      ],
+      [
+        94.0,
+        768.0
+      ],
+      [
+        94.0,
+        796.0
+      ],
+      [
+        8.0,
+        796.0
+      ]
+    ],
+    "text": "Apotheke.",
+    "confidence": 0.6073859719871003
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        778.0
+      ],
+      [
+        794.0,
+        778.0
+      ],
+      [
+        794.0,
+        811.0
+      ],
+      [
+        414.0,
+        811.0
+      ]
+    ],
+    "text": "ten sind begrenzt. Die Herstellung von Arznei -",
+    "confidence": 0.7570468758846207
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        796.0
+      ],
+      [
+        391.0,
+        796.0
+      ],
+      [
+        391.0,
+        832.0
+      ],
+      [
+        6.0,
+        832.0
+      ]
+    ],
+    "text": "Ausbildungsorte: Etwa 75 staatliche und",
+    "confidence": 0.9646579487059956
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        803.0
+      ],
+      [
+        796.0,
+        803.0
+      ],
+      [
+        796.0,
+        836.0
+      ],
+      [
+        413.0,
+        836.0
+      ]
+    ],
+    "text": "mitteln; ihre Prüfung auf einwandfreie Qualität",
+    "confidence": 0.8087467265509336
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        828.0
+      ],
+      [
+        390.0,
+        828.0
+      ],
+      [
+        390.0,
+        856.0
+      ],
+      [
+        6.0,
+        856.0
+      ]
+    ],
+    "text": "staatlich anerkannte private Lehranstalten. Die",
+    "confidence": 0.7730361868172484
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        831.0
+      ],
+      [
+        794.0,
+        831.0
+      ],
+      [
+        794.0,
+        863.0
+      ],
+      [
+        414.0,
+        863.0
+      ]
+    ],
+    "text": "sowie insbesondere die Abgabe von Arzneimit-",
+    "confidence": 0.9140617788248956
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        849.0
+      ],
+      [
+        373.0,
+        849.0
+      ],
+      [
+        373.0,
+        887.0
+      ],
+      [
+        6.0,
+        887.0
+      ]
+    ],
+    "text": "praktische Ausbildung erfolgt in Apotheken:",
+    "confidence": 0.902884045096455
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        860.0
+      ],
+      [
+        794.0,
+        860.0
+      ],
+      [
+        794.0,
+        888.0
+      ],
+      [
+        414.0,
+        888.0
+      ]
+    ],
+    "text": "teln stellen die wichtigsten Tätigkeitsbereiche",
+    "confidence": 0.9187320255010982
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        881.0
+      ],
+      [
+        390.0,
+        881.0
+      ],
+      [
+        390.0,
+        919.0
+      ],
+      [
+        5.0,
+        919.0
+      ]
+    ],
+    "text": "Inhalt: Theoretische Fächer der Ausbildung",
+    "confidence": 0.784304118122082
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        886.0
+      ],
+      [
+        794.0,
+        886.0
+      ],
+      [
+        794.0,
+        914.0
+      ],
+      [
+        414.0,
+        914.0
+      ]
+    ],
+    "text": "in Apotheken dar. Pharmazeutisch-technische",
+    "confidence": 0.776218966881461
+  },
+  {
+    "bbox": [
+      [
+        415.0,
+        910.0
+      ],
+      [
+        794.0,
+        910.0
+      ],
+      [
+        794.0,
+        941.0
+      ],
+      [
+        415.0,
+        941.0
+      ]
+    ],
+    "text": "Assistenten in der Industrie sind hauptsächlich",
+    "confidence": 0.9507248148710173
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        914.0
+      ],
+      [
+        388.0,
+        914.0
+      ],
+      [
+        388.0,
+        942.0
+      ],
+      [
+        6.0,
+        942.0
+      ]
+    ],
+    "text": "sind Arzneimittelkunde, allgemeine und phar-",
+    "confidence": 0.8861775267654801
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        935.0
+      ],
+      [
+        794.0,
+        935.0
+      ],
+      [
+        794.0,
+        968.0
+      ],
+      [
+        414.0,
+        968.0
+      ]
+    ],
+    "text": "mit der Entwicklung; Prüfung und Herstellung",
+    "confidence": 0.690895055924975
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        940.0
+      ],
+      [
+        390.0,
+        940.0
+      ],
+      [
+        390.0,
+        966.0
+      ],
+      [
+        8.0,
+        966.0
+      ]
+    ],
+    "text": "mazeutische Chemie Galenik, Botanik und Dro-",
+    "confidence": 0.8167733411400943
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        964.0
+      ],
+      [
+        390.0,
+        964.0
+      ],
+      [
+        390.0,
+        996.0
+      ],
+      [
+        4.0,
+        996.0
+      ]
+    ],
+    "text": "genkunde sowie Gefahrstoffe, Pflanzenschutz",
+    "confidence": 0.7122916938372928
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        964.0
+      ],
+      [
+        794.0,
+        964.0
+      ],
+      [
+        794.0,
+        994.0
+      ],
+      [
+        414.0,
+        994.0
+      ]
+    ],
+    "text": "von Arzneimitteln befasst. Aufgrund ihrer Aus -",
+    "confidence": 0.6979529612746606
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        988.0
+      ],
+      [
+        795.0,
+        988.0
+      ],
+      [
+        795.0,
+        1025.0
+      ],
+      [
+        411.0,
+        1025.0
+      ]
+    ],
+    "text": "bildung können sie auch als Pharmaberater tä -",
+    "confidence": 0.6986235111684311
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        990.0
+      ],
+      [
+        390.0,
+        990.0
+      ],
+      [
+        390.0,
+        1023.0
+      ],
+      [
+        6.0,
+        1023.0
+      ]
+    ],
+    "text": "und Umweltschutz, Medizinprodukte, Ernäh-",
+    "confidence": 0.9448493893022515
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        1018.0
+      ],
+      [
+        388.0,
+        1018.0
+      ],
+      [
+        388.0,
+        1049.0
+      ],
+      [
+        5.0,
+        1049.0
+      ]
+    ],
+    "text": "rungskunde und Diätetik, Körperpflegekunde,",
+    "confidence": 0.6615418613504689
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1020.0
+      ],
+      [
+        512.0,
+        1020.0
+      ],
+      [
+        512.0,
+        1048.0
+      ],
+      [
+        412.0,
+        1048.0
+      ]
+    ],
+    "text": "tig werden.",
+    "confidence": 0.8720553499985667
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1046.0
+      ],
+      [
+        390.0,
+        1046.0
+      ],
+      [
+        390.0,
+        1074.0
+      ],
+      [
+        6.0,
+        1074.0
+      ]
+    ],
+    "text": "physikalische Gerätekunde, Mathematik (fach -",
+    "confidence": 0.5959732221279924
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1062.0
+      ],
+      [
+        794.0,
+        1062.0
+      ],
+      [
+        794.0,
+        1086.0
+      ],
+      [
+        414.0,
+        1086.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde \"Pharmazeu-",
+    "confidence": 0.7864522287300577
+  },
+  {
+    "bbox": [
+      [
+        5.0,
+        1071.0
+      ],
+      [
+        390.0,
+        1071.0
+      ],
+      [
+        390.0,
+        1103.0
+      ],
+      [
+        5.0,
+        1103.0
+      ]
+    ],
+    "text": "bezogen) , Berufskunde und allgemein bilden-",
+    "confidence": 0.7197111341213253
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1086.0
+      ],
+      [
+        696.0,
+        1086.0
+      ],
+      [
+        696.0,
+        1110.0
+      ],
+      [
+        414.0,
+        1110.0
+      ]
+    ],
+    "text": "tisch-technischelr) Assistent/ino, 2-1F12",
+    "confidence": 0.5808592408009804
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1097.0
+      ],
+      [
+        96.0,
+        1097.0
+      ],
+      [
+        96.0,
+        1126.0
+      ],
+      [
+        6.0,
+        1126.0
+      ]
+    ],
+    "text": "de Fächer",
+    "confidence": 0.9999632037274652
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        1113.0
+      ],
+      [
+        794.0,
+        1113.0
+      ],
+      [
+        794.0,
+        1143.0
+      ],
+      [
+        411.0,
+        1143.0
+      ]
+    ],
+    "text": "\"Ausbildungs- und Prüfungsverordnung für pharmazeu-",
+    "confidence": 0.8888133274487694
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1129.0
+      ],
+      [
+        388.0,
+        1129.0
+      ],
+      [
+        388.0,
+        1162.0
+      ],
+      [
+        6.0,
+        1162.0
+      ]
+    ],
+    "text": "In der praktischen Unterweisung an der Lehr-",
+    "confidence": 0.7844388386710666
+  },
+  {
+    "bbox": [
+      [
+        410.0,
+        1136.0
+      ],
+      [
+        794.0,
+        1136.0
+      ],
+      [
+        794.0,
+        1164.0
+      ],
+      [
+        410.0,
+        1164.0
+      ]
+    ],
+    "text": "tisch-technische Assistentinnen und pharmazeutisch-",
+    "confidence": 0.8279112920514836
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1158.0
+      ],
+      [
+        388.0,
+        1158.0
+      ],
+      [
+        388.0,
+        1188.0
+      ],
+      [
+        6.0,
+        1188.0
+      ]
+    ],
+    "text": "anstalt stehen chemisch-pharmazeutische",
+    "confidence": 0.8891777857513465
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1160.0
+      ],
+      [
+        796.0,
+        1160.0
+      ],
+      [
+        796.0,
+        1186.0
+      ],
+      [
+        412.0,
+        1186.0
+      ]
+    ],
+    "text": "technische Assistenten (PTA-APrV) vom 23. September",
+    "confidence": 0.8702814670209117
+  },
+  {
+    "bbox": [
+      [
+        3.0,
+        1179.0
+      ],
+      [
+        389.0,
+        1179.0
+      ],
+      [
+        389.0,
+        1217.0
+      ],
+      [
+        3.0,
+        1217.0
+      ]
+    ],
+    "text": "Übungen zur Drogenkunde sowie Apotheken-",
+    "confidence": 0.9823381443826417
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1182.0
+      ],
+      [
+        564.0,
+        1182.0
+      ],
+      [
+        564.0,
+        1206.0
+      ],
+      [
+        414.0,
+        1206.0
+      ]
+    ],
+    "text": "1997 (BGBI. $ 2352).",
+    "confidence": 0.4432213380666085
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        1210.0
+      ],
+      [
+        388.0,
+        1210.0
+      ],
+      [
+        388.0,
+        1240.0
+      ],
+      [
+        4.0,
+        1240.0
+      ]
+    ],
+    "text": "praxis einschließlich EDV auf dem Lehrplan:",
+    "confidence": 0.7131098833975709
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1224.0
+      ],
+      [
+        576.0,
+        1224.0
+      ],
+      [
+        576.0,
+        1250.0
+      ],
+      [
+        414.0,
+        1250.0
+      ]
+    ],
+    "text": "Online-Infos: BVpta",
+    "confidence": 0.6476070676461145
+  },
+  {
+    "bbox": [
+      [
+        586.0,
+        1224.0
+      ],
+      [
+        794.0,
+        1224.0
+      ],
+      [
+        794.0,
+        1248.0
+      ],
+      [
+        586.0,
+        1248.0
+      ]
+    ],
+    "text": "Bundesverband Pharmazeu -",
+    "confidence": 0.8274420846669928
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        1233.0
+      ],
+      [
+        391.0,
+        1233.0
+      ],
+      [
+        391.0,
+        1269.0
+      ],
+      [
+        7.0,
+        1269.0
+      ]
+    ],
+    "text": "Während der praktischen Ausbildung in der",
+    "confidence": 0.9023646449386732
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        1245.0
+      ],
+      [
+        758.0,
+        1245.0
+      ],
+      [
+        758.0,
+        1272.0
+      ],
+      [
+        411.0,
+        1272.0
+      ]
+    ],
+    "text": "tisch-technischer Assistenten e.V   wwbvpta de",
+    "confidence": 0.7842164682719609
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1264.0
+      ],
+      [
+        388.0,
+        1264.0
+      ],
+      [
+        388.0,
+        1294.0
+      ],
+      [
+        8.0,
+        1294.0
+      ]
+    ],
+    "text": "Apotheke sollen die im Lehrplan erworbenen",
+    "confidence": 0.9524291682211085
+  }
+]

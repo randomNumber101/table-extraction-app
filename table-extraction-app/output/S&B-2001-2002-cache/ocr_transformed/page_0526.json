@@ -1,0 +1,2004 @@
+[
+  {
+    "bbox": [
+      [
+        414.0,
+        28.0
+      ],
+      [
+        794.0,
+        28.0
+      ],
+      [
+        794.0,
+        58.0
+      ],
+      [
+        414.0,
+        58.0
+      ]
+    ],
+    "text": "Fachinformatiker der Fachrichtung Systeminte-",
+    "confidence": 0.9506440640173409
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        30.0
+      ],
+      [
+        390.0,
+        30.0
+      ],
+      [
+        390.0,
+        56.0
+      ],
+      [
+        8.0,
+        56.0
+      ]
+    ],
+    "text": "softwarebasierte Präsentation , technisches",
+    "confidence": 0.9029004911867147
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        51.0
+      ],
+      [
+        112.0,
+        51.0
+      ],
+      [
+        112.0,
+        90.0
+      ],
+      [
+        7.0,
+        90.0
+      ]
+    ],
+    "text": "Marketing):",
+    "confidence": 0.8949402825849724
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        51.0
+      ],
+      [
+        793.0,
+        51.0
+      ],
+      [
+        793.0,
+        87.0
+      ],
+      [
+        412.0,
+        87.0
+      ]
+    ],
+    "text": "grationrealisieren kundenspezifische IT-Syste-",
+    "confidence": 0.8706495233401855
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        82.0
+      ],
+      [
+        792.0,
+        82.0
+      ],
+      [
+        792.0,
+        108.0
+      ],
+      [
+        414.0,
+        108.0
+      ]
+    ],
+    "text": "me durch Auswahl von Hard- und Software -",
+    "confidence": 0.792031486638708
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        85.0
+      ],
+      [
+        388.0,
+        85.0
+      ],
+      [
+        388.0,
+        118.0
+      ],
+      [
+        7.0,
+        118.0
+      ]
+    ],
+    "text": "Fachrichtung Systemintegration: System-",
+    "confidence": 0.9138904869243687
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        107.0
+      ],
+      [
+        792.0,
+        107.0
+      ],
+      [
+        792.0,
+        139.0
+      ],
+      [
+        413.0,
+        139.0
+      ]
+    ],
+    "text": "komponenten und Integration dieser Kompo-",
+    "confidence": 0.6197738570924906
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        114.0
+      ],
+      [
+        386.0,
+        114.0
+      ],
+      [
+        386.0,
+        144.0
+      ],
+      [
+        8.0,
+        144.0
+      ]
+    ],
+    "text": "integration (Systemkonfiguration, Netzwerke,",
+    "confidence": 0.6314437115064988
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        134.0
+      ],
+      [
+        792.0,
+        134.0
+      ],
+      [
+        792.0,
+        162.0
+      ],
+      [
+        414.0,
+        162.0
+      ]
+    ],
+    "text": "nenten zu komplexen Systemen, wie Rechen -",
+    "confidence": 0.6634877229140465
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        139.0
+      ],
+      [
+        388.0,
+        139.0
+      ],
+      [
+        388.0,
+        170.0
+      ],
+      [
+        8.0,
+        170.0
+      ]
+    ],
+    "text": "Systemlösungen , Einführung von Systemen);",
+    "confidence": 0.6886165926982846
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        155.0
+      ],
+      [
+        794.0,
+        155.0
+      ],
+      [
+        794.0,
+        192.0
+      ],
+      [
+        413.0,
+        192.0
+      ]
+    ],
+    "text": "zentren; Netzwerksysteme, Client-Server-Sys-",
+    "confidence": 0.5503248657762606
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        166.0
+      ],
+      [
+        390.0,
+        166.0
+      ],
+      [
+        390.0,
+        196.0
+      ],
+      [
+        8.0,
+        196.0
+      ]
+    ],
+    "text": "Service (Benutzerunterstützung, Fehleranalyse,",
+    "confidence": 0.5918162573841389
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        186.0
+      ],
+      [
+        792.0,
+        186.0
+      ],
+      [
+        792.0,
+        215.0
+      ],
+      [
+        414.0,
+        215.0
+      ]
+    ],
+    "text": "teme Funk-und Festnetze. Sie analysieren und",
+    "confidence": 0.7837270137921003
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        194.0
+      ],
+      [
+        378.0,
+        194.0
+      ],
+      [
+        378.0,
+        224.0
+      ],
+      [
+        8.0,
+        224.0
+      ]
+    ],
+    "text": "Störungsbeseitigung , Systemunterstützung).",
+    "confidence": 0.7370175993314484
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        211.0
+      ],
+      [
+        794.0,
+        211.0
+      ],
+      [
+        794.0,
+        247.0
+      ],
+      [
+        413.0,
+        247.0
+      ]
+    ],
+    "text": "beseitigen Störungen unter Einsatz von Exper-",
+    "confidence": 0.9745484888058108
+  },
+  {
+    "bbox": [
+      [
+        10.0,
+        226.0
+      ],
+      [
+        388.0,
+        226.0
+      ],
+      [
+        388.0,
+        256.0
+      ],
+      [
+        10.0,
+        256.0
+      ]
+    ],
+    "text": "1999 neu abgeschlossene Ausbildungsverträ-",
+    "confidence": 0.9129641395482457
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        239.0
+      ],
+      [
+        794.0,
+        239.0
+      ],
+      [
+        794.0,
+        272.0
+      ],
+      [
+        414.0,
+        272.0
+      ]
+    ],
+    "text": "ten- und Diagnosesystemen , verwalten und",
+    "confidence": 0.722577067073027
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        251.0
+      ],
+      [
+        390.0,
+        251.0
+      ],
+      [
+        390.0,
+        282.0
+      ],
+      [
+        8.0,
+        282.0
+      ]
+    ],
+    "text": "ge: 6192. Frauenanteil: 11,9% . Auszubildende",
+    "confidence": 0.6854126396483623
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        266.0
+      ],
+      [
+        596.0,
+        266.0
+      ],
+      [
+        596.0,
+        294.0
+      ],
+      [
+        414.0,
+        294.0
+      ]
+    ],
+    "text": "betreiben IT-Systeme:",
+    "confidence": 0.6973662975578272
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        278.0
+      ],
+      [
+        386.0,
+        278.0
+      ],
+      [
+        386.0,
+        308.0
+      ],
+      [
+        8.0,
+        308.0
+      ]
+    ],
+    "text": "mit Hochschul-und Fachhochschulreife: 55,8%.",
+    "confidence": 0.834783080876965
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        296.0
+      ],
+      [
+        792.0,
+        296.0
+      ],
+      [
+        792.0,
+        327.0
+      ],
+      [
+        413.0,
+        327.0
+      ]
+    ],
+    "text": "Fachinformatiker stehen ihren Kunden und den",
+    "confidence": 0.9996373270437223
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        320.0
+      ],
+      [
+        193.0,
+        320.0
+      ],
+      [
+        193.0,
+        358.0
+      ],
+      [
+        6.0,
+        358.0
+      ]
+    ],
+    "text": "Tätigkeitsbereich",
+    "confidence": 0.9999519462000952
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        325.0
+      ],
+      [
+        794.0,
+        325.0
+      ],
+      [
+        794.0,
+        356.0
+      ],
+      [
+        414.0,
+        356.0
+      ]
+    ],
+    "text": "Benutzern für fachliche Beratung und Betreu-",
+    "confidence": 0.6651730520463597
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        352.0
+      ],
+      [
+        794.0,
+        352.0
+      ],
+      [
+        794.0,
+        382.0
+      ],
+      [
+        414.0,
+        382.0
+      ]
+    ],
+    "text": "ung zur Verfügung , führen neue Systeme ein",
+    "confidence": 0.569079699174305
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        354.0
+      ],
+      [
+        388.0,
+        354.0
+      ],
+      [
+        388.0,
+        386.0
+      ],
+      [
+        7.0,
+        386.0
+      ]
+    ],
+    "text": "Fachinformatiker sind bei Anbietern von IT-Sys-",
+    "confidence": 0.8799869940797136
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        378.0
+      ],
+      [
+        628.0,
+        378.0
+      ],
+      [
+        628.0,
+        404.0
+      ],
+      [
+        414.0,
+        404.0
+      ]
+    ],
+    "text": "und schulen die Benutzer:",
+    "confidence": 0.4447085978244894
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        381.0
+      ],
+      [
+        388.0,
+        381.0
+      ],
+      [
+        388.0,
+        412.0
+      ],
+      [
+        8.0,
+        412.0
+      ]
+    ],
+    "text": "temen und IT-Dienstleistungen; d.h. bei Herstel -",
+    "confidence": 0.7067437883745654
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        410.0
+      ],
+      [
+        388.0,
+        410.0
+      ],
+      [
+        388.0,
+        438.0
+      ],
+      [
+        8.0,
+        438.0
+      ]
+    ],
+    "text": "lern, System- und Softwarehäusern, bei unter-",
+    "confidence": 0.4526470042105705
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        420.0
+      ],
+      [
+        794.0,
+        420.0
+      ],
+      [
+        794.0,
+        446.0
+      ],
+      [
+        414.0,
+        446.0
+      ]
+    ],
+    "text": "Zur Information: Blätter zur Berufskunde \"Berufe in der",
+    "confidence": 0.8173755248304606
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        436.0
+      ],
+      [
+        388.0,
+        436.0
+      ],
+      [
+        388.0,
+        462.0
+      ],
+      [
+        8.0,
+        462.0
+      ]
+    ],
+    "text": "nehmensinternen und externen Dienstleistern",
+    "confidence": 0.8422621039425049
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        444.0
+      ],
+      [
+        794.0,
+        444.0
+      ],
+      [
+        794.0,
+        468.0
+      ],
+      [
+        414.0,
+        468.0
+      ]
+    ],
+    "text": "Informationstechnik (ITJe, 0-2200 E; \"Fachinformatiker/",
+    "confidence": 0.6244026389607437
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        460.0
+      ],
+      [
+        388.0,
+        460.0
+      ],
+      [
+        388.0,
+        490.0
+      ],
+      [
+        8.0,
+        490.0
+      ]
+    ],
+    "text": "sowie in informationstechnischen Abteilungen",
+    "confidence": 0.9196324945309787
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        466.0
+      ],
+      [
+        520.0,
+        466.0
+      ],
+      [
+        520.0,
+        490.0
+      ],
+      [
+        416.0,
+        490.0
+      ]
+    ],
+    "text": "ino, 1-IX B 430.",
+    "confidence": 0.6686046094696718
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        488.0
+      ],
+      [
+        388.0,
+        488.0
+      ],
+      [
+        388.0,
+        518.0
+      ],
+      [
+        8.0,
+        518.0
+      ]
+    ],
+    "text": "von IT-Anwendern tätig . Sie analysieren Kun-",
+    "confidence": 0.7806072774869661
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        494.0
+      ],
+      [
+        794.0,
+        494.0
+      ],
+      [
+        794.0,
+        522.0
+      ],
+      [
+        414.0,
+        522.0
+      ]
+    ],
+    "text": "Bundesministerium für Bildung und Forschung: Die neu-",
+    "confidence": 0.7072319058716148
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        513.0
+      ],
+      [
+        388.0,
+        513.0
+      ],
+      [
+        388.0,
+        545.0
+      ],
+      [
+        8.0,
+        545.0
+      ]
+    ],
+    "text": "denprobleme, planen kundenspezifische IT-Lö -",
+    "confidence": 0.6100946765051469
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        518.0
+      ],
+      [
+        794.0,
+        518.0
+      ],
+      [
+        794.0,
+        544.0
+      ],
+      [
+        414.0,
+        544.0
+      ]
+    ],
+    "text": "en IT-Berufe IT-System-Elektroniker /-in, Fachinformati -",
+    "confidence": 0.5362948806467595
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        540.0
+      ],
+      [
+        257.0,
+        540.0
+      ],
+      [
+        257.0,
+        570.0
+      ],
+      [
+        8.0,
+        570.0
+      ]
+    ],
+    "text": "sungen und realisieren diese.",
+    "confidence": 0.9425962851493356
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        540.0
+      ],
+      [
+        794.0,
+        540.0
+      ],
+      [
+        794.0,
+        564.0
+      ],
+      [
+        414.0,
+        564.0
+      ]
+    ],
+    "text": "ker/-in, IT-System-Kaufmann/-Kauffrau , Informatikkauf -",
+    "confidence": 0.554714342109949
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        559.0
+      ],
+      [
+        796.0,
+        559.0
+      ],
+      [
+        796.0,
+        613.0
+      ],
+      [
+        411.0,
+        613.0
+      ]
+    ],
+    "text": "marsbeaufira dZu ktofssicbesung ductlbkoenauAusoti-",
+    "confidence": 0.03920747464473242
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        570.0
+      ],
+      [
+        390.0,
+        570.0
+      ],
+      [
+        390.0,
+        602.0
+      ],
+      [
+        7.0,
+        602.0
+      ]
+    ],
+    "text": "Fachinformatiker der Fachrichtung Anwen-",
+    "confidence": 0.9883148338030856
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        597.0
+      ],
+      [
+        388.0,
+        597.0
+      ],
+      [
+        388.0,
+        630.0
+      ],
+      [
+        7.0,
+        630.0
+      ]
+    ],
+    "text": "dungsentwicklung realisieren Softwarelösun-",
+    "confidence": 0.9874069132630597
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        606.0
+      ],
+      [
+        792.0,
+        606.0
+      ],
+      [
+        792.0,
+        632.0
+      ],
+      [
+        414.0,
+        632.0
+      ]
+    ],
+    "text": "onstechnik, 1999,64 S , Bestell-Nr : 29485 (auch online-",
+    "confidence": 0.5444235502616576
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        624.0
+      ],
+      [
+        388.0,
+        624.0
+      ],
+      [
+        388.0,
+        657.0
+      ],
+      [
+        8.0,
+        657.0
+      ]
+    ],
+    "text": "gen durch individuell auf Kunden zugeschnitte-",
+    "confidence": 0.7939376666238313
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        627.0
+      ],
+      [
+        638.0,
+        627.0
+      ],
+      [
+        638.0,
+        656.0
+      ],
+      [
+        413.0,
+        656.0
+      ]
+    ],
+    "text": "Bestellung unter wwbmbfde)",
+    "confidence": 0.9700849412585074
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        651.0
+      ],
+      [
+        388.0,
+        651.0
+      ],
+      [
+        388.0,
+        684.0
+      ],
+      [
+        8.0,
+        684.0
+      ]
+    ],
+    "text": "ne Anwendungen oder durch Anpassung",
+    "confidence": 0.984059373856401
+  },
+  {
+    "bbox": [
+      [
+        416.0,
+        670.0
+      ],
+      [
+        794.0,
+        670.0
+      ],
+      [
+        794.0,
+        696.0
+      ],
+      [
+        416.0,
+        696.0
+      ]
+    ],
+    "text": "Online-Infos: Informationsangebot der \"Unternehmen",
+    "confidence": 0.9524295562079909
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        679.0
+      ],
+      [
+        386.0,
+        679.0
+      ],
+      [
+        386.0,
+        706.0
+      ],
+      [
+        8.0,
+        706.0
+      ]
+    ],
+    "text": "bereits bestehender Standard-Software,",
+    "confidence": 0.8675578919417574
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        692.0
+      ],
+      [
+        794.0,
+        692.0
+      ],
+      [
+        794.0,
+        718.0
+      ],
+      [
+        414.0,
+        718.0
+      ]
+    ],
+    "text": "der Metall- und Elektroindustrie\" (ME) sowie des \"Zen-",
+    "confidence": 0.8530391211166937
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        703.0
+      ],
+      [
+        388.0,
+        703.0
+      ],
+      [
+        388.0,
+        736.0
+      ],
+      [
+        8.0,
+        736.0
+      ]
+    ],
+    "text": "beispielsweise Multi-Media-Anwendungen ,",
+    "confidence": 0.6302104807444674
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        716.0
+      ],
+      [
+        788.0,
+        716.0
+      ],
+      [
+        788.0,
+        740.0
+      ],
+      [
+        414.0,
+        740.0
+      ]
+    ],
+    "text": "tralverbands der Elektrotechnik- und Elektronikindustrie'",
+    "confidence": 0.7244647996585809
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        731.0
+      ],
+      [
+        390.0,
+        731.0
+      ],
+      [
+        390.0,
+        763.0
+      ],
+      [
+        7.0,
+        763.0
+      ]
+    ],
+    "text": "Expertensysteme, technische, kaufmännische",
+    "confidence": 0.681693737670222
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        738.0
+      ],
+      [
+        794.0,
+        738.0
+      ],
+      [
+        794.0,
+        764.0
+      ],
+      [
+        414.0,
+        764.0
+      ]
+    ],
+    "text": "(ZVEI) über die neuen IT-Ausbildungsberufe www.it-",
+    "confidence": 0.619467511118125
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        760.0
+      ],
+      [
+        388.0,
+        760.0
+      ],
+      [
+        388.0,
+        786.0
+      ],
+      [
+        8.0,
+        786.0
+      ]
+    ],
+    "text": "oder mathematisch-wissenschaftliche Anwen-",
+    "confidence": 0.9445859932382837
+  },
+  {
+    "bbox": [
+      [
+        415.0,
+        763.0
+      ],
+      [
+        485.0,
+        763.0
+      ],
+      [
+        485.0,
+        783.0
+      ],
+      [
+        415.0,
+        783.0
+      ]
+    ],
+    "text": "berufe de",
+    "confidence": 0.9804561943940826
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        787.0
+      ],
+      [
+        80.0,
+        787.0
+      ],
+      [
+        80.0,
+        817.0
+      ],
+      [
+        7.0,
+        817.0
+      ]
+    ],
+    "text": "dungen.",
+    "confidence": 0.7870657407206332
+  },
+  {
+    "bbox": [
+      [
+        126.0,
+        830.0
+      ],
+      [
+        674.0,
+        830.0
+      ],
+      [
+        674.0,
+        878.0
+      ],
+      [
+        126.0,
+        878.0
+      ]
+    ],
+    "text": "8.3.1.2 Informatikkaufmann/-kauffrau",
+    "confidence": 0.8230522823942369
+  },
+  {
+    "bbox": [
+      [
+        7.0,
+        889.0
+      ],
+      [
+        199.0,
+        889.0
+      ],
+      [
+        199.0,
+        925.0
+      ],
+      [
+        7.0,
+        925.0
+      ]
+    ],
+    "text": "Ausbildungsinhalt",
+    "confidence": 0.9624850782776833
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        890.0
+      ],
+      [
+        788.0,
+        890.0
+      ],
+      [
+        788.0,
+        920.0
+      ],
+      [
+        414.0,
+        920.0
+      ]
+    ],
+    "text": "bei Anwendungsproblemen und Ergonomie",
+    "confidence": 0.9266128858579284
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        915.0
+      ],
+      [
+        616.0,
+        915.0
+      ],
+      [
+        616.0,
+        945.0
+      ],
+      [
+        413.0,
+        945.0
+      ]
+    ],
+    "text": "Einweisen und Schulen.",
+    "confidence": 0.7590348121425641
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        924.0
+      ],
+      [
+        388.0,
+        924.0
+      ],
+      [
+        388.0,
+        952.0
+      ],
+      [
+        8.0,
+        952.0
+      ]
+    ],
+    "text": "Kernqualifikation auf elektrotechnischem, dv-",
+    "confidence": 0.8692131248890561
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        950.0
+      ],
+      [
+        388.0,
+        950.0
+      ],
+      [
+        388.0,
+        978.0
+      ],
+      [
+        6.0,
+        978.0
+      ]
+    ],
+    "text": "technischem und betriebswirtschaftlichem",
+    "confidence": 0.9988298606102655
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        950.0
+      ],
+      [
+        792.0,
+        950.0
+      ],
+      [
+        792.0,
+        980.0
+      ],
+      [
+        414.0,
+        980.0
+      ]
+    ],
+    "text": "1999 neu abgeschlossene Ausbildungsverträ -",
+    "confidence": 0.7958698455635441
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        976.0
+      ],
+      [
+        388.0,
+        976.0
+      ],
+      [
+        388.0,
+        1006.0
+      ],
+      [
+        8.0,
+        1006.0
+      ]
+    ],
+    "text": "Gebiet (wie in 8.3 beschrieben); branchenspe-",
+    "confidence": 0.7924416575854333
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        976.0
+      ],
+      [
+        794.0,
+        976.0
+      ],
+      [
+        794.0,
+        1006.0
+      ],
+      [
+        414.0,
+        1006.0
+      ]
+    ],
+    "text": "ge: 1938. Frauenanteil: 22,8% . Auszubildende",
+    "confidence": 0.6850957832000183
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1002.0
+      ],
+      [
+        388.0,
+        1002.0
+      ],
+      [
+        388.0,
+        1035.0
+      ],
+      [
+        6.0,
+        1035.0
+      ]
+    ],
+    "text": "zifische Leistungen (Geschäftsprozesse; Pla-",
+    "confidence": 0.850258811649734
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1002.0
+      ],
+      [
+        788.0,
+        1002.0
+      ],
+      [
+        788.0,
+        1032.0
+      ],
+      [
+        414.0,
+        1032.0
+      ]
+    ],
+    "text": "mit Hochschul-und Fachhochschulreife: 50,9%",
+    "confidence": 0.6525199198497011
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1030.0
+      ],
+      [
+        388.0,
+        1030.0
+      ],
+      [
+        388.0,
+        1060.0
+      ],
+      [
+        8.0,
+        1060.0
+      ]
+    ],
+    "text": "nung, Steuerung und Kontrolle); Rahmenbedin-",
+    "confidence": 0.905478198086807
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1048.0
+      ],
+      [
+        596.0,
+        1048.0
+      ],
+      [
+        596.0,
+        1080.0
+      ],
+      [
+        414.0,
+        1080.0
+      ]
+    ],
+    "text": "Tätigkeitsbereich",
+    "confidence": 0.9999687450694854
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1058.0
+      ],
+      [
+        388.0,
+        1058.0
+      ],
+      [
+        388.0,
+        1088.0
+      ],
+      [
+        8.0,
+        1088.0
+      ]
+    ],
+    "text": "gungen für den Einsatz von Informations- und",
+    "confidence": 0.7391142369279065
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        1079.0
+      ],
+      [
+        795.0,
+        1079.0
+      ],
+      [
+        795.0,
+        1115.0
+      ],
+      [
+        413.0,
+        1115.0
+      ]
+    ],
+    "text": "Informatikkaufleute sind tätig in IT-Anwen-",
+    "confidence": 0.9918188202150372
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1083.0
+      ],
+      [
+        388.0,
+        1083.0
+      ],
+      [
+        388.0,
+        1114.0
+      ],
+      [
+        8.0,
+        1114.0
+      ]
+    ],
+    "text": "Telekommunikationstechnik (Arbeitsorganisa -",
+    "confidence": 0.9721904221785903
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1108.0
+      ],
+      [
+        794.0,
+        1108.0
+      ],
+      [
+        794.0,
+        1139.0
+      ],
+      [
+        412.0,
+        1139.0
+      ]
+    ],
+    "text": "dungs-und Abnehmerbetrieben, d.h. Betrieben",
+    "confidence": 0.768615865844325
+  },
+  {
+    "bbox": [
+      [
+        4.0,
+        1109.0
+      ],
+      [
+        388.0,
+        1109.0
+      ],
+      [
+        388.0,
+        1140.0
+      ],
+      [
+        4.0,
+        1140.0
+      ]
+    ],
+    "text": "tion, Organisationsentwicklung , Informations-",
+    "confidence": 0.5030019525299347
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1133.0
+      ],
+      [
+        389.0,
+        1133.0
+      ],
+      [
+        389.0,
+        1170.0
+      ],
+      [
+        6.0,
+        1170.0
+      ]
+    ],
+    "text": "organisation; Personalwirtschaft, Rechnungs-",
+    "confidence": 0.8033321129006461
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1134.0
+      ],
+      [
+        792.0,
+        1134.0
+      ],
+      [
+        792.0,
+        1162.0
+      ],
+      [
+        414.0,
+        1162.0
+      ]
+    ],
+    "text": "unterschiedlicher Branchen, die Informations-",
+    "confidence": 0.7998532968111035
+  },
+  {
+    "bbox": [
+      [
+        413.0,
+        1157.0
+      ],
+      [
+        794.0,
+        1157.0
+      ],
+      [
+        794.0,
+        1193.0
+      ],
+      [
+        413.0,
+        1193.0
+      ]
+    ],
+    "text": "und Kommunikationstechnik zur Abwicklung",
+    "confidence": 0.8454410297822348
+  },
+  {
+    "bbox": [
+      [
+        106.0,
+        1159.0
+      ],
+      [
+        389.0,
+        1159.0
+      ],
+      [
+        389.0,
+        1196.0
+      ],
+      [
+        106.0,
+        1196.0
+      ]
+    ],
+    "text": "Controlling); Projektplanung und",
+    "confidence": 0.9931264213668645
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1164.0
+      ],
+      [
+        108.0,
+        1164.0
+      ],
+      [
+        108.0,
+        1190.0
+      ],
+      [
+        8.0,
+        1190.0
+      ]
+    ],
+    "text": "wesen und",
+    "confidence": 0.9997705486915655
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1186.0
+      ],
+      [
+        389.0,
+        1186.0
+      ],
+      [
+        389.0,
+        1223.0
+      ],
+      [
+        6.0,
+        1223.0
+      ]
+    ],
+    "text": "~durchführung (Anforderungsanalyse, Konzep-",
+    "confidence": 0.7487901836287661
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1186.0
+      ],
+      [
+        792.0,
+        1186.0
+      ],
+      [
+        792.0,
+        1218.0
+      ],
+      [
+        414.0,
+        1218.0
+      ]
+    ],
+    "text": "ihrer Geschäftsprozesse einsetzen. Das sind",
+    "confidence": 0.7343855181026061
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1213.0
+      ],
+      [
+        792.0,
+        1213.0
+      ],
+      [
+        792.0,
+        1243.0
+      ],
+      [
+        414.0,
+        1243.0
+      ]
+    ],
+    "text": "beispielsweise Industrie, Banken, Versicherun-",
+    "confidence": 0.744307597055671
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1216.0
+      ],
+      [
+        388.0,
+        1216.0
+      ],
+      [
+        388.0,
+        1248.0
+      ],
+      [
+        6.0,
+        1248.0
+      ]
+    ],
+    "text": "tion, Projektvorbereitung , ~durchführung); Be-",
+    "confidence": 0.5970504350790009
+  },
+  {
+    "bbox": [
+      [
+        414.0,
+        1239.0
+      ],
+      [
+        792.0,
+        1239.0
+      ],
+      [
+        792.0,
+        1270.0
+      ],
+      [
+        414.0,
+        1270.0
+      ]
+    ],
+    "text": "gen, Handel , Krankenhaus und öffentliche Ver -",
+    "confidence": 0.7120801984092548
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1244.0
+      ],
+      [
+        388.0,
+        1244.0
+      ],
+      [
+        388.0,
+        1272.0
+      ],
+      [
+        8.0,
+        1272.0
+      ]
+    ],
+    "text": "schaffen und Bereitstellen von Systemen durch",
+    "confidence": 0.9026466255442843
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1267.0
+      ],
+      [
+        493.0,
+        1267.0
+      ],
+      [
+        493.0,
+        1298.0
+      ],
+      [
+        412.0,
+        1298.0
+      ]
+    ],
+    "text": "waltung.",
+    "confidence": 0.8198264179667978
+  },
+  {
+    "bbox": [
+      [
+        8.0,
+        1269.0
+      ],
+      [
+        388.0,
+        1269.0
+      ],
+      [
+        388.0,
+        1300.0
+      ],
+      [
+        8.0,
+        1300.0
+      ]
+    ],
+    "text": "Einkauf, Auftragsabwicklung , Installation und",
+    "confidence": 0.9057999365409585
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1293.0
+      ],
+      [
+        389.0,
+        1293.0
+      ],
+      [
+        389.0,
+        1331.0
+      ],
+      [
+        6.0,
+        1331.0
+      ]
+    ],
+    "text": "Optimierung der Systeme sowie Systemver-",
+    "confidence": 0.9410143426756
+  },
+  {
+    "bbox": [
+      [
+        411.0,
+        1299.0
+      ],
+      [
+        792.0,
+        1299.0
+      ],
+      [
+        792.0,
+        1330.0
+      ],
+      [
+        411.0,
+        1330.0
+      ]
+    ],
+    "text": "Informatikkaufleute sind in der jeweiligen Bran-",
+    "confidence": 0.860020964691588
+  },
+  {
+    "bbox": [
+      [
+        6.0,
+        1321.0
+      ],
+      [
+        388.0,
+        1321.0
+      ],
+      [
+        388.0,
+        1354.0
+      ],
+      [
+        6.0,
+        1354.0
+      ]
+    ],
+    "text": "waltung; Benutzerberatung und-unterstützung",
+    "confidence": 0.9172466345392774
+  },
+  {
+    "bbox": [
+      [
+        412.0,
+        1328.0
+      ],
+      [
+        794.0,
+        1328.0
+      ],
+      [
+        794.0,
+        1356.0
+      ],
+      [
+        412.0,
+        1356.0
+      ]
+    ],
+    "text": "che zu Hause und kennen die dort üblichen",
+    "confidence": 0.84392671640136
+  }
+]

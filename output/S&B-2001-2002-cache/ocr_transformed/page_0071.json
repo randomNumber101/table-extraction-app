@@ -1,0 +1,2268 @@
+[
+  {
+    "bbox": [
+      [
+        17.0,
+        31.0
+      ],
+      [
+        400.0,
+        31.0
+      ],
+      [
+        400.0,
+        60.0
+      ],
+      [
+        17.0,
+        60.0
+      ]
+    ],
+    "text": "immer mehr deutschen Hochschulen erwor-",
+    "confidence": 0.8766846434124206
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        34.0
+      ],
+      [
+        806.0,
+        34.0
+      ],
+      [
+        806.0,
+        64.0
+      ],
+      [
+        426.0,
+        64.0
+      ]
+    ],
+    "text": "Begutachtung der neuen Studiengänge und",
+    "confidence": 0.9082265761817797
+  },
+  {
+    "bbox": [
+      [
+        425.0,
+        56.0
+      ],
+      [
+        807.0,
+        56.0
+      ],
+      [
+        807.0,
+        92.0
+      ],
+      [
+        425.0,
+        92.0
+      ]
+    ],
+    "text": "akkreditiert die damit beauftragten Agentu-",
+    "confidence": 0.7995411343998589
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        57.0
+      ],
+      [
+        402.0,
+        57.0
+      ],
+      [
+        402.0,
+        88.0
+      ],
+      [
+        20.0,
+        88.0
+      ]
+    ],
+    "text": "ben werden können. Zum Wintersemester",
+    "confidence": 0.4763923213374089
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        84.0
+      ],
+      [
+        400.0,
+        84.0
+      ],
+      [
+        400.0,
+        114.0
+      ],
+      [
+        20.0,
+        114.0
+      ]
+    ],
+    "text": "2000/2001 wurden bereits ca. 500 derartiger",
+    "confidence": 0.9010041443385152
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        86.0
+      ],
+      [
+        806.0,
+        86.0
+      ],
+      [
+        806.0,
+        116.0
+      ],
+      [
+        424.0,
+        116.0
+      ]
+    ],
+    "text": "ren. Akkreditierungsverfahren sollen für die",
+    "confidence": 0.8346802535549265
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        107.0
+      ],
+      [
+        401.0,
+        107.0
+      ],
+      [
+        401.0,
+        145.0
+      ],
+      [
+        16.0,
+        145.0
+      ]
+    ],
+    "text": "Studiengänge angeboten: In Anlehnung an",
+    "confidence": 0.7151562327160845
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        110.0
+      ],
+      [
+        806.0,
+        110.0
+      ],
+      [
+        806.0,
+        142.0
+      ],
+      [
+        426.0,
+        142.0
+      ]
+    ],
+    "text": "neuen Studiengänge ein schnelleres und fle-",
+    "confidence": 0.9857118654707498
+  },
+  {
+    "bbox": [
+      [
+        19.0,
+        134.0
+      ],
+      [
+        402.0,
+        134.0
+      ],
+      [
+        402.0,
+        170.0
+      ],
+      [
+        19.0,
+        170.0
+      ]
+    ],
+    "text": "das angelsächsische System der \"gestuften",
+    "confidence": 0.7342603912728068
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        137.0
+      ],
+      [
+        808.0,
+        137.0
+      ],
+      [
+        808.0,
+        170.0
+      ],
+      [
+        424.0,
+        170.0
+      ]
+    ],
+    "text": "xibleres Vorgehen begünstigen und dabei",
+    "confidence": 0.9096036110268163
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        164.0
+      ],
+      [
+        400.0,
+        164.0
+      ],
+      [
+        400.0,
+        190.0
+      ],
+      [
+        20.0,
+        190.0
+      ]
+    ],
+    "text": "Abschlüsser wird mit dem Bachelor bereits",
+    "confidence": 0.4733260380924349
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        164.0
+      ],
+      [
+        806.0,
+        164.0
+      ],
+      [
+        806.0,
+        194.0
+      ],
+      [
+        426.0,
+        194.0
+      ]
+    ],
+    "text": "auch Möglichkeiten für neue Inhalte und For-",
+    "confidence": 0.9401394370978623
+  },
+  {
+    "bbox": [
+      [
+        505.0,
+        189.0
+      ],
+      [
+        802.0,
+        189.0
+      ],
+      [
+        802.0,
+        222.0
+      ],
+      [
+        505.0,
+        222.0
+      ]
+    ],
+    "text": "Studiengangsgestaltung eröffnen",
+    "confidence": 0.7761550024687405
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        190.0
+      ],
+      [
+        130.0,
+        190.0
+      ],
+      [
+        130.0,
+        216.0
+      ],
+      [
+        20.0,
+        216.0
+      ]
+    ],
+    "text": "nach 6 oder",
+    "confidence": 0.9654002595609488
+  },
+  {
+    "bbox": [
+      [
+        146.0,
+        190.0
+      ],
+      [
+        400.0,
+        190.0
+      ],
+      [
+        400.0,
+        216.0
+      ],
+      [
+        146.0,
+        216.0
+      ]
+    ],
+    "text": "Semestern ein erster berufs-",
+    "confidence": 0.8271563174160551
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        192.0
+      ],
+      [
+        506.0,
+        192.0
+      ],
+      [
+        506.0,
+        216.0
+      ],
+      [
+        426.0,
+        216.0
+      ]
+    ],
+    "text": "men der",
+    "confidence": 0.9552246933115276
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        215.0
+      ],
+      [
+        400.0,
+        215.0
+      ],
+      [
+        400.0,
+        242.0
+      ],
+      [
+        20.0,
+        242.0
+      ]
+    ],
+    "text": "qualifizierender Hochschulabschluss erwor-",
+    "confidence": 0.6974443246923682
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        216.0
+      ],
+      [
+        806.0,
+        216.0
+      ],
+      [
+        806.0,
+        246.0
+      ],
+      [
+        426.0,
+        246.0
+      ]
+    ],
+    "text": "Da die Ergebnisse der Verfahren veröffent-",
+    "confidence": 0.6449441452457544
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        242.0
+      ],
+      [
+        400.0,
+        242.0
+      ],
+      [
+        400.0,
+        268.0
+      ],
+      [
+        20.0,
+        268.0
+      ]
+    ],
+    "text": "ben: Damit kann man ins Berufsleben einstei -",
+    "confidence": 0.6783264271923186
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        242.0
+      ],
+      [
+        806.0,
+        242.0
+      ],
+      [
+        806.0,
+        274.0
+      ],
+      [
+        424.0,
+        274.0
+      ]
+    ],
+    "text": "licht werden, werden Transparenz, Vergleich -",
+    "confidence": 0.5990143577525645
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        267.0
+      ],
+      [
+        636.0,
+        267.0
+      ],
+      [
+        636.0,
+        300.0
+      ],
+      [
+        426.0,
+        300.0
+      ]
+    ],
+    "text": "barkeit und Orientierung",
+    "confidence": 0.9585699300859779
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        270.0
+      ],
+      [
+        400.0,
+        270.0
+      ],
+      [
+        400.0,
+        298.0
+      ],
+      [
+        18.0,
+        298.0
+      ]
+    ],
+    "text": "gen oder an einer deutschen oder einer aus-",
+    "confidence": 0.7293308264903191
+  },
+  {
+    "bbox": [
+      [
+        650.0,
+        270.0
+      ],
+      [
+        806.0,
+        270.0
+      ],
+      [
+        806.0,
+        296.0
+      ],
+      [
+        650.0,
+        296.0
+      ]
+    ],
+    "text": "auch im internati -",
+    "confidence": 0.9594518972269478
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        293.0
+      ],
+      [
+        400.0,
+        293.0
+      ],
+      [
+        400.0,
+        323.0
+      ],
+      [
+        18.0,
+        323.0
+      ]
+    ],
+    "text": "ländischen Hochschule nach weiteren zwei",
+    "confidence": 0.636553689635692
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        296.0
+      ],
+      [
+        572.0,
+        296.0
+      ],
+      [
+        572.0,
+        322.0
+      ],
+      [
+        424.0,
+        322.0
+      ]
+    ],
+    "text": "onalen Maßstab",
+    "confidence": 0.9999639976098939
+  },
+  {
+    "bbox": [
+      [
+        588.0,
+        296.0
+      ],
+      [
+        806.0,
+        296.0
+      ],
+      [
+        806.0,
+        327.0
+      ],
+      [
+        588.0,
+        327.0
+      ]
+    ],
+    "text": "über die jeweils angebo-",
+    "confidence": 0.973487369400362
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        318.0
+      ],
+      [
+        807.0,
+        318.0
+      ],
+      [
+        807.0,
+        354.0
+      ],
+      [
+        423.0,
+        354.0
+      ]
+    ],
+    "text": "tenen Leistungen gefördert .Als Zeichen der",
+    "confidence": 0.8893164006959773
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        320.0
+      ],
+      [
+        400.0,
+        320.0
+      ],
+      [
+        400.0,
+        352.0
+      ],
+      [
+        18.0,
+        352.0
+      ]
+    ],
+    "text": "bis vier Semestern einen Master-/Magister-",
+    "confidence": 0.8195445015004842
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        346.0
+      ],
+      [
+        806.0,
+        346.0
+      ],
+      [
+        806.0,
+        378.0
+      ],
+      [
+        423.0,
+        378.0
+      ]
+    ],
+    "text": "positiv bestandenen Qualitätsprüfung tragen",
+    "confidence": 0.8600259473225033
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        348.0
+      ],
+      [
+        258.0,
+        348.0
+      ],
+      [
+        258.0,
+        378.0
+      ],
+      [
+        18.0,
+        378.0
+      ]
+    ],
+    "text": "oder Diplomgrad erwerben.",
+    "confidence": 0.7444239626446394
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        373.0
+      ],
+      [
+        806.0,
+        373.0
+      ],
+      [
+        806.0,
+        405.0
+      ],
+      [
+        424.0,
+        405.0
+      ]
+    ],
+    "text": "die zertifizierten Studiengänge das Gütesie-",
+    "confidence": 0.9820142410500283
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        380.0
+      ],
+      [
+        400.0,
+        380.0
+      ],
+      [
+        400.0,
+        410.0
+      ],
+      [
+        20.0,
+        410.0
+      ]
+    ],
+    "text": "Weitere Kennzeichen dieser neuen eigen-",
+    "confidence": 0.7613164639466007
+  },
+  {
+    "bbox": [
+      [
+        496.0,
+        396.0
+      ],
+      [
+        807.0,
+        396.0
+      ],
+      [
+        807.0,
+        435.0
+      ],
+      [
+        496.0,
+        435.0
+      ]
+    ],
+    "text": "Akkreditierungsrates.  Eine aktuelle",
+    "confidence": 0.8558772684082264
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        402.0
+      ],
+      [
+        401.0,
+        402.0
+      ],
+      [
+        401.0,
+        439.0
+      ],
+      [
+        17.0,
+        439.0
+      ]
+    ],
+    "text": "ständigen Studiengänge sind die Modulari-",
+    "confidence": 0.862285536954658
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        402.0
+      ],
+      [
+        496.0,
+        402.0
+      ],
+      [
+        496.0,
+        430.0
+      ],
+      [
+        424.0,
+        430.0
+      ]
+    ],
+    "text": "gel des",
+    "confidence": 0.9991795858294239
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        428.0
+      ],
+      [
+        806.0,
+        428.0
+      ],
+      [
+        806.0,
+        456.0
+      ],
+      [
+        424.0,
+        456.0
+      ]
+    ],
+    "text": "Liste der akkreditierten Studiengänge findet",
+    "confidence": 0.9800657829819176
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        431.0
+      ],
+      [
+        400.0,
+        431.0
+      ],
+      [
+        400.0,
+        462.0
+      ],
+      [
+        17.0,
+        462.0
+      ]
+    ],
+    "text": "sierung der Lehrinhalte; studienbegleitende",
+    "confidence": 0.6465358120717796
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        452.0
+      ],
+      [
+        806.0,
+        452.0
+      ],
+      [
+        806.0,
+        482.0
+      ],
+      [
+        424.0,
+        482.0
+      ]
+    ],
+    "text": "man auf der Internet-Site des Akkreditie-",
+    "confidence": 0.6739302481220107
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        454.0
+      ],
+      [
+        397.0,
+        454.0
+      ],
+      [
+        397.0,
+        491.0
+      ],
+      [
+        15.0,
+        491.0
+      ]
+    ],
+    "text": "Prüfungen sowie ein Leistungspunktesystem.",
+    "confidence": 0.9658179190211832
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        475.0
+      ],
+      [
+        759.0,
+        475.0
+      ],
+      [
+        759.0,
+        512.0
+      ],
+      [
+        422.0,
+        512.0
+      ]
+    ],
+    "text": "rungsrates wwwakkreditierungsrat.de",
+    "confidence": 0.7361753152309432
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        490.0
+      ],
+      [
+        400.0,
+        490.0
+      ],
+      [
+        400.0,
+        518.0
+      ],
+      [
+        20.0,
+        518.0
+      ]
+    ],
+    "text": "Das Bachelor-Studium konzentriert sich auf",
+    "confidence": 0.8480833301066651
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        518.0
+      ],
+      [
+        400.0,
+        518.0
+      ],
+      [
+        400.0,
+        544.0
+      ],
+      [
+        18.0,
+        544.0
+      ]
+    ],
+    "text": "ein wissenschaftliches Kernfach; wobei eine",
+    "confidence": 0.8308008794296369
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        518.0
+      ],
+      [
+        530.0,
+        518.0
+      ],
+      [
+        530.0,
+        544.0
+      ],
+      [
+        424.0,
+        544.0
+      ]
+    ],
+    "text": "Promotion",
+    "confidence": 0.9986590749897697
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        541.0
+      ],
+      [
+        400.0,
+        541.0
+      ],
+      [
+        400.0,
+        574.0
+      ],
+      [
+        18.0,
+        574.0
+      ]
+    ],
+    "text": "Ergänzung durch die Vermittlung weiterer",
+    "confidence": 0.8670576694929085
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        550.0
+      ],
+      [
+        806.0,
+        550.0
+      ],
+      [
+        806.0,
+        582.0
+      ],
+      [
+        424.0,
+        582.0
+      ]
+    ],
+    "text": "Die Promotion ist mit wenigen Ausnahmen",
+    "confidence": 0.9244783578933552
+  },
+  {
+    "bbox": [
+      [
+        15.0,
+        567.0
+      ],
+      [
+        403.0,
+        567.0
+      ],
+      [
+        403.0,
+        633.0
+      ],
+      [
+        15.0,
+        633.0
+      ]
+    ],
+    "text": "Bussffnstiafeinhögßd acbabevasiender",
+    "confidence": 0.04284852667524535
+  },
+  {
+    "bbox": [
+      [
+        420.0,
+        573.0
+      ],
+      [
+        809.0,
+        573.0
+      ],
+      [
+        809.0,
+        641.0
+      ],
+      [
+        420.0,
+        641.0
+      ]
+    ],
+    "text": "Varaussa znng 6tc 9indew iRegpschactliche",
+    "confidence": 0.029150763230391025
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        624.0
+      ],
+      [
+        400.0,
+        624.0
+      ],
+      [
+        400.0,
+        652.0
+      ],
+      [
+        18.0,
+        652.0
+      ]
+    ],
+    "text": "dium führt zu einem weiteren berufsqualifi -",
+    "confidence": 0.7536447657163355
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        631.0
+      ],
+      [
+        806.0,
+        631.0
+      ],
+      [
+        806.0,
+        658.0
+      ],
+      [
+        424.0,
+        658.0
+      ]
+    ],
+    "text": "anderen Hochschulabschlüsse voraus. Häu-",
+    "confidence": 0.7924359886269953
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        648.0
+      ],
+      [
+        400.0,
+        648.0
+      ],
+      [
+        400.0,
+        678.0
+      ],
+      [
+        18.0,
+        678.0
+      ]
+    ],
+    "text": "zierenden Abschluss , der auch die Berechti-",
+    "confidence": 0.7860279899762476
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        657.0
+      ],
+      [
+        806.0,
+        657.0
+      ],
+      [
+        806.0,
+        690.0
+      ],
+      [
+        424.0,
+        690.0
+      ]
+    ],
+    "text": "fig wird eine Mindestnote verlangt. In ein-",
+    "confidence": 0.5800676505835548
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        676.0
+      ],
+      [
+        401.0,
+        676.0
+      ],
+      [
+        401.0,
+        712.0
+      ],
+      [
+        17.0,
+        712.0
+      ]
+    ],
+    "text": "gung zur Promotion einschließt. Zugangsvor-",
+    "confidence": 0.5988461689659057
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        683.0
+      ],
+      [
+        804.0,
+        683.0
+      ],
+      [
+        804.0,
+        714.0
+      ],
+      [
+        422.0,
+        714.0
+      ]
+    ],
+    "text": "zelnen Fächern ist an manchen Universitäten",
+    "confidence": 0.9933667183281853
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        704.0
+      ],
+      [
+        400.0,
+        704.0
+      ],
+      [
+        400.0,
+        734.0
+      ],
+      [
+        18.0,
+        734.0
+      ]
+    ],
+    "text": "aussetzung für das Master-Studium ist ein",
+    "confidence": 0.6245999188424476
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        712.0
+      ],
+      [
+        804.0,
+        712.0
+      ],
+      [
+        804.0,
+        740.0
+      ],
+      [
+        424.0,
+        740.0
+      ]
+    ],
+    "text": "die Promotion auch als erster berufsqualifi -",
+    "confidence": 0.9168320740260275
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        730.0
+      ],
+      [
+        400.0,
+        730.0
+      ],
+      [
+        400.0,
+        760.0
+      ],
+      [
+        17.0,
+        760.0
+      ]
+    ],
+    "text": "vorhandener berufsqualifizierender Hoch-",
+    "confidence": 0.8958713210506973
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        738.0
+      ],
+      [
+        806.0,
+        738.0
+      ],
+      [
+        806.0,
+        770.0
+      ],
+      [
+        424.0,
+        770.0
+      ]
+    ],
+    "text": "zierender Hochschulabschluss möglich. Fast",
+    "confidence": 0.8261705693185345
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        758.0
+      ],
+      [
+        153.0,
+        758.0
+      ],
+      [
+        153.0,
+        784.0
+      ],
+      [
+        18.0,
+        784.0
+      ]
+    ],
+    "text": "schulabschluss",
+    "confidence": 0.8066163553044454
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        761.0
+      ],
+      [
+        805.0,
+        761.0
+      ],
+      [
+        805.0,
+        797.0
+      ],
+      [
+        423.0,
+        797.0
+      ]
+    ],
+    "text": "alle Universitäten ermöglichen auch be-",
+    "confidence": 0.9619489064014852
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        790.0
+      ],
+      [
+        400.0,
+        790.0
+      ],
+      [
+        400.0,
+        816.0
+      ],
+      [
+        20.0,
+        816.0
+      ]
+    ],
+    "text": "Mit dieser neuen Studienstruktur soll das",
+    "confidence": 0.710952562472234
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        790.0
+      ],
+      [
+        804.0,
+        790.0
+      ],
+      [
+        804.0,
+        820.0
+      ],
+      [
+        424.0,
+        820.0
+      ]
+    ],
+    "text": "sonders begabten Absolventinnen und Absol-",
+    "confidence": 0.877524860992521
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        816.0
+      ],
+      [
+        398.0,
+        816.0
+      ],
+      [
+        398.0,
+        846.0
+      ],
+      [
+        18.0,
+        846.0
+      ]
+    ],
+    "text": "Studienangebot flexibilisiert, die internatio-",
+    "confidence": 0.9294622819423867
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        818.0
+      ],
+      [
+        804.0,
+        818.0
+      ],
+      [
+        804.0,
+        846.0
+      ],
+      [
+        424.0,
+        846.0
+      ]
+    ],
+    "text": "venten von Fachhochschulen die vkooperati -",
+    "confidence": 0.6976424186043276
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        842.0
+      ],
+      [
+        805.0,
+        842.0
+      ],
+      [
+        805.0,
+        878.0
+      ],
+      [
+        423.0,
+        878.0
+      ]
+    ],
+    "text": "ve Promotiono . Entsprechende Eignung vor-",
+    "confidence": 0.3645348184039367
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        844.0
+      ],
+      [
+        398.0,
+        844.0
+      ],
+      [
+        398.0,
+        872.0
+      ],
+      [
+        18.0,
+        872.0
+      ]
+    ],
+    "text": "nale Kompatibilität deutscher Studienab-",
+    "confidence": 0.9600783427550516
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        869.0
+      ],
+      [
+        806.0,
+        869.0
+      ],
+      [
+        806.0,
+        900.0
+      ],
+      [
+        424.0,
+        900.0
+      ]
+    ],
+    "text": "ausgesetzt, kann so mit einem FH-Abschluss",
+    "confidence": 0.9511534128796073
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        870.0
+      ],
+      [
+        402.0,
+        870.0
+      ],
+      [
+        402.0,
+        898.0
+      ],
+      [
+        18.0,
+        898.0
+      ]
+    ],
+    "text": "schlüsse verbessert und somit die Mobilität",
+    "confidence": 0.712818434311436
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        891.0
+      ],
+      [
+        399.0,
+        891.0
+      ],
+      [
+        399.0,
+        928.0
+      ],
+      [
+        17.0,
+        928.0
+      ]
+    ],
+    "text": "der Studierenden und die Nachfrage auslän-",
+    "confidence": 0.6385047868791187
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        896.0
+      ],
+      [
+        804.0,
+        896.0
+      ],
+      [
+        804.0,
+        928.0
+      ],
+      [
+        424.0,
+        928.0
+      ]
+    ],
+    "text": "in der Tasche ohne den Umweg über das uni -",
+    "confidence": 0.8895377453743409
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        922.0
+      ],
+      [
+        400.0,
+        922.0
+      ],
+      [
+        400.0,
+        952.0
+      ],
+      [
+        18.0,
+        952.0
+      ]
+    ],
+    "text": "discher Studierender nach Studienplätzen in",
+    "confidence": 0.9377602076075943
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        924.0
+      ],
+      [
+        804.0,
+        924.0
+      ],
+      [
+        804.0,
+        954.0
+      ],
+      [
+        424.0,
+        954.0
+      ]
+    ],
+    "text": "versitäre Diplom eine Promotion angegangen",
+    "confidence": 0.9748197219887464
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        950.0
+      ],
+      [
+        262.0,
+        950.0
+      ],
+      [
+        262.0,
+        976.0
+      ],
+      [
+        18.0,
+        976.0
+      ]
+    ],
+    "text": "Deutschland erhöht werden.",
+    "confidence": 0.8799993774158364
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        950.0
+      ],
+      [
+        802.0,
+        950.0
+      ],
+      [
+        802.0,
+        979.0
+      ],
+      [
+        423.0,
+        979.0
+      ]
+    ],
+    "text": "werden (siehe hierzu auch Abschnitt 11.2)",
+    "confidence": 0.8905976162707502
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        972.0
+      ],
+      [
+        805.0,
+        972.0
+      ],
+      [
+        805.0,
+        1013.0
+      ],
+      [
+        423.0,
+        1013.0
+      ]
+    ],
+    "text": "Die Anfertigung der Doktorarbeit (Dissertati-",
+    "confidence": 0.9925510786758275
+  },
+  {
+    "bbox": [
+      [
+        20.0,
+        981.0
+      ],
+      [
+        398.0,
+        981.0
+      ],
+      [
+        398.0,
+        1014.0
+      ],
+      [
+        20.0,
+        1014.0
+      ]
+    ],
+    "text": "Neben dem staatlichen Genehmigungsverfah -",
+    "confidence": 0.8258389454024111
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1001.0
+      ],
+      [
+        794.0,
+        1001.0
+      ],
+      [
+        794.0,
+        1034.0
+      ],
+      [
+        424.0,
+        1034.0
+      ]
+    ],
+    "text": "on) beansprucht gewöhnlich mehrere Jahre",
+    "confidence": 0.8815039428629639
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1010.0
+      ],
+      [
+        400.0,
+        1010.0
+      ],
+      [
+        400.0,
+        1042.0
+      ],
+      [
+        18.0,
+        1042.0
+      ]
+    ],
+    "text": "ren besteht die Möglichkeit, Studiengänge",
+    "confidence": 0.7357908570325626
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1029.0
+      ],
+      [
+        804.0,
+        1029.0
+      ],
+      [
+        804.0,
+        1060.0
+      ],
+      [
+        424.0,
+        1060.0
+      ]
+    ],
+    "text": "mit Ausnahme der medizinischen Doktorar-",
+    "confidence": 0.7067638878641833
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1034.0
+      ],
+      [
+        400.0,
+        1034.0
+      ],
+      [
+        400.0,
+        1064.0
+      ],
+      [
+        18.0,
+        1064.0
+      ]
+    ],
+    "text": "mit den Abschlüssen Bachelor /Bakkalaureus",
+    "confidence": 0.9005769709513797
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1056.0
+      ],
+      [
+        806.0,
+        1056.0
+      ],
+      [
+        806.0,
+        1087.0
+      ],
+      [
+        424.0,
+        1087.0
+      ]
+    ],
+    "text": "beit, die in der Regel bereits während des",
+    "confidence": 0.5436598408640111
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1062.0
+      ],
+      [
+        400.0,
+        1062.0
+      ],
+      [
+        400.0,
+        1092.0
+      ],
+      [
+        18.0,
+        1092.0
+      ]
+    ],
+    "text": "und Master /Magister in einem neuartigen",
+    "confidence": 0.7041387038095446
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1081.0
+      ],
+      [
+        807.0,
+        1081.0
+      ],
+      [
+        807.0,
+        1117.0
+      ],
+      [
+        423.0,
+        1117.0
+      ]
+    ],
+    "text": "Studiums fertig gestellt werden kann:. Die",
+    "confidence": 0.6720186118379677
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1087.0
+      ],
+      [
+        402.0,
+        1087.0
+      ],
+      [
+        402.0,
+        1120.0
+      ],
+      [
+        18.0,
+        1120.0
+      ]
+    ],
+    "text": "Begutachtungsverfahren (vAkkreditierunge)",
+    "confidence": 0.6198849499025534
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1109.0
+      ],
+      [
+        804.0,
+        1109.0
+      ],
+      [
+        804.0,
+        1140.0
+      ],
+      [
+        424.0,
+        1140.0
+      ]
+    ],
+    "text": "Dissertation soll eine eigene wissenschaftli -",
+    "confidence": 0.806250116963357
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1115.0
+      ],
+      [
+        398.0,
+        1115.0
+      ],
+      [
+        398.0,
+        1146.0
+      ],
+      [
+        18.0,
+        1146.0
+      ]
+    ],
+    "text": "unter der Beteiligung von Vertretern der Hoch -",
+    "confidence": 0.6702992222778397
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1136.0
+      ],
+      [
+        806.0,
+        1136.0
+      ],
+      [
+        806.0,
+        1168.0
+      ],
+      [
+        424.0,
+        1168.0
+      ]
+    ],
+    "text": "che Leistung mit wesentlichen neuen Ergeb-",
+    "confidence": 0.8857797136038278
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1140.0
+      ],
+      [
+        398.0,
+        1140.0
+      ],
+      [
+        398.0,
+        1173.0
+      ],
+      [
+        17.0,
+        1173.0
+      ]
+    ],
+    "text": "schulen, der Studierenden und der Berufspra-",
+    "confidence": 0.6639737889850565
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1163.0
+      ],
+      [
+        803.0,
+        1163.0
+      ],
+      [
+        803.0,
+        1190.0
+      ],
+      [
+        424.0,
+        1190.0
+      ]
+    ],
+    "text": "nissen sein. Nach Annahme der Dissertation",
+    "confidence": 0.6986758254826919
+  },
+  {
+    "bbox": [
+      [
+        17.0,
+        1166.0
+      ],
+      [
+        399.0,
+        1166.0
+      ],
+      [
+        399.0,
+        1202.0
+      ],
+      [
+        17.0,
+        1202.0
+      ]
+    ],
+    "text": "xis sowie der Länder von Akkreditierungsa -",
+    "confidence": 0.6540482878374737
+  },
+  {
+    "bbox": [
+      [
+        424.0,
+        1187.0
+      ],
+      [
+        806.0,
+        1187.0
+      ],
+      [
+        806.0,
+        1220.0
+      ],
+      [
+        424.0,
+        1220.0
+      ]
+    ],
+    "text": "findet eine mündliche Prüfung in Form einer",
+    "confidence": 0.8324399230738259
+  },
+  {
+    "bbox": [
+      [
+        16.0,
+        1195.0
+      ],
+      [
+        398.0,
+        1195.0
+      ],
+      [
+        398.0,
+        1226.0
+      ],
+      [
+        16.0,
+        1226.0
+      ]
+    ],
+    "text": "genturen auf ihre Qualität hin überprüfen zu",
+    "confidence": 0.836678501508958
+  },
+  {
+    "bbox": [
+      [
+        423.0,
+        1215.0
+      ],
+      [
+        806.0,
+        1215.0
+      ],
+      [
+        806.0,
+        1248.0
+      ],
+      [
+        423.0,
+        1248.0
+      ]
+    ],
+    "text": "Disputation statt . Eine Übersicht über Promo -",
+    "confidence": 0.6119038851634653
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1222.0
+      ],
+      [
+        398.0,
+        1222.0
+      ],
+      [
+        398.0,
+        1250.0
+      ],
+      [
+        18.0,
+        1250.0
+      ]
+    ],
+    "text": "lassen. Zu diesem Zweck wurde durch Be-",
+    "confidence": 0.8309876152138246
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        1244.0
+      ],
+      [
+        808.0,
+        1244.0
+      ],
+      [
+        808.0,
+        1274.0
+      ],
+      [
+        422.0,
+        1274.0
+      ]
+    ],
+    "text": "tionsmöglichkeiten in Deutschland finden Sie",
+    "confidence": 0.776225679950686
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1250.0
+      ],
+      [
+        400.0,
+        1250.0
+      ],
+      [
+        400.0,
+        1278.0
+      ],
+      [
+        18.0,
+        1278.0
+      ]
+    ],
+    "text": "schlüsse der Kultusministerkonferenz (KMK)",
+    "confidence": 0.9952876443124036
+  },
+  {
+    "bbox": [
+      [
+        479.0,
+        1268.0
+      ],
+      [
+        716.0,
+        1268.0
+      ],
+      [
+        716.0,
+        1300.0
+      ],
+      [
+        479.0,
+        1300.0
+      ]
+    ],
+    "text": "HRK-Hochschulkompass",
+    "confidence": 0.7039987969866451
+  },
+  {
+    "bbox": [
+      [
+        422.0,
+        1272.0
+      ],
+      [
+        452.0,
+        1272.0
+      ],
+      [
+        452.0,
+        1298.0
+      ],
+      [
+        422.0,
+        1298.0
+      ]
+    ],
+    "text": "im",
+    "confidence": 0.9994088994842444
+  },
+  {
+    "bbox": [
+      [
+        742.0,
+        1274.0
+      ],
+      [
+        806.0,
+        1274.0
+      ],
+      [
+        806.0,
+        1298.0
+      ],
+      [
+        742.0,
+        1298.0
+      ]
+    ],
+    "text": "(www",
+    "confidence": 0.9967202544212341
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1276.0
+      ],
+      [
+        402.0,
+        1276.0
+      ],
+      [
+        402.0,
+        1306.0
+      ],
+      [
+        18.0,
+        1306.0
+      ]
+    ],
+    "text": "und der Hochschulrektorenkonferenz (HRK)",
+    "confidence": 0.6914312636219478
+  },
+  {
+    "bbox": [
+      [
+        426.0,
+        1294.0
+      ],
+      [
+        623.0,
+        1294.0
+      ],
+      [
+        623.0,
+        1330.0
+      ],
+      [
+        426.0,
+        1330.0
+      ]
+    ],
+    "text": "hochschulkompass de",
+    "confidence": 0.9240016697772069
+  },
+  {
+    "bbox": [
+      [
+        630.0,
+        1297.0
+      ],
+      [
+        800.0,
+        1297.0
+      ],
+      [
+        800.0,
+        1327.0
+      ],
+      [
+        630.0,
+        1327.0
+      ]
+    ],
+    "text": "Bereich Promotion)",
+    "confidence": 0.8956023251451248
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1302.0
+      ],
+      [
+        398.0,
+        1302.0
+      ],
+      [
+        398.0,
+        1335.0
+      ],
+      [
+        18.0,
+        1335.0
+      ]
+    ],
+    "text": "der Akkreditierungsrat eingerichtet. Er koor-",
+    "confidence": 0.714025777075912
+  },
+  {
+    "bbox": [
+      [
+        18.0,
+        1328.0
+      ],
+      [
+        398.0,
+        1328.0
+      ],
+      [
+        398.0,
+        1359.0
+      ],
+      [
+        18.0,
+        1359.0
+      ]
+    ],
+    "text": "diniert den Ablauf der fachlich-inhaltlichen",
+    "confidence": 0.7949692343689593
+  }
+]
