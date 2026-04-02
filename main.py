@@ -20,6 +20,7 @@ def main():
     # Allow overriding some config parameters
     parser.add_argument("--top-crop", type=int, help="Default top crop")
     parser.add_argument("--bottom-crop", type=int, help="Default bottom crop")
+    parser.add_argument("--crop", choices=["auto", "dynamic"], help="Cropping mode (default: auto, or cached value if available)")
     
     args = parser.parse_args()
 
@@ -33,13 +34,16 @@ def main():
         config.top_crop_default = args.top_crop
     if args.bottom_crop is not None:
         config.bottom_crop_default = args.bottom_crop
+    if args.crop is not None:
+        config.crop_mode = args.crop
 
     print(f"Initializing pipeline for {args.pdf_file}...")
     pipeline = ExtractionPipeline(args.pdf_file, config)
 
     # 1. Apply Initial Crops
     print("Computing and applying crops...")
-    pipeline.apply_initial_crops()
+    force_recompute_crop = (args.crop is not None)
+    pipeline.apply_initial_crops(force_recompute=force_recompute_crop)
 
     # 2. Process Tables (Detect boundaries)
     print("Detecting tables...")
@@ -62,9 +66,18 @@ def main():
     
     # Clean output directory to avoid stale CSV files
     if os.path.exists(dataframes_dir):
-        print(f"Overwriting dataframes directory: {dataframes_dir}")
-        shutil.rmtree(dataframes_dir)
-    os.makedirs(dataframes_dir, exist_ok=True)
+        print(f"Cleaning stale CSV files in: {dataframes_dir}")
+        for filename in os.listdir(dataframes_dir):
+            file_path = os.path.join(dataframes_dir, filename)
+            try:
+                if os.path.isfile(file_path) or os.path.islink(file_path):
+                    os.unlink(file_path)
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path)
+            except Exception as e:
+                print(f"Warning: Failed to delete {file_path}. Reason: {e}")
+    else:
+        os.makedirs(dataframes_dir, exist_ok=True)
 
     dataframes = []
     print(f"\nExtracting {len(all_tables)} tables...")

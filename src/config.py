@@ -12,6 +12,7 @@ class ExtractionConfig:
     debug_visualization: bool = False
     
     # --- Crop Hyperparameters ---
+    crop_mode: str = "auto" # "auto" or "dynamic"
     top_crop_default: int = 70
     bottom_crop_default: int = 70
     left_crop_default: int = 126
