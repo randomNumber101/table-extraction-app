@@ -125,6 +125,11 @@ def find_table_end(pipeline, start_page_idx, y_start):
     page_idx = start_page_idx
     column_divider_line_x = config.column_divider_line_x + 1
 
+    def y_top(bbox):
+        return bbox[0][1]
+
+    # table_end_keywords = tuple(["Regelstu", "Studi", "Prakt"])
+
     while page_idx < len(pipeline.pages):
         page = pipeline.pages[page_idx]
         img_np = page.get_processed_np()
@@ -140,11 +145,15 @@ def find_table_end(pipeline, start_page_idx, y_start):
             _, _, _, (x_tl, y_tl) = entry["bbox"]
             if page_idx == start_page_idx and y_tl < y_start:
                 continue
-
+            
             # Regelstudienzeit marks the end of a table if it exists
-            if entry["text"].lower().startswith("regelstudienzeit"):
-                # Table should end just above this text box
-                return page_idx, entry["bbox"][0][1] - 10
+            if x_tl <= column_divider_line_x / 4.0:
+                if entry["text"].startswith("Regelstudi"):
+                    return page_idx, entry["bbox"][0][1] - 5
+                if entry["text"].startswith("Prakti"):
+                    return page_idx, entry["bbox"][0][1] - 5
+
+            
 
             # Default to finding gaps if no Regelstudienzeit present.
             if abs(x_tl - column_divider_line_x) < config.column_divider_divergence:
@@ -153,34 +162,56 @@ def find_table_end(pipeline, start_page_idx, y_start):
         aligned_entries.sort(key=lambda t: t[0])
         aligned_ys = [y for y, _ in aligned_entries]
 
-        if page_idx == start_page_idx:
-            y_coords = [y_start] + aligned_ys
-        else:
-            y_coords = [0] + aligned_ys
+        # Check if the table continued to this page but has no entries or starts with a huge gap
+        if page_idx > start_page_idx:
+            if not aligned_ys:
+                # No entries on this page that align. Table ended on previous page.
+                page_prev = pipeline.pages[page_idx - 1]
+                return page_idx - 1, page_prev.get_processed_np().shape[0]
+            
+            # If the first entry on the new page is too far down, it's likely a new section, not a continuation.
+            # We use page_end_spacing_limit (150) instead of line_spacing_limit (90) for this.
+            if aligned_ys[0] > config.page_end_spacing_limit:
+                page_prev = pipeline.pages[page_idx - 1]
+                return page_idx - 1, page_prev.get_processed_np().shape[0]
 
-        # Table ended on last page
-        if page_idx > start_page_idx and (len(y_coords) == 1 or (y_coords[0] == 0 and y_coords[1] > config.line_spacing_limit)):
-            page_prev = pipeline.pages[page_idx - 1]
-            h_prev = page_prev.get_processed_np().shape[0]
-            return page_idx - 1, h_prev
-
-        for i in range(2, len(y_coords)):
-            if (y_coords[i] - y_coords[i - 1]) > config.line_spacing_limit:
-                return page_idx, y_coords[i - 1]
+        # Check for internal gaps on the current page
+        for i in range(1, len(aligned_ys)):
+            if (aligned_ys[i] - aligned_ys[i - 1]) > config.line_spacing_limit:
+                return page_idx, aligned_ys[i - 1]
 
         # Check if the table ends on this page
-        if len(y_coords) > 1:
-            last_y = y_coords[-1]
+        if len(aligned_ys) > 0:
+            last_y = aligned_ys[-1]
             if last_y > (h * 4 / 5):
-                # Only if in bottom 4/5th: check if there are other text boxes below last_y + 25
-                any_below = False
-                for entry in ocr_entries:
-                    if y_top(entry["bbox"]) > last_y + 25:
-                        any_below = True
-                        break
-                if any_below:
+                # We are near the bottom. Check if it continues on the NEXT page.
+                continues = False
+                if page_idx + 1 < len(pipeline.pages):
+                    next_ocr = pipeline.get_ocr(page_idx + 1)
+                    next_h = pipeline.pages[page_idx + 1].get_processed_np().shape[0]
+                    for entry in next_ocr:
+                        _, _, _, (nx_tl, ny_tl) = entry["bbox"]
+                        # If there is ANY aligned entry in the top 1/3 of the next page, it continues.
+                        if ny_tl < (next_h / 3) and abs(nx_tl - column_divider_line_x) < config.column_divider_divergence:
+                            continues = True
+                            break
+                
+                if not continues:
+                    # Doesn't seem to continue on next page. 
+                    # Check if there is significant other content below on the CURRENT page.
+                    any_below = False
+                    for entry in ocr_entries:
+                        if y_top(entry["bbox"]) > last_y + 40: # Increased noise threshold
+                            any_below = True
+                            break
+                    if any_below:
+                        return page_idx, last_y
+                    
+                    # No content below and no lookahead continuation. 
+                    # It ends here (could be end of doc).
                     return page_idx, last_y
-                # If no content below, we assume it continues to the next page
+                
+                # If it continues, we just fall through to the page_idx += 1 and continue the loop.
             else:
                 # Table ended mid-page (above 4/5th), so it definitely ends here
                 return page_idx, last_y

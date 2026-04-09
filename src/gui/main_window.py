@@ -8,13 +8,13 @@ from PyQt5.QtWidgets import (
     QGraphicsPixmapItem, QMessageBox, QSpinBox, QLineEdit, QShortcut
 )
 from PyQt5.QtCore import Qt, QRectF, QPointF, QTimer
-from PyQt5.QtGui import QPixmap, QImage, QPen, QColor, QPainter, QKeySequence
+from PyQt5.QtGui import QPixmap, QImage, QPen, QColor, QPainter, QKeySequence, QCursor
 import numpy as np
 
 from src.models import TablePageBounds, DetectedTable
 
 class DraggableLine(QGraphicsLineItem):
-    def __init__(self, x1, y1, x2, y2, orientation, page_width, page_height, callback, boundary_callback=None, line_type=None, is_modified=False):
+    def __init__(self, x1, y1, x2, y2, orientation, page_width, page_height, callback, boundary_callback=None, line_type=None, is_modified=False, table=None):
         super().__init__(x1, y1, x2, y2)
         self.orientation = orientation
         self.callback = callback
@@ -23,6 +23,8 @@ class DraggableLine(QGraphicsLineItem):
         self.page_width = page_width
         self.page_height = page_height
         self.is_modified = is_modified
+        self.table = table
+        self.is_being_dragged = False
         
         self.setFlag(QGraphicsLineItem.ItemIsSelectable, True)
         self.setFlag(QGraphicsLineItem.ItemIsMovable, True)
@@ -79,7 +81,13 @@ class DraggableLine(QGraphicsLineItem):
             self.callback(current_val)
         return super().itemChange(change, value)
 
+    def mousePressEvent(self, event):
+        if event.button() == Qt.LeftButton:
+            self.is_being_dragged = True
+        super().mousePressEvent(event)
+
     def mouseReleaseEvent(self, event):
+        self.is_being_dragged = False
         super().mouseReleaseEvent(event)
         if self.orientation == 'horizontal' and self.boundary_callback:
             y = self.line().y1() + self.pos().y()
@@ -125,19 +133,19 @@ class InteractivePageView(QGraphicsView):
         line = DraggableLine(0, y_pos, self.img_w, y_pos, 'horizontal', self.img_w, self.img_h, 
                              lambda y, t=table: callback(y, t), 
                              lambda ltype, direction, t=table: boundary_callback(ltype, direction, t), 
-                             'start', is_modified)
+                             'start', is_modified, table=table)
         self.scene.addItem(line); self.start_lines[table] = line
 
     def add_end_line(self, table, y_pos, callback, boundary_callback, is_modified):
         line = DraggableLine(0, y_pos, self.img_w, y_pos, 'horizontal', self.img_w, self.img_h, 
                              lambda y, t=table: callback(y, t), 
                              lambda ltype, direction, t=table: boundary_callback(ltype, direction, t), 
-                             'end', is_modified)
+                             'end', is_modified, table=table)
         self.scene.addItem(line); self.end_lines[table] = line
         
     def add_divider_line(self, table, x_pos, callback, is_modified):
         line = DraggableLine(x_pos, 0, x_pos, self.img_h, 'vertical', self.img_w, self.img_h, 
-                             lambda x, t=table: callback(x, t), line_type='divider', is_modified=is_modified)
+                             lambda x, t=table: callback(x, t), line_type='divider', is_modified=is_modified, table=table)
         self.scene.addItem(line); self.divider_lines[table] = line
 
     def add_static_divider(self, x_pos):
@@ -152,6 +160,15 @@ class InteractivePageView(QGraphicsView):
 
     def _handle_selector_changed(self, y):
         if self.on_selector_changed: self.on_selector_changed(y)
+
+    def mousePressEvent(self, event):
+        if event.button() == Qt.RightButton:
+            scene_pos = self.mapToScene(event.pos())
+            y = scene_pos.y()
+            if 0 <= y <= self.img_h and self.selector_line:
+                self.selector_line.setPos(0, y - self.selector_line.line().y1())
+                self._handle_selector_changed(y)
+        super().mousePressEvent(event)
             
     def wheelEvent(self, event):
         if event.modifiers() & Qt.ControlModifier:
@@ -175,6 +192,7 @@ class TableExtractionApp(QMainWindow):
         self.current_page_idx, self.num_pages = 0, len(pipeline.pages)
         self.default_divider_x, self.selector_y = pipeline.config.divider_x, 100
         self.submitted = False
+        self.active_drag_info = None
         self.init_ui()
         self.load_page(0)
 
@@ -191,6 +209,9 @@ class TableExtractionApp(QMainWindow):
         nav_layout.addWidget(btn_prev); nav_layout.addWidget(btn_next); control_layout.addLayout(nav_layout)
         QShortcut(QKeySequence("A"), self, self.prev_page); QShortcut(QKeySequence("D"), self, self.next_page)
         QShortcut(QKeySequence("W"), self, self.prev_table); QShortcut(QKeySequence("S"), self, self.next_table)
+        QShortcut(QKeySequence("R"), self, self.snap_nearest_end_to_selector)
+        QShortcut(QKeySequence("Space"), self, self.add_table_at_selector)
+        QShortcut(QKeySequence("Ctrl+S"), self, self.save_to_cache)
         jump_layout = QHBoxLayout(); jump_layout.addWidget(QLabel("Go to Page:"))
         self.txt_jump = QLineEdit(); self.txt_jump.setPlaceholderText("Page #"); self.txt_jump.returnPressed.connect(self.jump_to_page)
         btn_jump = QPushButton("Go"); btn_jump.clicked.connect(self.jump_to_page)
@@ -205,19 +226,47 @@ class TableExtractionApp(QMainWindow):
         self.spin_divider = QSpinBox(); self.spin_divider.setRange(0, 3000); self.spin_divider.setValue(int(self.default_divider_x))
         self.spin_divider.valueChanged.connect(self.update_global_divider); control_layout.addWidget(self.spin_divider)
         control_layout.addSpacing(20); control_layout.addWidget(QLabel("Table Actions:"))
-        btn_add_at_selector = QPushButton("Add New Table At Selector")
+        btn_add_at_selector = QPushButton("Add New Table At Selector (Space)")
         btn_add_at_selector.setStyleSheet("background-color: #2196F3; color: white; padding: 5px; font-weight: bold;")
         btn_add_at_selector.clicked.connect(self.add_table_at_selector); control_layout.addWidget(btn_add_at_selector)
         btn_clear = QPushButton("Clear Tables from Page"); btn_clear.clicked.connect(self.clear_page_tables); control_layout.addWidget(btn_clear)
         btn_reset_page = QPushButton("Reset Changes on Page"); btn_reset_page.clicked.connect(self.reset_page_changes); control_layout.addWidget(btn_reset_page)
         control_layout.addSpacing(20); control_layout.addWidget(QLabel("Cache Actions:"))
-        cache_layout = QHBoxLayout(); btn_save_cache = QPushButton("Save Changes"); btn_save_cache.clicked.connect(self.save_to_cache)
+        cache_layout = QHBoxLayout(); btn_save_cache = QPushButton("Save Changes (Ctrl+S)"); btn_save_cache.clicked.connect(self.save_to_cache)
         btn_restore_cache = QPushButton("Restore from Cache"); btn_restore_cache.clicked.connect(self.restore_from_cache)
         cache_layout.addWidget(btn_save_cache); cache_layout.addWidget(btn_restore_cache); control_layout.addLayout(cache_layout)
         control_layout.addStretch()
         btn_submit = QPushButton("Submit & Extract")
         btn_submit.setStyleSheet("background-color: #4CAF50; color: white; padding: 10px; font-weight: bold;")
         btn_submit.clicked.connect(self.submit); control_layout.addWidget(btn_submit)
+
+    def _capture_drag_state(self):
+        grabber = self.view.scene.mouseGrabberItem()
+        if isinstance(grabber, DraggableLine) and grabber.is_being_dragged:
+            self.active_drag_info = (grabber.line_type, grabber.table)
+        else:
+            self.active_drag_info = None
+
+    def _restore_drag_state(self):
+        if self.active_drag_info:
+            line_type, table = self.active_drag_info
+            target_line = None
+            if line_type == 'start': target_line = self.view.start_lines.get(table)
+            elif line_type == 'end': target_line = self.view.end_lines.get(table)
+            elif line_type == 'divider': target_line = self.view.divider_lines.get(table)
+            elif line_type == 'selector': target_line = self.view.selector_line
+            
+            if target_line:
+                # Snap it to mouse position immediately
+                view_pos = self.view.mapFromGlobal(QCursor.pos())
+                scene_pos = self.view.mapToScene(view_pos)
+                if target_line.orientation == 'horizontal':
+                    target_line.setPos(0, scene_pos.y() - target_line.line().y1())
+                else:
+                    target_line.setPos(scene_pos.x() - target_line.line().x1(), 0)
+                
+                target_line.is_being_dragged = True
+                target_line.grabMouse()
 
     def load_page(self, page_idx):
         if page_idx < 0 or page_idx >= self.num_pages: return
@@ -236,6 +285,7 @@ class TableExtractionApp(QMainWindow):
                 self.view.add_end_line(table, table.end_y_pos, self.update_end, self.handle_boundary, 'end_y_pos' in table.modified_properties)
             div_x = bounds.divider_x if bounds.divider_x is not None else self.default_divider_x
             self.view.add_divider_line(table, div_x, self.update_divider, 'divider_x' in bounds.modified_properties)
+        self._restore_drag_state()
 
     def update_table_indicator(self):
         curr = 0
@@ -249,7 +299,10 @@ class TableExtractionApp(QMainWindow):
     def jump_to_page(self):
         try:
             p = int(self.txt_jump.text()) - 1
-            if 0 <= p < self.num_pages: self.load_page(p); self.txt_jump.clear()
+            if 0 <= p < self.num_pages:
+                self._capture_drag_state()
+                self.load_page(p)
+                self.txt_jump.clear()
             else: QMessageBox.warning(self, "Invalid Page", f"Between 1 and {self.num_pages}")
         except: pass
 
@@ -306,18 +359,58 @@ class TableExtractionApp(QMainWindow):
                 # Scroll to top of the new page
                 QTimer.singleShot(10, lambda: self.view.verticalScrollBar().setValue(self.view.verticalScrollBar().minimum()))
 
-    def prev_page(self): self.load_page(self.current_page_idx - 1)
-    def next_page(self): self.load_page(self.current_page_idx + 1)
+    def snap_nearest_end_to_selector(self):
+        best_table = None
+        best_pos = (-1, -1)
+        
+        for t in self.detected_tables:
+            if t.end_page_idx is None: continue
+            
+            # End line is "above" selector if on previous page OR same page and smaller Y
+            is_above = (t.end_page_idx < self.current_page_idx) or \
+                       (t.end_page_idx == self.current_page_idx and t.end_y_pos < self.selector_y)
+            
+            if is_above:
+                # We want the one nearest to current (largest end_page_idx, then largest end_y_pos)
+                if (t.end_page_idx > best_pos[0]) or \
+                   (t.end_page_idx == best_pos[0] and t.end_y_pos > best_pos[1]):
+                    best_table = t
+                    best_pos = (t.end_page_idx, t.end_y_pos)
+        
+        if best_table:
+            # Clear old bound if it exists
+            if best_table.end_page_idx in best_table.page_bounds:
+                best_table.page_bounds[best_table.end_page_idx].y_end = None
+            
+            best_table.end_page_idx = self.current_page_idx
+            best_table.end_y_pos = self.selector_y
+            best_table.get_bounds(self.current_page_idx).y_end = self.selector_y
+            best_table.modified_properties.add('end_y_pos')
+            self.load_page(self.current_page_idx)
+
+    def prev_page(self):
+        self._capture_drag_state()
+        self.load_page(self.current_page_idx - 1)
+
+    def next_page(self):
+        self._capture_drag_state()
+        self.load_page(self.current_page_idx + 1)
+
     def prev_table(self):
         tp = -1
         for i in range(len(self.detected_tables)-1, -1, -1):
             if self.detected_tables[i].start_page_idx < self.current_page_idx: tp = self.detected_tables[i].start_page_idx; break
-        if tp >= 0: self.load_page(tp)
+        if tp >= 0:
+            self._capture_drag_state()
+            self.load_page(tp)
+
     def next_table(self):
         tp = -1
         for t in self.detected_tables:
             if t.start_page_idx > self.current_page_idx: tp = t.start_page_idx; break
-        if tp >= 0: self.load_page(tp)
+        if tp >= 0:
+            self._capture_drag_state()
+            self.load_page(tp)
 
     def add_table_at_selector(self):
         from src.table_detection import find_table_end

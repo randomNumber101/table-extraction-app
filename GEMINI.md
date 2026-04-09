@@ -20,11 +20,13 @@ Tables are detected using heuristic-based scanning of OCR text:
 - **End Detection**: Identifies the end of a table based on:
     - Keywords like "regelstudienzeit".
     - Large vertical gaps between lines (`config.line_spacing_limit`).
-    - **Content-based page-end logic**:
+    - **Enhanced Page-End Lookahead Logic**:
         - If the last row is in the top 4/5th of the page, the table ends at that row.
         - If the last row is in the bottom 1/5th:
-            - The table ends if there is *other* content (any OCR text box) at least 25 pixels below it.
-            - Otherwise, it is assumed to continue onto the next page.
+            - The system checks the **next page** for continuation. If any aligned entry exists in the top 1/3rd of the next page, the table is assumed to continue.
+            - If it does not continue on the next page, it ends if there is *other* content (any OCR text box) at least 40 pixels below it.
+            - Otherwise, it is assumed to continue or end based on lookahead results.
+        - **Lenient Page Boundary Gaps**: When a table continues to a new page, the first entry's vertical gap is allowed to be up to `config.page_end_spacing_limit` (150px) to accommodate headers, instead of the stricter `config.line_spacing_limit` (90px).
 
 ## 3. Core Extraction Algorithm (`src/table_extraction.py`)
 Once a table area is defined, the extraction follows these steps:
